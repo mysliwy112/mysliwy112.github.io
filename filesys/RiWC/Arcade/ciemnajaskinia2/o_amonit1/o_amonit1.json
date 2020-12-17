@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "300-260-600": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "o_amonit1_0.png",
+                    "name": "AMONIT1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "o_amonit1_0.png",
+                    "name": "AMONIT1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "o_amonit1_0.png": {
+            "compression": 3,
+            "name": "AMONIT1",
+            "position_x": 258,
+            "position_y": 254
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "STAND": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "slupki_0.png",
+                    "name": "SLUPEK",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "slupki_1.png",
+                    "name": "SLUPEK",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "slupki_0.png": {
+            "compression": 4,
+            "name": "SLUPEK",
+            "position_x": 196,
+            "position_y": 93
+        },
+        "slupki_1.png": {
+            "compression": 4,
+            "name": "SLUPEK",
+            "position_x": 4596,
+            "position_y": 88
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "322-522-510": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "o_lom_0.png",
+                    "name": "LOM",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "o_lom_0.png",
+                    "name": "LOM",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "o_lom_0.png": {
+            "compression": 3,
+            "name": "LOM",
+            "position_x": 256,
+            "position_y": 512
+        }
+    },
+    "transparency": 255
+}

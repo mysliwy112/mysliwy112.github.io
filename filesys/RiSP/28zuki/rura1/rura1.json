@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        16,
+                        51,
+                        78
+                    ],
+                    "filename": "rura1_0.png",
+                    "name": "RURA10",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        16,
+                        51,
+                        78
+                    ],
+                    "filename": "rura1_1.png",
+                    "name": "RURA11",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "rura1_0.png": {
+            "compression": 4,
+            "name": "RURA10",
+            "position_x": 289,
+            "position_y": 220
+        },
+        "rura1_1.png": {
+            "compression": 4,
+            "name": "RURA11",
+            "position_x": 300,
+            "position_y": 219
+        }
+    },
+    "transparency": 255
+}

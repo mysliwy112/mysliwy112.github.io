@@ -1,0 +1,46 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "idle": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "nakladki_0.png",
+                    "name": "nakladka",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "nakladki_1.png",
+                    "name": "Layer_1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "nakladki_0.png": {
+            "compression": 3,
+            "name": "nakladka",
+            "position_y": 546
+        },
+        "nakladki_1.png": {
+            "compression": 3,
+            "name": "Layer_1"
+        }
+    },
+    "transparency": 255
+}

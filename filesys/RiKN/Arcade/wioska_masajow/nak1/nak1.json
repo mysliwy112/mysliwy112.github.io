@@ -1,0 +1,53 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "drzewo": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "nak1_0.png",
+                    "name": "nak_1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "palisada": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "nak1_1.png",
+                    "name": "chata_i_plotek_kopia",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "nak1_0.png": {
+            "compression": 3,
+            "name": "nak_1",
+            "position_x": 320
+        },
+        "nak1_1.png": {
+            "compression": 3,
+            "name": "chata_i_plotek_kopi",
+            "position_y": 432
+        }
+    },
+    "transparency": 255
+}

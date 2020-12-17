@@ -1,0 +1,99 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "item_l2_0.png",
+                    "name": "LAYER_3_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "item_l2_0.png",
+                    "name": "LAYER_3_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "item_l2_1.png",
+                    "name": "LAYER_3_COPY_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "item_l2_1.png",
+                    "name": "LAYER_3_COPY_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "item_l2_2.png",
+                    "name": "LAYER_3_COPY_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "item_l2_2.png",
+                    "name": "LAYER_3_COPY_3",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 5,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "item_l2_0.png": {
+            "compression": 4,
+            "name": "LAYER_3_COPY",
+            "position_x": 622,
+            "position_y": 424
+        },
+        "item_l2_1.png": {
+            "compression": 4,
+            "name": "LAYER_3_COPY_2",
+            "position_x": 620,
+            "position_y": 425
+        },
+        "item_l2_2.png": {
+            "compression": 4,
+            "name": "LAYER_3_COPY_3",
+            "position_x": 622,
+            "position_y": 423
+        }
+    },
+    "transparency": 255
+}

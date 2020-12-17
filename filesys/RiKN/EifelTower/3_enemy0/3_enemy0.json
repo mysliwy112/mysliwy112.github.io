@@ -1,0 +1,626 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "L": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_0.png",
+                    "name": "1",
+                    "position_x": -37,
+                    "position_y": -75
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_6.png",
+                    "name": "2",
+                    "position_x": -37,
+                    "position_y": -75
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_8.png",
+                    "name": "3",
+                    "position_x": -37,
+                    "position_y": -75
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_12.png",
+                    "name": "4",
+                    "position_x": -37,
+                    "position_y": -75
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_14.png",
+                    "name": "5",
+                    "position_x": -37,
+                    "position_y": -75
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_1.png",
+                    "name": "wsys",
+                    "position_x": -37,
+                    "position_y": -75
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_14.png",
+                    "name": "5",
+                    "position_x": -37,
+                    "position_y": -75
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_12.png",
+                    "name": "4",
+                    "position_x": -37,
+                    "position_y": -75
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_8.png",
+                    "name": "3",
+                    "position_x": -37,
+                    "position_y": -75
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_6.png",
+                    "name": "2",
+                    "position_x": -37,
+                    "position_y": -75
+                }
+            ],
+            "loop": 9,
+            "transparency": 255
+        },
+        "L_gada": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_2.png",
+                    "name": "1",
+                    "position_x": -37,
+                    "position_y": -75
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_2.png",
+                    "name": "1",
+                    "position_x": -37,
+                    "position_y": -75
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_9.png",
+                    "name": "2",
+                    "position_x": -37,
+                    "position_y": -75
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_9.png",
+                    "name": "2",
+                    "position_x": -37,
+                    "position_y": -75
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_15.png",
+                    "name": "3",
+                    "position_x": -37,
+                    "position_y": -75
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_15.png",
+                    "name": "3",
+                    "position_x": -37,
+                    "position_y": -75
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_18.png",
+                    "name": "4",
+                    "position_x": -37,
+                    "position_y": -75
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_18.png",
+                    "name": "4",
+                    "position_x": -37,
+                    "position_y": -75
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_1.png",
+                    "name": "wsys_end",
+                    "position_x": -37,
+                    "position_y": -75
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "L_idle": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_1.png",
+                    "name": "wsys",
+                    "position_x": -37,
+                    "position_y": -75
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_1.png",
+                    "name": "wsys",
+                    "position_x": -37,
+                    "position_y": -75
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "R": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_3.png",
+                    "name": "1_kopia",
+                    "position_x": -37,
+                    "position_y": -75
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_7.png",
+                    "name": "2_kopia",
+                    "position_x": -37,
+                    "position_y": -75
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_10.png",
+                    "name": "3_kopia",
+                    "position_x": -37,
+                    "position_y": -75
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_13.png",
+                    "name": "4_kopia",
+                    "position_x": -37,
+                    "position_y": -75
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_16.png",
+                    "name": "5_kopia",
+                    "position_x": -37,
+                    "position_y": -75
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_4.png",
+                    "name": "wsys_kopia",
+                    "position_x": -37,
+                    "position_y": -75
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_16.png",
+                    "name": "5_kopia",
+                    "position_x": -37,
+                    "position_y": -75
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_13.png",
+                    "name": "4_kopia",
+                    "position_x": -37,
+                    "position_y": -75
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_10.png",
+                    "name": "3_kopia",
+                    "position_x": -37,
+                    "position_y": -75
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_7.png",
+                    "name": "2_kopia",
+                    "position_x": -37,
+                    "position_y": -75
+                }
+            ],
+            "loop": 9,
+            "transparency": 255
+        },
+        "R_gada": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_5.png",
+                    "name": "1",
+                    "position_x": -37,
+                    "position_y": -75
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_5.png",
+                    "name": "1",
+                    "position_x": -37,
+                    "position_y": -75
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_11.png",
+                    "name": "2",
+                    "position_x": -37,
+                    "position_y": -75
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_11.png",
+                    "name": "2",
+                    "position_x": -37,
+                    "position_y": -75
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_17.png",
+                    "name": "3",
+                    "position_x": -37,
+                    "position_y": -75
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_17.png",
+                    "name": "3",
+                    "position_x": -37,
+                    "position_y": -75
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_19.png",
+                    "name": "4",
+                    "position_x": -37,
+                    "position_y": -75
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_19.png",
+                    "name": "4",
+                    "position_x": -37,
+                    "position_y": -75
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_4.png",
+                    "name": "wsys_end",
+                    "position_x": -37,
+                    "position_y": -75
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "R_idle": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_4.png",
+                    "name": "wsys_kopia",
+                    "position_x": -37,
+                    "position_y": -75
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "3_enemy0_4.png",
+                    "name": "wsys_kopia",
+                    "position_x": -37,
+                    "position_y": -75
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "3_enemy0_0.png": {
+            "compression": 3,
+            "name": "1",
+            "position_y": -5
+        },
+        "3_enemy0_1.png": {
+            "compression": 3,
+            "name": "wsys",
+            "position_x": 5,
+            "position_y": -5
+        },
+        "3_enemy0_10.png": {
+            "compression": 3,
+            "name": "3_kopia",
+            "position_x": -3,
+            "position_y": -5
+        },
+        "3_enemy0_11.png": {
+            "compression": 3,
+            "name": "2",
+            "position_x": -9,
+            "position_y": -25
+        },
+        "3_enemy0_12.png": {
+            "compression": 3,
+            "name": "4",
+            "position_x": 5,
+            "position_y": -5
+        },
+        "3_enemy0_13.png": {
+            "compression": 3,
+            "name": "4_kopia",
+            "position_x": -5,
+            "position_y": -5
+        },
+        "3_enemy0_14.png": {
+            "compression": 3,
+            "name": "5",
+            "position_x": 5,
+            "position_y": -5
+        },
+        "3_enemy0_15.png": {
+            "compression": 3,
+            "name": "3",
+            "position_x": 5,
+            "position_y": -15
+        },
+        "3_enemy0_16.png": {
+            "compression": 3,
+            "name": "5_kopia",
+            "position_x": -7,
+            "position_y": -5
+        },
+        "3_enemy0_17.png": {
+            "compression": 3,
+            "name": "3",
+            "position_x": -9,
+            "position_y": -15
+        },
+        "3_enemy0_18.png": {
+            "compression": 3,
+            "name": "4",
+            "position_x": 5,
+            "position_y": -5
+        },
+        "3_enemy0_19.png": {
+            "compression": 3,
+            "name": "4",
+            "position_x": -9,
+            "position_y": -5
+        },
+        "3_enemy0_2.png": {
+            "compression": 3,
+            "name": "1",
+            "position_x": 5,
+            "position_y": -18
+        },
+        "3_enemy0_3.png": {
+            "compression": 3,
+            "name": "1_kopia",
+            "position_x": 1,
+            "position_y": -5
+        },
+        "3_enemy0_4.png": {
+            "compression": 3,
+            "name": "wsys_kopia",
+            "position_x": -9,
+            "position_y": -5
+        },
+        "3_enemy0_5.png": {
+            "compression": 3,
+            "name": "1",
+            "position_x": -9,
+            "position_y": -18
+        },
+        "3_enemy0_6.png": {
+            "compression": 3,
+            "name": "2",
+            "position_x": 2,
+            "position_y": -5
+        },
+        "3_enemy0_7.png": {
+            "compression": 3,
+            "name": "2_kopia",
+            "position_x": -1,
+            "position_y": -5
+        },
+        "3_enemy0_8.png": {
+            "compression": 3,
+            "name": "3",
+            "position_x": 4,
+            "position_y": -5
+        },
+        "3_enemy0_9.png": {
+            "compression": 3,
+            "name": "2",
+            "position_x": 5,
+            "position_y": -25
+        }
+    },
+    "transparency": 255
+}

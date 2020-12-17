@@ -1,0 +1,5624 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "WKURZALEWO": {
+            "frames": [
+                {
+                    "check": [
+                        144,
+                        80,
+                        165
+                    ],
+                    "filename": "kura_dol_8.png",
+                    "name": "1_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        64,
+                        110,
+                        165
+                    ],
+                    "filename": "kura_dol_18.png",
+                    "name": "2_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        176,
+                        109,
+                        165
+                    ],
+                    "filename": "kura_dol_27.png",
+                    "name": "3_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        32,
+                        109,
+                        165
+                    ],
+                    "filename": "kura_dol_35.png",
+                    "name": "4_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        144,
+                        108,
+                        165
+                    ],
+                    "filename": "kura_dol_42.png",
+                    "name": "5_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [],
+                    "filename": "kura_dol_46.png",
+                    "name": "6_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        112,
+                        107,
+                        165
+                    ],
+                    "filename": "kura_dol_50.png",
+                    "name": "7_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        224,
+                        106,
+                        165
+                    ],
+                    "filename": "kura_dol_54.png",
+                    "name": "8_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440,
+                    "sfx": "sfx\\00kosmo4.wav",
+                    "sfx_seed": 11086752
+                },
+                {
+                    "check": [
+                        80,
+                        106,
+                        165
+                    ],
+                    "filename": "kura_dol_58.png",
+                    "name": "9_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        192,
+                        105,
+                        165
+                    ],
+                    "filename": "kura_dol_63.png",
+                    "name": "10_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        48,
+                        105,
+                        165
+                    ],
+                    "filename": "kura_dol_67.png",
+                    "name": "12_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        160,
+                        104,
+                        165
+                    ],
+                    "filename": "kura_dol_58.png",
+                    "name": "9_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        16,
+                        104,
+                        165
+                    ],
+                    "filename": "kura_dol_54.png",
+                    "name": "8_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        128,
+                        103,
+                        165
+                    ],
+                    "filename": "kura_dol_50.png",
+                    "name": "7_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        240,
+                        102,
+                        165
+                    ],
+                    "filename": "kura_dol_54.png",
+                    "name": "8_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440,
+                    "sfx": "sfx\\00kosmo4.wav",
+                    "sfx_seed": 11091536
+                },
+                {
+                    "check": [
+                        96,
+                        102,
+                        165
+                    ],
+                    "filename": "kura_dol_58.png",
+                    "name": "9_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        208,
+                        101,
+                        165
+                    ],
+                    "filename": "kura_dol_63.png",
+                    "name": "10_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        64,
+                        101,
+                        165
+                    ],
+                    "filename": "kura_dol_67.png",
+                    "name": "12_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        176,
+                        100,
+                        165
+                    ],
+                    "filename": "kura_dol_58.png",
+                    "name": "9_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        32,
+                        100,
+                        165
+                    ],
+                    "filename": "kura_dol_54.png",
+                    "name": "8_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        144,
+                        99,
+                        165
+                    ],
+                    "filename": "kura_dol_50.png",
+                    "name": "7_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [],
+                    "filename": "kura_dol_54.png",
+                    "name": "8_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440,
+                    "sfx": "sfx\\00kosmo4.wav",
+                    "sfx_seed": 11089280
+                },
+                {
+                    "check": [
+                        112,
+                        98,
+                        165
+                    ],
+                    "filename": "kura_dol_58.png",
+                    "name": "9_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        224,
+                        97,
+                        165
+                    ],
+                    "filename": "kura_dol_63.png",
+                    "name": "10_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        80,
+                        97,
+                        165
+                    ],
+                    "filename": "kura_dol_67.png",
+                    "name": "12_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        192,
+                        96,
+                        165
+                    ],
+                    "filename": "kura_dol_58.png",
+                    "name": "9_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        48,
+                        96,
+                        165
+                    ],
+                    "filename": "kura_dol_54.png",
+                    "name": "8_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        144,
+                        127,
+                        165
+                    ],
+                    "filename": "kura_dol_50.png",
+                    "name": "7_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [],
+                    "filename": "kura_dol_54.png",
+                    "name": "8_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440,
+                    "sfx": "sfx\\00kosmo4.wav",
+                    "sfx_seed": 11094832
+                },
+                {
+                    "check": [
+                        112,
+                        126,
+                        165
+                    ],
+                    "filename": "kura_dol_58.png",
+                    "name": "9_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        224,
+                        125,
+                        165
+                    ],
+                    "filename": "kura_dol_63.png",
+                    "name": "10_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        80,
+                        125,
+                        165
+                    ],
+                    "filename": "kura_dol_67.png",
+                    "name": "12_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        192,
+                        124,
+                        165
+                    ],
+                    "filename": "kura_dol_58.png",
+                    "name": "9_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        48,
+                        124,
+                        165
+                    ],
+                    "filename": "kura_dol_54.png",
+                    "name": "8_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        160,
+                        123,
+                        165
+                    ],
+                    "filename": "kura_dol_50.png",
+                    "name": "7_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        16,
+                        123,
+                        165
+                    ],
+                    "filename": "kura_dol_54.png",
+                    "name": "8_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440,
+                    "sfx": "sfx\\00kosmo4.wav",
+                    "sfx_seed": 11092096
+                },
+                {
+                    "check": [
+                        128,
+                        122,
+                        165
+                    ],
+                    "filename": "kura_dol_58.png",
+                    "name": "9_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        240,
+                        121,
+                        165
+                    ],
+                    "filename": "kura_dol_63.png",
+                    "name": "10_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        96,
+                        121,
+                        165
+                    ],
+                    "filename": "kura_dol_67.png",
+                    "name": "12_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        208,
+                        120,
+                        165
+                    ],
+                    "filename": "kura_dol_58.png",
+                    "name": "9_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        64,
+                        120,
+                        165
+                    ],
+                    "filename": "kura_dol_54.png",
+                    "name": "8_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        176,
+                        119,
+                        165
+                    ],
+                    "filename": "kura_dol_50.png",
+                    "name": "7_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        32,
+                        119,
+                        165
+                    ],
+                    "filename": "kura_dol_54.png",
+                    "name": "8_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440,
+                    "sfx": "sfx\\00kosmo4.wav",
+                    "sfx_seed": 11097216
+                },
+                {
+                    "check": [
+                        144,
+                        118,
+                        165
+                    ],
+                    "filename": "kura_dol_58.png",
+                    "name": "9_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [],
+                    "filename": "kura_dol_63.png",
+                    "name": "10_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        112,
+                        117,
+                        165
+                    ],
+                    "filename": "kura_dol_67.png",
+                    "name": "12_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        224,
+                        116,
+                        165
+                    ],
+                    "filename": "kura_dol_58.png",
+                    "name": "9_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        80,
+                        116,
+                        165
+                    ],
+                    "filename": "kura_dol_54.png",
+                    "name": "8_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        192,
+                        115,
+                        165
+                    ],
+                    "filename": "kura_dol_50.png",
+                    "name": "7_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        48,
+                        115,
+                        165
+                    ],
+                    "filename": "kura_dol_54.png",
+                    "name": "8_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        160,
+                        114,
+                        165
+                    ],
+                    "filename": "kura_dol_58.png",
+                    "name": "9_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        16,
+                        114,
+                        165
+                    ],
+                    "filename": "kura_dol_63.png",
+                    "name": "10_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        128,
+                        113,
+                        165
+                    ],
+                    "filename": "kura_dol_67.png",
+                    "name": "12_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        240,
+                        112,
+                        165
+                    ],
+                    "filename": "kura_dol_58.png",
+                    "name": "9_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        96,
+                        112,
+                        165
+                    ],
+                    "filename": "kura_dol_54.png",
+                    "name": "8_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        144,
+                        143,
+                        165
+                    ],
+                    "filename": "kura_dol_50.png",
+                    "name": "7_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [],
+                    "filename": "kura_dol_54.png",
+                    "name": "8_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        112,
+                        142,
+                        165
+                    ],
+                    "filename": "kura_dol_58.png",
+                    "name": "9_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        224,
+                        141,
+                        165
+                    ],
+                    "filename": "kura_dol_63.png",
+                    "name": "10_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        80,
+                        141,
+                        165
+                    ],
+                    "filename": "kura_dol_67.png",
+                    "name": "12_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        192,
+                        140,
+                        165
+                    ],
+                    "filename": "kura_dol_58.png",
+                    "name": "9_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        48,
+                        140,
+                        165
+                    ],
+                    "filename": "kura_dol_54.png",
+                    "name": "8_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        160,
+                        139,
+                        165
+                    ],
+                    "filename": "kura_dol_50.png",
+                    "name": "7_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        16,
+                        139,
+                        165
+                    ],
+                    "filename": "kura_dol_54.png",
+                    "name": "8_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        128,
+                        138,
+                        165
+                    ],
+                    "filename": "kura_dol_58.png",
+                    "name": "9_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        240,
+                        137,
+                        165
+                    ],
+                    "filename": "kura_dol_63.png",
+                    "name": "10_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        96,
+                        137,
+                        165
+                    ],
+                    "filename": "kura_dol_67.png",
+                    "name": "12_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        208,
+                        136,
+                        165
+                    ],
+                    "filename": "kura_dol_58.png",
+                    "name": "9_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        64,
+                        136,
+                        165
+                    ],
+                    "filename": "kura_dol_54.png",
+                    "name": "8_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        176,
+                        135,
+                        165
+                    ],
+                    "filename": "kura_dol_50.png",
+                    "name": "7_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        32,
+                        135,
+                        165
+                    ],
+                    "filename": "kura_dol_54.png",
+                    "name": "8_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        144,
+                        134,
+                        165
+                    ],
+                    "filename": "kura_dol_58.png",
+                    "name": "9_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [],
+                    "filename": "kura_dol_63.png",
+                    "name": "10_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        112,
+                        133,
+                        165
+                    ],
+                    "filename": "kura_dol_67.png",
+                    "name": "12_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        224,
+                        132,
+                        165
+                    ],
+                    "filename": "kura_dol_58.png",
+                    "name": "9_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        80,
+                        132,
+                        165
+                    ],
+                    "filename": "kura_dol_54.png",
+                    "name": "8_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        192,
+                        131,
+                        165
+                    ],
+                    "filename": "kura_dol_50.png",
+                    "name": "7_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        48,
+                        131,
+                        165
+                    ],
+                    "filename": "kura_dol_54.png",
+                    "name": "8_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        160,
+                        130,
+                        165
+                    ],
+                    "filename": "kura_dol_58.png",
+                    "name": "9_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        16,
+                        130,
+                        165
+                    ],
+                    "filename": "kura_dol_63.png",
+                    "name": "10_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        128,
+                        129,
+                        165
+                    ],
+                    "filename": "kura_dol_67.png",
+                    "name": "12_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        240,
+                        128,
+                        165
+                    ],
+                    "filename": "kura_dol_58.png",
+                    "name": "9_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        96,
+                        128,
+                        165
+                    ],
+                    "filename": "kura_dol_54.png",
+                    "name": "8_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        144,
+                        159,
+                        165
+                    ],
+                    "filename": "kura_dol_50.png",
+                    "name": "7_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [],
+                    "filename": "kura_dol_46.png",
+                    "name": "6_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        112,
+                        158,
+                        165
+                    ],
+                    "filename": "kura_dol_42.png",
+                    "name": "5_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        224,
+                        157,
+                        165
+                    ],
+                    "filename": "kura_dol_35.png",
+                    "name": "4_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        80,
+                        157,
+                        165
+                    ],
+                    "filename": "kura_dol_27.png",
+                    "name": "3_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        192,
+                        156,
+                        165
+                    ],
+                    "filename": "kura_dol_18.png",
+                    "name": "2_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        48,
+                        156,
+                        165
+                    ],
+                    "filename": "kura_dol_8.png",
+                    "name": "1_WKURZONYLEWO",
+                    "position_x": 18,
+                    "position_y": 440
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "WKURZAPRAWO": {
+            "frames": [
+                {
+                    "check": [
+                        160,
+                        152,
+                        165
+                    ],
+                    "filename": "kura_dol_9.png",
+                    "name": "1_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        16,
+                        152,
+                        165
+                    ],
+                    "filename": "kura_dol_19.png",
+                    "name": "2_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        128,
+                        151,
+                        165
+                    ],
+                    "filename": "kura_dol_28.png",
+                    "name": "3_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        240,
+                        150,
+                        165
+                    ],
+                    "filename": "kura_dol_36.png",
+                    "name": "4_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        96,
+                        150,
+                        165
+                    ],
+                    "filename": "kura_dol_43.png",
+                    "name": "5_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        208,
+                        149,
+                        165
+                    ],
+                    "filename": "kura_dol_47.png",
+                    "name": "6_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        64,
+                        149,
+                        165
+                    ],
+                    "filename": "kura_dol_51.png",
+                    "name": "7_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        176,
+                        148,
+                        165
+                    ],
+                    "filename": "kura_dol_55.png",
+                    "name": "8_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442,
+                    "sfx": "sfx\\00kosmo4.wav",
+                    "sfx_seed": 11060400
+                },
+                {
+                    "check": [
+                        32,
+                        148,
+                        165
+                    ],
+                    "filename": "kura_dol_59.png",
+                    "name": "9_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        144,
+                        147,
+                        165
+                    ],
+                    "filename": "kura_dol_64.png",
+                    "name": "10_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [],
+                    "filename": "kura_dol_68.png",
+                    "name": "11_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        112,
+                        146,
+                        165
+                    ],
+                    "filename": "kura_dol_70.png",
+                    "name": "12_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        224,
+                        145,
+                        165
+                    ],
+                    "filename": "kura_dol_59.png",
+                    "name": "9_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        80,
+                        145,
+                        165
+                    ],
+                    "filename": "kura_dol_55.png",
+                    "name": "8_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        192,
+                        144,
+                        165
+                    ],
+                    "filename": "kura_dol_51.png",
+                    "name": "7_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        48,
+                        144,
+                        165
+                    ],
+                    "filename": "kura_dol_55.png",
+                    "name": "8_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442,
+                    "sfx": "sfx\\00kosmo4.wav",
+                    "sfx_seed": 11066096
+                },
+                {
+                    "check": [
+                        144,
+                        175,
+                        165
+                    ],
+                    "filename": "kura_dol_59.png",
+                    "name": "9_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [],
+                    "filename": "kura_dol_64.png",
+                    "name": "10_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        112,
+                        174,
+                        165
+                    ],
+                    "filename": "kura_dol_68.png",
+                    "name": "11_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        224,
+                        173,
+                        165
+                    ],
+                    "filename": "kura_dol_70.png",
+                    "name": "12_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        80,
+                        173,
+                        165
+                    ],
+                    "filename": "kura_dol_59.png",
+                    "name": "9_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        192,
+                        172,
+                        165
+                    ],
+                    "filename": "kura_dol_55.png",
+                    "name": "8_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        48,
+                        172,
+                        165
+                    ],
+                    "filename": "kura_dol_51.png",
+                    "name": "7_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        160,
+                        171,
+                        165
+                    ],
+                    "filename": "kura_dol_55.png",
+                    "name": "8_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442,
+                    "sfx": "sfx\\00kosmo4.wav",
+                    "sfx_seed": 11069616
+                },
+                {
+                    "check": [
+                        16,
+                        171,
+                        165
+                    ],
+                    "filename": "kura_dol_59.png",
+                    "name": "9_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        128,
+                        170,
+                        165
+                    ],
+                    "filename": "kura_dol_64.png",
+                    "name": "10_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        240,
+                        169,
+                        165
+                    ],
+                    "filename": "kura_dol_68.png",
+                    "name": "11_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        96,
+                        169,
+                        165
+                    ],
+                    "filename": "kura_dol_70.png",
+                    "name": "12_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        208,
+                        168,
+                        165
+                    ],
+                    "filename": "kura_dol_59.png",
+                    "name": "9_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        64,
+                        168,
+                        165
+                    ],
+                    "filename": "kura_dol_55.png",
+                    "name": "8_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        176,
+                        167,
+                        165
+                    ],
+                    "filename": "kura_dol_51.png",
+                    "name": "7_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        32,
+                        167,
+                        165
+                    ],
+                    "filename": "kura_dol_55.png",
+                    "name": "8_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442,
+                    "sfx": "sfx\\00kosmo4.wav",
+                    "sfx_seed": 11105136
+                },
+                {
+                    "check": [
+                        144,
+                        166,
+                        165
+                    ],
+                    "filename": "kura_dol_59.png",
+                    "name": "9_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [],
+                    "filename": "kura_dol_64.png",
+                    "name": "10_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        112,
+                        165,
+                        165
+                    ],
+                    "filename": "kura_dol_68.png",
+                    "name": "11_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        224,
+                        164,
+                        165
+                    ],
+                    "filename": "kura_dol_70.png",
+                    "name": "12_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        80,
+                        164,
+                        165
+                    ],
+                    "filename": "kura_dol_59.png",
+                    "name": "9_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        192,
+                        163,
+                        165
+                    ],
+                    "filename": "kura_dol_55.png",
+                    "name": "8_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        48,
+                        163,
+                        165
+                    ],
+                    "filename": "kura_dol_51.png",
+                    "name": "7_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        160,
+                        162,
+                        165
+                    ],
+                    "filename": "kura_dol_55.png",
+                    "name": "8_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        16,
+                        162,
+                        165
+                    ],
+                    "filename": "kura_dol_59.png",
+                    "name": "9_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        128,
+                        161,
+                        165
+                    ],
+                    "filename": "kura_dol_64.png",
+                    "name": "10_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        240,
+                        160,
+                        165
+                    ],
+                    "filename": "kura_dol_68.png",
+                    "name": "11_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        96,
+                        160,
+                        165
+                    ],
+                    "filename": "kura_dol_70.png",
+                    "name": "12_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        144,
+                        191,
+                        165
+                    ],
+                    "filename": "kura_dol_59.png",
+                    "name": "9_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [],
+                    "filename": "kura_dol_55.png",
+                    "name": "8_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        112,
+                        190,
+                        165
+                    ],
+                    "filename": "kura_dol_51.png",
+                    "name": "7_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        224,
+                        189,
+                        165
+                    ],
+                    "filename": "kura_dol_55.png",
+                    "name": "8_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        80,
+                        189,
+                        165
+                    ],
+                    "filename": "kura_dol_59.png",
+                    "name": "9_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        192,
+                        188,
+                        165
+                    ],
+                    "filename": "kura_dol_64.png",
+                    "name": "10_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        48,
+                        188,
+                        165
+                    ],
+                    "filename": "kura_dol_68.png",
+                    "name": "11_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        160,
+                        187,
+                        165
+                    ],
+                    "filename": "kura_dol_70.png",
+                    "name": "12_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        16,
+                        187,
+                        165
+                    ],
+                    "filename": "kura_dol_59.png",
+                    "name": "9_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        128,
+                        186,
+                        165
+                    ],
+                    "filename": "kura_dol_55.png",
+                    "name": "8_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        240,
+                        185,
+                        165
+                    ],
+                    "filename": "kura_dol_51.png",
+                    "name": "7_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        96,
+                        185,
+                        165
+                    ],
+                    "filename": "kura_dol_55.png",
+                    "name": "8_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        208,
+                        184,
+                        165
+                    ],
+                    "filename": "kura_dol_59.png",
+                    "name": "9_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        64,
+                        184,
+                        165
+                    ],
+                    "filename": "kura_dol_64.png",
+                    "name": "10_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        176,
+                        183,
+                        165
+                    ],
+                    "filename": "kura_dol_68.png",
+                    "name": "11_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        32,
+                        183,
+                        165
+                    ],
+                    "filename": "kura_dol_70.png",
+                    "name": "12_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        144,
+                        182,
+                        165
+                    ],
+                    "filename": "kura_dol_59.png",
+                    "name": "9_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [],
+                    "filename": "kura_dol_55.png",
+                    "name": "8_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        112,
+                        181,
+                        165
+                    ],
+                    "filename": "kura_dol_51.png",
+                    "name": "7_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        224,
+                        180,
+                        165
+                    ],
+                    "filename": "kura_dol_55.png",
+                    "name": "8_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        80,
+                        180,
+                        165
+                    ],
+                    "filename": "kura_dol_59.png",
+                    "name": "9_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        192,
+                        179,
+                        165
+                    ],
+                    "filename": "kura_dol_64.png",
+                    "name": "10_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        48,
+                        179,
+                        165
+                    ],
+                    "filename": "kura_dol_68.png",
+                    "name": "11_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        160,
+                        178,
+                        165
+                    ],
+                    "filename": "kura_dol_70.png",
+                    "name": "12_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        16,
+                        178,
+                        165
+                    ],
+                    "filename": "kura_dol_59.png",
+                    "name": "9_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        128,
+                        177,
+                        165
+                    ],
+                    "filename": "kura_dol_55.png",
+                    "name": "8_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        240,
+                        176,
+                        165
+                    ],
+                    "filename": "kura_dol_51.png",
+                    "name": "7_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        96,
+                        176,
+                        165
+                    ],
+                    "filename": "kura_dol_55.png",
+                    "name": "8_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        144,
+                        207,
+                        165
+                    ],
+                    "filename": "kura_dol_59.png",
+                    "name": "9_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [],
+                    "filename": "kura_dol_64.png",
+                    "name": "10_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        112,
+                        206,
+                        165
+                    ],
+                    "filename": "kura_dol_68.png",
+                    "name": "11_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        224,
+                        205,
+                        165
+                    ],
+                    "filename": "kura_dol_70.png",
+                    "name": "12_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        80,
+                        205,
+                        165
+                    ],
+                    "filename": "kura_dol_59.png",
+                    "name": "9_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        192,
+                        204,
+                        165
+                    ],
+                    "filename": "kura_dol_55.png",
+                    "name": "8_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        48,
+                        204,
+                        165
+                    ],
+                    "filename": "kura_dol_51.png",
+                    "name": "7_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        160,
+                        203,
+                        165
+                    ],
+                    "filename": "kura_dol_55.png",
+                    "name": "8_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        16,
+                        203,
+                        165
+                    ],
+                    "filename": "kura_dol_59.png",
+                    "name": "9_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        128,
+                        202,
+                        165
+                    ],
+                    "filename": "kura_dol_64.png",
+                    "name": "10_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        240,
+                        201,
+                        165
+                    ],
+                    "filename": "kura_dol_68.png",
+                    "name": "11_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        96,
+                        201,
+                        165
+                    ],
+                    "filename": "kura_dol_70.png",
+                    "name": "12_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        208,
+                        200,
+                        165
+                    ],
+                    "filename": "kura_dol_59.png",
+                    "name": "9_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        64,
+                        200,
+                        165
+                    ],
+                    "filename": "kura_dol_55.png",
+                    "name": "8_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        176,
+                        199,
+                        165
+                    ],
+                    "filename": "kura_dol_51.png",
+                    "name": "7_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        32,
+                        199,
+                        165
+                    ],
+                    "filename": "kura_dol_47.png",
+                    "name": "6_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        144,
+                        198,
+                        165
+                    ],
+                    "filename": "kura_dol_43.png",
+                    "name": "5_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [],
+                    "filename": "kura_dol_36.png",
+                    "name": "4_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        112,
+                        197,
+                        165
+                    ],
+                    "filename": "kura_dol_28.png",
+                    "name": "3_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        224,
+                        196,
+                        165
+                    ],
+                    "filename": "kura_dol_19.png",
+                    "name": "2_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                },
+                {
+                    "check": [
+                        80,
+                        196,
+                        165
+                    ],
+                    "filename": "kura_dol_9.png",
+                    "name": "1_WKURZONYPRAWO",
+                    "position_x": 426,
+                    "position_y": 442
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "_LEWOD2": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        181,
+                        164
+                    ],
+                    "filename": "kura_dol_0.png",
+                    "name": "6_LEWO",
+                    "position_x": 348,
+                    "position_y": 458
+                },
+                {
+                    "check": [
+                        208,
+                        180,
+                        164
+                    ],
+                    "filename": "kura_dol_10.png",
+                    "name": "7_LEWO",
+                    "position_x": 336,
+                    "position_y": 458
+                },
+                {
+                    "check": [
+                        64,
+                        180,
+                        164
+                    ],
+                    "filename": "kura_dol_20.png",
+                    "name": "8_LEWO",
+                    "position_x": 325,
+                    "position_y": 458
+                },
+                {
+                    "check": [
+                        176,
+                        179,
+                        164
+                    ],
+                    "filename": "kura_dol_29.png",
+                    "name": "9_LEWO",
+                    "position_x": 314,
+                    "position_y": 457
+                },
+                {
+                    "check": [
+                        32,
+                        179,
+                        164
+                    ],
+                    "filename": "kura_dol_37.png",
+                    "name": "10_LEWO",
+                    "position_x": 304,
+                    "position_y": 457
+                },
+                {
+                    "check": [
+                        144,
+                        178,
+                        164
+                    ],
+                    "filename": "kura_dol_1.png",
+                    "name": "1_LEWO",
+                    "position_x": 293,
+                    "position_y": 457
+                },
+                {
+                    "check": [],
+                    "filename": "kura_dol_11.png",
+                    "name": "2_LEWO",
+                    "position_x": 284,
+                    "position_y": 457
+                },
+                {
+                    "check": [
+                        112,
+                        177,
+                        164
+                    ],
+                    "filename": "kura_dol_21.png",
+                    "name": "3_LEWO",
+                    "position_x": 274,
+                    "position_y": 457
+                },
+                {
+                    "check": [
+                        224,
+                        176,
+                        164
+                    ],
+                    "filename": "kura_dol_30.png",
+                    "name": "4_LEWO",
+                    "position_x": 265,
+                    "position_y": 457
+                },
+                {
+                    "check": [
+                        80,
+                        176,
+                        164
+                    ],
+                    "filename": "kura_dol_38.png",
+                    "name": "5_LEWO",
+                    "position_x": 256,
+                    "position_y": 457
+                },
+                {
+                    "check": [
+                        144,
+                        207,
+                        164
+                    ],
+                    "filename": "kura_dol_0.png",
+                    "name": "6_LEWO",
+                    "position_x": 248,
+                    "position_y": 457
+                },
+                {
+                    "check": [],
+                    "filename": "kura_dol_10.png",
+                    "name": "7_LEWO",
+                    "position_x": 239,
+                    "position_y": 457
+                },
+                {
+                    "check": [
+                        112,
+                        206,
+                        164
+                    ],
+                    "filename": "kura_dol_20.png",
+                    "name": "8_LEWO",
+                    "position_x": 231,
+                    "position_y": 457
+                },
+                {
+                    "check": [
+                        224,
+                        205,
+                        164
+                    ],
+                    "filename": "kura_dol_29.png",
+                    "name": "9_LEWO",
+                    "position_x": 224,
+                    "position_y": 457
+                },
+                {
+                    "check": [
+                        80,
+                        205,
+                        164
+                    ],
+                    "filename": "kura_dol_37.png",
+                    "name": "10_LEWO",
+                    "position_x": 216,
+                    "position_y": 457
+                },
+                {
+                    "check": [
+                        192,
+                        204,
+                        164
+                    ],
+                    "filename": "kura_dol_1.png",
+                    "name": "1_LEWO",
+                    "position_x": 209,
+                    "position_y": 458
+                },
+                {
+                    "check": [
+                        48,
+                        204,
+                        164
+                    ],
+                    "filename": "kura_dol_11.png",
+                    "name": "2_LEWO",
+                    "position_x": 202,
+                    "position_y": 458
+                },
+                {
+                    "check": [
+                        160,
+                        203,
+                        164
+                    ],
+                    "filename": "kura_dol_21.png",
+                    "name": "3_LEWO",
+                    "position_x": 195,
+                    "position_y": 458
+                },
+                {
+                    "check": [
+                        16,
+                        203,
+                        164
+                    ],
+                    "filename": "kura_dol_30.png",
+                    "name": "4_LEWO",
+                    "position_x": 188,
+                    "position_y": 458
+                },
+                {
+                    "check": [
+                        128,
+                        202,
+                        164
+                    ],
+                    "filename": "kura_dol_38.png",
+                    "name": "5_LEWO",
+                    "position_x": 181,
+                    "position_y": 458
+                },
+                {
+                    "check": [
+                        240,
+                        201,
+                        164
+                    ],
+                    "filename": "kura_dol_0.png",
+                    "name": "6_LEWO",
+                    "position_x": 175,
+                    "position_y": 459
+                },
+                {
+                    "check": [
+                        96,
+                        201,
+                        164
+                    ],
+                    "filename": "kura_dol_10.png",
+                    "name": "7_LEWO",
+                    "position_x": 169,
+                    "position_y": 459
+                },
+                {
+                    "check": [
+                        208,
+                        200,
+                        164
+                    ],
+                    "filename": "kura_dol_20.png",
+                    "name": "8_LEWO",
+                    "position_x": 163,
+                    "position_y": 459
+                },
+                {
+                    "check": [
+                        64,
+                        200,
+                        164
+                    ],
+                    "filename": "kura_dol_29.png",
+                    "name": "9_LEWO",
+                    "position_x": 156,
+                    "position_y": 459
+                },
+                {
+                    "check": [
+                        176,
+                        199,
+                        164
+                    ],
+                    "filename": "kura_dol_37.png",
+                    "name": "10_LEWO",
+                    "position_x": 150,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        32,
+                        199,
+                        164
+                    ],
+                    "filename": "kura_dol_1.png",
+                    "name": "1_LEWO",
+                    "position_x": 145,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        144,
+                        198,
+                        164
+                    ],
+                    "filename": "kura_dol_11.png",
+                    "name": "2_LEWO",
+                    "position_x": 139,
+                    "position_y": 460
+                },
+                {
+                    "check": [],
+                    "filename": "kura_dol_21.png",
+                    "name": "3_LEWO",
+                    "position_x": 133,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        112,
+                        197,
+                        164
+                    ],
+                    "filename": "kura_dol_30.png",
+                    "name": "4_LEWO",
+                    "position_x": 127,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        224,
+                        196,
+                        164
+                    ],
+                    "filename": "kura_dol_38.png",
+                    "name": "5_LEWO",
+                    "position_x": 122,
+                    "position_y": 461
+                },
+                {
+                    "check": [
+                        80,
+                        196,
+                        164
+                    ],
+                    "filename": "kura_dol_0.png",
+                    "name": "6_LEWO",
+                    "position_x": 116,
+                    "position_y": 461
+                },
+                {
+                    "check": [
+                        192,
+                        195,
+                        164
+                    ],
+                    "filename": "kura_dol_10.png",
+                    "name": "7_LEWO",
+                    "position_x": 110,
+                    "position_y": 461
+                },
+                {
+                    "check": [
+                        48,
+                        195,
+                        164
+                    ],
+                    "filename": "kura_dol_20.png",
+                    "name": "8_LEWO",
+                    "position_x": 104,
+                    "position_y": 461
+                },
+                {
+                    "check": [
+                        160,
+                        194,
+                        164
+                    ],
+                    "filename": "kura_dol_29.png",
+                    "name": "9_LEWO",
+                    "position_x": 99,
+                    "position_y": 461
+                },
+                {
+                    "check": [
+                        16,
+                        194,
+                        164
+                    ],
+                    "filename": "kura_dol_37.png",
+                    "name": "10_LEWO",
+                    "position_x": 93,
+                    "position_y": 461
+                },
+                {
+                    "check": [
+                        128,
+                        193,
+                        164
+                    ],
+                    "filename": "kura_dol_1.png",
+                    "name": "1_LEWO",
+                    "position_x": 87,
+                    "position_y": 461
+                },
+                {
+                    "check": [
+                        240,
+                        192,
+                        164
+                    ],
+                    "filename": "kura_dol_11.png",
+                    "name": "2_LEWO",
+                    "position_x": 81,
+                    "position_y": 462
+                },
+                {
+                    "check": [
+                        96,
+                        192,
+                        164
+                    ],
+                    "filename": "kura_dol_21.png",
+                    "name": "3_LEWO",
+                    "position_x": 75,
+                    "position_y": 462
+                },
+                {
+                    "check": [
+                        144,
+                        223,
+                        164
+                    ],
+                    "filename": "kura_dol_30.png",
+                    "name": "4_LEWO",
+                    "position_x": 69,
+                    "position_y": 462
+                },
+                {
+                    "check": [],
+                    "filename": "kura_dol_38.png",
+                    "name": "5_LEWO",
+                    "position_x": 62,
+                    "position_y": 462
+                },
+                {
+                    "check": [
+                        112,
+                        222,
+                        164
+                    ],
+                    "filename": "kura_dol_0.png",
+                    "name": "6_LEWO",
+                    "position_x": 56,
+                    "position_y": 461
+                },
+                {
+                    "check": [
+                        224,
+                        221,
+                        164
+                    ],
+                    "filename": "kura_dol_10.png",
+                    "name": "7_LEWO",
+                    "position_x": 49,
+                    "position_y": 461
+                },
+                {
+                    "check": [
+                        80,
+                        221,
+                        164
+                    ],
+                    "filename": "kura_dol_20.png",
+                    "name": "8_LEWO",
+                    "position_x": 43,
+                    "position_y": 461
+                },
+                {
+                    "check": [
+                        192,
+                        220,
+                        164
+                    ],
+                    "filename": "kura_dol_29.png",
+                    "name": "9_LEWO",
+                    "position_x": 36,
+                    "position_y": 461
+                },
+                {
+                    "check": [
+                        48,
+                        220,
+                        164
+                    ],
+                    "filename": "kura_dol_37.png",
+                    "name": "10_LEWO",
+                    "position_x": 29,
+                    "position_y": 461
+                },
+                {
+                    "check": [
+                        160,
+                        219,
+                        164
+                    ],
+                    "filename": "kura_dol_37.png",
+                    "name": "10_LEWO",
+                    "position_x": 22,
+                    "position_y": 461
+                },
+                {
+                    "check": [
+                        16,
+                        219,
+                        164
+                    ],
+                    "filename": "kura_dol_37.png",
+                    "name": "10_LEWO",
+                    "position_x": 22,
+                    "position_y": 461
+                },
+                {
+                    "check": [
+                        128,
+                        218,
+                        164
+                    ],
+                    "filename": "kura_dol_37.png",
+                    "name": "10_LEWO",
+                    "position_x": 22,
+                    "position_y": 461
+                },
+                {
+                    "check": [
+                        240,
+                        217,
+                        164
+                    ],
+                    "filename": "kura_dol_37.png",
+                    "name": "10_LEWO",
+                    "position_x": 22,
+                    "position_y": 461
+                },
+                {
+                    "check": [
+                        96,
+                        217,
+                        164
+                    ],
+                    "filename": "kura_dol_37.png",
+                    "name": "10_LEWO",
+                    "position_x": 22,
+                    "position_y": 461
+                },
+                {
+                    "check": [
+                        208,
+                        216,
+                        164
+                    ],
+                    "filename": "kura_dol_37.png",
+                    "name": "10_LEWO",
+                    "position_x": 22,
+                    "position_y": 461
+                },
+                {
+                    "check": [
+                        64,
+                        216,
+                        164
+                    ],
+                    "filename": "kura_dol_37.png",
+                    "name": "10_LEWO",
+                    "position_x": 22,
+                    "position_y": 461
+                },
+                {
+                    "check": [
+                        176,
+                        215,
+                        164
+                    ],
+                    "filename": "kura_dol_37.png",
+                    "name": "10_LEWO",
+                    "position_x": 22,
+                    "position_y": 461
+                },
+                {
+                    "check": [
+                        32,
+                        215,
+                        164
+                    ],
+                    "filename": "kura_dol_37.png",
+                    "name": "10_LEWO",
+                    "position_x": 22,
+                    "position_y": 461
+                },
+                {
+                    "check": [
+                        144,
+                        214,
+                        164
+                    ],
+                    "filename": "kura_dol_37.png",
+                    "name": "10_LEWO",
+                    "position_x": 22,
+                    "position_y": 461
+                },
+                {
+                    "check": [],
+                    "filename": "kura_dol_37.png",
+                    "name": "10_LEWO",
+                    "position_x": 22,
+                    "position_y": 461
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "_LEWOD3": {
+            "frames": [
+                {
+                    "check": [
+                        128,
+                        212,
+                        164
+                    ],
+                    "filename": "kura_dol_1.png",
+                    "name": "1_LEWO",
+                    "position_x": 413,
+                    "position_y": 461
+                },
+                {
+                    "check": [
+                        240,
+                        211,
+                        164
+                    ],
+                    "filename": "kura_dol_11.png",
+                    "name": "2_LEWO",
+                    "position_x": 399,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        96,
+                        211,
+                        164
+                    ],
+                    "filename": "kura_dol_21.png",
+                    "name": "3_LEWO",
+                    "position_x": 385,
+                    "position_y": 459
+                },
+                {
+                    "check": [
+                        208,
+                        210,
+                        164
+                    ],
+                    "filename": "kura_dol_30.png",
+                    "name": "4_LEWO",
+                    "position_x": 372,
+                    "position_y": 459
+                },
+                {
+                    "check": [
+                        64,
+                        210,
+                        164
+                    ],
+                    "filename": "kura_dol_38.png",
+                    "name": "5_LEWO",
+                    "position_x": 360,
+                    "position_y": 459
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "_NAPRAWASTARTLEWO": {
+            "frames": [
+                {
+                    "check": [],
+                    "filename": "kura_dol_3.png",
+                    "name": "1_NAPRAWASTARTLEWO",
+                    "position_x": 15,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        240,
+                        91,
+                        164
+                    ],
+                    "filename": "kura_dol_13.png",
+                    "name": "2_NAPRAWASTARTLEWO",
+                    "position_x": 12,
+                    "position_y": 457
+                },
+                {
+                    "check": [
+                        96,
+                        91,
+                        164
+                    ],
+                    "filename": "kura_dol_23.png",
+                    "name": "3_NAPRAWASTARTLEWO",
+                    "position_x": 12,
+                    "position_y": 457
+                },
+                {
+                    "check": [
+                        144,
+                        95,
+                        164
+                    ],
+                    "filename": "kura_dol_32.png",
+                    "name": "5_NAPRAWASTARTPRAWO",
+                    "position_x": 12,
+                    "position_y": 457
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "_NAPRAWASTARTPRAWO": {
+            "frames": [
+                {
+                    "check": [
+                        128,
+                        66,
+                        165
+                    ],
+                    "filename": "kura_dol_5.png",
+                    "name": "1_NAPRAWASTARTPRAWO",
+                    "position_x": 406,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        240,
+                        65,
+                        165
+                    ],
+                    "filename": "kura_dol_15.png",
+                    "name": "2_NAPRAWASTARTPRAWO",
+                    "position_x": 406,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        96,
+                        65,
+                        165
+                    ],
+                    "filename": "kura_dol_17.png",
+                    "name": "3_NAPRAWASTARTPRAWO",
+                    "position_x": 406,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        208,
+                        64,
+                        165
+                    ],
+                    "filename": "kura_dol_7.png",
+                    "name": "4_NAPRAWASTARTPRAWO",
+                    "position_x": 406,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        64,
+                        64,
+                        165
+                    ],
+                    "filename": "kura_dol_32.png",
+                    "name": "5_NAPRAWASTARTPRAWO",
+                    "position_x": 406,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        144,
+                        95,
+                        165
+                    ],
+                    "filename": "kura_dol_32.png",
+                    "name": "5_NAPRAWASTARTPRAWO",
+                    "position_x": 406,
+                    "position_y": 460
+                },
+                {
+                    "check": [],
+                    "filename": "kura_dol_32.png",
+                    "name": "5_NAPRAWASTARTPRAWO",
+                    "position_x": 406,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        112,
+                        94,
+                        165
+                    ],
+                    "filename": "kura_dol_32.png",
+                    "name": "5_NAPRAWASTARTPRAWO",
+                    "position_x": 406,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        224,
+                        93,
+                        165
+                    ],
+                    "filename": "kura_dol_32.png",
+                    "name": "5_NAPRAWASTARTPRAWO",
+                    "position_x": 406,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        80,
+                        93,
+                        165
+                    ],
+                    "filename": "kura_dol_32.png",
+                    "name": "5_NAPRAWASTARTPRAWO",
+                    "position_x": 406,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        192,
+                        92,
+                        165
+                    ],
+                    "filename": "kura_dol_32.png",
+                    "name": "5_NAPRAWASTARTPRAWO",
+                    "position_x": 406,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        48,
+                        92,
+                        165
+                    ],
+                    "filename": "kura_dol_32.png",
+                    "name": "5_NAPRAWASTARTPRAWO",
+                    "position_x": 406,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        160,
+                        91,
+                        165
+                    ],
+                    "filename": "kura_dol_32.png",
+                    "name": "5_NAPRAWASTARTPRAWO",
+                    "position_x": 406,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        16,
+                        91,
+                        165
+                    ],
+                    "filename": "kura_dol_32.png",
+                    "name": "5_NAPRAWASTARTPRAWO",
+                    "position_x": 406,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        128,
+                        90,
+                        165
+                    ],
+                    "filename": "kura_dol_32.png",
+                    "name": "5_NAPRAWASTARTPRAWO",
+                    "position_x": 406,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        240,
+                        89,
+                        165
+                    ],
+                    "filename": "kura_dol_32.png",
+                    "name": "5_NAPRAWASTARTPRAWO",
+                    "position_x": 406,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        96,
+                        89,
+                        165
+                    ],
+                    "filename": "kura_dol_32.png",
+                    "name": "5_NAPRAWASTARTPRAWO",
+                    "position_x": 406,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        208,
+                        88,
+                        165
+                    ],
+                    "filename": "kura_dol_32.png",
+                    "name": "5_NAPRAWASTARTPRAWO",
+                    "position_x": 406,
+                    "position_y": 460
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "_NAPRAWASTOPLEWO": {
+            "frames": [
+                {
+                    "check": [
+                        80,
+                        87,
+                        165
+                    ],
+                    "filename": "kura_dol_6.png",
+                    "name": "1_NAPRAWASTOPLEWO",
+                    "position_x": 404,
+                    "position_y": 458
+                },
+                {
+                    "check": [
+                        192,
+                        86,
+                        165
+                    ],
+                    "filename": "kura_dol_16.png",
+                    "name": "2_NAPRAWASTOPLEWO",
+                    "position_x": 404,
+                    "position_y": 458
+                },
+                {
+                    "check": [
+                        48,
+                        86,
+                        165
+                    ],
+                    "filename": "kura_dol_25.png",
+                    "name": "3_NAPRAWASTOPLEWO",
+                    "position_x": 404,
+                    "position_y": 458
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "_NAPRAWASTOPPRAWO": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        84,
+                        165
+                    ],
+                    "filename": "kura_dol_7.png",
+                    "name": "4_NAPRAWASTARTPRAWO",
+                    "position_x": 7,
+                    "position_y": 459
+                },
+                {
+                    "check": [
+                        32,
+                        84,
+                        165
+                    ],
+                    "filename": "kura_dol_17.png",
+                    "name": "3_NAPRAWASTARTPRAWO",
+                    "position_x": 7,
+                    "position_y": 459
+                },
+                {
+                    "check": [
+                        144,
+                        83,
+                        165
+                    ],
+                    "filename": "kura_dol_26.png",
+                    "name": "3_NAPRAWASTOPPRAWO",
+                    "position_x": 7,
+                    "position_y": 459
+                },
+                {
+                    "check": [],
+                    "filename": "kura_dol_34.png",
+                    "name": "3_PRAWO COPY",
+                    "position_x": 7,
+                    "position_y": 459
+                },
+                {
+                    "check": [
+                        112,
+                        82,
+                        165
+                    ],
+                    "filename": "kura_dol_41.png",
+                    "name": "4_PRAWO COPY",
+                    "position_x": 7,
+                    "position_y": 459
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "_NAPRAWA_LEWO": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        48,
+                        164
+                    ],
+                    "filename": "kura_dol_4.png",
+                    "name": "0_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        128,
+                        70,
+                        164
+                    ],
+                    "filename": "kura_dol_14.png",
+                    "name": "1_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        64,
+                        93,
+                        164
+                    ],
+                    "filename": "kura_dol_24.png",
+                    "name": "2_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        176,
+                        92,
+                        164
+                    ],
+                    "filename": "kura_dol_33.png",
+                    "name": "3_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        112,
+                        92,
+                        164
+                    ],
+                    "filename": "kura_dol_40.png",
+                    "name": "4_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        64,
+                        113,
+                        164
+                    ],
+                    "filename": "kura_dol_45.png",
+                    "name": "5_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        176,
+                        112,
+                        164
+                    ],
+                    "filename": "kura_dol_49.png",
+                    "name": "6_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        32,
+                        69,
+                        164
+                    ],
+                    "filename": "kura_dol_53.png",
+                    "name": "7_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        144,
+                        68,
+                        164
+                    ],
+                    "filename": "kura_dol_57.png",
+                    "name": "8_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [],
+                    "filename": "kura_dol_61.png",
+                    "name": "9_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        112,
+                        67,
+                        164
+                    ],
+                    "filename": "kura_dol_65.png",
+                    "name": "10_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451,
+                    "sfx": "sfx\\00kosmo2.wav",
+                    "sfx_seed": 10947200
+                },
+                {
+                    "check": [
+                        128,
+                        66,
+                        164
+                    ],
+                    "filename": "kura_dol_62.png",
+                    "name": "11_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        240,
+                        65,
+                        164
+                    ],
+                    "filename": "kura_dol_66.png",
+                    "name": "12_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        96,
+                        65,
+                        164
+                    ],
+                    "filename": "kura_dol_69.png",
+                    "name": "13_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        208,
+                        64,
+                        164
+                    ],
+                    "filename": "kura_dol_71.png",
+                    "name": "14_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        64,
+                        64,
+                        164
+                    ],
+                    "filename": "kura_dol_53.png",
+                    "name": "7_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        144,
+                        15,
+                        165
+                    ],
+                    "filename": "kura_dol_57.png",
+                    "name": "8_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [],
+                    "filename": "kura_dol_61.png",
+                    "name": "9_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        112,
+                        14,
+                        165
+                    ],
+                    "filename": "kura_dol_65.png",
+                    "name": "10_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451,
+                    "sfx": "sfx\\00kosmo1.wav",
+                    "sfx_seed": 10951216
+                },
+                {
+                    "check": [
+                        224,
+                        13,
+                        165
+                    ],
+                    "filename": "kura_dol_62.png",
+                    "name": "11_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        80,
+                        13,
+                        165
+                    ],
+                    "filename": "kura_dol_66.png",
+                    "name": "12_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        192,
+                        12,
+                        165
+                    ],
+                    "filename": "kura_dol_69.png",
+                    "name": "13_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        48,
+                        12,
+                        165
+                    ],
+                    "filename": "kura_dol_71.png",
+                    "name": "14_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        160,
+                        11,
+                        165
+                    ],
+                    "filename": "kura_dol_49.png",
+                    "name": "6_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        16,
+                        11,
+                        165
+                    ],
+                    "filename": "kura_dol_53.png",
+                    "name": "7_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        128,
+                        10,
+                        165
+                    ],
+                    "filename": "kura_dol_57.png",
+                    "name": "8_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        240,
+                        9,
+                        165
+                    ],
+                    "filename": "kura_dol_61.png",
+                    "name": "9_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        96,
+                        9,
+                        165
+                    ],
+                    "filename": "kura_dol_65.png",
+                    "name": "10_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451,
+                    "sfx": "sfx\\00kosmo3.wav",
+                    "sfx_seed": 10948656
+                },
+                {
+                    "check": [
+                        208,
+                        8,
+                        165
+                    ],
+                    "filename": "kura_dol_62.png",
+                    "name": "11_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        64,
+                        8,
+                        165
+                    ],
+                    "filename": "kura_dol_66.png",
+                    "name": "12_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        176,
+                        7,
+                        165
+                    ],
+                    "filename": "kura_dol_69.png",
+                    "name": "13_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        32,
+                        7,
+                        165
+                    ],
+                    "filename": "kura_dol_71.png",
+                    "name": "14_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        144,
+                        6,
+                        165
+                    ],
+                    "filename": "kura_dol_53.png",
+                    "name": "7_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [],
+                    "filename": "kura_dol_57.png",
+                    "name": "8_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        112,
+                        5,
+                        165
+                    ],
+                    "filename": "kura_dol_61.png",
+                    "name": "9_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        224,
+                        4,
+                        165
+                    ],
+                    "filename": "kura_dol_65.png",
+                    "name": "10_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451,
+                    "sfx": "sfx\\00kosmo3.wav",
+                    "sfx_seed": 10952752
+                },
+                {
+                    "check": [
+                        80,
+                        4,
+                        165
+                    ],
+                    "filename": "kura_dol_62.png",
+                    "name": "11_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        192,
+                        3,
+                        165
+                    ],
+                    "filename": "kura_dol_66.png",
+                    "name": "12_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        48,
+                        3,
+                        165
+                    ],
+                    "filename": "kura_dol_69.png",
+                    "name": "13_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        160,
+                        2,
+                        165
+                    ],
+                    "filename": "kura_dol_71.png",
+                    "name": "14_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        16,
+                        2,
+                        165
+                    ],
+                    "filename": "kura_dol_49.png",
+                    "name": "6_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        128,
+                        1,
+                        165
+                    ],
+                    "filename": "kura_dol_53.png",
+                    "name": "7_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        240
+                    ],
+                    "filename": "kura_dol_57.png",
+                    "name": "8_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        96
+                    ],
+                    "filename": "kura_dol_61.png",
+                    "name": "9_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        144,
+                        31,
+                        165
+                    ],
+                    "filename": "kura_dol_65.png",
+                    "name": "10_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451,
+                    "sfx": "sfx\\00kosmo1.wav",
+                    "sfx_seed": 10958496
+                },
+                {
+                    "check": [],
+                    "filename": "kura_dol_62.png",
+                    "name": "11_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        112,
+                        30,
+                        165
+                    ],
+                    "filename": "kura_dol_66.png",
+                    "name": "12_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        224,
+                        29,
+                        165
+                    ],
+                    "filename": "kura_dol_69.png",
+                    "name": "13_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        80,
+                        29,
+                        165
+                    ],
+                    "filename": "kura_dol_71.png",
+                    "name": "14_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        192,
+                        28,
+                        165
+                    ],
+                    "filename": "kura_dol_53.png",
+                    "name": "7_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        48,
+                        28,
+                        165
+                    ],
+                    "filename": "kura_dol_57.png",
+                    "name": "8_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        160,
+                        27,
+                        165
+                    ],
+                    "filename": "kura_dol_61.png",
+                    "name": "9_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        16,
+                        27,
+                        165
+                    ],
+                    "filename": "kura_dol_65.png",
+                    "name": "10_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451,
+                    "sfx": "sfx\\00kosmo2.wav",
+                    "sfx_seed": 10964448
+                },
+                {
+                    "check": [
+                        128,
+                        26,
+                        165
+                    ],
+                    "filename": "kura_dol_62.png",
+                    "name": "11_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        240,
+                        25,
+                        165
+                    ],
+                    "filename": "kura_dol_66.png",
+                    "name": "12_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        96,
+                        25,
+                        165
+                    ],
+                    "filename": "kura_dol_69.png",
+                    "name": "13_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        208,
+                        24,
+                        165
+                    ],
+                    "filename": "kura_dol_71.png",
+                    "name": "14_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        64,
+                        24,
+                        165
+                    ],
+                    "filename": "kura_dol_49.png",
+                    "name": "6_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        176,
+                        23,
+                        165
+                    ],
+                    "filename": "kura_dol_53.png",
+                    "name": "7_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        32,
+                        23,
+                        165
+                    ],
+                    "filename": "kura_dol_57.png",
+                    "name": "8_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        144,
+                        22,
+                        165
+                    ],
+                    "filename": "kura_dol_61.png",
+                    "name": "9_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [],
+                    "filename": "kura_dol_65.png",
+                    "name": "10_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451,
+                    "sfx": "sfx\\00kosmo1.wav",
+                    "sfx_seed": 10961248
+                },
+                {
+                    "check": [
+                        112,
+                        21,
+                        165
+                    ],
+                    "filename": "kura_dol_62.png",
+                    "name": "11_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        224,
+                        20,
+                        165
+                    ],
+                    "filename": "kura_dol_66.png",
+                    "name": "12_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        80,
+                        20,
+                        165
+                    ],
+                    "filename": "kura_dol_69.png",
+                    "name": "13_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        192,
+                        19,
+                        165
+                    ],
+                    "filename": "kura_dol_71.png",
+                    "name": "14_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        48,
+                        19,
+                        165
+                    ],
+                    "filename": "kura_dol_53.png",
+                    "name": "7_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        160,
+                        18,
+                        165
+                    ],
+                    "filename": "kura_dol_57.png",
+                    "name": "8_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        16,
+                        18,
+                        165
+                    ],
+                    "filename": "kura_dol_61.png",
+                    "name": "9_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        128,
+                        17,
+                        165
+                    ],
+                    "filename": "kura_dol_65.png",
+                    "name": "10_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451,
+                    "sfx": "sfx\\00kosmo3.wav",
+                    "sfx_seed": 10966864
+                },
+                {
+                    "check": [
+                        240,
+                        16,
+                        165
+                    ],
+                    "filename": "kura_dol_62.png",
+                    "name": "11_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        96,
+                        16,
+                        165
+                    ],
+                    "filename": "kura_dol_66.png",
+                    "name": "12_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        144,
+                        47,
+                        165
+                    ],
+                    "filename": "kura_dol_69.png",
+                    "name": "13_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [],
+                    "filename": "kura_dol_71.png",
+                    "name": "14_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        112,
+                        46,
+                        165
+                    ],
+                    "filename": "kura_dol_45.png",
+                    "name": "5_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        224,
+                        45,
+                        165
+                    ],
+                    "filename": "kura_dol_40.png",
+                    "name": "4_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        80,
+                        45,
+                        165
+                    ],
+                    "filename": "kura_dol_33.png",
+                    "name": "3_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        192,
+                        44,
+                        165
+                    ],
+                    "filename": "kura_dol_24.png",
+                    "name": "2_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        48,
+                        44,
+                        165
+                    ],
+                    "filename": "kura_dol_14.png",
+                    "name": "1_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        160,
+                        43,
+                        165
+                    ],
+                    "filename": "kura_dol_4.png",
+                    "name": "0_NAPRAWA",
+                    "position_x": 11,
+                    "position_y": 451
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "_NAPRAWA_PRAWO": {
+            "frames": [
+                {
+                    "check": [
+                        192,
+                        40,
+                        165
+                    ],
+                    "filename": "kura_dol_4.png",
+                    "name": "0_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        48,
+                        40,
+                        165
+                    ],
+                    "filename": "kura_dol_14.png",
+                    "name": "1_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        160,
+                        39,
+                        165
+                    ],
+                    "filename": "kura_dol_24.png",
+                    "name": "2_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        16,
+                        39,
+                        165
+                    ],
+                    "filename": "kura_dol_33.png",
+                    "name": "3_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        128,
+                        38,
+                        165
+                    ],
+                    "filename": "kura_dol_40.png",
+                    "name": "4_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        240,
+                        37,
+                        165
+                    ],
+                    "filename": "kura_dol_45.png",
+                    "name": "5_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        96,
+                        37,
+                        165
+                    ],
+                    "filename": "kura_dol_49.png",
+                    "name": "6_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        208,
+                        36,
+                        165
+                    ],
+                    "filename": "kura_dol_53.png",
+                    "name": "7_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        64,
+                        36,
+                        165
+                    ],
+                    "filename": "kura_dol_57.png",
+                    "name": "8_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        176,
+                        35,
+                        165
+                    ],
+                    "filename": "kura_dol_62.png",
+                    "name": "11_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467,
+                    "sfx": "sfx\\00kosmo2.wav",
+                    "sfx_seed": 10982352
+                },
+                {
+                    "check": [
+                        32,
+                        35,
+                        165
+                    ],
+                    "filename": "kura_dol_66.png",
+                    "name": "12_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        144,
+                        34,
+                        165
+                    ],
+                    "filename": "kura_dol_69.png",
+                    "name": "13_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [],
+                    "filename": "kura_dol_71.png",
+                    "name": "14_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        112,
+                        33,
+                        165
+                    ],
+                    "filename": "kura_dol_53.png",
+                    "name": "7_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        224,
+                        32,
+                        165
+                    ],
+                    "filename": "kura_dol_57.png",
+                    "name": "8_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        80,
+                        32,
+                        165
+                    ],
+                    "filename": "kura_dol_62.png",
+                    "name": "11_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467,
+                    "sfx": "sfx\\00kosmo1.wav",
+                    "sfx_seed": 11005152
+                },
+                {
+                    "check": [
+                        144,
+                        63,
+                        165
+                    ],
+                    "filename": "kura_dol_66.png",
+                    "name": "12_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [],
+                    "filename": "kura_dol_69.png",
+                    "name": "13_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        112,
+                        62,
+                        165
+                    ],
+                    "filename": "kura_dol_71.png",
+                    "name": "14_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        224,
+                        61,
+                        165
+                    ],
+                    "filename": "kura_dol_49.png",
+                    "name": "6_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        80,
+                        61,
+                        165
+                    ],
+                    "filename": "kura_dol_53.png",
+                    "name": "7_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        192,
+                        60,
+                        165
+                    ],
+                    "filename": "kura_dol_57.png",
+                    "name": "8_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        48,
+                        60,
+                        165
+                    ],
+                    "filename": "kura_dol_61.png",
+                    "name": "9_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        160,
+                        59,
+                        165
+                    ],
+                    "filename": "kura_dol_62.png",
+                    "name": "11_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467,
+                    "sfx": "sfx\\00kosmo2.wav",
+                    "sfx_seed": 11008992
+                },
+                {
+                    "check": [
+                        16,
+                        59,
+                        165
+                    ],
+                    "filename": "kura_dol_66.png",
+                    "name": "12_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        128,
+                        58,
+                        165
+                    ],
+                    "filename": "kura_dol_69.png",
+                    "name": "13_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        240,
+                        57,
+                        165
+                    ],
+                    "filename": "kura_dol_71.png",
+                    "name": "14_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        96,
+                        57,
+                        165
+                    ],
+                    "filename": "kura_dol_53.png",
+                    "name": "7_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        208,
+                        56,
+                        165
+                    ],
+                    "filename": "kura_dol_57.png",
+                    "name": "8_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        64,
+                        56,
+                        165
+                    ],
+                    "filename": "kura_dol_62.png",
+                    "name": "11_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467,
+                    "sfx": "sfx\\00kosmo3.wav",
+                    "sfx_seed": 11007040
+                },
+                {
+                    "check": [
+                        176,
+                        55,
+                        165
+                    ],
+                    "filename": "kura_dol_66.png",
+                    "name": "12_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        32,
+                        55,
+                        165
+                    ],
+                    "filename": "kura_dol_69.png",
+                    "name": "13_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        144,
+                        54,
+                        165
+                    ],
+                    "filename": "kura_dol_71.png",
+                    "name": "14_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [],
+                    "filename": "kura_dol_49.png",
+                    "name": "6_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        112,
+                        53,
+                        165
+                    ],
+                    "filename": "kura_dol_53.png",
+                    "name": "7_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        224,
+                        52,
+                        165
+                    ],
+                    "filename": "kura_dol_57.png",
+                    "name": "8_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        80,
+                        52,
+                        165
+                    ],
+                    "filename": "kura_dol_62.png",
+                    "name": "11_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467,
+                    "sfx": "sfx\\00kosmo1.wav",
+                    "sfx_seed": 11011680
+                },
+                {
+                    "check": [
+                        192,
+                        51,
+                        165
+                    ],
+                    "filename": "kura_dol_66.png",
+                    "name": "12_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        48,
+                        51,
+                        165
+                    ],
+                    "filename": "kura_dol_69.png",
+                    "name": "13_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        160,
+                        50,
+                        165
+                    ],
+                    "filename": "kura_dol_71.png",
+                    "name": "14_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        16,
+                        50,
+                        165
+                    ],
+                    "filename": "kura_dol_53.png",
+                    "name": "7_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        128,
+                        49,
+                        165
+                    ],
+                    "filename": "kura_dol_57.png",
+                    "name": "8_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        240,
+                        48,
+                        165
+                    ],
+                    "filename": "kura_dol_62.png",
+                    "name": "11_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467,
+                    "sfx": "sfx\\00kosmo3.wav",
+                    "sfx_seed": 11016240
+                },
+                {
+                    "check": [
+                        96,
+                        48,
+                        165
+                    ],
+                    "filename": "kura_dol_66.png",
+                    "name": "12_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        144,
+                        79,
+                        165
+                    ],
+                    "filename": "kura_dol_69.png",
+                    "name": "13_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [],
+                    "filename": "kura_dol_71.png",
+                    "name": "14_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        112,
+                        78,
+                        165
+                    ],
+                    "filename": "kura_dol_49.png",
+                    "name": "6_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        224,
+                        77,
+                        165
+                    ],
+                    "filename": "kura_dol_53.png",
+                    "name": "7_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        80,
+                        77,
+                        165
+                    ],
+                    "filename": "kura_dol_57.png",
+                    "name": "8_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        192,
+                        76,
+                        165
+                    ],
+                    "filename": "kura_dol_62.png",
+                    "name": "11_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467,
+                    "sfx": "sfx\\00kosmo2.wav",
+                    "sfx_seed": 11021664
+                },
+                {
+                    "check": [
+                        48,
+                        76,
+                        165
+                    ],
+                    "filename": "kura_dol_66.png",
+                    "name": "12_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        160,
+                        75,
+                        165
+                    ],
+                    "filename": "kura_dol_69.png",
+                    "name": "13_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        16,
+                        75,
+                        165
+                    ],
+                    "filename": "kura_dol_71.png",
+                    "name": "14_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        128,
+                        74,
+                        165
+                    ],
+                    "filename": "kura_dol_53.png",
+                    "name": "7_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        240,
+                        73,
+                        165
+                    ],
+                    "filename": "kura_dol_57.png",
+                    "name": "8_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        96,
+                        73,
+                        165
+                    ],
+                    "filename": "kura_dol_62.png",
+                    "name": "11_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467,
+                    "sfx": "sfx\\00kosmo3.wav",
+                    "sfx_seed": 11025376
+                },
+                {
+                    "check": [
+                        208,
+                        72,
+                        165
+                    ],
+                    "filename": "kura_dol_66.png",
+                    "name": "12_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        64,
+                        72,
+                        165
+                    ],
+                    "filename": "kura_dol_69.png",
+                    "name": "13_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        176,
+                        71,
+                        165
+                    ],
+                    "filename": "kura_dol_71.png",
+                    "name": "14_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        32,
+                        71,
+                        165
+                    ],
+                    "filename": "kura_dol_45.png",
+                    "name": "5_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        144,
+                        70,
+                        165
+                    ],
+                    "filename": "kura_dol_40.png",
+                    "name": "4_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [],
+                    "filename": "kura_dol_33.png",
+                    "name": "3_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        112,
+                        69,
+                        165
+                    ],
+                    "filename": "kura_dol_24.png",
+                    "name": "2_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        224,
+                        68,
+                        165
+                    ],
+                    "filename": "kura_dol_14.png",
+                    "name": "1_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                },
+                {
+                    "check": [
+                        80,
+                        68,
+                        165
+                    ],
+                    "filename": "kura_dol_4.png",
+                    "name": "0_NAPRAWA",
+                    "position_x": 408,
+                    "position_y": 467
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "_PRAWOD1": {
+            "frames": [
+                {
+                    "check": [
+                        240,
+                        234,
+                        164
+                    ],
+                    "filename": "kura_dol_2.png",
+                    "name": "1_PRAWO",
+                    "position_x": 15,
+                    "position_y": 456
+                },
+                {
+                    "check": [
+                        96,
+                        234,
+                        164
+                    ],
+                    "filename": "kura_dol_12.png",
+                    "name": "2_PRAWO",
+                    "position_x": 25,
+                    "position_y": 456
+                },
+                {
+                    "check": [
+                        208,
+                        233,
+                        164
+                    ],
+                    "filename": "kura_dol_22.png",
+                    "name": "3_PRAWO",
+                    "position_x": 36,
+                    "position_y": 456
+                },
+                {
+                    "check": [
+                        64,
+                        233,
+                        164
+                    ],
+                    "filename": "kura_dol_31.png",
+                    "name": "4_PRAWO",
+                    "position_x": 46,
+                    "position_y": 456
+                },
+                {
+                    "check": [
+                        176,
+                        232,
+                        164
+                    ],
+                    "filename": "kura_dol_39.png",
+                    "name": "5_PRAWO",
+                    "position_x": 56,
+                    "position_y": 456
+                },
+                {
+                    "check": [
+                        32,
+                        232,
+                        164
+                    ],
+                    "filename": "kura_dol_44.png",
+                    "name": "6_PRAWO",
+                    "position_x": 65,
+                    "position_y": 457
+                },
+                {
+                    "check": [
+                        144,
+                        231,
+                        164
+                    ],
+                    "filename": "kura_dol_48.png",
+                    "name": "7_PRAWO",
+                    "position_x": 74,
+                    "position_y": 457
+                },
+                {
+                    "check": [],
+                    "filename": "kura_dol_52.png",
+                    "name": "8_PRAWO",
+                    "position_x": 83,
+                    "position_y": 457
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "_PRAWOD2": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        208,
+                        164
+                    ],
+                    "filename": "kura_dol_2.png",
+                    "name": "1_PRAWO",
+                    "position_x": 99,
+                    "position_y": 457
+                },
+                {
+                    "check": [
+                        224,
+                        239,
+                        164
+                    ],
+                    "filename": "kura_dol_12.png",
+                    "name": "2_PRAWO",
+                    "position_x": 109,
+                    "position_y": 457
+                },
+                {
+                    "check": [
+                        80,
+                        239,
+                        164
+                    ],
+                    "filename": "kura_dol_22.png",
+                    "name": "3_PRAWO",
+                    "position_x": 120,
+                    "position_y": 457
+                },
+                {
+                    "check": [
+                        192,
+                        238,
+                        164
+                    ],
+                    "filename": "kura_dol_31.png",
+                    "name": "4_PRAWO",
+                    "position_x": 130,
+                    "position_y": 457
+                },
+                {
+                    "check": [
+                        48,
+                        238,
+                        164
+                    ],
+                    "filename": "kura_dol_39.png",
+                    "name": "5_PRAWO",
+                    "position_x": 140,
+                    "position_y": 457
+                },
+                {
+                    "check": [
+                        160,
+                        237,
+                        164
+                    ],
+                    "filename": "kura_dol_44.png",
+                    "name": "6_PRAWO",
+                    "position_x": 149,
+                    "position_y": 458
+                },
+                {
+                    "check": [
+                        16,
+                        237,
+                        164
+                    ],
+                    "filename": "kura_dol_48.png",
+                    "name": "7_PRAWO",
+                    "position_x": 158,
+                    "position_y": 458
+                },
+                {
+                    "check": [
+                        128,
+                        236,
+                        164
+                    ],
+                    "filename": "kura_dol_52.png",
+                    "name": "8_PRAWO",
+                    "position_x": 167,
+                    "position_y": 458
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "_PRAWOD3": {
+            "frames": [
+                {
+                    "check": [
+                        192,
+                        228,
+                        164
+                    ],
+                    "filename": "kura_dol_2.png",
+                    "name": "1_PRAWO",
+                    "position_x": 192,
+                    "position_y": 458
+                },
+                {
+                    "check": [
+                        48,
+                        228,
+                        164
+                    ],
+                    "filename": "kura_dol_12.png",
+                    "name": "2_PRAWO",
+                    "position_x": 200,
+                    "position_y": 459
+                },
+                {
+                    "check": [
+                        160,
+                        227,
+                        164
+                    ],
+                    "filename": "kura_dol_22.png",
+                    "name": "3_PRAWO",
+                    "position_x": 207,
+                    "position_y": 459
+                },
+                {
+                    "check": [
+                        16,
+                        227,
+                        164
+                    ],
+                    "filename": "kura_dol_31.png",
+                    "name": "4_PRAWO",
+                    "position_x": 215,
+                    "position_y": 459
+                },
+                {
+                    "check": [
+                        128,
+                        226,
+                        164
+                    ],
+                    "filename": "kura_dol_39.png",
+                    "name": "5_PRAWO",
+                    "position_x": 222,
+                    "position_y": 459
+                },
+                {
+                    "check": [
+                        240,
+                        225,
+                        164
+                    ],
+                    "filename": "kura_dol_44.png",
+                    "name": "6_PRAWO",
+                    "position_x": 229,
+                    "position_y": 459
+                },
+                {
+                    "check": [
+                        96,
+                        225,
+                        164
+                    ],
+                    "filename": "kura_dol_48.png",
+                    "name": "7_PRAWO",
+                    "position_x": 236,
+                    "position_y": 459
+                },
+                {
+                    "check": [
+                        208,
+                        224,
+                        164
+                    ],
+                    "filename": "kura_dol_52.png",
+                    "name": "8_PRAWO",
+                    "position_x": 242,
+                    "position_y": 459
+                },
+                {
+                    "check": [
+                        64,
+                        224,
+                        164
+                    ],
+                    "filename": "kura_dol_56.png",
+                    "name": "9_PRAWO",
+                    "position_x": 249,
+                    "position_y": 459
+                },
+                {
+                    "check": [
+                        144,
+                        255,
+                        164
+                    ],
+                    "filename": "kura_dol_60.png",
+                    "name": "10_PRAWO",
+                    "position_x": 256,
+                    "position_y": 460
+                },
+                {
+                    "check": [],
+                    "filename": "kura_dol_2.png",
+                    "name": "1_PRAWO",
+                    "position_x": 262,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        112,
+                        254,
+                        164
+                    ],
+                    "filename": "kura_dol_12.png",
+                    "name": "2_PRAWO",
+                    "position_x": 268,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        224,
+                        253,
+                        164
+                    ],
+                    "filename": "kura_dol_22.png",
+                    "name": "3_PRAWO",
+                    "position_x": 275,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        80,
+                        253,
+                        164
+                    ],
+                    "filename": "kura_dol_31.png",
+                    "name": "4_PRAWO",
+                    "position_x": 281,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        192,
+                        252,
+                        164
+                    ],
+                    "filename": "kura_dol_39.png",
+                    "name": "5_PRAWO",
+                    "position_x": 287,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        48,
+                        252,
+                        164
+                    ],
+                    "filename": "kura_dol_44.png",
+                    "name": "6_PRAWO",
+                    "position_x": 293,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        160,
+                        251,
+                        164
+                    ],
+                    "filename": "kura_dol_48.png",
+                    "name": "7_PRAWO",
+                    "position_x": 299,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        16,
+                        251,
+                        164
+                    ],
+                    "filename": "kura_dol_52.png",
+                    "name": "8_PRAWO",
+                    "position_x": 306,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        128,
+                        250,
+                        164
+                    ],
+                    "filename": "kura_dol_56.png",
+                    "name": "9_PRAWO",
+                    "position_x": 312,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        240,
+                        249,
+                        164
+                    ],
+                    "filename": "kura_dol_60.png",
+                    "name": "10_PRAWO",
+                    "position_x": 318,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        96,
+                        249,
+                        164
+                    ],
+                    "filename": "kura_dol_2.png",
+                    "name": "1_PRAWO",
+                    "position_x": 325,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        208,
+                        248,
+                        164
+                    ],
+                    "filename": "kura_dol_12.png",
+                    "name": "2_PRAWO",
+                    "position_x": 331,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        64,
+                        248,
+                        164
+                    ],
+                    "filename": "kura_dol_22.png",
+                    "name": "3_PRAWO",
+                    "position_x": 338,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        176,
+                        247,
+                        164
+                    ],
+                    "filename": "kura_dol_31.png",
+                    "name": "4_PRAWO",
+                    "position_x": 345,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        32,
+                        247,
+                        164
+                    ],
+                    "filename": "kura_dol_39.png",
+                    "name": "5_PRAWO",
+                    "position_x": 351,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        144,
+                        246,
+                        164
+                    ],
+                    "filename": "kura_dol_44.png",
+                    "name": "6_PRAWO",
+                    "position_x": 358,
+                    "position_y": 460
+                },
+                {
+                    "check": [],
+                    "filename": "kura_dol_48.png",
+                    "name": "7_PRAWO",
+                    "position_x": 366,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        112,
+                        245,
+                        164
+                    ],
+                    "filename": "kura_dol_52.png",
+                    "name": "8_PRAWO",
+                    "position_x": 373,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        224,
+                        244,
+                        164
+                    ],
+                    "filename": "kura_dol_56.png",
+                    "name": "9_PRAWO",
+                    "position_x": 380,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        80,
+                        244,
+                        164
+                    ],
+                    "filename": "kura_dol_60.png",
+                    "name": "10_PRAWO",
+                    "position_x": 388,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        192,
+                        243,
+                        164
+                    ],
+                    "filename": "kura_dol_2.png",
+                    "name": "1_PRAWO",
+                    "position_x": 396,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        48,
+                        243,
+                        164
+                    ],
+                    "filename": "kura_dol_2.png",
+                    "name": "1_PRAWO",
+                    "position_x": 396,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        160,
+                        242,
+                        164
+                    ],
+                    "filename": "kura_dol_2.png",
+                    "name": "1_PRAWO",
+                    "position_x": 396,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        16,
+                        242,
+                        164
+                    ],
+                    "filename": "kura_dol_2.png",
+                    "name": "1_PRAWO",
+                    "position_x": 396,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        128,
+                        241,
+                        164
+                    ],
+                    "filename": "kura_dol_2.png",
+                    "name": "1_PRAWO",
+                    "position_x": 396,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        240,
+                        240,
+                        164
+                    ],
+                    "filename": "kura_dol_2.png",
+                    "name": "1_PRAWO",
+                    "position_x": 396,
+                    "position_y": 460
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "kura_dol_0.png": {
+            "compression": 4,
+            "name": "6_LEWO",
+            "position_x": 26,
+            "position_y": 43
+        },
+        "kura_dol_1.png": {
+            "compression": 4,
+            "name": "1_LEWO",
+            "position_x": 27,
+            "position_y": 43
+        },
+        "kura_dol_10.png": {
+            "compression": 4,
+            "name": "7_LEWO",
+            "position_x": 26,
+            "position_y": 37
+        },
+        "kura_dol_11.png": {
+            "compression": 4,
+            "name": "2_LEWO",
+            "position_x": 26,
+            "position_y": 37
+        },
+        "kura_dol_12.png": {
+            "compression": 4,
+            "name": "2_PRAWO",
+            "position_x": 39,
+            "position_y": 37
+        },
+        "kura_dol_13.png": {
+            "compression": 4,
+            "name": "2_NAPRAWASTARTLEWO",
+            "position_x": 30,
+            "position_y": 35
+        },
+        "kura_dol_14.png": {
+            "compression": 4,
+            "name": "1_NAPRAWA",
+            "position_x": 29,
+            "position_y": 38
+        },
+        "kura_dol_15.png": {
+            "compression": 4,
+            "name": "2_NAPRAWASTARTPRAWO",
+            "position_x": 41,
+            "position_y": 35
+        },
+        "kura_dol_16.png": {
+            "compression": 4,
+            "name": "2_NAPRAWASTOPLEWO",
+            "position_x": 32,
+            "position_y": 37
+        },
+        "kura_dol_17.png": {
+            "compression": 4,
+            "name": "3_NAPRAWASTARTPRAWO",
+            "position_x": 40,
+            "position_y": 38
+        },
+        "kura_dol_18.png": {
+            "compression": 4,
+            "name": "2_WKURZONYLEWO",
+            "position_x": 26,
+            "position_y": 42
+        },
+        "kura_dol_19.png": {
+            "compression": 4,
+            "name": "2_WKURZONYPRAWO",
+            "position_x": 14,
+            "position_y": 42
+        },
+        "kura_dol_2.png": {
+            "compression": 4,
+            "name": "1_PRAWO",
+            "position_x": 38,
+            "position_y": 43
+        },
+        "kura_dol_20.png": {
+            "compression": 4,
+            "name": "8_LEWO",
+            "position_x": 22,
+            "position_y": 33
+        },
+        "kura_dol_21.png": {
+            "compression": 4,
+            "name": "3_LEWO",
+            "position_x": 22,
+            "position_y": 33
+        },
+        "kura_dol_22.png": {
+            "compression": 4,
+            "name": "3_PRAWO",
+            "position_x": 39,
+            "position_y": 33
+        },
+        "kura_dol_23.png": {
+            "compression": 4,
+            "name": "3_NAPRAWASTARTLEWO",
+            "position_x": 32,
+            "position_y": 38
+        },
+        "kura_dol_24.png": {
+            "compression": 4,
+            "name": "2_NAPRAWA",
+            "position_x": 26,
+            "position_y": 39
+        },
+        "kura_dol_25.png": {
+            "compression": 4,
+            "name": "3_NAPRAWASTOPLEWO",
+            "position_x": 30,
+            "position_y": 36
+        },
+        "kura_dol_26.png": {
+            "compression": 4,
+            "name": "3_NAPRAWASTOPPRAWO",
+            "position_x": 37,
+            "position_y": 36
+        },
+        "kura_dol_27.png": {
+            "compression": 4,
+            "name": "3_WKURZONYLEWO",
+            "position_x": 31,
+            "position_y": 43
+        },
+        "kura_dol_28.png": {
+            "compression": 4,
+            "name": "3_WKURZONYPRAWO",
+            "position_x": 13,
+            "position_y": 43
+        },
+        "kura_dol_29.png": {
+            "compression": 4,
+            "name": "9_LEWO",
+            "position_x": 25,
+            "position_y": 38
+        },
+        "kura_dol_3.png": {
+            "compression": 4,
+            "name": "1_NAPRAWASTARTLEWO",
+            "position_x": 28,
+            "position_y": 34
+        },
+        "kura_dol_30.png": {
+            "compression": 4,
+            "name": "4_LEWO",
+            "position_x": 25,
+            "position_y": 38
+        },
+        "kura_dol_31.png": {
+            "compression": 4,
+            "name": "4_PRAWO",
+            "position_x": 39,
+            "position_y": 38
+        },
+        "kura_dol_32.png": {
+            "compression": 4,
+            "name": "5_NAPRAWASTARTPRAWO",
+            "position_x": 33,
+            "position_y": 37
+        },
+        "kura_dol_33.png": {
+            "compression": 4,
+            "name": "3_NAPRAWA",
+            "position_x": 27,
+            "position_y": 39
+        },
+        "kura_dol_34.png": {
+            "compression": 4,
+            "name": "3_PRAWO COPY",
+            "position_x": 33,
+            "position_y": 35
+        },
+        "kura_dol_35.png": {
+            "compression": 4,
+            "name": "4_WKURZONYLEWO",
+            "position_x": 33,
+            "position_y": 43
+        },
+        "kura_dol_36.png": {
+            "compression": 4,
+            "name": "4_WKURZONYPRAWO",
+            "position_x": 7,
+            "position_y": 43
+        },
+        "kura_dol_37.png": {
+            "compression": 4,
+            "name": "10_LEWO",
+            "position_x": 27,
+            "position_y": 41
+        },
+        "kura_dol_38.png": {
+            "compression": 4,
+            "name": "5_LEWO",
+            "position_x": 27,
+            "position_y": 41
+        },
+        "kura_dol_39.png": {
+            "compression": 4,
+            "name": "5_PRAWO",
+            "position_x": 38,
+            "position_y": 41
+        },
+        "kura_dol_4.png": {
+            "compression": 4,
+            "name": "0_NAPRAWA",
+            "position_x": 31,
+            "position_y": 38
+        },
+        "kura_dol_40.png": {
+            "compression": 4,
+            "name": "4_NAPRAWA",
+            "position_x": 24,
+            "position_y": 39
+        },
+        "kura_dol_41.png": {
+            "compression": 4,
+            "name": "4_PRAWO COPY",
+            "position_x": 39,
+            "position_y": 40
+        },
+        "kura_dol_42.png": {
+            "compression": 4,
+            "name": "5_WKURZONYLEWO",
+            "position_x": 32,
+            "position_y": 42
+        },
+        "kura_dol_43.png": {
+            "compression": 4,
+            "name": "5_WKURZONYPRAWO",
+            "position_x": 4,
+            "position_y": 42
+        },
+        "kura_dol_44.png": {
+            "compression": 4,
+            "name": "6_PRAWO",
+            "position_x": 38,
+            "position_y": 43
+        },
+        "kura_dol_45.png": {
+            "compression": 4,
+            "name": "5_NAPRAWA",
+            "position_x": 25,
+            "position_y": 39
+        },
+        "kura_dol_46.png": {
+            "compression": 4,
+            "name": "6_WKURZONYLEWO",
+            "position_x": 31,
+            "position_y": 42
+        },
+        "kura_dol_47.png": {
+            "compression": 4,
+            "name": "6_WKURZONYPRAWO",
+            "position_x": 4,
+            "position_y": 42
+        },
+        "kura_dol_48.png": {
+            "compression": 4,
+            "name": "7_PRAWO",
+            "position_x": 39,
+            "position_y": 37
+        },
+        "kura_dol_49.png": {
+            "compression": 4,
+            "name": "6_NAPRAWA",
+            "position_x": 17,
+            "position_y": 42
+        },
+        "kura_dol_5.png": {
+            "compression": 4,
+            "name": "1_NAPRAWASTARTPRAWO",
+            "position_x": 40,
+            "position_y": 34
+        },
+        "kura_dol_50.png": {
+            "compression": 4,
+            "name": "7_WKURZONYLEWO",
+            "position_x": 31,
+            "position_y": 42
+        },
+        "kura_dol_51.png": {
+            "compression": 4,
+            "name": "7_WKURZONYPRAWO",
+            "position_x": 1,
+            "position_y": 42
+        },
+        "kura_dol_52.png": {
+            "compression": 4,
+            "name": "8_PRAWO",
+            "position_x": 39,
+            "position_y": 33
+        },
+        "kura_dol_53.png": {
+            "compression": 4,
+            "name": "7_NAPRAWA",
+            "position_x": 26,
+            "position_y": 31
+        },
+        "kura_dol_54.png": {
+            "compression": 4,
+            "name": "8_WKURZONYLEWO",
+            "position_x": 24,
+            "position_y": 45
+        },
+        "kura_dol_55.png": {
+            "compression": 4,
+            "name": "8_WKURZONYPRAWO",
+            "position_x": 3,
+            "position_y": 45
+        },
+        "kura_dol_56.png": {
+            "compression": 4,
+            "name": "9_PRAWO",
+            "position_x": 39,
+            "position_y": 38
+        },
+        "kura_dol_57.png": {
+            "compression": 4,
+            "name": "8_NAPRAWA",
+            "position_x": 27,
+            "position_y": 23
+        },
+        "kura_dol_58.png": {
+            "compression": 4,
+            "name": "9_WKURZONYLEWO",
+            "position_x": 13,
+            "position_y": 55
+        },
+        "kura_dol_59.png": {
+            "compression": 4,
+            "name": "9_WKURZONYPRAWO",
+            "position_x": 6,
+            "position_y": 55
+        },
+        "kura_dol_6.png": {
+            "compression": 4,
+            "name": "1_NAPRAWASTOPLEWO",
+            "position_x": 32,
+            "position_y": 38
+        },
+        "kura_dol_60.png": {
+            "compression": 4,
+            "name": "10_PRAWO",
+            "position_x": 39,
+            "position_y": 41
+        },
+        "kura_dol_61.png": {
+            "compression": 4,
+            "name": "9_NAPRAWA",
+            "position_x": 28,
+            "position_y": 8
+        },
+        "kura_dol_62.png": {
+            "compression": 4,
+            "name": "11_NAPRAWA",
+            "position_x": 10,
+            "position_y": 16
+        },
+        "kura_dol_63.png": {
+            "compression": 4,
+            "name": "10_WKURZONYLEWO",
+            "position_x": 2,
+            "position_y": 45
+        },
+        "kura_dol_64.png": {
+            "compression": 4,
+            "name": "10_WKURZONYPRAWO",
+            "position_x": 12,
+            "position_y": 45
+        },
+        "kura_dol_65.png": {
+            "compression": 4,
+            "name": "10_NAPRAWA",
+            "position_x": 10,
+            "position_y": 2
+        },
+        "kura_dol_66.png": {
+            "compression": 4,
+            "name": "12_NAPRAWA",
+            "position_x": 2,
+            "position_y": 37
+        },
+        "kura_dol_67.png": {
+            "compression": 4,
+            "name": "12_WKURZONYLEWO",
+            "position_x": 6,
+            "position_y": 55
+        },
+        "kura_dol_68.png": {
+            "compression": 4,
+            "name": "11_WKURZONYPRAWO",
+            "position_x": 6,
+            "position_y": 48
+        },
+        "kura_dol_69.png": {
+            "compression": 4,
+            "name": "13_NAPRAWA",
+            "position_x": 13,
+            "position_y": 39
+        },
+        "kura_dol_7.png": {
+            "compression": 4,
+            "name": "4_NAPRAWASTARTPRAWO",
+            "position_x": 35,
+            "position_y": 37
+        },
+        "kura_dol_70.png": {
+            "compression": 4,
+            "name": "12_WKURZONYPRAWO",
+            "position_x": 7,
+            "position_y": 55
+        },
+        "kura_dol_71.png": {
+            "compression": 4,
+            "name": "14_NAPRAWA",
+            "position_x": 18,
+            "position_y": 41
+        },
+        "kura_dol_8.png": {
+            "compression": 4,
+            "name": "1_WKURZONYLEWO",
+            "position_x": 30,
+            "position_y": 43
+        },
+        "kura_dol_9.png": {
+            "compression": 4,
+            "name": "1_WKURZONYPRAWO",
+            "position_x": 14,
+            "position_y": 43
+        }
+    },
+    "transparency": 255
+}

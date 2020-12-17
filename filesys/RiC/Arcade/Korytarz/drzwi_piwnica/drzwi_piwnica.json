@@ -1,0 +1,109 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "600-499-366": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi_piwnica_0.png",
+                    "name": "DRZWI_DO_PIWNICY_600-499-366",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi_piwnica_0.png",
+                    "name": "DRZWI_DO_PIWNICY_600-499-366",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE0": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi_piwnica_0.png",
+                    "name": "DRZWI_DO_PIWNICY_600-499-366",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\door3cl.wav",
+                    "sfx_seed": 25115100
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi_piwnica_0.png",
+                    "name": "DRZWI_DO_PIWNICY_600-499-366",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE1": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi_piwnica_0.png",
+                    "name": "DRZWI_DO_PIWNICY_600-499-366",
+                    "position_x": 1,
+                    "position_y": 386,
+                    "sfx": "SFX\\door3op.wav",
+                    "sfx_seed": 25113540
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi_piwnica_0.png",
+                    "name": "DRZWI_DO_PIWNICY_600-499-366",
+                    "position_x": 1,
+                    "position_y": 386
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "drzwi_piwnica_0.png": {
+            "compression": 4,
+            "name": "DRZWI_DO_PIWNICY_60",
+            "position_x": 652,
+            "position_y": 244
+        }
+    },
+    "transparency": 255
+}

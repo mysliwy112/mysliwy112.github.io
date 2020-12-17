@@ -1,0 +1,32 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "idle": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "zajezdnia_0.png",
+                    "name": "zajezdnia1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "zajezdnia_0.png": {
+            "compression": 3,
+            "name": "zajezdnia1",
+            "position_x": 714,
+            "position_y": 204
+        }
+    },
+    "transparency": 255
+}

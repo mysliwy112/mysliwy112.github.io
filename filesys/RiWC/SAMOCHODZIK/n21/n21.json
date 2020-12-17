@@ -1,0 +1,32 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "TRASA_POCIETA": {
+            "frames": [
+                {
+                    "check": [
+                        64,
+                        206,
+                        85
+                    ],
+                    "filename": "n21_0.png",
+                    "name": "ORG_COPY_4",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "n21_0.png": {
+            "compression": 2,
+            "name": "ORG_COPY_4",
+            "position_x": 227,
+            "position_y": 275
+        }
+    },
+    "transparency": 255
+}

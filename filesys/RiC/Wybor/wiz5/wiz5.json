@@ -1,0 +1,66 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "wiz5_0.png",
+                    "name": "CHRUM0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "wiz5_1.png",
+                    "name": "CHRUM1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "wiz5_2.png",
+                    "name": "CHRUM2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "wiz5_0.png": {
+            "compression": 4,
+            "name": "CHRUM0",
+            "position_x": 477,
+            "position_y": 471
+        },
+        "wiz5_1.png": {
+            "compression": 4,
+            "name": "CHRUM1",
+            "position_x": 477,
+            "position_y": 471
+        },
+        "wiz5_2.png": {
+            "compression": 4,
+            "name": "CHRUM2",
+            "position_x": 477,
+            "position_y": 471
+        }
+    },
+    "transparency": 255
+}

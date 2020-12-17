@@ -1,0 +1,114 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "DOWN": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "enemy0_field_2.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "IDLE": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "enemy0_field_4.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "LEFT": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "enemy0_field_0.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "RIGHT": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "enemy0_field_1.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "UP": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "enemy0_field_3.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "enemy0_field_0.png": {
+            "compression": 4,
+            "name": "LEFT"
+        },
+        "enemy0_field_1.png": {
+            "compression": 4,
+            "name": "RIGHT"
+        },
+        "enemy0_field_2.png": {
+            "compression": 4,
+            "name": "DOWN"
+        },
+        "enemy0_field_3.png": {
+            "compression": 4,
+            "name": "UP"
+        },
+        "enemy0_field_4.png": {
+            "compression": 4,
+            "name": "IDLE"
+        }
+    },
+    "transparency": 255
+}

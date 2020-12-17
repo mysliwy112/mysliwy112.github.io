@@ -1,0 +1,122 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "ANNPLAYER1": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "wiezienie0_1.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ANNPLAYER2": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "wiezienie0_2.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ANNPLAYER3": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "wiezienie0_3.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ANNPLAYER4": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "wiezienie0_4.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "WIEZIENIE": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "wiezienie0_0.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "wiezienie0_0.png": {
+            "compression": 4,
+            "name": "WIEZIENIE",
+            "position_x": 352,
+            "position_y": 32
+        },
+        "wiezienie0_1.png": {
+            "compression": 4,
+            "name": "WIEZIENIE_GREK0",
+            "position_x": 352
+        },
+        "wiezienie0_2.png": {
+            "compression": 4,
+            "name": "WIEZIENIE_GREK1",
+            "position_x": 384
+        },
+        "wiezienie0_3.png": {
+            "compression": 4,
+            "name": "WIEZIENIE_GREK2",
+            "position_x": 576,
+            "position_y": 384
+        },
+        "wiezienie0_4.png": {
+            "compression": 4,
+            "name": "WIEZIENIE_GREK3",
+            "position_x": 608,
+            "position_y": 384
+        }
+    },
+    "transparency": 255
+}

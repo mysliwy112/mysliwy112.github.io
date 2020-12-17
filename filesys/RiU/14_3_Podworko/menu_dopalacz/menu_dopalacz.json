@@ -1,0 +1,115 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONCLICK": {
+            "frames": [
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "menu_dopalacz_2.png",
+                    "name": "DOPALACZ",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONFOCUSOFF": {
+            "frames": [
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "menu_dopalacz_0.png",
+                    "name": "DOPALACZ",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONFOCUSON": {
+            "frames": [
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "menu_dopalacz_1.png",
+                    "name": "DOPALACZ",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONNOEVENT": {
+            "frames": [
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "menu_dopalacz_0.png",
+                    "name": "DOPALACZ",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "menu_dopalacz_0.png": {
+            "compression": 4,
+            "name": "DOPALACZ",
+            "position_x": 18,
+            "position_y": 528
+        },
+        "menu_dopalacz_1.png": {
+            "compression": 4,
+            "name": "DOPALACZ",
+            "position_x": 11,
+            "position_y": 521
+        },
+        "menu_dopalacz_2.png": {
+            "compression": 4,
+            "name": "DOPALACZ",
+            "position_x": 15,
+            "position_y": 525
+        }
+    },
+    "transparency": 255
+}

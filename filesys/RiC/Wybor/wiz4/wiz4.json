@@ -1,0 +1,66 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "wiz4_0.png",
+                    "name": "MYSZ0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "wiz4_1.png",
+                    "name": "MYSZ1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "wiz4_2.png",
+                    "name": "MYSZ2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "wiz4_0.png": {
+            "compression": 4,
+            "name": "MYSZ0",
+            "position_x": 429,
+            "position_y": 471
+        },
+        "wiz4_1.png": {
+            "compression": 4,
+            "name": "MYSZ1",
+            "position_x": 429,
+            "position_y": 471
+        },
+        "wiz4_2.png": {
+            "compression": 4,
+            "name": "MYSZ2",
+            "position_x": 429,
+            "position_y": 471
+        }
+    },
+    "transparency": 255
+}

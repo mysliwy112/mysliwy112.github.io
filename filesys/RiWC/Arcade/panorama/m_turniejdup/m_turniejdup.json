@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "3375-500-10": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_turniejdup_0.png",
+                    "name": "TURNIEJ",
+                    "position_x": 3060,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_turniejdup_0.png",
+                    "name": "TURNIEJ",
+                    "position_x": 3060,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "m_turniejdup_0.png": {
+            "compression": 3,
+            "name": "TURNIEJ",
+            "position_x": 302,
+            "position_y": 367
+        }
+    },
+    "transparency": 255
+}

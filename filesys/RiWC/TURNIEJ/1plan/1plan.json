@@ -1,0 +1,65 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "1PLAN": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "1plan_0.png",
+                    "name": "1PLAN1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "1plan_1.png",
+                    "name": "1PLAN2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "1plan_2.png",
+                    "name": "1PLAN3",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "1plan_0.png": {
+            "compression": 3,
+            "name": "1PLAN1",
+            "position_y": 278
+        },
+        "1plan_1.png": {
+            "compression": 3,
+            "name": "1PLAN2",
+            "position_x": 1600,
+            "position_y": 394
+        },
+        "1plan_2.png": {
+            "compression": 3,
+            "name": "1PLAN3",
+            "position_x": 3200,
+            "position_y": 291
+        }
+    },
+    "transparency": 255
+}

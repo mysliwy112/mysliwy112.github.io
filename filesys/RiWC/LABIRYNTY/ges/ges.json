@@ -1,0 +1,2522 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CAN_SPELL": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_4.png",
+                    "name": "1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "DOWN": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_0.png",
+                    "name": "NORMAL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_13.png",
+                    "name": "DOWN",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_25.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_37.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_0.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_13.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_25.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_37.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "DOWN_FROG": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_5.png",
+                    "name": "_FROG",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_17.png",
+                    "name": "DOWN",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_29.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_41.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_5.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_17.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_29.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_41.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "IDLE": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_4.png",
+                    "name": "NORMAL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_4.png",
+                    "name": "IDLE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_4.png",
+                    "name": "IDLE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_4.png",
+                    "name": "IDLE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_4.png",
+                    "name": "IDLE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_4.png",
+                    "name": "IDLE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_4.png",
+                    "name": "IDLE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_4.png",
+                    "name": "IDLE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_4.png",
+                    "name": "IDLE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_4.png",
+                    "name": "IDLE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_4.png",
+                    "name": "IDLE",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "IMMUNE": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_4.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "LEFT": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_1.png",
+                    "name": "NORMAL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_14.png",
+                    "name": "LEFT",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_26.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_38.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_1.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_14.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_26.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_38.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "LEFT_FROG": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_6.png",
+                    "name": "_FROG",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_18.png",
+                    "name": "LEFT",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_30.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_42.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_6.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_18.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_30.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_42.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "RIGHT": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_2.png",
+                    "name": "NORMAL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_15.png",
+                    "name": "RIGHT",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_27.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_39.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_2.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_15.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_27.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_39.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "RIGHT_FROG": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_8.png",
+                    "name": "_FROG",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_20.png",
+                    "name": "RIGHT",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_32.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_44.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_8.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_20.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_32.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_44.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "SPELL_DOWN": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_9.png",
+                    "name": "NORMAL",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\czarladujer.wav",
+                    "sfx_seed": 24201564
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_21.png",
+                    "name": "DOWN",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_33.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_33.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_21.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_9.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_9.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_21.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_33.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_33.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_33.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_33.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_21.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_9.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_9.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_21.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_33.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_33.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_45.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_45.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\czarstrzr.wav",
+                    "sfx_seed": 24212108
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_45.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_45.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_45.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_45.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_45.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_45.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_45.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_45.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_45.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "SPELL_LEFT": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_10.png",
+                    "name": "NORMAL",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\czarladujer.wav",
+                    "sfx_seed": 24218116
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_22.png",
+                    "name": "LEFT",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_34.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_34.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_22.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_22.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_34.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_34.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_34.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_34.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_22.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_22.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_34.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_34.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_34.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_34.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_22.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_22.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_34.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_34.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_46.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\czarstrzr.wav",
+                    "sfx_seed": 24227236
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_46.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_46.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_46.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_46.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_46.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_46.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_46.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_46.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "SPELL_RIGHT": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_12.png",
+                    "name": "NORMAL",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\czarladujer.wav",
+                    "sfx_seed": 24247748
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_24.png",
+                    "name": "RIGHT",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_36.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_36.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_36.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_36.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_24.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_12.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_36.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_36.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_36.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_36.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_24.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_12.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_36.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_36.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_36.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_36.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_24.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_12.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_48.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\czarstrzr.wav",
+                    "sfx_seed": 24256868
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_48.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_48.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_48.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_48.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_48.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_48.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_48.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_48.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "SPELL_UP": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_11.png",
+                    "name": "NORMAL",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\czarladujer.wav",
+                    "sfx_seed": 24232884
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_23.png",
+                    "name": "UP",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_35.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_35.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_23.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_23.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_35.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_35.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_35.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_35.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_23.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_23.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_35.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_35.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_35.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_35.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_23.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_23.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_35.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_35.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_47.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\czarstrzr.wav",
+                    "sfx_seed": 24242100
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_47.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_47.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_47.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_47.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_47.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_47.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_47.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_47.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "UP": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_3.png",
+                    "name": "NORMAL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_16.png",
+                    "name": "UP",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_28.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_40.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_3.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_16.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_28.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_40.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "UP_FROG": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_7.png",
+                    "name": "_FROG",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_19.png",
+                    "name": "UP",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_31.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_43.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_7.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_19.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_31.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "ges_43.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "ges_0.png": {
+            "compression": 4,
+            "name": "1",
+            "position_y": 6
+        },
+        "ges_1.png": {
+            "compression": 4,
+            "name": "1",
+            "position_x": 1
+        },
+        "ges_10.png": {
+            "compression": 4,
+            "name": "C1",
+            "position_x": -8,
+            "position_y": 5
+        },
+        "ges_11.png": {
+            "compression": 4,
+            "name": "C1",
+            "position_x": 4,
+            "position_y": -8
+        },
+        "ges_12.png": {
+            "compression": 4,
+            "name": "C1",
+            "position_x": 10,
+            "position_y": 4
+        },
+        "ges_13.png": {
+            "compression": 4,
+            "name": "2",
+            "position_y": 5
+        },
+        "ges_14.png": {
+            "compression": 4,
+            "name": "2",
+            "position_x": 1
+        },
+        "ges_15.png": {
+            "compression": 4,
+            "name": "2",
+            "position_x": 5
+        },
+        "ges_16.png": {
+            "compression": 4,
+            "name": "2",
+            "position_y": 1
+        },
+        "ges_17.png": {
+            "compression": 4,
+            "name": "2",
+            "position_x": 9,
+            "position_y": 11
+        },
+        "ges_18.png": {
+            "compression": 4,
+            "name": "2",
+            "position_x": 12,
+            "position_y": 9
+        },
+        "ges_19.png": {
+            "compression": 4,
+            "name": "2",
+            "position_x": 9,
+            "position_y": 12
+        },
+        "ges_2.png": {
+            "compression": 4,
+            "name": "1",
+            "position_x": 6
+        },
+        "ges_20.png": {
+            "compression": 4,
+            "name": "2",
+            "position_x": 11,
+            "position_y": 9
+        },
+        "ges_21.png": {
+            "compression": 4,
+            "name": "C2",
+            "position_x": 5,
+            "position_y": 10
+        },
+        "ges_22.png": {
+            "compression": 4,
+            "name": "C2",
+            "position_x": -8,
+            "position_y": 5
+        },
+        "ges_23.png": {
+            "compression": 4,
+            "name": "C2",
+            "position_x": 4,
+            "position_y": -8
+        },
+        "ges_24.png": {
+            "compression": 4,
+            "name": "C2",
+            "position_x": 10,
+            "position_y": 4
+        },
+        "ges_25.png": {
+            "compression": 4,
+            "name": "3",
+            "position_x": 1,
+            "position_y": 5
+        },
+        "ges_26.png": {
+            "compression": 4,
+            "name": "3",
+            "position_x": 1,
+            "position_y": 1
+        },
+        "ges_27.png": {
+            "compression": 4,
+            "name": "3",
+            "position_x": 5
+        },
+        "ges_28.png": {
+            "compression": 4,
+            "name": "3",
+            "position_y": 1
+        },
+        "ges_29.png": {
+            "compression": 4,
+            "name": "3",
+            "position_x": 9,
+            "position_y": 6
+        },
+        "ges_3.png": {
+            "compression": 4,
+            "name": "1",
+            "position_y": 1
+        },
+        "ges_30.png": {
+            "compression": 4,
+            "name": "3",
+            "position_x": 10,
+            "position_y": 9
+        },
+        "ges_31.png": {
+            "compression": 4,
+            "name": "3",
+            "position_x": 8,
+            "position_y": 10
+        },
+        "ges_32.png": {
+            "compression": 4,
+            "name": "3",
+            "position_x": 6,
+            "position_y": 8
+        },
+        "ges_33.png": {
+            "compression": 4,
+            "name": "C3",
+            "position_x": 5,
+            "position_y": 10
+        },
+        "ges_34.png": {
+            "compression": 4,
+            "name": "C3",
+            "position_x": -7,
+            "position_y": 5
+        },
+        "ges_35.png": {
+            "compression": 4,
+            "name": "C3",
+            "position_x": 4,
+            "position_y": -7
+        },
+        "ges_36.png": {
+            "compression": 4,
+            "name": "C3",
+            "position_x": 10,
+            "position_y": 4
+        },
+        "ges_37.png": {
+            "compression": 4,
+            "name": "4",
+            "position_x": 1,
+            "position_y": 5
+        },
+        "ges_38.png": {
+            "compression": 4,
+            "name": "4",
+            "position_x": 1,
+            "position_y": 1
+        },
+        "ges_39.png": {
+            "compression": 4,
+            "name": "4",
+            "position_x": 5,
+            "position_y": 2
+        },
+        "ges_4.png": {
+            "compression": 4,
+            "name": "STOI",
+            "position_x": 3,
+            "position_y": 10
+        },
+        "ges_40.png": {
+            "compression": 4,
+            "name": "4",
+            "position_x": 2,
+            "position_y": 1
+        },
+        "ges_41.png": {
+            "compression": 4,
+            "name": "4",
+            "position_x": 10,
+            "position_y": -4
+        },
+        "ges_42.png": {
+            "compression": 4,
+            "name": "4",
+            "position_x": 9,
+            "position_y": 10
+        },
+        "ges_43.png": {
+            "compression": 4,
+            "name": "4",
+            "position_x": 10,
+            "position_y": 9
+        },
+        "ges_44.png": {
+            "compression": 4,
+            "name": "4",
+            "position_x": -4,
+            "position_y": 10
+        },
+        "ges_45.png": {
+            "compression": 4,
+            "name": "C4",
+            "position_x": 1,
+            "position_y": 10
+        },
+        "ges_46.png": {
+            "compression": 4,
+            "name": "C4",
+            "position_x": -13,
+            "position_y": 1
+        },
+        "ges_47.png": {
+            "compression": 4,
+            "name": "C4",
+            "position_x": 4,
+            "position_y": -13
+        },
+        "ges_48.png": {
+            "compression": 4,
+            "name": "C4",
+            "position_x": 10,
+            "position_y": 4
+        },
+        "ges_5.png": {
+            "compression": 4,
+            "name": "1",
+            "position_x": 9,
+            "position_y": 11
+        },
+        "ges_6.png": {
+            "compression": 4,
+            "name": "1",
+            "position_x": 12,
+            "position_y": 9
+        },
+        "ges_7.png": {
+            "compression": 4,
+            "name": "1",
+            "position_x": 9,
+            "position_y": 12
+        },
+        "ges_8.png": {
+            "compression": 4,
+            "name": "1",
+            "position_x": 11,
+            "position_y": 9
+        },
+        "ges_9.png": {
+            "compression": 4,
+            "name": "C1",
+            "position_x": 5,
+            "position_y": 10
+        }
+    },
+    "transparency": 255
+}

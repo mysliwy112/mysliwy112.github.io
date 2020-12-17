@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "o_kret_but_0.png",
+                    "name": "KRET_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "o_kret_but_1.png",
+                    "name": "KRET",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "o_kret_but_0.png": {
+            "compression": 3,
+            "name": "KRET_COPY",
+            "position_x": 10,
+            "position_y": 10
+        },
+        "o_kret_but_1.png": {
+            "compression": 3,
+            "name": "KRET",
+            "position_x": 16,
+            "position_y": 17
+        }
+    },
+    "transparency": 255
+}

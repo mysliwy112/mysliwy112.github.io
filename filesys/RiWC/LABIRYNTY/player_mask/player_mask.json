@@ -1,0 +1,131 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "DOWN": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "player_mask_4.png",
+                    "name": "Layer 2 copy 3",
+                    "position_x": 1,
+                    "position_y": -97
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "IDLE": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "player_mask_0.png",
+                    "name": "Layer 3",
+                    "position_x": 1,
+                    "position_y": -97
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "LEFT": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "player_mask_1.png",
+                    "name": "Layer 2",
+                    "position_x": 1,
+                    "position_y": -97
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "RIGHT": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "player_mask_2.png",
+                    "name": "Layer 2 copy 2",
+                    "position_x": 1,
+                    "position_y": -97
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "UP": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "player_mask_3.png",
+                    "name": "Layer 2 copy",
+                    "position_x": 1,
+                    "position_y": -97
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "WAIT": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "player_mask_0.png",
+                    "name": "Layer 3",
+                    "position_x": 1,
+                    "position_y": -97
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "player_mask_0.png": {
+            "compression": 4,
+            "name": "LAYER_3"
+        },
+        "player_mask_1.png": {
+            "compression": 4,
+            "name": "LAYER_2"
+        },
+        "player_mask_2.png": {
+            "compression": 4,
+            "name": "LAYER_2_COPY_2"
+        },
+        "player_mask_3.png": {
+            "compression": 4,
+            "name": "LAYER_2_COPY"
+        },
+        "player_mask_4.png": {
+            "compression": 4,
+            "name": "LAYER_2_COPY_3"
+        }
+    },
+    "transparency": 255
+}

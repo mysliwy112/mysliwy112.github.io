@@ -1,0 +1,134 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "160-400-599": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "macko_0.png",
+                    "name": "DZIK",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "GADA_0": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "macko_0.png",
+                    "name": "DZIK",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "macko_1.png",
+                    "name": "DZIK_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "macko_2.png",
+                    "name": "DZIK_COPY_2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "GADA_START": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "macko_0.png",
+                    "name": "DZIK",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "GADA_STOP": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "macko_0.png",
+                    "name": "DZIK",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "macko_0.png",
+                    "name": "DZIK",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "macko_0.png": {
+            "compression": 3,
+            "name": "DZIK",
+            "position_x": 43,
+            "position_y": 159
+        },
+        "macko_1.png": {
+            "compression": 3,
+            "name": "DZIK_COPY",
+            "position_x": 43,
+            "position_y": 159
+        },
+        "macko_2.png": {
+            "compression": 3,
+            "name": "DZIK_COPY_2",
+            "position_x": 43,
+            "position_y": 159
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,861 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "DO75": {
+            "frames": [
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_0.png",
+                    "name": "STROJ_0",
+                    "position_x": 375,
+                    "position_y": 438,
+                    "sfx": "SFX\\00step1x.wav;SFX\\00step4x.wav;SFX\\00step3x.wav;SFX\\00step2x.wav",
+                    "sfx_seed": 221552268
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_2.png",
+                    "name": "1_IDZIE P",
+                    "position_x": 375,
+                    "position_y": 438
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_3.png",
+                    "name": "2_IDZIE P",
+                    "position_x": 372,
+                    "position_y": 435
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_4.png",
+                    "name": "3_IDZIE P",
+                    "position_x": 369,
+                    "position_y": 431
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_5.png",
+                    "name": "4_IDZIE P",
+                    "position_x": 365,
+                    "position_y": 429
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_6.png",
+                    "name": "5_IDZIE P",
+                    "position_x": 363,
+                    "position_y": 427,
+                    "sfx": "SFX\\00step1x.wav;SFX\\00step4x.wav;SFX\\00step3x.wav;SFX\\00step2x.wav",
+                    "sfx_seed": 221283096
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_7.png",
+                    "name": "6_IDZIE P",
+                    "position_x": 361,
+                    "position_y": 426
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_8.png",
+                    "name": "7_IDZIE P",
+                    "position_x": 359,
+                    "position_y": 424
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_9.png",
+                    "name": "8_IDZIE P",
+                    "position_x": 359,
+                    "position_y": 424
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_2.png",
+                    "name": "1_IDZIE P",
+                    "position_x": 356,
+                    "position_y": 423,
+                    "sfx": "SFX\\00step1x.wav;SFX\\00step4x.wav;SFX\\00step3x.wav;SFX\\00step2x.wav",
+                    "sfx_seed": 221284652
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_3.png",
+                    "name": "2_IDZIE P",
+                    "position_x": 354,
+                    "position_y": 420
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_4.png",
+                    "name": "3_IDZIE P",
+                    "position_x": 352,
+                    "position_y": 416
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_5.png",
+                    "name": "4_IDZIE P",
+                    "position_x": 349,
+                    "position_y": 414
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_6.png",
+                    "name": "5_IDZIE P",
+                    "position_x": 348,
+                    "position_y": 412,
+                    "sfx": "SFX\\00step1x.wav;SFX\\00step4x.wav;SFX\\00step3x.wav;SFX\\00step2x.wav",
+                    "sfx_seed": 221550712
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_7.png",
+                    "name": "6_IDZIE P",
+                    "position_x": 349,
+                    "position_y": 411
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_8.png",
+                    "name": "7_IDZIE P",
+                    "position_x": 346,
+                    "position_y": 409
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_9.png",
+                    "name": "8_IDZIE P",
+                    "position_x": 347,
+                    "position_y": 409
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "Z71": {
+            "frames": [
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_1.png",
+                    "name": "1_IDZIE P",
+                    "position_x": 49,
+                    "position_y": 119
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_1.png",
+                    "name": "1_IDZIE P",
+                    "position_x": 47,
+                    "position_y": 97
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_1.png",
+                    "name": "1_IDZIE P",
+                    "position_x": 44,
+                    "position_y": 77
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_1.png",
+                    "name": "1_IDZIE P",
+                    "position_x": 40,
+                    "position_y": 64,
+                    "sfx": "SFX\\00step1.wav;SFX\\00step2.wav;SFX\\00step3.wav;SFX\\00step4.wav",
+                    "sfx_seed": 221560048
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_1.png",
+                    "name": "1_IDZIE P",
+                    "position_x": 31,
+                    "position_y": 51
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_1.png",
+                    "name": "1_IDZIE P",
+                    "position_x": 10,
+                    "position_y": 22
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_1.png",
+                    "name": "1_IDZIE P",
+                    "position_x": 3,
+                    "position_y": 11
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_1.png",
+                    "name": "1_IDZIE P",
+                    "position_x": -4,
+                    "position_y": 7,
+                    "sfx": "SFX\\00step1.wav;SFX\\00step2.wav;SFX\\00step3.wav;SFX\\00step4.wav",
+                    "sfx_seed": 221558492
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_1.png",
+                    "name": "1_IDZIE P",
+                    "position_x": -16,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_10.png",
+                    "name": "2_IDZIE P",
+                    "position_x": -9,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_11.png",
+                    "name": "3_IDZIE P",
+                    "position_x": -12,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_12.png",
+                    "name": "4_IDZIE P",
+                    "position_x": -7,
+                    "position_y": -1,
+                    "sfx": "SFX\\00step1.wav;SFX\\00step2.wav;SFX\\00step3.wav;SFX\\00step4.wav",
+                    "sfx_seed": 221556936
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_13.png",
+                    "name": "5_IDZIE P",
+                    "position_x": -7,
+                    "position_y": -1
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_14.png",
+                    "name": "6_IDZIE P",
+                    "position_x": -6,
+                    "position_y": -1
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_15.png",
+                    "name": "7_IDZIE P",
+                    "position_x": -5,
+                    "position_y": -1
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_16.png",
+                    "name": "8_IDZIE P",
+                    "position_x": -13,
+                    "position_y": -1,
+                    "sfx": "SFX\\00step1.wav;SFX\\00step2.wav;SFX\\00step3.wav;SFX\\00step4.wav",
+                    "sfx_seed": 221553824
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_17.png",
+                    "name": "1_IDZIE P",
+                    "position_x": -13,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_18.png",
+                    "name": "2_IDZIE P",
+                    "position_x": -5,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_19.png",
+                    "name": "3_IDZIE P",
+                    "position_x": -7,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_20.png",
+                    "name": "4_IDZIE P",
+                    "position_x": -3,
+                    "position_y": 0,
+                    "sfx": "SFX\\00step1.wav;SFX\\00step2.wav;SFX\\00step3.wav;SFX\\00step4.wav",
+                    "sfx_seed": 221555380
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_21.png",
+                    "name": "5_IDZIE P",
+                    "position_x": -2,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_22.png",
+                    "name": "6_IDZIE P",
+                    "position_x": -5,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_23.png",
+                    "name": "7_IDZIE P",
+                    "position_x": -4,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_24.png",
+                    "name": "8_IDZIE P",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\00step1x.wav;SFX\\00step4x.wav;SFX\\00step3x.wav;SFX\\00step2x.wav",
+                    "sfx_seed": 221561604
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_25.png",
+                    "name": "1_IDZIE P",
+                    "position_x": 4,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_26.png",
+                    "name": "2_IDZIE P",
+                    "position_x": 4,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_27.png",
+                    "name": "3_IDZIE P",
+                    "position_x": 5,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_28.png",
+                    "name": "4_IDZIE P",
+                    "position_x": 4,
+                    "position_y": 0,
+                    "sfx": "SFX\\00step1x.wav;SFX\\00step4x.wav;SFX\\00step3x.wav;SFX\\00step2x.wav",
+                    "sfx_seed": 221563160
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_6.png",
+                    "name": "5_IDZIE P",
+                    "position_x": 385,
+                    "position_y": 468
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_7.png",
+                    "name": "6_IDZIE P",
+                    "position_x": 382,
+                    "position_y": 465
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_8.png",
+                    "name": "7_IDZIE P",
+                    "position_x": 382,
+                    "position_y": 463
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_9.png",
+                    "name": "8_IDZIE P",
+                    "position_x": 383,
+                    "position_y": 463,
+                    "sfx": "SFX\\00step1x.wav;SFX\\00step4x.wav;SFX\\00step3x.wav;SFX\\00step2x.wav",
+                    "sfx_seed": 221564716
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_2.png",
+                    "name": "1_IDZIE P",
+                    "position_x": 382,
+                    "position_y": 460
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_3.png",
+                    "name": "2_IDZIE P",
+                    "position_x": 379,
+                    "position_y": 458
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_4.png",
+                    "name": "3_IDZIE P",
+                    "position_x": 378,
+                    "position_y": 454
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_5.png",
+                    "name": "4_IDZIE P",
+                    "position_x": 379,
+                    "position_y": 452,
+                    "sfx": "SFX\\00step1x.wav;SFX\\00step4x.wav;SFX\\00step3x.wav;SFX\\00step2x.wav",
+                    "sfx_seed": 221566272
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_6.png",
+                    "name": "5_IDZIE P",
+                    "position_x": 377,
+                    "position_y": 449
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_7.png",
+                    "name": "6_IDZIE P",
+                    "position_x": 376,
+                    "position_y": 446
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_8.png",
+                    "name": "7_IDZIE P",
+                    "position_x": 375,
+                    "position_y": 443
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_9.png",
+                    "name": "8_IDZIE P",
+                    "position_x": 375,
+                    "position_y": 438,
+                    "sfx": "SFX\\00step1x.wav;SFX\\00step4x.wav;SFX\\00step3x.wav;SFX\\00step2x.wav",
+                    "sfx_seed": 221567828
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_0.png",
+                    "name": "STROJ_0",
+                    "position_x": 375,
+                    "position_y": 438
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "reksio_0.png": {
+            "compression": 3,
+            "name": "STROJ_0",
+            "position_x": 12,
+            "position_y": 4
+        },
+        "reksio_1.png": {
+            "compression": 3,
+            "name": "1_IDZIE P",
+            "position_x": 485,
+            "position_y": 480
+        },
+        "reksio_10.png": {
+            "compression": 3,
+            "name": "2_IDZIE P",
+            "position_x": 477,
+            "position_y": 478
+        },
+        "reksio_11.png": {
+            "compression": 3,
+            "name": "3_IDZIE P",
+            "position_x": 464,
+            "position_y": 473
+        },
+        "reksio_12.png": {
+            "compression": 3,
+            "name": "4_IDZIE P",
+            "position_x": 455,
+            "position_y": 474
+        },
+        "reksio_13.png": {
+            "compression": 3,
+            "name": "5_IDZIE P",
+            "position_x": 450,
+            "position_y": 472
+        },
+        "reksio_14.png": {
+            "compression": 3,
+            "name": "6_IDZIE P",
+            "position_x": 449,
+            "position_y": 474
+        },
+        "reksio_15.png": {
+            "compression": 3,
+            "name": "7_IDZIE P",
+            "position_x": 441,
+            "position_y": 474
+        },
+        "reksio_16.png": {
+            "compression": 3,
+            "name": "8_IDZIE P",
+            "position_x": 435,
+            "position_y": 471
+        },
+        "reksio_17.png": {
+            "compression": 3,
+            "name": "1_IDZIE P",
+            "position_x": 429,
+            "position_y": 468
+        },
+        "reksio_18.png": {
+            "compression": 3,
+            "name": "2_IDZIE P",
+            "position_x": 423,
+            "position_y": 468
+        },
+        "reksio_19.png": {
+            "compression": 3,
+            "name": "3_IDZIE P",
+            "position_x": 417,
+            "position_y": 471
+        },
+        "reksio_2.png": {
+            "compression": 3,
+            "name": "1_IDZIE P",
+            "position_x": 13,
+            "position_y": 3
+        },
+        "reksio_20.png": {
+            "compression": 3,
+            "name": "4_IDZIE P",
+            "position_x": 412,
+            "position_y": 473
+        },
+        "reksio_21.png": {
+            "compression": 3,
+            "name": "5_IDZIE P",
+            "position_x": 411,
+            "position_y": 470
+        },
+        "reksio_22.png": {
+            "compression": 3,
+            "name": "6_IDZIE P",
+            "position_x": 409,
+            "position_y": 473
+        },
+        "reksio_23.png": {
+            "compression": 3,
+            "name": "7_IDZIE P",
+            "position_x": 405,
+            "position_y": 474
+        },
+        "reksio_24.png": {
+            "compression": 3,
+            "name": "8_IDZIE P",
+            "position_x": 402,
+            "position_y": 474
+        },
+        "reksio_25.png": {
+            "compression": 3,
+            "name": "1_IDZIE P",
+            "position_x": 396,
+            "position_y": 476
+        },
+        "reksio_26.png": {
+            "compression": 3,
+            "name": "2_IDZIE P",
+            "position_x": 394,
+            "position_y": 478
+        },
+        "reksio_27.png": {
+            "compression": 3,
+            "name": "3_IDZIE P",
+            "position_x": 392,
+            "position_y": 478
+        },
+        "reksio_28.png": {
+            "compression": 3,
+            "name": "4_IDZIE P",
+            "position_x": 392,
+            "position_y": 477
+        },
+        "reksio_3.png": {
+            "compression": 3,
+            "name": "2_IDZIE P",
+            "position_x": 13,
+            "position_y": 3
+        },
+        "reksio_4.png": {
+            "compression": 3,
+            "name": "3_IDZIE P",
+            "position_x": 12,
+            "position_y": 4
+        },
+        "reksio_5.png": {
+            "compression": 3,
+            "name": "4_IDZIE P",
+            "position_x": 13,
+            "position_y": 5
+        },
+        "reksio_6.png": {
+            "compression": 3,
+            "name": "5_IDZIE P",
+            "position_x": 15,
+            "position_y": 5
+        },
+        "reksio_7.png": {
+            "compression": 3,
+            "name": "6_IDZIE P",
+            "position_x": 17,
+            "position_y": 4
+        },
+        "reksio_8.png": {
+            "compression": 3,
+            "name": "7_IDZIE P",
+            "position_x": 16,
+            "position_y": 4
+        },
+        "reksio_9.png": {
+            "compression": 3,
+            "name": "8_IDZIE P",
+            "position_x": 14,
+            "position_y": 5
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,538 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "kangur_gada": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj9_1.png",
+                    "name": "gada_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj9_4.png",
+                    "name": "gada_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj9_7.png",
+                    "name": "gada_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj9_9.png",
+                    "name": "gada_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj9_11.png",
+                    "name": "gada_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj9_13.png",
+                    "name": "gada_6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj9_14.png",
+                    "name": "gada_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj9_15.png",
+                    "name": "gada_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj9_16.png",
+                    "name": "gada_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj9_17.png",
+                    "name": "gada_10",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj9_18.png",
+                    "name": "gada_11",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj9_20.png",
+                    "name": "gada_12",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj9_22.png",
+                    "name": "gada_13",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 12,
+            "transparency": 255
+        },
+        "kangur_idle": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj9_0.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj9_3.png",
+                    "name": "idle_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj9_6.png",
+                    "name": "idle_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj9_8.png",
+                    "name": "idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj9_10.png",
+                    "name": "idle_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj9_12.png",
+                    "name": "idle_6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj9_10.png",
+                    "name": "idle_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj9_8.png",
+                    "name": "idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj9_6.png",
+                    "name": "idle_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj9_3.png",
+                    "name": "idle_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj9_0.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj9_19.png",
+                    "name": "idle_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj9_21.png",
+                    "name": "idle_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj9_23.png",
+                    "name": "idle_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj9_24.png",
+                    "name": "idle_10",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj9_23.png",
+                    "name": "idle_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj9_21.png",
+                    "name": "idle_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj9_19.png",
+                    "name": "idle_7",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 17,
+            "transparency": 255
+        },
+        "tablica_ak": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj9_2.png",
+                    "name": "pixel",
+                    "position_x": -1000,
+                    "position_y": -1000
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj9_5.png",
+                    "name": "tablica",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "obj9_0.png": {
+            "compression": 3,
+            "name": "idle_1",
+            "position_x": 395,
+            "position_y": 400
+        },
+        "obj9_1.png": {
+            "compression": 3,
+            "name": "gada_1",
+            "position_x": 395,
+            "position_y": 400
+        },
+        "obj9_10.png": {
+            "compression": 3,
+            "name": "idle_5",
+            "position_x": 395,
+            "position_y": 398
+        },
+        "obj9_11.png": {
+            "compression": 3,
+            "name": "gada_5",
+            "position_x": 395,
+            "position_y": 405
+        },
+        "obj9_12.png": {
+            "compression": 3,
+            "name": "idle_6",
+            "position_x": 395,
+            "position_y": 398
+        },
+        "obj9_13.png": {
+            "compression": 3,
+            "name": "gada_6",
+            "position_x": 395,
+            "position_y": 405
+        },
+        "obj9_14.png": {
+            "compression": 3,
+            "name": "gada_7",
+            "position_x": 395,
+            "position_y": 406
+        },
+        "obj9_15.png": {
+            "compression": 3,
+            "name": "gada_8",
+            "position_x": 395,
+            "position_y": 408
+        },
+        "obj9_16.png": {
+            "compression": 3,
+            "name": "gada_9",
+            "position_x": 395,
+            "position_y": 410
+        },
+        "obj9_17.png": {
+            "compression": 3,
+            "name": "gada_10",
+            "position_x": 395,
+            "position_y": 408
+        },
+        "obj9_18.png": {
+            "compression": 3,
+            "name": "gada_11",
+            "position_x": 395,
+            "position_y": 405
+        },
+        "obj9_19.png": {
+            "compression": 3,
+            "name": "idle_7",
+            "position_x": 395,
+            "position_y": 400
+        },
+        "obj9_2.png": {
+            "compression": 3,
+            "name": "PIXEL"
+        },
+        "obj9_20.png": {
+            "compression": 3,
+            "name": "gada_12",
+            "position_x": 395,
+            "position_y": 402
+        },
+        "obj9_21.png": {
+            "compression": 3,
+            "name": "idle_8",
+            "position_x": 395,
+            "position_y": 400
+        },
+        "obj9_22.png": {
+            "compression": 3,
+            "name": "gada_13",
+            "position_x": 395,
+            "position_y": 401
+        },
+        "obj9_23.png": {
+            "compression": 3,
+            "name": "idle_9",
+            "position_x": 395,
+            "position_y": 401
+        },
+        "obj9_24.png": {
+            "compression": 3,
+            "name": "idle_10",
+            "position_x": 395,
+            "position_y": 401
+        },
+        "obj9_3.png": {
+            "compression": 3,
+            "name": "idle_2",
+            "position_x": 395,
+            "position_y": 400
+        },
+        "obj9_4.png": {
+            "compression": 3,
+            "name": "gada_2",
+            "position_x": 395,
+            "position_y": 401
+        },
+        "obj9_5.png": {
+            "compression": 3,
+            "name": "tablica",
+            "position_x": 128,
+            "position_y": 463
+        },
+        "obj9_6.png": {
+            "compression": 3,
+            "name": "idle_3",
+            "position_x": 395,
+            "position_y": 399
+        },
+        "obj9_7.png": {
+            "compression": 3,
+            "name": "gada_3",
+            "position_x": 395,
+            "position_y": 402
+        },
+        "obj9_8.png": {
+            "compression": 3,
+            "name": "idle_4",
+            "position_x": 395,
+            "position_y": 398
+        },
+        "obj9_9.png": {
+            "compression": 3,
+            "name": "gada_4",
+            "position_x": 395,
+            "position_y": 403
+        }
+    },
+    "transparency": 255
+}

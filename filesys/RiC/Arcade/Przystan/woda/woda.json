@@ -1,0 +1,113 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "539-460-010": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "woda_0.png",
+                    "name": "WODA_539-460-010",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "woda_0.png",
+                    "name": "WODA_539-460-010",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "woda_0.png",
+                    "name": "WODA_539-460-010",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "woda_1.png",
+                    "name": "SET_1_COPY_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "woda_1.png",
+                    "name": "SET_1_COPY_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "woda_2.png",
+                    "name": "SET_1_COPY_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "woda_2.png",
+                    "name": "SET_1_COPY_2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 5,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "woda_0.png": {
+            "compression": 3,
+            "name": "WODA_539-460-010",
+            "position_y": 314
+        },
+        "woda_1.png": {
+            "compression": 3,
+            "name": "SET_1_COPY_4",
+            "position_y": 314
+        },
+        "woda_2.png": {
+            "compression": 3,
+            "name": "SET_1_COPY_2",
+            "position_y": 314
+        }
+    },
+    "transparency": 255
+}

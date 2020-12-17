@@ -1,0 +1,117 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PAUSE": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "liscie1_0.png",
+                    "name": "LISCIE1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "liscie1_0.png",
+                    "name": "LISCIE1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "liscie1_1.png",
+                    "name": "LISCIE2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "liscie1_2.png",
+                    "name": "LISCIE3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "liscie1_3.png",
+                    "name": "LISCIE4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "liscie1_4.png",
+                    "name": "LISCIE5",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "liscie1_0.png": {
+            "compression": 4,
+            "name": "LISCIE1",
+            "position_x": 112,
+            "position_y": 403
+        },
+        "liscie1_1.png": {
+            "compression": 4,
+            "name": "LISCIE2",
+            "position_x": 103,
+            "position_y": 398
+        },
+        "liscie1_2.png": {
+            "compression": 4,
+            "name": "LISCIE3",
+            "position_x": 100,
+            "position_y": 381
+        },
+        "liscie1_3.png": {
+            "compression": 4,
+            "name": "LISCIE4",
+            "position_x": 88,
+            "position_y": 397
+        },
+        "liscie1_4.png": {
+            "compression": 4,
+            "name": "LISCIE5",
+            "position_x": 97,
+            "position_y": 394
+        }
+    },
+    "transparency": 255
+}

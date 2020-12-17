@@ -1,0 +1,2594 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "LEWOIN": {
+            "frames": [
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_1.png",
+                    "name": "1_START 34PRZ_P",
+                    "position_x": -466,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_4.png",
+                    "name": "1_START 34PRZ_L",
+                    "position_x": -466,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_8.png",
+                    "name": "2_START 34PRZ_L",
+                    "position_x": -466,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_12.png",
+                    "name": "3_START 34PRZ_L",
+                    "position_x": -466,
+                    "position_y": 198,
+                    "sfx": "SFX\\0rexKstep3.wav",
+                    "sfx_seed": 225202588
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_16.png",
+                    "name": "1_CHOD34PRZ_L",
+                    "position_x": -466,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_19.png",
+                    "name": "2_CHOD34PRZ_L",
+                    "position_x": -466,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_22.png",
+                    "name": "3_CHOD34PRZ_L",
+                    "position_x": -466,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_25.png",
+                    "name": "4_CHOD34PRZ_L",
+                    "position_x": -466,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_27.png",
+                    "name": "5_CHOD34PRZ_L",
+                    "position_x": -466,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_29.png",
+                    "name": "6_CHOD34PRZ_L",
+                    "position_x": -466,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_31.png",
+                    "name": "7_CHOD34PRZ_L",
+                    "position_x": -466,
+                    "position_y": 198,
+                    "sfx": "SFX\\0rexKstep2.wav",
+                    "sfx_seed": 225204144
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_0.png",
+                    "name": "8_CHOD34PRZ_L",
+                    "position_x": -466,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_3.png",
+                    "name": "9_CHOD34PRZ_L",
+                    "position_x": -466,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_7.png",
+                    "name": "10_CHOD34PRZ_L",
+                    "position_x": -466,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_11.png",
+                    "name": "11_CHOD34PRZ_L",
+                    "position_x": -466,
+                    "position_y": 198,
+                    "sfx": "SFX\\0rexKstep4.wav",
+                    "sfx_seed": 225205700
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_15.png",
+                    "name": "12_CHOD34PRZ_L",
+                    "position_x": -466,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_16.png",
+                    "name": "1_CHOD34PRZ_L",
+                    "position_x": -506,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_19.png",
+                    "name": "2_CHOD34PRZ_L",
+                    "position_x": -506,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_22.png",
+                    "name": "3_CHOD34PRZ_L",
+                    "position_x": -506,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_25.png",
+                    "name": "4_CHOD34PRZ_L",
+                    "position_x": -506,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_27.png",
+                    "name": "5_CHOD34PRZ_L",
+                    "position_x": -506,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_29.png",
+                    "name": "6_CHOD34PRZ_L",
+                    "position_x": -506,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_31.png",
+                    "name": "7_CHOD34PRZ_L",
+                    "position_x": -506,
+                    "position_y": 198,
+                    "sfx": "SFX\\0rexKstep6.wav",
+                    "sfx_seed": 225207256
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_0.png",
+                    "name": "8_CHOD34PRZ_L",
+                    "position_x": -506,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_3.png",
+                    "name": "9_CHOD34PRZ_L",
+                    "position_x": -506,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_7.png",
+                    "name": "10_CHOD34PRZ_L",
+                    "position_x": -506,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_11.png",
+                    "name": "11_CHOD34PRZ_L",
+                    "position_x": -506,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_15.png",
+                    "name": "12_CHOD34PRZ_L",
+                    "position_x": -506,
+                    "position_y": 198,
+                    "sfx": "SFX\\0rexKstep5.wav",
+                    "sfx_seed": 225208812
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_16.png",
+                    "name": "1_CHOD34PRZ_L",
+                    "position_x": -545,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_19.png",
+                    "name": "2_CHOD34PRZ_L",
+                    "position_x": -545,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_22.png",
+                    "name": "3_CHOD34PRZ_L",
+                    "position_x": -545,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_25.png",
+                    "name": "4_CHOD34PRZ_L",
+                    "position_x": -545,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_27.png",
+                    "name": "5_CHOD34PRZ_L",
+                    "position_x": -545,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_29.png",
+                    "name": "6_CHOD34PRZ_L",
+                    "position_x": -545,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_31.png",
+                    "name": "7_CHOD34PRZ_L",
+                    "position_x": -545,
+                    "position_y": 198,
+                    "sfx": "SFX\\0rexKstep3.wav",
+                    "sfx_seed": 225210368
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_0.png",
+                    "name": "8_CHOD34PRZ_L",
+                    "position_x": -545,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_3.png",
+                    "name": "9_CHOD34PRZ_L",
+                    "position_x": -545,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_7.png",
+                    "name": "10_CHOD34PRZ_L",
+                    "position_x": -545,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_11.png",
+                    "name": "11_CHOD34PRZ_L",
+                    "position_x": -545,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_15.png",
+                    "name": "12_CHOD34PRZ_L",
+                    "position_x": -545,
+                    "position_y": 198,
+                    "sfx": "SFX\\0rexKstep4.wav",
+                    "sfx_seed": 225211924
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_16.png",
+                    "name": "1_CHOD34PRZ_L",
+                    "position_x": -585,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_19.png",
+                    "name": "2_CHOD34PRZ_L",
+                    "position_x": -585,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_22.png",
+                    "name": "3_CHOD34PRZ_L",
+                    "position_x": -585,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_25.png",
+                    "name": "4_CHOD34PRZ_L",
+                    "position_x": -585,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_27.png",
+                    "name": "5_CHOD34PRZ_L",
+                    "position_x": -585,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_29.png",
+                    "name": "6_CHOD34PRZ_L",
+                    "position_x": -585,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_31.png",
+                    "name": "7_CHOD34PRZ_L",
+                    "position_x": -585,
+                    "position_y": 198
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "LEWOOUT": {
+            "frames": [
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_2.png",
+                    "name": "11_CHOD34PRZ_P",
+                    "position_x": -506,
+                    "position_y": 191,
+                    "sfx": "SFX\\0rexKstep6.wav",
+                    "sfx_seed": 221819656
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_5.png",
+                    "name": "12_CHOD34PRZ_P",
+                    "position_x": -506,
+                    "position_y": 192
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_9.png",
+                    "name": "1_CHOD34PRZ_P",
+                    "position_x": -466,
+                    "position_y": 190
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_13.png",
+                    "name": "2_CHOD34PRZ_P",
+                    "position_x": -466,
+                    "position_y": 190
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_17.png",
+                    "name": "3_CHOD34PRZ_P",
+                    "position_x": -466,
+                    "position_y": 190
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_20.png",
+                    "name": "4_CHOD34PRZ_P",
+                    "position_x": -466,
+                    "position_y": 190
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_23.png",
+                    "name": "5_CHOD34PRZ_P",
+                    "position_x": -466,
+                    "position_y": 190,
+                    "sfx": "SFX\\0rexKstep5.wav",
+                    "sfx_seed": 221821212
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_26.png",
+                    "name": "6_CHOD34PRZ_P",
+                    "position_x": -466,
+                    "position_y": 190
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_28.png",
+                    "name": "7_CHOD34PRZ_P",
+                    "position_x": -466,
+                    "position_y": 188
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_30.png",
+                    "name": "8_CHOD34PRZ_P",
+                    "position_x": -466,
+                    "position_y": 187
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_32.png",
+                    "name": "9_CHOD34PRZ_P",
+                    "position_x": -466,
+                    "position_y": 188
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_33.png",
+                    "name": "10_CHOD34PRZ_P",
+                    "position_x": -466,
+                    "position_y": 188
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_2.png",
+                    "name": "11_CHOD34PRZ_P",
+                    "position_x": -466,
+                    "position_y": 187,
+                    "sfx": "SFX\\0rexKstep4.wav",
+                    "sfx_seed": 221822768
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_5.png",
+                    "name": "12_CHOD34PRZ_P",
+                    "position_x": -466,
+                    "position_y": 188
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_9.png",
+                    "name": "1_CHOD34PRZ_P",
+                    "position_x": -425,
+                    "position_y": 187
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_13.png",
+                    "name": "2_CHOD34PRZ_P",
+                    "position_x": -425,
+                    "position_y": 187
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_17.png",
+                    "name": "3_CHOD34PRZ_P",
+                    "position_x": -425,
+                    "position_y": 187
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_20.png",
+                    "name": "4_CHOD34PRZ_P",
+                    "position_x": -425,
+                    "position_y": 187
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_23.png",
+                    "name": "5_CHOD34PRZ_P",
+                    "position_x": -425,
+                    "position_y": 187,
+                    "sfx": "SFX\\0rexKstep3.wav",
+                    "sfx_seed": 221824324
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_26.png",
+                    "name": "6_CHOD34PRZ_P",
+                    "position_x": -425,
+                    "position_y": 187
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_28.png",
+                    "name": "7_CHOD34PRZ_P",
+                    "position_x": -425,
+                    "position_y": 185
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_30.png",
+                    "name": "8_CHOD34PRZ_P",
+                    "position_x": -425,
+                    "position_y": 184
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_32.png",
+                    "name": "9_CHOD34PRZ_P",
+                    "position_x": -425,
+                    "position_y": 185
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_33.png",
+                    "name": "10_CHOD34PRZ_P",
+                    "position_x": -425,
+                    "position_y": 185
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_2.png",
+                    "name": "11_CHOD34PRZ_P",
+                    "position_x": -425,
+                    "position_y": 184,
+                    "sfx": "SFX\\0rexKstep2.wav",
+                    "sfx_seed": 221825880
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_5.png",
+                    "name": "12_CHOD34PRZ_P",
+                    "position_x": -425,
+                    "position_y": 185
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_9.png",
+                    "name": "1_CHOD34PRZ_P",
+                    "position_x": -384,
+                    "position_y": 184
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_13.png",
+                    "name": "2_CHOD34PRZ_P",
+                    "position_x": -384,
+                    "position_y": 184
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_17.png",
+                    "name": "3_CHOD34PRZ_P",
+                    "position_x": -384,
+                    "position_y": 184
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_20.png",
+                    "name": "4_CHOD34PRZ_P",
+                    "position_x": -384,
+                    "position_y": 184
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_23.png",
+                    "name": "5_CHOD34PRZ_P",
+                    "position_x": -384,
+                    "position_y": 184,
+                    "sfx": "SFX\\0rexKstep3.wav",
+                    "sfx_seed": 221827436
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_26.png",
+                    "name": "6_CHOD34PRZ_P",
+                    "position_x": -384,
+                    "position_y": 184
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_28.png",
+                    "name": "7_CHOD34PRZ_P",
+                    "position_x": -384,
+                    "position_y": 184
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_30.png",
+                    "name": "8_CHOD34PRZ_P",
+                    "position_x": -384,
+                    "position_y": 184
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_32.png",
+                    "name": "9_CHOD34PRZ_P",
+                    "position_x": -384,
+                    "position_y": 184
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_33.png",
+                    "name": "10_CHOD34PRZ_P",
+                    "position_x": -384,
+                    "position_y": 184
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_2.png",
+                    "name": "11_CHOD34PRZ_P",
+                    "position_x": -384,
+                    "position_y": 184,
+                    "sfx": "SFX\\0rexKstep4.wav",
+                    "sfx_seed": 221828992
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_5.png",
+                    "name": "12_CHOD34PRZ_P",
+                    "position_x": -384,
+                    "position_y": 184
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_9.png",
+                    "name": "1_CHOD34PRZ_P",
+                    "position_x": -344,
+                    "position_y": 183
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_13.png",
+                    "name": "2_CHOD34PRZ_P",
+                    "position_x": -344,
+                    "position_y": 183
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_17.png",
+                    "name": "3_CHOD34PRZ_P",
+                    "position_x": -344,
+                    "position_y": 183
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_20.png",
+                    "name": "4_CHOD34PRZ_P",
+                    "position_x": -344,
+                    "position_y": 183,
+                    "sfx": "SFX\\0rexKstep5.wav",
+                    "sfx_seed": 221830548
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_34.png",
+                    "name": "1_END 34PRZ_P",
+                    "position_x": -468,
+                    "position_y": 199
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_14.png",
+                    "name": "3_START 34PRZ_P",
+                    "position_x": -466,
+                    "position_y": 199
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_10.png",
+                    "name": "2_START 34PRZ_P",
+                    "position_x": -466,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_6.png",
+                    "name": "1_START 34PRZ_P",
+                    "position_x": -466,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_1.png",
+                    "name": "1_START 34PRZ_P",
+                    "position_x": -466,
+                    "position_y": 198
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PRAWOIN": {
+            "frames": [
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_1.png",
+                    "name": "1_START 34PRZ_P",
+                    "position_x": -466,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_6.png",
+                    "name": "1_START 34PRZ_P",
+                    "position_x": -466,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_10.png",
+                    "name": "2_START 34PRZ_P",
+                    "position_x": -466,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_14.png",
+                    "name": "3_START 34PRZ_P",
+                    "position_x": -466,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_18.png",
+                    "name": "4_START 34PRZ_P",
+                    "position_x": -466,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_21.png",
+                    "name": "5_START 34PRZ_P",
+                    "position_x": -466,
+                    "position_y": 198,
+                    "sfx": "SFX\\0rexKstep4.wav",
+                    "sfx_seed": 221832104
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_24.png",
+                    "name": "6_START 34PRZ_P",
+                    "position_x": -466,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_9.png",
+                    "name": "1_CHOD34PRZ_P",
+                    "position_x": -319,
+                    "position_y": 182
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_13.png",
+                    "name": "2_CHOD34PRZ_P",
+                    "position_x": -319,
+                    "position_y": 182
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_17.png",
+                    "name": "3_CHOD34PRZ_P",
+                    "position_x": -319,
+                    "position_y": 182
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_20.png",
+                    "name": "4_CHOD34PRZ_P",
+                    "position_x": -319,
+                    "position_y": 182
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_23.png",
+                    "name": "5_CHOD34PRZ_P",
+                    "position_x": -319,
+                    "position_y": 182,
+                    "sfx": "SFX\\0rexKstep5.wav",
+                    "sfx_seed": 221833660
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_26.png",
+                    "name": "6_CHOD34PRZ_P",
+                    "position_x": -319,
+                    "position_y": 182
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_28.png",
+                    "name": "7_CHOD34PRZ_P",
+                    "position_x": -319,
+                    "position_y": 180
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_30.png",
+                    "name": "8_CHOD34PRZ_P",
+                    "position_x": -319,
+                    "position_y": 179
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_32.png",
+                    "name": "9_CHOD34PRZ_P",
+                    "position_x": -319,
+                    "position_y": 180
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_33.png",
+                    "name": "10_CHOD34PRZ_P",
+                    "position_x": -319,
+                    "position_y": 180
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_2.png",
+                    "name": "11_CHOD34PRZ_P",
+                    "position_x": -319,
+                    "position_y": 179,
+                    "sfx": "SFX\\0rexKstep6.wav",
+                    "sfx_seed": 221835216
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_5.png",
+                    "name": "12_CHOD34PRZ_P",
+                    "position_x": -319,
+                    "position_y": 180
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_9.png",
+                    "name": "1_CHOD34PRZ_P",
+                    "position_x": -279,
+                    "position_y": 178
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_13.png",
+                    "name": "2_CHOD34PRZ_P",
+                    "position_x": -279,
+                    "position_y": 178
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_17.png",
+                    "name": "3_CHOD34PRZ_P",
+                    "position_x": -279,
+                    "position_y": 178
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_20.png",
+                    "name": "4_CHOD34PRZ_P",
+                    "position_x": -279,
+                    "position_y": 178
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_23.png",
+                    "name": "5_CHOD34PRZ_P",
+                    "position_x": -279,
+                    "position_y": 178,
+                    "sfx": "SFX\\0rexKstep4.wav",
+                    "sfx_seed": 221836772
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_26.png",
+                    "name": "6_CHOD34PRZ_P",
+                    "position_x": -279,
+                    "position_y": 178
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_28.png",
+                    "name": "7_CHOD34PRZ_P",
+                    "position_x": -279,
+                    "position_y": 176
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_30.png",
+                    "name": "8_CHOD34PRZ_P",
+                    "position_x": -279,
+                    "position_y": 175
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_32.png",
+                    "name": "9_CHOD34PRZ_P",
+                    "position_x": -279,
+                    "position_y": 176
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_33.png",
+                    "name": "10_CHOD34PRZ_P",
+                    "position_x": -279,
+                    "position_y": 176
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_2.png",
+                    "name": "11_CHOD34PRZ_P",
+                    "position_x": -279,
+                    "position_y": 175,
+                    "sfx": "SFX\\0rexKstep2.wav",
+                    "sfx_seed": 221838328
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_5.png",
+                    "name": "12_CHOD34PRZ_P",
+                    "position_x": -279,
+                    "position_y": 176
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_9.png",
+                    "name": "1_CHOD34PRZ_P",
+                    "position_x": -238,
+                    "position_y": 175
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_13.png",
+                    "name": "2_CHOD34PRZ_P",
+                    "position_x": -238,
+                    "position_y": 175
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_17.png",
+                    "name": "3_CHOD34PRZ_P",
+                    "position_x": -238,
+                    "position_y": 175
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_20.png",
+                    "name": "4_CHOD34PRZ_P",
+                    "position_x": -238,
+                    "position_y": 175
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_23.png",
+                    "name": "5_CHOD34PRZ_P",
+                    "position_x": -238,
+                    "position_y": 175,
+                    "sfx": "SFX\\0rexKstep3.wav",
+                    "sfx_seed": 221839884
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_26.png",
+                    "name": "6_CHOD34PRZ_P",
+                    "position_x": -238,
+                    "position_y": 175
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_28.png",
+                    "name": "7_CHOD34PRZ_P",
+                    "position_x": -238,
+                    "position_y": 173
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_30.png",
+                    "name": "8_CHOD34PRZ_P",
+                    "position_x": -238,
+                    "position_y": 172
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_32.png",
+                    "name": "9_CHOD34PRZ_P",
+                    "position_x": -238,
+                    "position_y": 173
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_33.png",
+                    "name": "10_CHOD34PRZ_P",
+                    "position_x": -238,
+                    "position_y": 173
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_2.png",
+                    "name": "11_CHOD34PRZ_P",
+                    "position_x": -238,
+                    "position_y": 172,
+                    "sfx": "SFX\\0rexKstep4.wav",
+                    "sfx_seed": 221841440
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_5.png",
+                    "name": "12_CHOD34PRZ_P",
+                    "position_x": -238,
+                    "position_y": 173
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_9.png",
+                    "name": "1_CHOD34PRZ_P",
+                    "position_x": -198,
+                    "position_y": 172
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_13.png",
+                    "name": "2_CHOD34PRZ_P",
+                    "position_x": -198,
+                    "position_y": 172
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_17.png",
+                    "name": "3_CHOD34PRZ_P",
+                    "position_x": -198,
+                    "position_y": 172
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_20.png",
+                    "name": "4_CHOD34PRZ_P",
+                    "position_x": -198,
+                    "position_y": 172
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_23.png",
+                    "name": "5_CHOD34PRZ_P",
+                    "position_x": -198,
+                    "position_y": 172,
+                    "sfx": "SFX\\0rexKstep6.wav",
+                    "sfx_seed": 221842996
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_26.png",
+                    "name": "6_CHOD34PRZ_P",
+                    "position_x": -198,
+                    "position_y": 172
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_28.png",
+                    "name": "7_CHOD34PRZ_P",
+                    "position_x": -198,
+                    "position_y": 170
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_30.png",
+                    "name": "8_CHOD34PRZ_P",
+                    "position_x": -198,
+                    "position_y": 169
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PRAWOOUT": {
+            "frames": [
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_0.png",
+                    "name": "8_CHOD34PRZ_L",
+                    "position_x": -242,
+                    "position_y": 176
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_3.png",
+                    "name": "9_CHOD34PRZ_L",
+                    "position_x": -242,
+                    "position_y": 175
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_7.png",
+                    "name": "10_CHOD34PRZ_L",
+                    "position_x": -242,
+                    "position_y": 175
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_11.png",
+                    "name": "11_CHOD34PRZ_L",
+                    "position_x": -242,
+                    "position_y": 174
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_15.png",
+                    "name": "12_CHOD34PRZ_L",
+                    "position_x": -242,
+                    "position_y": 174,
+                    "sfx": "SFX\\0rexKstep4.wav",
+                    "sfx_seed": 16239600
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_16.png",
+                    "name": "1_CHOD34PRZ_L",
+                    "position_x": -283,
+                    "position_y": 176
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_19.png",
+                    "name": "2_CHOD34PRZ_L",
+                    "position_x": -283,
+                    "position_y": 176
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_22.png",
+                    "name": "3_CHOD34PRZ_L",
+                    "position_x": -283,
+                    "position_y": 179
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_25.png",
+                    "name": "4_CHOD34PRZ_L",
+                    "position_x": -283,
+                    "position_y": 179
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_27.png",
+                    "name": "5_CHOD34PRZ_L",
+                    "position_x": -283,
+                    "position_y": 180
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_29.png",
+                    "name": "6_CHOD34PRZ_L",
+                    "position_x": -283,
+                    "position_y": 181
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_31.png",
+                    "name": "7_CHOD34PRZ_L",
+                    "position_x": -283,
+                    "position_y": 181,
+                    "sfx": "SFX\\0rexKstep5.wav",
+                    "sfx_seed": 153451032
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_0.png",
+                    "name": "8_CHOD34PRZ_L",
+                    "position_x": -283,
+                    "position_y": 184
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_3.png",
+                    "name": "9_CHOD34PRZ_L",
+                    "position_x": -283,
+                    "position_y": 183
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_7.png",
+                    "name": "10_CHOD34PRZ_L",
+                    "position_x": -283,
+                    "position_y": 183
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_11.png",
+                    "name": "11_CHOD34PRZ_L",
+                    "position_x": -283,
+                    "position_y": 182
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_15.png",
+                    "name": "12_CHOD34PRZ_L",
+                    "position_x": -283,
+                    "position_y": 182,
+                    "sfx": "SFX\\0rexKstep6.wav",
+                    "sfx_seed": 190981632
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_16.png",
+                    "name": "1_CHOD34PRZ_L",
+                    "position_x": -322,
+                    "position_y": 183
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_19.png",
+                    "name": "2_CHOD34PRZ_L",
+                    "position_x": -322,
+                    "position_y": 183
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_22.png",
+                    "name": "3_CHOD34PRZ_L",
+                    "position_x": -322,
+                    "position_y": 186
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_25.png",
+                    "name": "4_CHOD34PRZ_L",
+                    "position_x": -322,
+                    "position_y": 186
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_27.png",
+                    "name": "5_CHOD34PRZ_L",
+                    "position_x": -322,
+                    "position_y": 187
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_29.png",
+                    "name": "6_CHOD34PRZ_L",
+                    "position_x": -322,
+                    "position_y": 188
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_31.png",
+                    "name": "7_CHOD34PRZ_L",
+                    "position_x": -322,
+                    "position_y": 188,
+                    "sfx": "SFX\\0rexKstep3.wav",
+                    "sfx_seed": 20683304
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_0.png",
+                    "name": "8_CHOD34PRZ_L",
+                    "position_x": -322,
+                    "position_y": 191
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_3.png",
+                    "name": "9_CHOD34PRZ_L",
+                    "position_x": -322,
+                    "position_y": 190
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_7.png",
+                    "name": "10_CHOD34PRZ_L",
+                    "position_x": -322,
+                    "position_y": 190
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_11.png",
+                    "name": "11_CHOD34PRZ_L",
+                    "position_x": -322,
+                    "position_y": 189
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_15.png",
+                    "name": "12_CHOD34PRZ_L",
+                    "position_x": -322,
+                    "position_y": 189,
+                    "sfx": "SFX\\0rexKstep2.wav",
+                    "sfx_seed": 20684860
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_16.png",
+                    "name": "1_CHOD34PRZ_L",
+                    "position_x": -362,
+                    "position_y": 190
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_19.png",
+                    "name": "2_CHOD34PRZ_L",
+                    "position_x": -362,
+                    "position_y": 190
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_22.png",
+                    "name": "3_CHOD34PRZ_L",
+                    "position_x": -362,
+                    "position_y": 190
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_25.png",
+                    "name": "4_CHOD34PRZ_L",
+                    "position_x": -362,
+                    "position_y": 190
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_27.png",
+                    "name": "5_CHOD34PRZ_L",
+                    "position_x": -362,
+                    "position_y": 190
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_29.png",
+                    "name": "6_CHOD34PRZ_L",
+                    "position_x": -362,
+                    "position_y": 190
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_31.png",
+                    "name": "7_CHOD34PRZ_L",
+                    "position_x": -362,
+                    "position_y": 190,
+                    "sfx": "SFX\\0rexKstep3.wav",
+                    "sfx_seed": 217953224
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_0.png",
+                    "name": "8_CHOD34PRZ_L",
+                    "position_x": -362,
+                    "position_y": 191
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_3.png",
+                    "name": "9_CHOD34PRZ_L",
+                    "position_x": -362,
+                    "position_y": 191
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_7.png",
+                    "name": "10_CHOD34PRZ_L",
+                    "position_x": -362,
+                    "position_y": 191
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_11.png",
+                    "name": "11_CHOD34PRZ_L",
+                    "position_x": -362,
+                    "position_y": 191
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_15.png",
+                    "name": "12_CHOD34PRZ_L",
+                    "position_x": -362,
+                    "position_y": 191,
+                    "sfx": "SFX\\0rexKstep4.wav",
+                    "sfx_seed": 217954780
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_16.png",
+                    "name": "1_CHOD34PRZ_L",
+                    "position_x": -400,
+                    "position_y": 191
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_19.png",
+                    "name": "2_CHOD34PRZ_L",
+                    "position_x": -400,
+                    "position_y": 190
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_22.png",
+                    "name": "3_CHOD34PRZ_L",
+                    "position_x": -400,
+                    "position_y": 191
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_25.png",
+                    "name": "4_CHOD34PRZ_L",
+                    "position_x": -400,
+                    "position_y": 190
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_27.png",
+                    "name": "5_CHOD34PRZ_L",
+                    "position_x": -400,
+                    "position_y": 191
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_29.png",
+                    "name": "6_CHOD34PRZ_L",
+                    "position_x": -400,
+                    "position_y": 193
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_31.png",
+                    "name": "7_CHOD34PRZ_L",
+                    "position_x": -400,
+                    "position_y": 195,
+                    "sfx": "SFX\\0rexKstep3.wav",
+                    "sfx_seed": 217956336
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_0.png",
+                    "name": "8_CHOD34PRZ_L",
+                    "position_x": -400,
+                    "position_y": 195
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_3.png",
+                    "name": "9_CHOD34PRZ_L",
+                    "position_x": -400,
+                    "position_y": 195
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_7.png",
+                    "name": "10_CHOD34PRZ_L",
+                    "position_x": -400,
+                    "position_y": 195
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_11.png",
+                    "name": "11_CHOD34PRZ_L",
+                    "position_x": -400,
+                    "position_y": 195
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_15.png",
+                    "name": "12_CHOD34PRZ_L",
+                    "position_x": -400,
+                    "position_y": 195,
+                    "sfx": "SFX\\0rexKstep4.wav",
+                    "sfx_seed": 225201032
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_16.png",
+                    "name": "1_CHOD34PRZ_L",
+                    "position_x": -440,
+                    "position_y": 195
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_19.png",
+                    "name": "2_CHOD34PRZ_L",
+                    "position_x": -440,
+                    "position_y": 195
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_22.png",
+                    "name": "3_CHOD34PRZ_L",
+                    "position_x": -440,
+                    "position_y": 195
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_25.png",
+                    "name": "4_CHOD34PRZ_L",
+                    "position_x": -440,
+                    "position_y": 195
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_35.png",
+                    "name": "1_END 34PRZ_L",
+                    "position_x": -424,
+                    "position_y": 198
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_36.png",
+                    "name": "2_END 34PRZ_L",
+                    "position_x": -466,
+                    "position_y": 197
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio17c_1.png",
+                    "name": "1_START 34PRZ_P",
+                    "position_x": -466,
+                    "position_y": 198
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "reksio17c_0.png": {
+            "compression": 4,
+            "name": "8_CHOD34PRZ_L",
+            "position_x": 600,
+            "position_y": 77
+        },
+        "reksio17c_1.png": {
+            "compression": 4,
+            "name": "1_START 34PRZ_P",
+            "position_x": 616,
+            "position_y": 76
+        },
+        "reksio17c_10.png": {
+            "compression": 4,
+            "name": "2_START 34PRZ_P",
+            "position_x": 620,
+            "position_y": 76
+        },
+        "reksio17c_11.png": {
+            "compression": 4,
+            "name": "11_CHOD34PRZ_L",
+            "position_x": 583,
+            "position_y": 77
+        },
+        "reksio17c_12.png": {
+            "compression": 4,
+            "name": "3_START 34PRZ_L",
+            "position_x": 613,
+            "position_y": 77
+        },
+        "reksio17c_13.png": {
+            "compression": 4,
+            "name": "2_CHOD34PRZ_P",
+            "position_x": 520,
+            "position_y": 88
+        },
+        "reksio17c_14.png": {
+            "compression": 4,
+            "name": "3_START 34PRZ_P",
+            "position_x": 624,
+            "position_y": 72
+        },
+        "reksio17c_15.png": {
+            "compression": 4,
+            "name": "12_CHOD34PRZ_L",
+            "position_x": 576,
+            "position_y": 78
+        },
+        "reksio17c_16.png": {
+            "compression": 4,
+            "name": "1_CHOD34PRZ_L",
+            "position_x": 606,
+            "position_y": 76
+        },
+        "reksio17c_17.png": {
+            "compression": 4,
+            "name": "3_CHOD34PRZ_P",
+            "position_x": 523,
+            "position_y": 88
+        },
+        "reksio17c_18.png": {
+            "compression": 4,
+            "name": "4_START 34PRZ_P",
+            "position_x": 629,
+            "position_y": 70
+        },
+        "reksio17c_19.png": {
+            "compression": 4,
+            "name": "2_CHOD34PRZ_L",
+            "position_x": 606,
+            "position_y": 77
+        },
+        "reksio17c_2.png": {
+            "compression": 4,
+            "name": "11_CHOD34PRZ_P",
+            "position_x": 555,
+            "position_y": 87
+        },
+        "reksio17c_20.png": {
+            "compression": 4,
+            "name": "4_CHOD34PRZ_P",
+            "position_x": 528,
+            "position_y": 89
+        },
+        "reksio17c_21.png": {
+            "compression": 4,
+            "name": "5_START 34PRZ_P",
+            "position_x": 627,
+            "position_y": 74
+        },
+        "reksio17c_22.png": {
+            "compression": 4,
+            "name": "3_CHOD34PRZ_L",
+            "position_x": 608,
+            "position_y": 75
+        },
+        "reksio17c_23.png": {
+            "compression": 4,
+            "name": "5_CHOD34PRZ_P",
+            "position_x": 535,
+            "position_y": 89
+        },
+        "reksio17c_24.png": {
+            "compression": 4,
+            "name": "6_START 34PRZ_P",
+            "position_x": 635,
+            "position_y": 75
+        },
+        "reksio17c_25.png": {
+            "compression": 4,
+            "name": "4_CHOD34PRZ_L",
+            "position_x": 610,
+            "position_y": 76
+        },
+        "reksio17c_26.png": {
+            "compression": 4,
+            "name": "6_CHOD34PRZ_P",
+            "position_x": 536,
+            "position_y": 90
+        },
+        "reksio17c_27.png": {
+            "compression": 4,
+            "name": "5_CHOD34PRZ_L",
+            "position_x": 609,
+            "position_y": 75
+        },
+        "reksio17c_28.png": {
+            "compression": 4,
+            "name": "7_CHOD34PRZ_P",
+            "position_x": 537,
+            "position_y": 90
+        },
+        "reksio17c_29.png": {
+            "compression": 4,
+            "name": "6_CHOD34PRZ_L",
+            "position_x": 605,
+            "position_y": 76
+        },
+        "reksio17c_3.png": {
+            "compression": 4,
+            "name": "9_CHOD34PRZ_L",
+            "position_x": 596,
+            "position_y": 78
+        },
+        "reksio17c_30.png": {
+            "compression": 4,
+            "name": "8_CHOD34PRZ_P",
+            "position_x": 541,
+            "position_y": 88
+        },
+        "reksio17c_31.png": {
+            "compression": 4,
+            "name": "7_CHOD34PRZ_L",
+            "position_x": 605,
+            "position_y": 77
+        },
+        "reksio17c_32.png": {
+            "compression": 4,
+            "name": "9_CHOD34PRZ_P",
+            "position_x": 549,
+            "position_y": 88
+        },
+        "reksio17c_33.png": {
+            "compression": 4,
+            "name": "10_CHOD34PRZ_P",
+            "position_x": 551,
+            "position_y": 87
+        },
+        "reksio17c_34.png": {
+            "compression": 4,
+            "name": "1_END 34PRZ_P",
+            "position_x": 656,
+            "position_y": 75
+        },
+        "reksio17c_35.png": {
+            "compression": 4,
+            "name": "1_END 34PRZ_L",
+            "position_x": 584,
+            "position_y": 75
+        },
+        "reksio17c_36.png": {
+            "compression": 4,
+            "name": "2_END 34PRZ_L",
+            "position_x": 616,
+            "position_y": 77
+        },
+        "reksio17c_4.png": {
+            "compression": 4,
+            "name": "1_START 34PRZ_L",
+            "position_x": 614,
+            "position_y": 77
+        },
+        "reksio17c_5.png": {
+            "compression": 4,
+            "name": "12_CHOD34PRZ_P",
+            "position_x": 556,
+            "position_y": 88
+        },
+        "reksio17c_6.png": {
+            "compression": 4,
+            "name": "1_START 34PRZ_P",
+            "position_x": 616,
+            "position_y": 76
+        },
+        "reksio17c_7.png": {
+            "compression": 4,
+            "name": "10_CHOD34PRZ_L",
+            "position_x": 589,
+            "position_y": 77
+        },
+        "reksio17c_8.png": {
+            "compression": 4,
+            "name": "2_START 34PRZ_L",
+            "position_x": 616,
+            "position_y": 77
+        },
+        "reksio17c_9.png": {
+            "compression": 4,
+            "name": "1_CHOD34PRZ_P",
+            "position_x": 517,
+            "position_y": 87
+        }
+    },
+    "transparency": 255
+}

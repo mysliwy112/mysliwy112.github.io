@@ -1,0 +1,78 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "1": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_path_0.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "2": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_path_1.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "3": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_path_2.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "enemy1_path_0.png": {
+            "compression": 4,
+            "name": "PAJAK_MASK1",
+            "position_x": 280,
+            "position_y": 80
+        },
+        "enemy1_path_1.png": {
+            "compression": 4,
+            "name": "PAJAK_MASK2",
+            "position_x": 320,
+            "position_y": 80
+        },
+        "enemy1_path_2.png": {
+            "compression": 4,
+            "name": "PAJAK_MASK3",
+            "position_x": 480,
+            "position_y": 80
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "303-372-402": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "goto_ramie_0.png",
+                    "name": "RAMIE_GOTO303-372-402",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "goto_ramie_0.png",
+                    "name": "RAMIE_GOTO303-372-402",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "goto_ramie_0.png": {
+            "compression": 4,
+            "name": "RAMIE_GOTO303-372-4",
+            "position_x": 374,
+            "position_y": 150
+        }
+    },
+    "transparency": 255
+}

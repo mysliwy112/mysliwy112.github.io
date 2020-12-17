@@ -1,0 +1,83 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "530-480-543": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "goto_parasol_0.png",
+                    "name": "PARASOL_GOTO530-480-543",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "goto_parasol_0.png",
+                    "name": "PARASOL_GOTO530-480-543",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "goto_parasol_1.png",
+                    "name": "PARASOL_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "goto_parasol_2.png",
+                    "name": "PARASOL_COPY_2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 2,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "goto_parasol_0.png": {
+            "compression": 3,
+            "name": "PARASOL_GOTO530-480",
+            "position_x": 9,
+            "position_y": 214
+        },
+        "goto_parasol_1.png": {
+            "compression": 3,
+            "name": "PARASOL_COPY",
+            "position_x": 17,
+            "position_y": 214
+        },
+        "goto_parasol_2.png": {
+            "compression": 3,
+            "name": "PARASOL_COPY_2",
+            "position_x": 10,
+            "position_y": 213
+        }
+    },
+    "transparency": 255
+}

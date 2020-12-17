@@ -1,0 +1,41 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "mask": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "mask_prison_0.png",
+                    "name": "rex",
+                    "position_x": -60,
+                    "position_y": -60
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "mask_prison_0.png",
+                    "name": "kretes",
+                    "position_x": -60,
+                    "position_y": -60
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "mask_prison_0.png": {
+            "compression": 4,
+            "name": "Layer_1"
+        }
+    },
+    "transparency": 255
+}

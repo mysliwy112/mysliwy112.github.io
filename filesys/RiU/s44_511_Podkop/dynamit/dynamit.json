@@ -1,0 +1,112 @@
+{
+    "author": "Piotr Krasuski",
+    "bpp": 16,
+    "events": {
+        "NoEvent": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "OnClick": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "OnFocusOff": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "OnMove": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "play": {
+            "frames": [
+                {
+                    "check": [
+                        240,
+                        34,
+                        180
+                    ],
+                    "filename": "dynamit_1.png",
+                    "name": "dynamit lont copy",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48,
+                        40,
+                        180
+                    ],
+                    "filename": "dynamit_1.png",
+                    "name": "dynamit lont copy",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        43,
+                        180
+                    ],
+                    "filename": "dynamit_2.png",
+                    "name": "dynamit lont",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        8,
+                        45,
+                        180
+                    ],
+                    "filename": "dynamit_2.png",
+                    "name": "dynamit lont",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 3,
+            "transparency": 255
+        },
+        "static": {
+            "frames": [
+                {
+                    "check": [
+                        248,
+                        154,
+                        150
+                    ],
+                    "filename": "dynamit_0.png",
+                    "name": "dynamit",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "dynamit_0.png": {
+            "compression": 4,
+            "name": "dynamit",
+            "position_x": 2,
+            "position_y": 4
+        },
+        "dynamit_1.png": {
+            "compression": 4,
+            "name": "dynamit lont copy",
+            "position_x": 3
+        },
+        "dynamit_2.png": {
+            "compression": 4,
+            "name": "dynamit lont",
+            "position_x": 3
+        }
+    },
+    "transparency": 255
+}

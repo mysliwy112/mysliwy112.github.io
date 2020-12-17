@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "330-516-600": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_pojazd_0.png",
+                    "name": "POJAZD",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_pojazd_0.png",
+                    "name": "POJAZD",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "m_pojazd_0.png": {
+            "compression": 3,
+            "name": "POJAZD",
+            "position_x": 258,
+            "position_y": 106
+        }
+    },
+    "transparency": 255
+}

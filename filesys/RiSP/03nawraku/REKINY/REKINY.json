@@ -1,0 +1,422 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLYWA": {
+            "frames": [
+                {
+                    "check": [
+                        32,
+                        99,
+                        164
+                    ],
+                    "filename": "REKINY_0.png",
+                    "name": "6_PLETWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        98,
+                        164
+                    ],
+                    "filename": "REKINY_3.png",
+                    "name": "7_PLETWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "REKINY_6.png",
+                    "name": "8_PLETWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        97,
+                        164
+                    ],
+                    "filename": "REKINY_9.png",
+                    "name": "9_PLETWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        96,
+                        164
+                    ],
+                    "filename": "REKINY_2.png",
+                    "name": "10_PLETWA",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "WYNURZASIE": {
+            "frames": [
+                {
+                    "check": [
+                        64,
+                        127,
+                        164
+                    ],
+                    "filename": "REKINY_1.png",
+                    "name": "1_PLETWA",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "sfx\\01rekin3.wav",
+                    "sfx_seed": 10780416
+                },
+                {
+                    "check": [
+                        112,
+                        126,
+                        164
+                    ],
+                    "filename": "REKINY_4.png",
+                    "name": "2_PLETWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        125,
+                        164
+                    ],
+                    "filename": "REKINY_7.png",
+                    "name": "3_PLETWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        125,
+                        164
+                    ],
+                    "filename": "REKINY_10.png",
+                    "name": "4_PLETWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        192,
+                        124,
+                        164
+                    ],
+                    "filename": "REKINY_12.png",
+                    "name": "5_PLETWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48,
+                        124,
+                        164
+                    ],
+                    "filename": "REKINY_0.png",
+                    "name": "6_PLETWA",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ZANURZASIE": {
+            "frames": [
+                {
+                    "check": [
+                        112,
+                        117,
+                        164
+                    ],
+                    "filename": "REKINY_2.png",
+                    "name": "10_PLETWA",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "sfx\\01rekin2.wav",
+                    "sfx_seed": 10777904
+                },
+                {
+                    "check": [
+                        160,
+                        116,
+                        164
+                    ],
+                    "filename": "REKINY_5.png",
+                    "name": "11_PLETWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        16,
+                        116,
+                        164
+                    ],
+                    "filename": "REKINY_8.png",
+                    "name": "12_PLETWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        128,
+                        115,
+                        164
+                    ],
+                    "filename": "REKINY_11.png",
+                    "name": "13_PLETWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        114,
+                        164
+                    ],
+                    "filename": "REKINY_13.png",
+                    "name": "14_PLETWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        114,
+                        164
+                    ],
+                    "filename": "REKINY_14.png",
+                    "name": "15_PLETWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        113,
+                        164
+                    ],
+                    "filename": "REKINY_15.png",
+                    "name": "16_PLETWA",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ZANURZASIE2": {
+            "frames": [
+                {
+                    "check": [
+                        160,
+                        122,
+                        164
+                    ],
+                    "filename": "REKINY_2.png",
+                    "name": "10_PLETWA",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "sfx\\01rekin2.wav",
+                    "sfx_seed": 10779232
+                },
+                {
+                    "check": [
+                        208,
+                        121,
+                        164
+                    ],
+                    "filename": "REKINY_5.png",
+                    "name": "11_PLETWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        64,
+                        121,
+                        164
+                    ],
+                    "filename": "REKINY_8.png",
+                    "name": "12_PLETWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        120,
+                        164
+                    ],
+                    "filename": "REKINY_11.png",
+                    "name": "13_PLETWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        32,
+                        120,
+                        164
+                    ],
+                    "filename": "REKINY_13.png",
+                    "name": "14_PLETWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        119,
+                        164
+                    ],
+                    "filename": "REKINY_14.png",
+                    "name": "15_PLETWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "REKINY_15.png",
+                    "name": "16_PLETWA",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "REKINY_0.png": {
+            "compression": 4,
+            "name": "6_PLETWA",
+            "position_x": 625,
+            "position_y": 307
+        },
+        "REKINY_1.png": {
+            "compression": 4,
+            "name": "1_PLETWA",
+            "position_x": 643,
+            "position_y": 356
+        },
+        "REKINY_10.png": {
+            "compression": 4,
+            "name": "4_PLETWA",
+            "position_x": 618,
+            "position_y": 328
+        },
+        "REKINY_11.png": {
+            "compression": 4,
+            "name": "13_PLETWA",
+            "position_x": 618,
+            "position_y": 347
+        },
+        "REKINY_12.png": {
+            "compression": 4,
+            "name": "5_PLETWA",
+            "position_x": 626,
+            "position_y": 314
+        },
+        "REKINY_13.png": {
+            "compression": 4,
+            "name": "14_PLETWA",
+            "position_x": 607,
+            "position_y": 346
+        },
+        "REKINY_14.png": {
+            "compression": 4,
+            "name": "15_PLETWA",
+            "position_x": 640,
+            "position_y": 354
+        },
+        "REKINY_15.png": {
+            "compression": 4,
+            "name": "16_PLETWA",
+            "position_x": 644,
+            "position_y": 355
+        },
+        "REKINY_2.png": {
+            "compression": 4,
+            "name": "10_PLETWA",
+            "position_x": 624,
+            "position_y": 307
+        },
+        "REKINY_3.png": {
+            "compression": 4,
+            "name": "7_PLETWA",
+            "position_x": 623,
+            "position_y": 307
+        },
+        "REKINY_4.png": {
+            "compression": 4,
+            "name": "2_PLETWA",
+            "position_x": 638,
+            "position_y": 358
+        },
+        "REKINY_5.png": {
+            "compression": 4,
+            "name": "11_PLETWA",
+            "position_x": 620,
+            "position_y": 313
+        },
+        "REKINY_6.png": {
+            "compression": 4,
+            "name": "8_PLETWA",
+            "position_x": 624,
+            "position_y": 307
+        },
+        "REKINY_7.png": {
+            "compression": 4,
+            "name": "3_PLETWA",
+            "position_x": 630,
+            "position_y": 348
+        },
+        "REKINY_8.png": {
+            "compression": 4,
+            "name": "12_PLETWA",
+            "position_x": 609,
+            "position_y": 328
+        },
+        "REKINY_9.png": {
+            "compression": 4,
+            "name": "9_PLETWA",
+            "position_x": 614,
+            "position_y": 307
+        }
+    },
+    "transparency": 255
+}

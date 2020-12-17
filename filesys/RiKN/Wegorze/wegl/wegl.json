@@ -1,0 +1,78 @@
+{
+    "author": "",
+    "bpp": 16,
+    "events": {
+        "weg": {
+            "frames": [
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "wegl_0.png",
+                    "name": "w1 kopia",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "wegl_1.png",
+                    "name": "w2 kopia",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "wegl_2.png",
+                    "name": "w3 kopia",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "wegl_3.png",
+                    "name": "w4 kopia",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 3,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "wegl_0.png": {
+            "compression": 3,
+            "name": "w1 kopia"
+        },
+        "wegl_1.png": {
+            "compression": 3,
+            "name": "w2 kopia",
+            "position_y": 2
+        },
+        "wegl_2.png": {
+            "compression": 3,
+            "name": "w3 kopia",
+            "position_x": 1
+        },
+        "wegl_3.png": {
+            "compression": 3,
+            "name": "w4 kopia",
+            "position_y": 2
+        }
+    },
+    "transparency": 255
+}

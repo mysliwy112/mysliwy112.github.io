@@ -1,0 +1,125 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "mo_sprezynaR_0.png",
+                    "name": "R4",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY2": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "mo_sprezynaR_0.png",
+                    "name": "R4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "mo_sprezynaR_1.png",
+                    "name": "R3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "mo_sprezynaR_2.png",
+                    "name": "R2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "mo_sprezynaR_3.png",
+                    "name": "R1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "mo_sprezynaR_2.png",
+                    "name": "R2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "mo_sprezynaR_1.png",
+                    "name": "R3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "mo_sprezynaR_0.png",
+                    "name": "R4",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "mo_sprezynaR_0.png": {
+            "compression": 4,
+            "name": "R4"
+        },
+        "mo_sprezynaR_1.png": {
+            "compression": 4,
+            "name": "R3"
+        },
+        "mo_sprezynaR_2.png": {
+            "compression": 4,
+            "name": "R2"
+        },
+        "mo_sprezynaR_3.png": {
+            "compression": 4,
+            "name": "R1"
+        }
+    },
+    "transparency": 255
+}

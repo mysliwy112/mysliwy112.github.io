@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "101-329-001": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "wyjscie_z_kibla_0.png",
+                    "name": "KIBEL_101-329",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "wyjscie_z_kibla_0.png",
+                    "name": "KIBEL_101-329",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "wyjscie_z_kibla_0.png": {
+            "compression": 4,
+            "name": "KIBEL_101-329",
+            "position_x": 79,
+            "position_y": 216
+        }
+    },
+    "transparency": 255
+}

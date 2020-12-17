@@ -1,0 +1,89 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "ONCLICK": {
+            "frames": [
+                {
+                    "check": [
+                        72,
+                        137,
+                        84
+                    ],
+                    "filename": "rozdzial2_1.png",
+                    "name": "przygotowania2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONFOCUSOFF": {
+            "frames": [
+                {
+                    "check": [
+                        72,
+                        137,
+                        84
+                    ],
+                    "filename": "rozdzial2_0.png",
+                    "name": "przygotowania1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONFOCUSON": {
+            "frames": [
+                {
+                    "check": [
+                        72,
+                        137,
+                        84
+                    ],
+                    "filename": "rozdzial2_1.png",
+                    "name": "przygotowania2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONNOEVENT": {
+            "frames": [
+                {
+                    "check": [
+                        72,
+                        137,
+                        84
+                    ],
+                    "filename": "rozdzial2_0.png",
+                    "name": "przygotowania1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "rozdzial2_0.png": {
+            "compression": 4,
+            "name": "PRZYGOTOWANIA1",
+            "position_x": 39,
+            "position_y": 418
+        },
+        "rozdzial2_1.png": {
+            "compression": 4,
+            "name": "PRZYGOTOWANIA2",
+            "position_x": 39,
+            "position_y": 418
+        }
+    },
+    "transparency": 255
+}

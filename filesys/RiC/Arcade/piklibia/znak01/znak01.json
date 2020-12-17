@@ -1,0 +1,112 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "DEFAULT": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "znak01_0.png",
+                    "name": "202",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "znak01_0.png",
+                    "name": "201",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE0": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "znak01_0.png",
+                    "name": "202",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE1": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "znak01_1.png",
+                    "name": "200",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE2": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "znak01_2.png",
+                    "name": "205",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "znak01_0.png": {
+            "compression": 4,
+            "name": "202",
+            "position_x": 341,
+            "position_y": 146
+        },
+        "znak01_1.png": {
+            "compression": 4,
+            "name": "199",
+            "position_x": 341,
+            "position_y": 146
+        },
+        "znak01_2.png": {
+            "compression": 4,
+            "name": "205",
+            "position_x": 341,
+            "position_y": 146
+        }
+    },
+    "transparency": 255
+}

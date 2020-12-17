@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "LATAWIEC": {
+            "frames": [
+                {
+                    "check": [
+                        32,
+                        237,
+                        164
+                    ],
+                    "filename": "2patyk_0.png",
+                    "name": "PATYK2STD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        16,
+                        249,
+                        164
+                    ],
+                    "filename": "2patyk_1.png",
+                    "name": "PATYK2OM",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "2patyk_0.png": {
+            "compression": 4,
+            "name": "PATYK2",
+            "position_x": 485,
+            "position_y": 468
+        },
+        "2patyk_1.png": {
+            "compression": 4,
+            "name": "PATYK2",
+            "position_x": 409,
+            "position_y": 170
+        }
+    },
+    "transparency": 255
+}

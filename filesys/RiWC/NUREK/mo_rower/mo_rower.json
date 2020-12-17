@@ -1,0 +1,32 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "DNO_STAWU_ROT_SCALED_USTAWIONE": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "mo_rower_0.png",
+                    "name": "LAYER_17",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "mo_rower_0.png": {
+            "compression": 2,
+            "name": "LAYER_17",
+            "position_x": 575,
+            "position_y": 288
+        }
+    },
+    "transparency": 255
+}

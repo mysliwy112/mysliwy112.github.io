@@ -1,0 +1,147 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "statek_0.png",
+                    "name": "FLAGA1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "statek_0.png",
+                    "name": "FLAGA1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "statek_1.png",
+                    "name": "FLAGA2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "statek_1.png",
+                    "name": "FLAGA2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "statek_2.png",
+                    "name": "FLAGA3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "statek_2.png",
+                    "name": "FLAGA3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "statek_3.png",
+                    "name": "FLAGA4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "statek_3.png",
+                    "name": "FLAGA4",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "statek_0.png": {
+            "compression": 4,
+            "name": "FLAGA1",
+            "position_x": 393,
+            "position_y": 77
+        },
+        "statek_1.png": {
+            "compression": 4,
+            "name": "FLAGA2",
+            "position_x": 392,
+            "position_y": 76
+        },
+        "statek_2.png": {
+            "compression": 4,
+            "name": "FLAGA3",
+            "position_x": 393,
+            "position_y": 76
+        },
+        "statek_3.png": {
+            "compression": 4,
+            "name": "FLAGA4",
+            "position_x": 393,
+            "position_y": 75
+        }
+    },
+    "transparency": 255
+}

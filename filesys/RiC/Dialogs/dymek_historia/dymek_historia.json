@@ -1,0 +1,94 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "GADA": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "dymek_historia_1.png",
+                    "name": "ZAL_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "dymek_historia_1.png",
+                    "name": "ZAL_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "dymek_historia_2.png",
+                    "name": "ZAL_COPY_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "dymek_historia_2.png",
+                    "name": "ZAL_COPY_2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 3,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "dymek_historia_0.png",
+                    "name": "ZAL",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "dymek_historia_0.png": {
+            "compression": 4,
+            "name": "ZAL",
+            "position_x": 428,
+            "position_y": 55
+        },
+        "dymek_historia_1.png": {
+            "compression": 4,
+            "name": "ZAL_COPY",
+            "position_x": 428,
+            "position_y": 55
+        },
+        "dymek_historia_2.png": {
+            "compression": 4,
+            "name": "ZAL_COPY_2",
+            "position_x": 428,
+            "position_y": 55
+        }
+    },
+    "transparency": 255
+}

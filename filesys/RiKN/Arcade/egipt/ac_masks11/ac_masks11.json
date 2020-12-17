@@ -1,0 +1,114 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "idle": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "ac_masks11_0.png",
+                    "name": "pixel",
+                    "position_x": -1000,
+                    "position_y": -1000
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "ac_masks11_1.png",
+                    "name": "Layer_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "ac_masks11_2.png",
+                    "name": "Layer_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "ac_masks11_3.png",
+                    "name": "mask_10",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "ac_masks11_4.png",
+                    "name": "mask_11",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "ac_masks11_5.png",
+                    "name": "mask_12",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "ac_masks11_0.png": {
+            "compression": 3,
+            "name": "pixel"
+        },
+        "ac_masks11_1.png": {
+            "compression": 3,
+            "name": "Layer_1",
+            "position_y": 500
+        },
+        "ac_masks11_2.png": {
+            "compression": 3,
+            "name": "Layer_2",
+            "position_x": 700,
+            "position_y": 500
+        },
+        "ac_masks11_3.png": {
+            "compression": 3,
+            "name": "mask_10",
+            "position_x": 45,
+            "position_y": 76
+        },
+        "ac_masks11_4.png": {
+            "compression": 3,
+            "name": "mask_11",
+            "position_x": 333,
+            "position_y": 20
+        },
+        "ac_masks11_5.png": {
+            "compression": 3,
+            "name": "mask_12",
+            "position_x": 333,
+            "position_y": 277
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,77 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "TIMER": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "ro_timer_0.png",
+                    "name": "RASTER_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "ro_timer_1.png",
+                    "name": "RASTER_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "ro_timer_2.png",
+                    "name": "RASTER_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "ro_timer_3.png",
+                    "name": "RASTER_4",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 3,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "ro_timer_0.png": {
+            "compression": 4,
+            "name": "RASTER_1",
+            "position_y": 8
+        },
+        "ro_timer_1.png": {
+            "compression": 4,
+            "name": "RASTER_2"
+        },
+        "ro_timer_2.png": {
+            "compression": 4,
+            "name": "RASTER_3",
+            "position_x": 9
+        },
+        "ro_timer_3.png": {
+            "compression": 4,
+            "name": "RASTER_4"
+        }
+    },
+    "transparency": 255
+}

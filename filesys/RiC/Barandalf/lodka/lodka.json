@@ -1,0 +1,32 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "lodka_0.png",
+                    "name": "LODKA_",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "lodka_0.png": {
+            "compression": 4,
+            "name": "LODKA_",
+            "position_x": 125,
+            "position_y": 330
+        }
+    },
+    "transparency": 255
+}

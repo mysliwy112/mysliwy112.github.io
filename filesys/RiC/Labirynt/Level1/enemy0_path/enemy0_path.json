@@ -1,0 +1,78 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "1": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy0_path_0.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "2": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy0_path_1.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "3": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy0_path_2.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "enemy0_path_0.png": {
+            "compression": 4,
+            "name": "PATH0",
+            "position_x": 40,
+            "position_y": 160
+        },
+        "enemy0_path_1.png": {
+            "compression": 4,
+            "name": "PATH1",
+            "position_x": 280,
+            "position_y": 320
+        },
+        "enemy0_path_2.png": {
+            "compression": 4,
+            "name": "PATH2",
+            "position_x": 520,
+            "position_y": 80
+        }
+    },
+    "transparency": 255
+}

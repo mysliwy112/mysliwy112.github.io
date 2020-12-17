@@ -1,0 +1,100 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "oferta_0.png",
+                    "name": "PRZYGODY_REKSIA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "oferta_1.png",
+                    "name": "EDUKACYJNE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "oferta_2.png",
+                    "name": "EDUKACJA_I_TESTY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "oferta_3.png",
+                    "name": "SMOKULE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "oferta_4.png",
+                    "name": "SET_1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "oferta_0.png": {
+            "compression": 3,
+            "name": "PRZYGODY_REKSIA",
+            "position_x": 11,
+            "position_y": 8
+        },
+        "oferta_1.png": {
+            "compression": 3,
+            "name": "EDUKACYJNE",
+            "position_x": 16,
+            "position_y": 94
+        },
+        "oferta_2.png": {
+            "compression": 3,
+            "name": "EDUKACJA_I_TESTY",
+            "position_x": 18,
+            "position_y": 43
+        },
+        "oferta_3.png": {
+            "compression": 3,
+            "name": "SMOKULE",
+            "position_x": 7,
+            "position_y": 9
+        },
+        "oferta_4.png": {
+            "compression": 3,
+            "name": "SET_1",
+            "position_x": 4,
+            "position_y": 48
+        }
+    },
+    "transparency": 255
+}

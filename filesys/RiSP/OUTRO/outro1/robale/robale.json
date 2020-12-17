@@ -1,0 +1,120 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "robale_0.png",
+                    "name": "0_ROBALE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "robale_1.png",
+                    "name": "1_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "robale_2.png",
+                    "name": "2_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "robale_3.png",
+                    "name": "3_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "robale_4.png",
+                    "name": "4_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "robale_0.png": {
+            "compression": 4,
+            "name": "0_ROBALE",
+            "position_x": 469,
+            "position_y": 342
+        },
+        "robale_1.png": {
+            "compression": 4,
+            "name": "1_BEZRUCH",
+            "position_x": 469,
+            "position_y": 342
+        },
+        "robale_2.png": {
+            "compression": 4,
+            "name": "2_BEZRUCH",
+            "position_x": 469,
+            "position_y": 342
+        },
+        "robale_3.png": {
+            "compression": 4,
+            "name": "3_BEZRUCH",
+            "position_x": 469,
+            "position_y": 342
+        },
+        "robale_4.png": {
+            "compression": 4,
+            "name": "4_BEZRUCH",
+            "position_x": 469,
+            "position_y": 342
+        }
+    },
+    "transparency": 255
+}

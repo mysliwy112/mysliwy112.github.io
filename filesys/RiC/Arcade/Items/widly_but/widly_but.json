@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "widly_but_0.png",
+                    "name": "WIDLY_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "widly_but_1.png",
+                    "name": "WIDLY",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "widly_but_0.png": {
+            "compression": 4,
+            "name": "WIDLY_COPY",
+            "position_x": 8,
+            "position_y": 4
+        },
+        "widly_but_1.png": {
+            "compression": 4,
+            "name": "WIDLY",
+            "position_x": 12,
+            "position_y": 4
+        }
+    },
+    "transparency": 255
+}

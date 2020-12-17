@@ -1,0 +1,78 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "GADA": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "strach_glowa_1.png",
+                    "name": "USMIECH",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "IDLE": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "strach_glowa_0.png",
+                    "name": "SMUTEK",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "SPI": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "strach_glowa_2.png",
+                    "name": "SPI",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "strach_glowa_0.png": {
+            "compression": 4,
+            "name": "SMUTEK",
+            "position_x": 222,
+            "position_y": 195
+        },
+        "strach_glowa_1.png": {
+            "compression": 4,
+            "name": "USMIECH",
+            "position_x": 204,
+            "position_y": 174
+        },
+        "strach_glowa_2.png": {
+            "compression": 4,
+            "name": "SPI",
+            "position_x": 199,
+            "position_y": 160
+        }
+    },
+    "transparency": 255
+}

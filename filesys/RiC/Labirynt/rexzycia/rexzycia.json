@@ -1,0 +1,78 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "1": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rexzycia_0.png",
+                    "name": "1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "2": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rexzycia_1.png",
+                    "name": "2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "3": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rexzycia_2.png",
+                    "name": "3",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "rexzycia_0.png": {
+            "compression": 4,
+            "name": "1",
+            "position_x": 232,
+            "position_y": 20
+        },
+        "rexzycia_1.png": {
+            "compression": 4,
+            "name": "2",
+            "position_x": 232,
+            "position_y": 20
+        },
+        "rexzycia_2.png": {
+            "compression": 4,
+            "name": "3",
+            "position_x": 232,
+            "position_y": 20
+        }
+    },
+    "transparency": 255
+}

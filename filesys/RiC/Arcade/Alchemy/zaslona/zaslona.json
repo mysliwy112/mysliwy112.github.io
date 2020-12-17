@@ -1,0 +1,180 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "IN": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "zaslona_0.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\klapa1.wav",
+                    "sfx_seed": 87255324
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "zaslona_2.png",
+                    "name": "1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "zaslona_4.png",
+                    "name": "2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "zaslona_3.png",
+                    "name": "3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "zaslona_1.png",
+                    "name": "4",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "OUT": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "zaslona_1.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\klapa2.wav",
+                    "sfx_seed": 87503892
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "zaslona_3.png",
+                    "name": "1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "zaslona_4.png",
+                    "name": "2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "zaslona_2.png",
+                    "name": "3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "zaslona_0.png",
+                    "name": "4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "zaslona_5.png",
+                    "name": "5",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "zaslona_0.png": {
+            "compression": 4,
+            "name": "LAYER_41_COPY_4",
+            "position_x": 172,
+            "position_y": 377
+        },
+        "zaslona_1.png": {
+            "compression": 4,
+            "name": "LAYER_41",
+            "position_x": 148,
+            "position_y": 304
+        },
+        "zaslona_2.png": {
+            "compression": 4,
+            "name": "LAYER_41_COPY_3",
+            "position_x": 165,
+            "position_y": 357
+        },
+        "zaslona_3.png": {
+            "compression": 4,
+            "name": "LAYER_41_COPY",
+            "position_x": 148,
+            "position_y": 317
+        },
+        "zaslona_4.png": {
+            "compression": 4,
+            "name": "LAYER_41_COPY_2",
+            "position_x": 151,
+            "position_y": 336
+        },
+        "zaslona_5.png": {
+            "compression": 4,
+            "name": "BRAK"
+        }
+    },
+    "transparency": 255
+}

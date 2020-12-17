@@ -1,0 +1,32 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "play": {
+            "frames": [
+                {
+                    "check": [
+                        32,
+                        189,
+                        83
+                    ],
+                    "filename": "blokada_0.png",
+                    "name": "zmiana",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "blokada_0.png": {
+            "compression": 4,
+            "name": "ZMIANA",
+            "position_x": 32,
+            "position_y": 224
+        }
+    },
+    "transparency": 255
+}

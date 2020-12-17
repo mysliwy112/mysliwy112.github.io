@@ -1,0 +1,78 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "IDLE": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "lew_korpus_0.png",
+                    "name": "LEW",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "IDLE_ZABA_1": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "lew_korpus_1.png",
+                    "name": "LEW_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "IDLE_ZABA_2": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "lew_korpus_2.png",
+                    "name": "LEW_COPY_2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "lew_korpus_0.png": {
+            "compression": 3,
+            "name": "LEW",
+            "position_x": 122,
+            "position_y": 133
+        },
+        "lew_korpus_1.png": {
+            "compression": 3,
+            "name": "LEW_COPY",
+            "position_x": 122,
+            "position_y": 133
+        },
+        "lew_korpus_2.png": {
+            "compression": 3,
+            "name": "LEW_COPY_2",
+            "position_x": 122,
+            "position_y": 133
+        }
+    },
+    "transparency": 255
+}

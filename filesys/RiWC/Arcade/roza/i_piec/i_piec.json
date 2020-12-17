@@ -1,0 +1,89 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "680-530-451": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "i_piec_0.png",
+                    "name": "PIEC",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "i_piec_0.png",
+                    "name": "PIEC",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE0": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "i_piec_1.png",
+                    "name": "PIEC_OPEN",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE1": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "i_piec_0.png",
+                    "name": "PIEC",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "i_piec_0.png": {
+            "compression": 3,
+            "name": "PIEC",
+            "position_x": 685,
+            "position_y": 387
+        },
+        "i_piec_1.png": {
+            "compression": 3,
+            "name": "PIEC_OPEN",
+            "position_x": 685,
+            "position_y": 387
+        }
+    },
+    "transparency": 255
+}

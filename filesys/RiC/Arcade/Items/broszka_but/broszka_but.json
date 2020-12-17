@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "broszka_but_0.png",
+                    "name": "BROSZKA_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "broszka_but_1.png",
+                    "name": "BROSZKA",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "broszka_but_0.png": {
+            "compression": 4,
+            "name": "BROSZKA_COPY",
+            "position_x": 8,
+            "position_y": 8
+        },
+        "broszka_but_1.png": {
+            "compression": 4,
+            "name": "BROSZKA",
+            "position_x": 15,
+            "position_y": 16
+        }
+    },
+    "transparency": 255
+}

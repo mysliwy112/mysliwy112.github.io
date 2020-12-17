@@ -1,0 +1,673 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "BEZRUCH": {
+            "frames": [
+                {
+                    "check": [
+                        240,
+                        70,
+                        172
+                    ],
+                    "filename": "8kroko1-8_0.png",
+                    "name": "00_KROKODYL",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48,
+                        67,
+                        172
+                    ],
+                    "filename": "8kroko1-8_1.png",
+                    "name": "1_BEZRUCH",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        160,
+                        66,
+                        172
+                    ],
+                    "filename": "8kroko1-8_4.png",
+                    "name": "2_BEZRUCH",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        16,
+                        66,
+                        172
+                    ],
+                    "filename": "8kroko1-8_4.png",
+                    "name": "2_BEZRUCH",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        128,
+                        65,
+                        172
+                    ],
+                    "filename": "8kroko1-8_4.png",
+                    "name": "2_BEZRUCH",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        64,
+                        172
+                    ],
+                    "filename": "8kroko1-8_4.png",
+                    "name": "2_BEZRUCH",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        64,
+                        172
+                    ],
+                    "filename": "8kroko1-8_1.png",
+                    "name": "1_BEZRUCH",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        95,
+                        172
+                    ],
+                    "filename": "8kroko1-8_10.png",
+                    "name": "3_BEZRUCH",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "8kroko1-8_12.png",
+                    "name": "4_BEZRUCH",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        94,
+                        172
+                    ],
+                    "filename": "8kroko1-8_12.png",
+                    "name": "4_BEZRUCH",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        93,
+                        172
+                    ],
+                    "filename": "8kroko1-8_12.png",
+                    "name": "4_BEZRUCH",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        93,
+                        172
+                    ],
+                    "filename": "8kroko1-8_10.png",
+                    "name": "3_BEZRUCH",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        192,
+                        92,
+                        172
+                    ],
+                    "filename": "8kroko1-8_0.png",
+                    "name": "00_KROKODYL",
+                    "position_x": 356,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "OTWIERA": {
+            "frames": [
+                {
+                    "check": [
+                        16,
+                        107,
+                        172
+                    ],
+                    "filename": "8kroko1-8_0.png",
+                    "name": "00_KROKODYL",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        128,
+                        106,
+                        172
+                    ],
+                    "filename": "8kroko1-8_3.png",
+                    "name": "1_PASZCZA",
+                    "position_x": 356,
+                    "position_y": 0,
+                    "sfx": "sfx\\00kroko2.wav",
+                    "sfx_seed": 11256240
+                },
+                {
+                    "check": [
+                        240,
+                        105,
+                        172
+                    ],
+                    "filename": "8kroko1-8_6.png",
+                    "name": "2_PASZCZA",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        105,
+                        172
+                    ],
+                    "filename": "8kroko1-8_8.png",
+                    "name": "3_PASZCZA",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        104,
+                        172
+                    ],
+                    "filename": "8kroko1-8_9.png",
+                    "name": "4_PASZCZA",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        64,
+                        104,
+                        172
+                    ],
+                    "filename": "8kroko1-8_9.png",
+                    "name": "4_PASZCZA",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        103,
+                        172
+                    ],
+                    "filename": "8kroko1-8_9.png",
+                    "name": "4_PASZCZA",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        32,
+                        103,
+                        172
+                    ],
+                    "filename": "8kroko1-8_11.png",
+                    "name": "5_PASZCZA",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        102,
+                        172
+                    ],
+                    "filename": "8kroko1-8_13.png",
+                    "name": "6_PASZCZA",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "8kroko1-8_14.png",
+                    "name": "7_PASZCZA",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        101,
+                        172
+                    ],
+                    "filename": "8kroko1-8_15.png",
+                    "name": "8_PASZCZA",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        100,
+                        172
+                    ],
+                    "filename": "8kroko1-8_16.png",
+                    "name": "9_PASZCZA",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        100,
+                        172
+                    ],
+                    "filename": "8kroko1-8_0.png",
+                    "name": "00_KROKODYL",
+                    "position_x": 356,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ZADZIWIONY": {
+            "frames": [
+                {
+                    "check": [],
+                    "filename": "8kroko1-8_0.png",
+                    "name": "00_KROKODYL",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        90,
+                        172
+                    ],
+                    "filename": "8kroko1-8_2.png",
+                    "name": "1_ZDZI1",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        89,
+                        172
+                    ],
+                    "filename": "8kroko1-8_5.png",
+                    "name": "2_ZDZI1",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        89,
+                        172
+                    ],
+                    "filename": "8kroko1-8_7.png",
+                    "name": "3_ZDZI1",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        192,
+                        88,
+                        172
+                    ],
+                    "filename": "8kroko1-8_0.png",
+                    "name": "00_KROKODYL",
+                    "position_x": 356,
+                    "position_y": 0,
+                    "sfx": "sfx\\00kroko1.wav",
+                    "sfx_seed": 11041040
+                },
+                {
+                    "check": [
+                        48,
+                        88,
+                        172
+                    ],
+                    "filename": "8kroko1-8_2.png",
+                    "name": "1_ZDZI1",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        160,
+                        87,
+                        172
+                    ],
+                    "filename": "8kroko1-8_5.png",
+                    "name": "2_ZDZI1",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        16,
+                        87,
+                        172
+                    ],
+                    "filename": "8kroko1-8_7.png",
+                    "name": "3_ZDZI1",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        128,
+                        86,
+                        172
+                    ],
+                    "filename": "8kroko1-8_7.png",
+                    "name": "3_ZDZI1",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        85,
+                        172
+                    ],
+                    "filename": "8kroko1-8_7.png",
+                    "name": "3_ZDZI1",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        85,
+                        172
+                    ],
+                    "filename": "8kroko1-8_7.png",
+                    "name": "3_ZDZI1",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        84,
+                        172
+                    ],
+                    "filename": "8kroko1-8_5.png",
+                    "name": "2_ZDZI1",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        64,
+                        84,
+                        172
+                    ],
+                    "filename": "8kroko1-8_2.png",
+                    "name": "1_ZDZI1",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        83,
+                        172
+                    ],
+                    "filename": "8kroko1-8_0.png",
+                    "name": "00_KROKODYL",
+                    "position_x": 356,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ZADZIWIONY2": {
+            "frames": [
+                {
+                    "check": [
+                        16,
+                        82,
+                        172
+                    ],
+                    "filename": "8kroko1-8_0.png",
+                    "name": "00_KROKODYL",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        128,
+                        81,
+                        172
+                    ],
+                    "filename": "8kroko1-8_2.png",
+                    "name": "1_ZDZI1",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        80,
+                        172
+                    ],
+                    "filename": "8kroko1-8_5.png",
+                    "name": "2_ZDZI1",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        80,
+                        172
+                    ],
+                    "filename": "8kroko1-8_7.png",
+                    "name": "3_ZDZI1",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        111,
+                        172
+                    ],
+                    "filename": "8kroko1-8_7.png",
+                    "name": "3_ZDZI1",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "8kroko1-8_7.png",
+                    "name": "3_ZDZI1",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        110,
+                        172
+                    ],
+                    "filename": "8kroko1-8_7.png",
+                    "name": "3_ZDZI1",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        109,
+                        172
+                    ],
+                    "filename": "8kroko1-8_5.png",
+                    "name": "2_ZDZI1",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        109,
+                        172
+                    ],
+                    "filename": "8kroko1-8_2.png",
+                    "name": "1_ZDZI1",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        192,
+                        108,
+                        172
+                    ],
+                    "filename": "8kroko1-8_0.png",
+                    "name": "00_KROKODYL",
+                    "position_x": 356,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "8kroko1-8_0.png": {
+            "compression": 4,
+            "name": "00_KROKODYL",
+            "position_x": 50,
+            "position_y": 376
+        },
+        "8kroko1-8_1.png": {
+            "compression": 4,
+            "name": "1_BEZRUCH",
+            "position_x": 50,
+            "position_y": 376
+        },
+        "8kroko1-8_10.png": {
+            "compression": 4,
+            "name": "3_BEZRUCH",
+            "position_x": 50,
+            "position_y": 376
+        },
+        "8kroko1-8_11.png": {
+            "compression": 4,
+            "name": "5_PASZCZA",
+            "position_x": 34,
+            "position_y": 380
+        },
+        "8kroko1-8_12.png": {
+            "compression": 4,
+            "name": "4_BEZRUCH",
+            "position_x": 50,
+            "position_y": 376
+        },
+        "8kroko1-8_13.png": {
+            "compression": 4,
+            "name": "6_PASZCZA",
+            "position_x": 35,
+            "position_y": 375
+        },
+        "8kroko1-8_14.png": {
+            "compression": 4,
+            "name": "7_PASZCZA",
+            "position_x": 34,
+            "position_y": 370
+        },
+        "8kroko1-8_15.png": {
+            "compression": 4,
+            "name": "8_PASZCZA",
+            "position_x": 45,
+            "position_y": 371
+        },
+        "8kroko1-8_16.png": {
+            "compression": 4,
+            "name": "9_PASZCZA",
+            "position_x": 49,
+            "position_y": 374
+        },
+        "8kroko1-8_2.png": {
+            "compression": 4,
+            "name": "1_ZDZI1",
+            "position_x": 50,
+            "position_y": 376
+        },
+        "8kroko1-8_3.png": {
+            "compression": 4,
+            "name": "1_PASZCZA",
+            "position_x": 49,
+            "position_y": 375
+        },
+        "8kroko1-8_4.png": {
+            "compression": 4,
+            "name": "2_BEZRUCH",
+            "position_x": 50,
+            "position_y": 376
+        },
+        "8kroko1-8_5.png": {
+            "compression": 4,
+            "name": "2_ZDZI1",
+            "position_x": 50,
+            "position_y": 376
+        },
+        "8kroko1-8_6.png": {
+            "compression": 4,
+            "name": "2_PASZCZA",
+            "position_x": 45,
+            "position_y": 378
+        },
+        "8kroko1-8_7.png": {
+            "compression": 4,
+            "name": "3_ZDZI1",
+            "position_x": 50,
+            "position_y": 376
+        },
+        "8kroko1-8_8.png": {
+            "compression": 4,
+            "name": "3_PASZCZA",
+            "position_x": 34,
+            "position_y": 382
+        },
+        "8kroko1-8_9.png": {
+            "compression": 4,
+            "name": "4_PASZCZA",
+            "position_x": 33,
+            "position_y": 374
+        }
+    },
+    "transparency": 255
+}

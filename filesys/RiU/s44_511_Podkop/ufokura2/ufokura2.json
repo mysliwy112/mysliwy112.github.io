@@ -1,0 +1,4858 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        168,
+                        202,
+                        161
+                    ],
+                    "filename": "ufokura2_0.png",
+                    "name": "4_PRAWO COPY",
+                    "position_x": 522,
+                    "position_y": 45
+                },
+                {
+                    "check": [
+                        232,
+                        172,
+                        161
+                    ],
+                    "filename": "ufokura2_1.png",
+                    "name": "2_LEWO",
+                    "position_x": 519,
+                    "position_y": 45
+                },
+                {
+                    "check": [
+                        144,
+                        170,
+                        161
+                    ],
+                    "filename": "ufokura2_2.png",
+                    "name": "3_LEWO",
+                    "position_x": 516,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        248,
+                        203,
+                        161
+                    ],
+                    "filename": "ufokura2_3.png",
+                    "name": "4_LEWO",
+                    "position_x": 513,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        136,
+                        204,
+                        161
+                    ],
+                    "filename": "ufokura2_4.png",
+                    "name": "5_LEWO",
+                    "position_x": 510,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        24,
+                        205,
+                        161
+                    ],
+                    "filename": "ufokura2_5.png",
+                    "name": "6_LEWO",
+                    "position_x": 507,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        168,
+                        205,
+                        161
+                    ],
+                    "filename": "ufokura2_6.png",
+                    "name": "7_LEWO",
+                    "position_x": 504,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        161
+                    ],
+                    "filename": "ufokura2_7.png",
+                    "name": "8_LEWO",
+                    "position_x": 501,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        200,
+                        206,
+                        161
+                    ],
+                    "filename": "ufokura2_8.png",
+                    "name": "9_LEWO",
+                    "position_x": 498,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        88,
+                        207,
+                        161
+                    ],
+                    "filename": "ufokura2_9.png",
+                    "name": "10_LEWO",
+                    "position_x": 495,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        232,
+                        207,
+                        161
+                    ],
+                    "filename": "ufokura2_0.png",
+                    "name": "1_LEWO",
+                    "position_x": 492,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        128,
+                        208,
+                        161
+                    ],
+                    "filename": "ufokura2_1.png",
+                    "name": "2_LEWO",
+                    "position_x": 490,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        16,
+                        209,
+                        161
+                    ],
+                    "filename": "ufokura2_2.png",
+                    "name": "3_LEWO",
+                    "position_x": 487,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        160,
+                        209,
+                        161
+                    ],
+                    "filename": "ufokura2_3.png",
+                    "name": "4_LEWO",
+                    "position_x": 484,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        48,
+                        210,
+                        161
+                    ],
+                    "filename": "ufokura2_4.png",
+                    "name": "5_LEWO",
+                    "position_x": 481,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        192,
+                        210,
+                        161
+                    ],
+                    "filename": "ufokura2_5.png",
+                    "name": "6_LEWO",
+                    "position_x": 478,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        80,
+                        211,
+                        161
+                    ],
+                    "filename": "ufokura2_6.png",
+                    "name": "7_LEWO",
+                    "position_x": 475,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        224,
+                        211,
+                        161
+                    ],
+                    "filename": "ufokura2_7.png",
+                    "name": "8_LEWO",
+                    "position_x": 472,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        112,
+                        212,
+                        161
+                    ],
+                    "filename": "ufokura2_8.png",
+                    "name": "9_LEWO",
+                    "position_x": 469,
+                    "position_y": 44
+                },
+                {
+                    "check": [],
+                    "filename": "ufokura2_9.png",
+                    "name": "10_LEWO",
+                    "position_x": 467,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        144,
+                        213,
+                        161
+                    ],
+                    "filename": "ufokura2_0.png",
+                    "name": "1_LEWO",
+                    "position_x": 464,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        32,
+                        214,
+                        161
+                    ],
+                    "filename": "ufokura2_1.png",
+                    "name": "2_LEWO",
+                    "position_x": 461,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        176,
+                        214,
+                        161
+                    ],
+                    "filename": "ufokura2_2.png",
+                    "name": "3_LEWO",
+                    "position_x": 458,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        64,
+                        215,
+                        161
+                    ],
+                    "filename": "ufokura2_3.png",
+                    "name": "4_LEWO",
+                    "position_x": 455,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        208,
+                        215,
+                        161
+                    ],
+                    "filename": "ufokura2_4.png",
+                    "name": "5_LEWO",
+                    "position_x": 453,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        96,
+                        216,
+                        161
+                    ],
+                    "filename": "ufokura2_5.png",
+                    "name": "6_LEWO",
+                    "position_x": 450,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        240,
+                        216,
+                        161
+                    ],
+                    "filename": "ufokura2_6.png",
+                    "name": "7_LEWO",
+                    "position_x": 447,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        128,
+                        217,
+                        161
+                    ],
+                    "filename": "ufokura2_7.png",
+                    "name": "8_LEWO",
+                    "position_x": 444,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        16,
+                        218,
+                        161
+                    ],
+                    "filename": "ufokura2_8.png",
+                    "name": "9_LEWO",
+                    "position_x": 441,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        160,
+                        218,
+                        161
+                    ],
+                    "filename": "ufokura2_9.png",
+                    "name": "10_LEWO",
+                    "position_x": 439,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        48,
+                        219,
+                        161
+                    ],
+                    "filename": "ufokura2_0.png",
+                    "name": "1_LEWO",
+                    "position_x": 436,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        192,
+                        219,
+                        161
+                    ],
+                    "filename": "ufokura2_1.png",
+                    "name": "2_LEWO",
+                    "position_x": 433,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        80,
+                        220,
+                        161
+                    ],
+                    "filename": "ufokura2_2.png",
+                    "name": "3_LEWO",
+                    "position_x": 430,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        224,
+                        220,
+                        161
+                    ],
+                    "filename": "ufokura2_3.png",
+                    "name": "4_LEWO",
+                    "position_x": 427,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        112,
+                        221,
+                        161
+                    ],
+                    "filename": "ufokura2_4.png",
+                    "name": "5_LEWO",
+                    "position_x": 425,
+                    "position_y": 44
+                },
+                {
+                    "check": [],
+                    "filename": "ufokura2_5.png",
+                    "name": "6_LEWO",
+                    "position_x": 422,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        144,
+                        222,
+                        161
+                    ],
+                    "filename": "ufokura2_6.png",
+                    "name": "7_LEWO",
+                    "position_x": 419,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        32,
+                        223,
+                        161
+                    ],
+                    "filename": "ufokura2_7.png",
+                    "name": "8_LEWO",
+                    "position_x": 416,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        176,
+                        223,
+                        161
+                    ],
+                    "filename": "ufokura2_8.png",
+                    "name": "9_LEWO",
+                    "position_x": 414,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        64,
+                        224,
+                        161
+                    ],
+                    "filename": "ufokura2_9.png",
+                    "name": "10_LEWO",
+                    "position_x": 411,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        208,
+                        224,
+                        161
+                    ],
+                    "filename": "ufokura2_0.png",
+                    "name": "1_LEWO",
+                    "position_x": 408,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        96,
+                        225,
+                        161
+                    ],
+                    "filename": "ufokura2_1.png",
+                    "name": "2_LEWO",
+                    "position_x": 405,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        240,
+                        225,
+                        161
+                    ],
+                    "filename": "ufokura2_2.png",
+                    "name": "3_LEWO",
+                    "position_x": 403,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        128,
+                        226,
+                        161
+                    ],
+                    "filename": "ufokura2_3.png",
+                    "name": "4_LEWO",
+                    "position_x": 400,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        16,
+                        227,
+                        161
+                    ],
+                    "filename": "ufokura2_4.png",
+                    "name": "5_LEWO",
+                    "position_x": 397,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        160,
+                        227,
+                        161
+                    ],
+                    "filename": "ufokura2_5.png",
+                    "name": "6_LEWO",
+                    "position_x": 394,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        48,
+                        228,
+                        161
+                    ],
+                    "filename": "ufokura2_6.png",
+                    "name": "7_LEWO",
+                    "position_x": 392,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        192,
+                        228,
+                        161
+                    ],
+                    "filename": "ufokura2_7.png",
+                    "name": "8_LEWO",
+                    "position_x": 389,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        80,
+                        229,
+                        161
+                    ],
+                    "filename": "ufokura2_8.png",
+                    "name": "9_LEWO",
+                    "position_x": 386,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        224,
+                        229,
+                        161
+                    ],
+                    "filename": "ufokura2_9.png",
+                    "name": "10_LEWO",
+                    "position_x": 384,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        112,
+                        230,
+                        161
+                    ],
+                    "filename": "ufokura2_0.png",
+                    "name": "1_LEWO",
+                    "position_x": 381,
+                    "position_y": 44
+                },
+                {
+                    "check": [],
+                    "filename": "ufokura2_1.png",
+                    "name": "2_LEWO",
+                    "position_x": 378,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        144,
+                        231,
+                        161
+                    ],
+                    "filename": "ufokura2_2.png",
+                    "name": "3_LEWO",
+                    "position_x": 375,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        32,
+                        232,
+                        161
+                    ],
+                    "filename": "ufokura2_3.png",
+                    "name": "4_LEWO",
+                    "position_x": 373,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        176,
+                        232,
+                        161
+                    ],
+                    "filename": "ufokura2_4.png",
+                    "name": "5_LEWO",
+                    "position_x": 370,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        64,
+                        233,
+                        161
+                    ],
+                    "filename": "ufokura2_5.png",
+                    "name": "6_LEWO",
+                    "position_x": 367,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        208,
+                        233,
+                        161
+                    ],
+                    "filename": "ufokura2_6.png",
+                    "name": "7_LEWO",
+                    "position_x": 365,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        96,
+                        234,
+                        161
+                    ],
+                    "filename": "ufokura2_7.png",
+                    "name": "8_LEWO",
+                    "position_x": 362,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        240,
+                        234,
+                        161
+                    ],
+                    "filename": "ufokura2_8.png",
+                    "name": "9_LEWO",
+                    "position_x": 359,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        128,
+                        235,
+                        161
+                    ],
+                    "filename": "ufokura2_9.png",
+                    "name": "10_LEWO",
+                    "position_x": 357,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        16,
+                        236,
+                        161
+                    ],
+                    "filename": "ufokura2_0.png",
+                    "name": "1_LEWO",
+                    "position_x": 354,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        160,
+                        236,
+                        161
+                    ],
+                    "filename": "ufokura2_1.png",
+                    "name": "2_LEWO",
+                    "position_x": 351,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        48,
+                        237,
+                        161
+                    ],
+                    "filename": "ufokura2_2.png",
+                    "name": "3_LEWO",
+                    "position_x": 349,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        192,
+                        237,
+                        161
+                    ],
+                    "filename": "ufokura2_3.png",
+                    "name": "4_LEWO",
+                    "position_x": 346,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        80,
+                        238,
+                        161
+                    ],
+                    "filename": "ufokura2_4.png",
+                    "name": "5_LEWO",
+                    "position_x": 343,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        224,
+                        238,
+                        161
+                    ],
+                    "filename": "ufokura2_5.png",
+                    "name": "6_LEWO",
+                    "position_x": 341,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        112,
+                        239,
+                        161
+                    ],
+                    "filename": "ufokura2_6.png",
+                    "name": "7_LEWO",
+                    "position_x": 338,
+                    "position_y": 44
+                },
+                {
+                    "check": [],
+                    "filename": "ufokura2_7.png",
+                    "name": "8_LEWO",
+                    "position_x": 335,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        144,
+                        240,
+                        161
+                    ],
+                    "filename": "ufokura2_8.png",
+                    "name": "9_LEWO",
+                    "position_x": 333,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        32,
+                        241,
+                        161
+                    ],
+                    "filename": "ufokura2_9.png",
+                    "name": "10_LEWO",
+                    "position_x": 330,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        176,
+                        241,
+                        161
+                    ],
+                    "filename": "ufokura2_0.png",
+                    "name": "1_LEWO",
+                    "position_x": 327,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        64,
+                        242,
+                        161
+                    ],
+                    "filename": "ufokura2_1.png",
+                    "name": "2_LEWO",
+                    "position_x": 325,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        208,
+                        242,
+                        161
+                    ],
+                    "filename": "ufokura2_2.png",
+                    "name": "3_LEWO",
+                    "position_x": 322,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        96,
+                        243,
+                        161
+                    ],
+                    "filename": "ufokura2_3.png",
+                    "name": "4_LEWO",
+                    "position_x": 320,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        240,
+                        243,
+                        161
+                    ],
+                    "filename": "ufokura2_4.png",
+                    "name": "5_LEWO",
+                    "position_x": 317,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        128,
+                        244,
+                        161
+                    ],
+                    "filename": "ufokura2_5.png",
+                    "name": "6_LEWO",
+                    "position_x": 314,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        16,
+                        245,
+                        161
+                    ],
+                    "filename": "ufokura2_6.png",
+                    "name": "7_LEWO",
+                    "position_x": 312,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        160,
+                        245,
+                        161
+                    ],
+                    "filename": "ufokura2_7.png",
+                    "name": "8_LEWO",
+                    "position_x": 309,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        48,
+                        246,
+                        161
+                    ],
+                    "filename": "ufokura2_8.png",
+                    "name": "9_LEWO",
+                    "position_x": 306,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        192,
+                        246,
+                        161
+                    ],
+                    "filename": "ufokura2_9.png",
+                    "name": "10_LEWO",
+                    "position_x": 304,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        80,
+                        247,
+                        161
+                    ],
+                    "filename": "ufokura2_0.png",
+                    "name": "1_LEWO",
+                    "position_x": 301,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        224,
+                        247,
+                        161
+                    ],
+                    "filename": "ufokura2_1.png",
+                    "name": "2_LEWO",
+                    "position_x": 299,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        112,
+                        248,
+                        161
+                    ],
+                    "filename": "ufokura2_2.png",
+                    "name": "3_LEWO",
+                    "position_x": 296,
+                    "position_y": 44
+                },
+                {
+                    "check": [],
+                    "filename": "ufokura2_3.png",
+                    "name": "4_LEWO",
+                    "position_x": 293,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        144,
+                        249,
+                        161
+                    ],
+                    "filename": "ufokura2_4.png",
+                    "name": "5_LEWO",
+                    "position_x": 291,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        32,
+                        250,
+                        161
+                    ],
+                    "filename": "ufokura2_5.png",
+                    "name": "6_LEWO",
+                    "position_x": 288,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        176,
+                        250,
+                        161
+                    ],
+                    "filename": "ufokura2_6.png",
+                    "name": "7_LEWO",
+                    "position_x": 285,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        64,
+                        251,
+                        161
+                    ],
+                    "filename": "ufokura2_7.png",
+                    "name": "8_LEWO",
+                    "position_x": 283,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        208,
+                        251,
+                        161
+                    ],
+                    "filename": "ufokura2_8.png",
+                    "name": "9_LEWO",
+                    "position_x": 280,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        96,
+                        252,
+                        161
+                    ],
+                    "filename": "ufokura2_9.png",
+                    "name": "10_LEWO",
+                    "position_x": 278,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        240,
+                        252,
+                        161
+                    ],
+                    "filename": "ufokura2_0.png",
+                    "name": "1_LEWO",
+                    "position_x": 275,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        128,
+                        253,
+                        161
+                    ],
+                    "filename": "ufokura2_1.png",
+                    "name": "2_LEWO",
+                    "position_x": 272,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        16,
+                        254,
+                        161
+                    ],
+                    "filename": "ufokura2_2.png",
+                    "name": "3_LEWO",
+                    "position_x": 270,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        160,
+                        254,
+                        161
+                    ],
+                    "filename": "ufokura2_3.png",
+                    "name": "4_LEWO",
+                    "position_x": 267,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        48,
+                        255,
+                        161
+                    ],
+                    "filename": "ufokura2_4.png",
+                    "name": "5_LEWO",
+                    "position_x": 265,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        192,
+                        255,
+                        161
+                    ],
+                    "filename": "ufokura2_5.png",
+                    "name": "6_LEWO",
+                    "position_x": 262,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        112,
+                        32,
+                        225
+                    ],
+                    "filename": "ufokura2_6.png",
+                    "name": "7_LEWO",
+                    "position_x": 259,
+                    "position_y": 44
+                },
+                {
+                    "check": [],
+                    "filename": "ufokura2_7.png",
+                    "name": "8_LEWO",
+                    "position_x": 257,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        144,
+                        33,
+                        225
+                    ],
+                    "filename": "ufokura2_8.png",
+                    "name": "9_LEWO",
+                    "position_x": 254,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        32,
+                        34,
+                        225
+                    ],
+                    "filename": "ufokura2_9.png",
+                    "name": "10_LEWO",
+                    "position_x": 252,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        176,
+                        34,
+                        225
+                    ],
+                    "filename": "ufokura2_0.png",
+                    "name": "1_LEWO",
+                    "position_x": 249,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        64,
+                        35,
+                        225
+                    ],
+                    "filename": "ufokura2_1.png",
+                    "name": "2_LEWO",
+                    "position_x": 247,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        208,
+                        35,
+                        225
+                    ],
+                    "filename": "ufokura2_2.png",
+                    "name": "3_LEWO",
+                    "position_x": 244,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        96,
+                        36,
+                        225
+                    ],
+                    "filename": "ufokura2_3.png",
+                    "name": "4_LEWO",
+                    "position_x": 241,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        240,
+                        36,
+                        225
+                    ],
+                    "filename": "ufokura2_4.png",
+                    "name": "5_LEWO",
+                    "position_x": 239,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        128,
+                        37,
+                        225
+                    ],
+                    "filename": "ufokura2_5.png",
+                    "name": "6_LEWO",
+                    "position_x": 236,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        16,
+                        38,
+                        225
+                    ],
+                    "filename": "ufokura2_6.png",
+                    "name": "7_LEWO",
+                    "position_x": 234,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        160,
+                        38,
+                        225
+                    ],
+                    "filename": "ufokura2_7.png",
+                    "name": "8_LEWO",
+                    "position_x": 231,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        48,
+                        39,
+                        225
+                    ],
+                    "filename": "ufokura2_8.png",
+                    "name": "9_LEWO",
+                    "position_x": 228,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        192,
+                        39,
+                        225
+                    ],
+                    "filename": "ufokura2_9.png",
+                    "name": "10_LEWO",
+                    "position_x": 226,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        80,
+                        40,
+                        225
+                    ],
+                    "filename": "ufokura2_0.png",
+                    "name": "1_LEWO",
+                    "position_x": 223,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        224,
+                        40,
+                        225
+                    ],
+                    "filename": "ufokura2_1.png",
+                    "name": "2_LEWO",
+                    "position_x": 221,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        112,
+                        41,
+                        225
+                    ],
+                    "filename": "ufokura2_2.png",
+                    "name": "3_LEWO",
+                    "position_x": 218,
+                    "position_y": 44
+                },
+                {
+                    "check": [],
+                    "filename": "ufokura2_3.png",
+                    "name": "4_LEWO",
+                    "position_x": 216,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        144,
+                        42,
+                        225
+                    ],
+                    "filename": "ufokura2_4.png",
+                    "name": "5_LEWO",
+                    "position_x": 213,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        32,
+                        43,
+                        225
+                    ],
+                    "filename": "ufokura2_5.png",
+                    "name": "6_LEWO",
+                    "position_x": 210,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        176,
+                        43,
+                        225
+                    ],
+                    "filename": "ufokura2_6.png",
+                    "name": "7_LEWO",
+                    "position_x": 208,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        64,
+                        44,
+                        225
+                    ],
+                    "filename": "ufokura2_7.png",
+                    "name": "8_LEWO",
+                    "position_x": 205,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        208,
+                        44,
+                        225
+                    ],
+                    "filename": "ufokura2_8.png",
+                    "name": "9_LEWO",
+                    "position_x": 203,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        96,
+                        45,
+                        225
+                    ],
+                    "filename": "ufokura2_9.png",
+                    "name": "10_LEWO",
+                    "position_x": 200,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        240,
+                        45,
+                        225
+                    ],
+                    "filename": "ufokura2_0.png",
+                    "name": "1_LEWO",
+                    "position_x": 198,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        128,
+                        46,
+                        225
+                    ],
+                    "filename": "ufokura2_1.png",
+                    "name": "2_LEWO",
+                    "position_x": 195,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        16,
+                        47,
+                        225
+                    ],
+                    "filename": "ufokura2_2.png",
+                    "name": "3_LEWO",
+                    "position_x": 192,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        160,
+                        47,
+                        225
+                    ],
+                    "filename": "ufokura2_3.png",
+                    "name": "4_LEWO",
+                    "position_x": 190,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        48,
+                        48,
+                        225
+                    ],
+                    "filename": "ufokura2_4.png",
+                    "name": "5_LEWO",
+                    "position_x": 187,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        192,
+                        48,
+                        225
+                    ],
+                    "filename": "ufokura2_5.png",
+                    "name": "6_LEWO",
+                    "position_x": 185,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        80,
+                        49,
+                        225
+                    ],
+                    "filename": "ufokura2_6.png",
+                    "name": "7_LEWO",
+                    "position_x": 182,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        224,
+                        49,
+                        225
+                    ],
+                    "filename": "ufokura2_7.png",
+                    "name": "8_LEWO",
+                    "position_x": 180,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        112,
+                        50,
+                        225
+                    ],
+                    "filename": "ufokura2_8.png",
+                    "name": "9_LEWO",
+                    "position_x": 177,
+                    "position_y": 43
+                },
+                {
+                    "check": [],
+                    "filename": "ufokura2_9.png",
+                    "name": "10_LEWO",
+                    "position_x": 175,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        144,
+                        51,
+                        225
+                    ],
+                    "filename": "ufokura2_0.png",
+                    "name": "1_LEWO",
+                    "position_x": 172,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        32,
+                        52,
+                        225
+                    ],
+                    "filename": "ufokura2_1.png",
+                    "name": "2_LEWO",
+                    "position_x": 169,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        176,
+                        52,
+                        225
+                    ],
+                    "filename": "ufokura2_2.png",
+                    "name": "3_LEWO",
+                    "position_x": 167,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        64,
+                        53,
+                        225
+                    ],
+                    "filename": "ufokura2_3.png",
+                    "name": "4_LEWO",
+                    "position_x": 164,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        208,
+                        53,
+                        225
+                    ],
+                    "filename": "ufokura2_4.png",
+                    "name": "5_LEWO",
+                    "position_x": 162,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        96,
+                        54,
+                        225
+                    ],
+                    "filename": "ufokura2_5.png",
+                    "name": "6_LEWO",
+                    "position_x": 159,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        240,
+                        54,
+                        225
+                    ],
+                    "filename": "ufokura2_6.png",
+                    "name": "7_LEWO",
+                    "position_x": 157,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        128,
+                        55,
+                        225
+                    ],
+                    "filename": "ufokura2_7.png",
+                    "name": "8_LEWO",
+                    "position_x": 154,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        16,
+                        56,
+                        225
+                    ],
+                    "filename": "ufokura2_8.png",
+                    "name": "9_LEWO",
+                    "position_x": 151,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        160,
+                        56,
+                        225
+                    ],
+                    "filename": "ufokura2_9.png",
+                    "name": "10_LEWO",
+                    "position_x": 149,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        48,
+                        57,
+                        225
+                    ],
+                    "filename": "ufokura2_0.png",
+                    "name": "1_LEWO",
+                    "position_x": 146,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        192,
+                        57,
+                        225
+                    ],
+                    "filename": "ufokura2_1.png",
+                    "name": "2_LEWO",
+                    "position_x": 144,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        80,
+                        58,
+                        225
+                    ],
+                    "filename": "ufokura2_2.png",
+                    "name": "3_LEWO",
+                    "position_x": 141,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        224,
+                        58,
+                        225
+                    ],
+                    "filename": "ufokura2_3.png",
+                    "name": "4_LEWO",
+                    "position_x": 139,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        112,
+                        59,
+                        225
+                    ],
+                    "filename": "ufokura2_4.png",
+                    "name": "5_LEWO",
+                    "position_x": 136,
+                    "position_y": 43
+                },
+                {
+                    "check": [],
+                    "filename": "ufokura2_5.png",
+                    "name": "6_LEWO",
+                    "position_x": 133,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        144,
+                        60,
+                        225
+                    ],
+                    "filename": "ufokura2_6.png",
+                    "name": "7_LEWO",
+                    "position_x": 131,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        32,
+                        61,
+                        225
+                    ],
+                    "filename": "ufokura2_7.png",
+                    "name": "8_LEWO",
+                    "position_x": 128,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        176,
+                        61,
+                        225
+                    ],
+                    "filename": "ufokura2_8.png",
+                    "name": "9_LEWO",
+                    "position_x": 126,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        64,
+                        62,
+                        225
+                    ],
+                    "filename": "ufokura2_9.png",
+                    "name": "10_LEWO",
+                    "position_x": 123,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        208,
+                        62,
+                        225
+                    ],
+                    "filename": "ufokura2_0.png",
+                    "name": "1_LEWO",
+                    "position_x": 121,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        96,
+                        63,
+                        225
+                    ],
+                    "filename": "ufokura2_10.png",
+                    "name": "4_PRAWO COPY",
+                    "position_x": 113,
+                    "position_y": 43
+                },
+                {
+                    "check": [],
+                    "filename": "ufokura2_11.png",
+                    "name": "3_PRAWO COPY",
+                    "position_x": 113,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        160,
+                        64,
+                        225
+                    ],
+                    "filename": "ufokura2_12.png",
+                    "name": "3_NAPRAWASTOPLEWO",
+                    "position_x": 113,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        64,
+                        65,
+                        225
+                    ],
+                    "filename": "ufokura2_13.png",
+                    "name": "2_NAPRAWASTOPLEWO",
+                    "position_x": 113,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        224,
+                        65,
+                        225
+                    ],
+                    "filename": "ufokura2_14.png",
+                    "name": "1_NAPRAWASTOPLEWO",
+                    "position_x": 113,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        128,
+                        66,
+                        225
+                    ],
+                    "filename": "ufokura2_15.png",
+                    "name": "0_NAPRAWA",
+                    "position_x": 113,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        16,
+                        67,
+                        225
+                    ],
+                    "filename": "ufokura2_16.png",
+                    "name": "5_NAPRAWASTARTPRAWO",
+                    "position_x": 113,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        176,
+                        67,
+                        225
+                    ],
+                    "filename": "ufokura2_17.png",
+                    "name": "4_NAPRAWASTARTPRAWO",
+                    "position_x": 113,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        80,
+                        68,
+                        225
+                    ],
+                    "filename": "ufokura2_18.png",
+                    "name": "3_NAPRAWASTARTPRAWO",
+                    "position_x": 113,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        240,
+                        68,
+                        225
+                    ],
+                    "filename": "ufokura2_19.png",
+                    "name": "2_NAPRAWASTARTPRAWO",
+                    "position_x": 113,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        144,
+                        69,
+                        225
+                    ],
+                    "filename": "ufokura2_20.png",
+                    "name": "1_NAPRAWASTARTPRAWO",
+                    "position_x": 113,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        48,
+                        70,
+                        225
+                    ],
+                    "filename": "ufokura2_21.png",
+                    "name": "1_NAPRAWASTARTPRAWO",
+                    "position_x": 113,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        208,
+                        70,
+                        225
+                    ],
+                    "filename": "ufokura2_22.png",
+                    "name": "2_PRAWO",
+                    "position_x": 115,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        96,
+                        71,
+                        225
+                    ],
+                    "filename": "ufokura2_23.png",
+                    "name": "3_PRAWO",
+                    "position_x": 118,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        240,
+                        71,
+                        225
+                    ],
+                    "filename": "ufokura2_24.png",
+                    "name": "4_PRAWO",
+                    "position_x": 121,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        128,
+                        72,
+                        225
+                    ],
+                    "filename": "ufokura2_25.png",
+                    "name": "5_PRAWO",
+                    "position_x": 124,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        16,
+                        73,
+                        225
+                    ],
+                    "filename": "ufokura2_26.png",
+                    "name": "6_PRAWO",
+                    "position_x": 127,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        160,
+                        73,
+                        225
+                    ],
+                    "filename": "ufokura2_27.png",
+                    "name": "7_PRAWO",
+                    "position_x": 130,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        48,
+                        74,
+                        225
+                    ],
+                    "filename": "ufokura2_28.png",
+                    "name": "8_PRAWO",
+                    "position_x": 133,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        192,
+                        74,
+                        225
+                    ],
+                    "filename": "ufokura2_29.png",
+                    "name": "9_PRAWO",
+                    "position_x": 136,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        80,
+                        75,
+                        225
+                    ],
+                    "filename": "ufokura2_30.png",
+                    "name": "10_PRAWO",
+                    "position_x": 139,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        224,
+                        75,
+                        225
+                    ],
+                    "filename": "ufokura2_21.png",
+                    "name": "1_PRAWO",
+                    "position_x": 142,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        112,
+                        76,
+                        225
+                    ],
+                    "filename": "ufokura2_22.png",
+                    "name": "2_PRAWO",
+                    "position_x": 144,
+                    "position_y": 43
+                },
+                {
+                    "check": [],
+                    "filename": "ufokura2_23.png",
+                    "name": "3_PRAWO",
+                    "position_x": 147,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        144,
+                        77,
+                        225
+                    ],
+                    "filename": "ufokura2_24.png",
+                    "name": "4_PRAWO",
+                    "position_x": 150,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        32,
+                        78,
+                        225
+                    ],
+                    "filename": "ufokura2_25.png",
+                    "name": "5_PRAWO",
+                    "position_x": 153,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        176,
+                        78,
+                        225
+                    ],
+                    "filename": "ufokura2_26.png",
+                    "name": "6_PRAWO",
+                    "position_x": 156,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        64,
+                        79,
+                        225
+                    ],
+                    "filename": "ufokura2_27.png",
+                    "name": "7_PRAWO",
+                    "position_x": 159,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        208,
+                        79,
+                        225
+                    ],
+                    "filename": "ufokura2_28.png",
+                    "name": "8_PRAWO",
+                    "position_x": 161,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        96,
+                        80,
+                        225
+                    ],
+                    "filename": "ufokura2_29.png",
+                    "name": "9_PRAWO",
+                    "position_x": 164,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        240,
+                        80,
+                        225
+                    ],
+                    "filename": "ufokura2_30.png",
+                    "name": "10_PRAWO",
+                    "position_x": 167,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        128,
+                        81,
+                        225
+                    ],
+                    "filename": "ufokura2_21.png",
+                    "name": "1_PRAWO",
+                    "position_x": 170,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        16,
+                        82,
+                        225
+                    ],
+                    "filename": "ufokura2_22.png",
+                    "name": "2_PRAWO",
+                    "position_x": 172,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        160,
+                        82,
+                        225
+                    ],
+                    "filename": "ufokura2_23.png",
+                    "name": "3_PRAWO",
+                    "position_x": 175,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        48,
+                        83,
+                        225
+                    ],
+                    "filename": "ufokura2_24.png",
+                    "name": "4_PRAWO",
+                    "position_x": 178,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        192,
+                        83,
+                        225
+                    ],
+                    "filename": "ufokura2_25.png",
+                    "name": "5_PRAWO",
+                    "position_x": 181,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        80,
+                        84,
+                        225
+                    ],
+                    "filename": "ufokura2_26.png",
+                    "name": "6_PRAWO",
+                    "position_x": 183,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        224,
+                        84,
+                        225
+                    ],
+                    "filename": "ufokura2_27.png",
+                    "name": "7_PRAWO",
+                    "position_x": 186,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        112,
+                        85,
+                        225
+                    ],
+                    "filename": "ufokura2_28.png",
+                    "name": "8_PRAWO",
+                    "position_x": 189,
+                    "position_y": 43
+                },
+                {
+                    "check": [],
+                    "filename": "ufokura2_29.png",
+                    "name": "9_PRAWO",
+                    "position_x": 191,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        144,
+                        86,
+                        225
+                    ],
+                    "filename": "ufokura2_30.png",
+                    "name": "10_PRAWO",
+                    "position_x": 194,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        32,
+                        87,
+                        225
+                    ],
+                    "filename": "ufokura2_21.png",
+                    "name": "1_PRAWO",
+                    "position_x": 197,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        176,
+                        87,
+                        225
+                    ],
+                    "filename": "ufokura2_22.png",
+                    "name": "2_PRAWO",
+                    "position_x": 199,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        64,
+                        88,
+                        225
+                    ],
+                    "filename": "ufokura2_23.png",
+                    "name": "3_PRAWO",
+                    "position_x": 202,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        208,
+                        88,
+                        225
+                    ],
+                    "filename": "ufokura2_24.png",
+                    "name": "4_PRAWO",
+                    "position_x": 205,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        96,
+                        89,
+                        225
+                    ],
+                    "filename": "ufokura2_25.png",
+                    "name": "5_PRAWO",
+                    "position_x": 207,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        240,
+                        89,
+                        225
+                    ],
+                    "filename": "ufokura2_26.png",
+                    "name": "6_PRAWO",
+                    "position_x": 210,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        128,
+                        90,
+                        225
+                    ],
+                    "filename": "ufokura2_27.png",
+                    "name": "7_PRAWO",
+                    "position_x": 213,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        16,
+                        91,
+                        225
+                    ],
+                    "filename": "ufokura2_28.png",
+                    "name": "8_PRAWO",
+                    "position_x": 215,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        160,
+                        91,
+                        225
+                    ],
+                    "filename": "ufokura2_29.png",
+                    "name": "9_PRAWO",
+                    "position_x": 218,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        48,
+                        92,
+                        225
+                    ],
+                    "filename": "ufokura2_30.png",
+                    "name": "10_PRAWO",
+                    "position_x": 220,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        192,
+                        92,
+                        225
+                    ],
+                    "filename": "ufokura2_21.png",
+                    "name": "1_PRAWO",
+                    "position_x": 223,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        80,
+                        93,
+                        225
+                    ],
+                    "filename": "ufokura2_22.png",
+                    "name": "2_PRAWO",
+                    "position_x": 226,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        224,
+                        93,
+                        225
+                    ],
+                    "filename": "ufokura2_23.png",
+                    "name": "3_PRAWO",
+                    "position_x": 228,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        112,
+                        94,
+                        225
+                    ],
+                    "filename": "ufokura2_24.png",
+                    "name": "4_PRAWO",
+                    "position_x": 231,
+                    "position_y": 43
+                },
+                {
+                    "check": [],
+                    "filename": "ufokura2_25.png",
+                    "name": "5_PRAWO",
+                    "position_x": 233,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        144,
+                        95,
+                        225
+                    ],
+                    "filename": "ufokura2_26.png",
+                    "name": "6_PRAWO",
+                    "position_x": 236,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        40,
+                        96,
+                        225
+                    ],
+                    "filename": "ufokura2_27.png",
+                    "name": "7_PRAWO",
+                    "position_x": 238,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        184,
+                        96,
+                        225
+                    ],
+                    "filename": "ufokura2_28.png",
+                    "name": "8_PRAWO",
+                    "position_x": 241,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        72,
+                        97,
+                        225
+                    ],
+                    "filename": "ufokura2_29.png",
+                    "name": "9_PRAWO",
+                    "position_x": 243,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        216,
+                        97,
+                        225
+                    ],
+                    "filename": "ufokura2_30.png",
+                    "name": "10_PRAWO",
+                    "position_x": 246,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        104,
+                        98,
+                        225
+                    ],
+                    "filename": "ufokura2_21.png",
+                    "name": "1_PRAWO",
+                    "position_x": 249,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        248,
+                        98,
+                        225
+                    ],
+                    "filename": "ufokura2_22.png",
+                    "name": "2_PRAWO",
+                    "position_x": 251,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        136,
+                        99,
+                        225
+                    ],
+                    "filename": "ufokura2_23.png",
+                    "name": "3_PRAWO",
+                    "position_x": 254,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        24,
+                        100,
+                        225
+                    ],
+                    "filename": "ufokura2_24.png",
+                    "name": "4_PRAWO",
+                    "position_x": 256,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        168,
+                        100,
+                        225
+                    ],
+                    "filename": "ufokura2_25.png",
+                    "name": "5_PRAWO",
+                    "position_x": 259,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        56,
+                        101,
+                        225
+                    ],
+                    "filename": "ufokura2_26.png",
+                    "name": "6_PRAWO",
+                    "position_x": 261,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        200,
+                        101,
+                        225
+                    ],
+                    "filename": "ufokura2_27.png",
+                    "name": "7_PRAWO",
+                    "position_x": 264,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        88,
+                        102,
+                        225
+                    ],
+                    "filename": "ufokura2_28.png",
+                    "name": "8_PRAWO",
+                    "position_x": 266,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        232,
+                        102,
+                        225
+                    ],
+                    "filename": "ufokura2_29.png",
+                    "name": "9_PRAWO",
+                    "position_x": 269,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        120,
+                        103,
+                        225
+                    ],
+                    "filename": "ufokura2_30.png",
+                    "name": "10_PRAWO",
+                    "position_x": 271,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        8,
+                        104,
+                        225
+                    ],
+                    "filename": "ufokura2_21.png",
+                    "name": "1_PRAWO",
+                    "position_x": 274,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        152,
+                        104,
+                        225
+                    ],
+                    "filename": "ufokura2_22.png",
+                    "name": "2_PRAWO",
+                    "position_x": 276,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        40,
+                        105,
+                        225
+                    ],
+                    "filename": "ufokura2_23.png",
+                    "name": "3_PRAWO",
+                    "position_x": 279,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        184,
+                        105,
+                        225
+                    ],
+                    "filename": "ufokura2_24.png",
+                    "name": "4_PRAWO",
+                    "position_x": 281,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        72,
+                        106,
+                        225
+                    ],
+                    "filename": "ufokura2_25.png",
+                    "name": "5_PRAWO",
+                    "position_x": 283,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        216,
+                        106,
+                        225
+                    ],
+                    "filename": "ufokura2_26.png",
+                    "name": "6_PRAWO",
+                    "position_x": 286,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        104,
+                        107,
+                        225
+                    ],
+                    "filename": "ufokura2_27.png",
+                    "name": "7_PRAWO",
+                    "position_x": 288,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        248,
+                        107,
+                        225
+                    ],
+                    "filename": "ufokura2_28.png",
+                    "name": "8_PRAWO",
+                    "position_x": 291,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        136,
+                        108,
+                        225
+                    ],
+                    "filename": "ufokura2_29.png",
+                    "name": "9_PRAWO",
+                    "position_x": 293,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        24,
+                        109,
+                        225
+                    ],
+                    "filename": "ufokura2_30.png",
+                    "name": "10_PRAWO",
+                    "position_x": 296,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        168,
+                        109,
+                        225
+                    ],
+                    "filename": "ufokura2_21.png",
+                    "name": "1_PRAWO",
+                    "position_x": 298,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        56,
+                        110,
+                        225
+                    ],
+                    "filename": "ufokura2_22.png",
+                    "name": "2_PRAWO",
+                    "position_x": 301,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        200,
+                        110,
+                        225
+                    ],
+                    "filename": "ufokura2_23.png",
+                    "name": "3_PRAWO",
+                    "position_x": 303,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        88,
+                        111,
+                        225
+                    ],
+                    "filename": "ufokura2_24.png",
+                    "name": "4_PRAWO",
+                    "position_x": 306,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        232,
+                        111,
+                        225
+                    ],
+                    "filename": "ufokura2_25.png",
+                    "name": "5_PRAWO",
+                    "position_x": 308,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        128,
+                        112,
+                        225
+                    ],
+                    "filename": "ufokura2_26.png",
+                    "name": "6_PRAWO",
+                    "position_x": 310,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        16,
+                        113,
+                        225
+                    ],
+                    "filename": "ufokura2_27.png",
+                    "name": "7_PRAWO",
+                    "position_x": 313,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        160,
+                        113,
+                        225
+                    ],
+                    "filename": "ufokura2_28.png",
+                    "name": "8_PRAWO",
+                    "position_x": 315,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        48,
+                        114,
+                        225
+                    ],
+                    "filename": "ufokura2_29.png",
+                    "name": "9_PRAWO",
+                    "position_x": 318,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        192,
+                        114,
+                        225
+                    ],
+                    "filename": "ufokura2_30.png",
+                    "name": "10_PRAWO",
+                    "position_x": 320,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        80,
+                        115,
+                        225
+                    ],
+                    "filename": "ufokura2_21.png",
+                    "name": "1_PRAWO",
+                    "position_x": 323,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        224,
+                        115,
+                        225
+                    ],
+                    "filename": "ufokura2_22.png",
+                    "name": "2_PRAWO",
+                    "position_x": 325,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        112,
+                        116,
+                        225
+                    ],
+                    "filename": "ufokura2_23.png",
+                    "name": "3_PRAWO",
+                    "position_x": 327,
+                    "position_y": 43
+                },
+                {
+                    "check": [],
+                    "filename": "ufokura2_24.png",
+                    "name": "4_PRAWO",
+                    "position_x": 330,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        144,
+                        117,
+                        225
+                    ],
+                    "filename": "ufokura2_25.png",
+                    "name": "5_PRAWO",
+                    "position_x": 332,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        32,
+                        118,
+                        225
+                    ],
+                    "filename": "ufokura2_26.png",
+                    "name": "6_PRAWO",
+                    "position_x": 335,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        176,
+                        118,
+                        225
+                    ],
+                    "filename": "ufokura2_27.png",
+                    "name": "7_PRAWO",
+                    "position_x": 337,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        64,
+                        119,
+                        225
+                    ],
+                    "filename": "ufokura2_28.png",
+                    "name": "8_PRAWO",
+                    "position_x": 340,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        208,
+                        119,
+                        225
+                    ],
+                    "filename": "ufokura2_29.png",
+                    "name": "9_PRAWO",
+                    "position_x": 342,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        96,
+                        120,
+                        225
+                    ],
+                    "filename": "ufokura2_30.png",
+                    "name": "10_PRAWO",
+                    "position_x": 344,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        240,
+                        120,
+                        225
+                    ],
+                    "filename": "ufokura2_21.png",
+                    "name": "1_PRAWO",
+                    "position_x": 347,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        128,
+                        121,
+                        225
+                    ],
+                    "filename": "ufokura2_22.png",
+                    "name": "2_PRAWO",
+                    "position_x": 349,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        16,
+                        122,
+                        225
+                    ],
+                    "filename": "ufokura2_23.png",
+                    "name": "3_PRAWO",
+                    "position_x": 352,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        160,
+                        122,
+                        225
+                    ],
+                    "filename": "ufokura2_24.png",
+                    "name": "4_PRAWO",
+                    "position_x": 354,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        48,
+                        123,
+                        225
+                    ],
+                    "filename": "ufokura2_25.png",
+                    "name": "5_PRAWO",
+                    "position_x": 357,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        192,
+                        123,
+                        225
+                    ],
+                    "filename": "ufokura2_26.png",
+                    "name": "6_PRAWO",
+                    "position_x": 359,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        80,
+                        124,
+                        225
+                    ],
+                    "filename": "ufokura2_27.png",
+                    "name": "7_PRAWO",
+                    "position_x": 361,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        224,
+                        124,
+                        225
+                    ],
+                    "filename": "ufokura2_28.png",
+                    "name": "8_PRAWO",
+                    "position_x": 364,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        112,
+                        125,
+                        225
+                    ],
+                    "filename": "ufokura2_29.png",
+                    "name": "9_PRAWO",
+                    "position_x": 366,
+                    "position_y": 43
+                },
+                {
+                    "check": [],
+                    "filename": "ufokura2_30.png",
+                    "name": "10_PRAWO",
+                    "position_x": 369,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        144,
+                        126,
+                        225
+                    ],
+                    "filename": "ufokura2_21.png",
+                    "name": "1_PRAWO",
+                    "position_x": 371,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        32,
+                        127,
+                        225
+                    ],
+                    "filename": "ufokura2_22.png",
+                    "name": "2_PRAWO",
+                    "position_x": 374,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        176,
+                        127,
+                        225
+                    ],
+                    "filename": "ufokura2_23.png",
+                    "name": "3_PRAWO",
+                    "position_x": 376,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        64,
+                        128,
+                        225
+                    ],
+                    "filename": "ufokura2_24.png",
+                    "name": "4_PRAWO",
+                    "position_x": 378,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        208,
+                        128,
+                        225
+                    ],
+                    "filename": "ufokura2_25.png",
+                    "name": "5_PRAWO",
+                    "position_x": 381,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        96,
+                        129,
+                        225
+                    ],
+                    "filename": "ufokura2_26.png",
+                    "name": "6_PRAWO",
+                    "position_x": 383,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        240,
+                        129,
+                        225
+                    ],
+                    "filename": "ufokura2_27.png",
+                    "name": "7_PRAWO",
+                    "position_x": 386,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        128,
+                        130,
+                        225
+                    ],
+                    "filename": "ufokura2_28.png",
+                    "name": "8_PRAWO",
+                    "position_x": 388,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        16,
+                        131,
+                        225
+                    ],
+                    "filename": "ufokura2_29.png",
+                    "name": "9_PRAWO",
+                    "position_x": 391,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        160,
+                        131,
+                        225
+                    ],
+                    "filename": "ufokura2_30.png",
+                    "name": "10_PRAWO",
+                    "position_x": 393,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        48,
+                        132,
+                        225
+                    ],
+                    "filename": "ufokura2_21.png",
+                    "name": "1_PRAWO",
+                    "position_x": 396,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        192,
+                        132,
+                        225
+                    ],
+                    "filename": "ufokura2_22.png",
+                    "name": "2_PRAWO",
+                    "position_x": 398,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        80,
+                        133,
+                        225
+                    ],
+                    "filename": "ufokura2_23.png",
+                    "name": "3_PRAWO",
+                    "position_x": 401,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        224,
+                        133,
+                        225
+                    ],
+                    "filename": "ufokura2_24.png",
+                    "name": "4_PRAWO",
+                    "position_x": 403,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        112,
+                        134,
+                        225
+                    ],
+                    "filename": "ufokura2_25.png",
+                    "name": "5_PRAWO",
+                    "position_x": 405,
+                    "position_y": 43
+                },
+                {
+                    "check": [],
+                    "filename": "ufokura2_26.png",
+                    "name": "6_PRAWO",
+                    "position_x": 408,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        144,
+                        135,
+                        225
+                    ],
+                    "filename": "ufokura2_27.png",
+                    "name": "7_PRAWO",
+                    "position_x": 410,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        32,
+                        136,
+                        225
+                    ],
+                    "filename": "ufokura2_28.png",
+                    "name": "8_PRAWO",
+                    "position_x": 413,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        176,
+                        136,
+                        225
+                    ],
+                    "filename": "ufokura2_29.png",
+                    "name": "9_PRAWO",
+                    "position_x": 415,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        64,
+                        137,
+                        225
+                    ],
+                    "filename": "ufokura2_30.png",
+                    "name": "10_PRAWO",
+                    "position_x": 418,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        208,
+                        137,
+                        225
+                    ],
+                    "filename": "ufokura2_21.png",
+                    "name": "1_PRAWO",
+                    "position_x": 420,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        96,
+                        138,
+                        225
+                    ],
+                    "filename": "ufokura2_22.png",
+                    "name": "2_PRAWO",
+                    "position_x": 423,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        240,
+                        138,
+                        225
+                    ],
+                    "filename": "ufokura2_23.png",
+                    "name": "3_PRAWO",
+                    "position_x": 425,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        128,
+                        139,
+                        225
+                    ],
+                    "filename": "ufokura2_24.png",
+                    "name": "4_PRAWO",
+                    "position_x": 428,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        16,
+                        140,
+                        225
+                    ],
+                    "filename": "ufokura2_25.png",
+                    "name": "5_PRAWO",
+                    "position_x": 430,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        160,
+                        140,
+                        225
+                    ],
+                    "filename": "ufokura2_26.png",
+                    "name": "6_PRAWO",
+                    "position_x": 433,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        48,
+                        141,
+                        225
+                    ],
+                    "filename": "ufokura2_27.png",
+                    "name": "7_PRAWO",
+                    "position_x": 435,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        192,
+                        141,
+                        225
+                    ],
+                    "filename": "ufokura2_28.png",
+                    "name": "8_PRAWO",
+                    "position_x": 438,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        80,
+                        142,
+                        225
+                    ],
+                    "filename": "ufokura2_29.png",
+                    "name": "9_PRAWO",
+                    "position_x": 440,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        224,
+                        142,
+                        225
+                    ],
+                    "filename": "ufokura2_30.png",
+                    "name": "10_PRAWO",
+                    "position_x": 443,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        112,
+                        143,
+                        225
+                    ],
+                    "filename": "ufokura2_21.png",
+                    "name": "1_PRAWO",
+                    "position_x": 445,
+                    "position_y": 43
+                },
+                {
+                    "check": [],
+                    "filename": "ufokura2_22.png",
+                    "name": "2_PRAWO",
+                    "position_x": 448,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        144,
+                        144,
+                        225
+                    ],
+                    "filename": "ufokura2_23.png",
+                    "name": "3_PRAWO",
+                    "position_x": 451,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        32,
+                        145,
+                        225
+                    ],
+                    "filename": "ufokura2_24.png",
+                    "name": "4_PRAWO",
+                    "position_x": 453,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        176,
+                        145,
+                        225
+                    ],
+                    "filename": "ufokura2_25.png",
+                    "name": "5_PRAWO",
+                    "position_x": 456,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        64,
+                        146,
+                        225
+                    ],
+                    "filename": "ufokura2_26.png",
+                    "name": "6_PRAWO",
+                    "position_x": 458,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        208,
+                        146,
+                        225
+                    ],
+                    "filename": "ufokura2_27.png",
+                    "name": "7_PRAWO",
+                    "position_x": 461,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        96,
+                        147,
+                        225
+                    ],
+                    "filename": "ufokura2_28.png",
+                    "name": "8_PRAWO",
+                    "position_x": 463,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        240,
+                        147,
+                        225
+                    ],
+                    "filename": "ufokura2_29.png",
+                    "name": "9_PRAWO",
+                    "position_x": 466,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        128,
+                        148,
+                        225
+                    ],
+                    "filename": "ufokura2_30.png",
+                    "name": "10_PRAWO",
+                    "position_x": 469,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        16,
+                        149,
+                        225
+                    ],
+                    "filename": "ufokura2_21.png",
+                    "name": "1_PRAWO",
+                    "position_x": 471,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        160,
+                        149,
+                        225
+                    ],
+                    "filename": "ufokura2_22.png",
+                    "name": "2_PRAWO",
+                    "position_x": 474,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        48,
+                        150,
+                        225
+                    ],
+                    "filename": "ufokura2_23.png",
+                    "name": "3_PRAWO",
+                    "position_x": 476,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        192,
+                        150,
+                        225
+                    ],
+                    "filename": "ufokura2_24.png",
+                    "name": "4_PRAWO",
+                    "position_x": 479,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        80,
+                        151,
+                        225
+                    ],
+                    "filename": "ufokura2_25.png",
+                    "name": "5_PRAWO",
+                    "position_x": 482,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        224,
+                        151,
+                        225
+                    ],
+                    "filename": "ufokura2_26.png",
+                    "name": "6_PRAWO",
+                    "position_x": 484,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        112,
+                        152,
+                        225
+                    ],
+                    "filename": "ufokura2_27.png",
+                    "name": "7_PRAWO",
+                    "position_x": 487,
+                    "position_y": 43
+                },
+                {
+                    "check": [],
+                    "filename": "ufokura2_28.png",
+                    "name": "8_PRAWO",
+                    "position_x": 490,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        144,
+                        153,
+                        225
+                    ],
+                    "filename": "ufokura2_29.png",
+                    "name": "9_PRAWO",
+                    "position_x": 492,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        32,
+                        154,
+                        225
+                    ],
+                    "filename": "ufokura2_30.png",
+                    "name": "10_PRAWO",
+                    "position_x": 495,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        176,
+                        154,
+                        225
+                    ],
+                    "filename": "ufokura2_21.png",
+                    "name": "1_PRAWO",
+                    "position_x": 498,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        64,
+                        155,
+                        225
+                    ],
+                    "filename": "ufokura2_22.png",
+                    "name": "2_PRAWO",
+                    "position_x": 500,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        208,
+                        155,
+                        225
+                    ],
+                    "filename": "ufokura2_23.png",
+                    "name": "3_PRAWO",
+                    "position_x": 503,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        96,
+                        156,
+                        225
+                    ],
+                    "filename": "ufokura2_24.png",
+                    "name": "4_PRAWO",
+                    "position_x": 506,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        240,
+                        156,
+                        225
+                    ],
+                    "filename": "ufokura2_25.png",
+                    "name": "5_PRAWO",
+                    "position_x": 508,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        128,
+                        157,
+                        225
+                    ],
+                    "filename": "ufokura2_26.png",
+                    "name": "6_PRAWO",
+                    "position_x": 511,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        16,
+                        158,
+                        225
+                    ],
+                    "filename": "ufokura2_27.png",
+                    "name": "7_PRAWO",
+                    "position_x": 514,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        160,
+                        158,
+                        225
+                    ],
+                    "filename": "ufokura2_28.png",
+                    "name": "8_PRAWO",
+                    "position_x": 517,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        48,
+                        159,
+                        225
+                    ],
+                    "filename": "ufokura2_29.png",
+                    "name": "9_PRAWO",
+                    "position_x": 519,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        192,
+                        159,
+                        225
+                    ],
+                    "filename": "ufokura2_30.png",
+                    "name": "10_PRAWO",
+                    "position_x": 522,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        80,
+                        160,
+                        225
+                    ],
+                    "filename": "ufokura2_21.png",
+                    "name": "1_PRAWO",
+                    "position_x": 525,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        224,
+                        160,
+                        225
+                    ],
+                    "filename": "ufokura2_22.png",
+                    "name": "2_PRAWO",
+                    "position_x": 528,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        112,
+                        161,
+                        225
+                    ],
+                    "filename": "ufokura2_23.png",
+                    "name": "3_PRAWO",
+                    "position_x": 530,
+                    "position_y": 43
+                },
+                {
+                    "check": [],
+                    "filename": "ufokura2_24.png",
+                    "name": "4_PRAWO",
+                    "position_x": 533,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        144,
+                        162,
+                        225
+                    ],
+                    "filename": "ufokura2_25.png",
+                    "name": "5_PRAWO",
+                    "position_x": 536,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        32,
+                        163,
+                        225
+                    ],
+                    "filename": "ufokura2_26.png",
+                    "name": "6_PRAWO",
+                    "position_x": 539,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        176,
+                        163,
+                        225
+                    ],
+                    "filename": "ufokura2_27.png",
+                    "name": "7_PRAWO",
+                    "position_x": 542,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        64,
+                        164,
+                        225
+                    ],
+                    "filename": "ufokura2_28.png",
+                    "name": "8_PRAWO",
+                    "position_x": 545,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        208,
+                        164,
+                        225
+                    ],
+                    "filename": "ufokura2_29.png",
+                    "name": "9_PRAWO",
+                    "position_x": 547,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        96,
+                        165,
+                        225
+                    ],
+                    "filename": "ufokura2_30.png",
+                    "name": "10_PRAWO",
+                    "position_x": 550,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        240,
+                        165,
+                        225
+                    ],
+                    "filename": "ufokura2_21.png",
+                    "name": "1_PRAWO",
+                    "position_x": 553,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        128,
+                        166,
+                        225
+                    ],
+                    "filename": "ufokura2_22.png",
+                    "name": "2_PRAWO",
+                    "position_x": 556,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        16,
+                        167,
+                        225
+                    ],
+                    "filename": "ufokura2_23.png",
+                    "name": "3_PRAWO",
+                    "position_x": 559,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        160,
+                        167,
+                        225
+                    ],
+                    "filename": "ufokura2_24.png",
+                    "name": "4_PRAWO",
+                    "position_x": 562,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        48,
+                        168,
+                        225
+                    ],
+                    "filename": "ufokura2_25.png",
+                    "name": "5_PRAWO",
+                    "position_x": 565,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        192,
+                        168,
+                        225
+                    ],
+                    "filename": "ufokura2_26.png",
+                    "name": "6_PRAWO",
+                    "position_x": 568,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        80,
+                        169,
+                        225
+                    ],
+                    "filename": "ufokura2_27.png",
+                    "name": "7_PRAWO",
+                    "position_x": 571,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        224,
+                        169,
+                        225
+                    ],
+                    "filename": "ufokura2_28.png",
+                    "name": "8_PRAWO",
+                    "position_x": 574,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        112,
+                        170,
+                        225
+                    ],
+                    "filename": "ufokura2_29.png",
+                    "name": "9_PRAWO",
+                    "position_x": 576,
+                    "position_y": 43
+                },
+                {
+                    "check": [],
+                    "filename": "ufokura2_30.png",
+                    "name": "10_PRAWO",
+                    "position_x": 579,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        144,
+                        171,
+                        225
+                    ],
+                    "filename": "ufokura2_21.png",
+                    "name": "1_PRAWO",
+                    "position_x": 582,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        32,
+                        172,
+                        225
+                    ],
+                    "filename": "ufokura2_22.png",
+                    "name": "2_PRAWO",
+                    "position_x": 585,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        176,
+                        172,
+                        225
+                    ],
+                    "filename": "ufokura2_23.png",
+                    "name": "3_PRAWO",
+                    "position_x": 588,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        64,
+                        173,
+                        225
+                    ],
+                    "filename": "ufokura2_24.png",
+                    "name": "4_PRAWO",
+                    "position_x": 591,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        208,
+                        173,
+                        225
+                    ],
+                    "filename": "ufokura2_25.png",
+                    "name": "5_PRAWO",
+                    "position_x": 595,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        96,
+                        174,
+                        225
+                    ],
+                    "filename": "ufokura2_26.png",
+                    "name": "6_PRAWO",
+                    "position_x": 598,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        240,
+                        174,
+                        225
+                    ],
+                    "filename": "ufokura2_27.png",
+                    "name": "7_PRAWO",
+                    "position_x": 601,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        128,
+                        175,
+                        225
+                    ],
+                    "filename": "ufokura2_28.png",
+                    "name": "8_PRAWO",
+                    "position_x": 604,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        16,
+                        176,
+                        225
+                    ],
+                    "filename": "ufokura2_29.png",
+                    "name": "9_PRAWO",
+                    "position_x": 607,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        160,
+                        176,
+                        225
+                    ],
+                    "filename": "ufokura2_30.png",
+                    "name": "10_PRAWO",
+                    "position_x": 610,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        48,
+                        177,
+                        225
+                    ],
+                    "filename": "ufokura2_21.png",
+                    "name": "1_PRAWO",
+                    "position_x": 613,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        192,
+                        177,
+                        225
+                    ],
+                    "filename": "ufokura2_22.png",
+                    "name": "2_PRAWO",
+                    "position_x": 616,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        80,
+                        178,
+                        225
+                    ],
+                    "filename": "ufokura2_23.png",
+                    "name": "3_PRAWO",
+                    "position_x": 619,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        224,
+                        178,
+                        225
+                    ],
+                    "filename": "ufokura2_24.png",
+                    "name": "4_PRAWO",
+                    "position_x": 622,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        112,
+                        179,
+                        225
+                    ],
+                    "filename": "ufokura2_25.png",
+                    "name": "5_PRAWO",
+                    "position_x": 626,
+                    "position_y": 43
+                },
+                {
+                    "check": [],
+                    "filename": "ufokura2_26.png",
+                    "name": "6_PRAWO",
+                    "position_x": 629,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        144,
+                        180,
+                        225
+                    ],
+                    "filename": "ufokura2_27.png",
+                    "name": "7_PRAWO",
+                    "position_x": 632,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        32,
+                        181,
+                        225
+                    ],
+                    "filename": "ufokura2_28.png",
+                    "name": "8_PRAWO",
+                    "position_x": 635,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        176,
+                        181,
+                        225
+                    ],
+                    "filename": "ufokura2_21.png",
+                    "name": "1_PRAWO",
+                    "position_x": 639,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        64,
+                        182,
+                        225
+                    ],
+                    "filename": "ufokura2_21.png",
+                    "name": "1_PRAWO",
+                    "position_x": 639,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        208,
+                        182,
+                        225
+                    ],
+                    "filename": "ufokura2_20.png",
+                    "name": "1_NAPRAWASTARTPRAWO",
+                    "position_x": 639,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        112,
+                        183,
+                        225
+                    ],
+                    "filename": "ufokura2_19.png",
+                    "name": "2_NAPRAWASTARTPRAWO",
+                    "position_x": 639,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        16,
+                        184,
+                        225
+                    ],
+                    "filename": "ufokura2_18.png",
+                    "name": "3_NAPRAWASTARTPRAWO",
+                    "position_x": 639,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        176,
+                        184,
+                        225
+                    ],
+                    "filename": "ufokura2_17.png",
+                    "name": "4_NAPRAWASTARTPRAWO",
+                    "position_x": 639,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        80,
+                        185,
+                        225
+                    ],
+                    "filename": "ufokura2_16.png",
+                    "name": "5_NAPRAWASTARTPRAWO",
+                    "position_x": 639,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        240,
+                        185,
+                        225
+                    ],
+                    "filename": "ufokura2_15.png",
+                    "name": "0_NAPRAWA",
+                    "position_x": 639,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        128,
+                        186,
+                        225
+                    ],
+                    "filename": "ufokura2_14.png",
+                    "name": "1_NAPRAWASTOPLEWO",
+                    "position_x": 639,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        32,
+                        187,
+                        225
+                    ],
+                    "filename": "ufokura2_13.png",
+                    "name": "2_NAPRAWASTOPLEWO",
+                    "position_x": 639,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        192,
+                        187,
+                        225
+                    ],
+                    "filename": "ufokura2_12.png",
+                    "name": "3_NAPRAWASTOPLEWO",
+                    "position_x": 639,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        96,
+                        188,
+                        225
+                    ],
+                    "filename": "ufokura2_11.png",
+                    "name": "3_PRAWO COPY",
+                    "position_x": 639,
+                    "position_y": 43
+                },
+                {
+                    "check": [],
+                    "filename": "ufokura2_10.png",
+                    "name": "4_PRAWO COPY",
+                    "position_x": 639,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        160,
+                        189,
+                        225
+                    ],
+                    "filename": "ufokura2_0.png",
+                    "name": "1_LEWO",
+                    "position_x": 643,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        48,
+                        190,
+                        225
+                    ],
+                    "filename": "ufokura2_1.png",
+                    "name": "2_LEWO",
+                    "position_x": 640,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        192,
+                        190,
+                        225
+                    ],
+                    "filename": "ufokura2_2.png",
+                    "name": "3_LEWO",
+                    "position_x": 638,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        80,
+                        191,
+                        225
+                    ],
+                    "filename": "ufokura2_3.png",
+                    "name": "4_LEWO",
+                    "position_x": 635,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        224,
+                        191,
+                        225
+                    ],
+                    "filename": "ufokura2_4.png",
+                    "name": "5_LEWO",
+                    "position_x": 633,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        112,
+                        192,
+                        225
+                    ],
+                    "filename": "ufokura2_5.png",
+                    "name": "6_LEWO",
+                    "position_x": 631,
+                    "position_y": 43
+                },
+                {
+                    "check": [],
+                    "filename": "ufokura2_6.png",
+                    "name": "7_LEWO",
+                    "position_x": 628,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        144,
+                        193,
+                        225
+                    ],
+                    "filename": "ufokura2_7.png",
+                    "name": "8_LEWO",
+                    "position_x": 626,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        32,
+                        194,
+                        225
+                    ],
+                    "filename": "ufokura2_8.png",
+                    "name": "9_LEWO",
+                    "position_x": 624,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        176,
+                        194,
+                        225
+                    ],
+                    "filename": "ufokura2_9.png",
+                    "name": "10_LEWO",
+                    "position_x": 622,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        64,
+                        195,
+                        225
+                    ],
+                    "filename": "ufokura2_0.png",
+                    "name": "1_LEWO",
+                    "position_x": 620,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        208,
+                        195,
+                        225
+                    ],
+                    "filename": "ufokura2_1.png",
+                    "name": "2_LEWO",
+                    "position_x": 617,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        96,
+                        196,
+                        225
+                    ],
+                    "filename": "ufokura2_2.png",
+                    "name": "3_LEWO",
+                    "position_x": 615,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        240,
+                        196,
+                        225
+                    ],
+                    "filename": "ufokura2_3.png",
+                    "name": "4_LEWO",
+                    "position_x": 613,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        128,
+                        197,
+                        225
+                    ],
+                    "filename": "ufokura2_4.png",
+                    "name": "5_LEWO",
+                    "position_x": 611,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        16,
+                        198,
+                        225
+                    ],
+                    "filename": "ufokura2_5.png",
+                    "name": "6_LEWO",
+                    "position_x": 609,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        160,
+                        198,
+                        225
+                    ],
+                    "filename": "ufokura2_6.png",
+                    "name": "7_LEWO",
+                    "position_x": 607,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        48,
+                        199,
+                        225
+                    ],
+                    "filename": "ufokura2_7.png",
+                    "name": "8_LEWO",
+                    "position_x": 605,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        192,
+                        199,
+                        225
+                    ],
+                    "filename": "ufokura2_8.png",
+                    "name": "9_LEWO",
+                    "position_x": 603,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        80,
+                        200,
+                        225
+                    ],
+                    "filename": "ufokura2_9.png",
+                    "name": "10_LEWO",
+                    "position_x": 601,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        224,
+                        200,
+                        225
+                    ],
+                    "filename": "ufokura2_0.png",
+                    "name": "1_LEWO",
+                    "position_x": 599,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        112,
+                        201,
+                        225
+                    ],
+                    "filename": "ufokura2_1.png",
+                    "name": "2_LEWO",
+                    "position_x": 597,
+                    "position_y": 44
+                },
+                {
+                    "check": [],
+                    "filename": "ufokura2_2.png",
+                    "name": "3_LEWO",
+                    "position_x": 595,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        144,
+                        202,
+                        225
+                    ],
+                    "filename": "ufokura2_3.png",
+                    "name": "4_LEWO",
+                    "position_x": 593,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        32,
+                        203,
+                        225
+                    ],
+                    "filename": "ufokura2_4.png",
+                    "name": "5_LEWO",
+                    "position_x": 591,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        176,
+                        203,
+                        225
+                    ],
+                    "filename": "ufokura2_5.png",
+                    "name": "6_LEWO",
+                    "position_x": 589,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        64,
+                        204,
+                        225
+                    ],
+                    "filename": "ufokura2_6.png",
+                    "name": "7_LEWO",
+                    "position_x": 587,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        208,
+                        204,
+                        225
+                    ],
+                    "filename": "ufokura2_7.png",
+                    "name": "8_LEWO",
+                    "position_x": 585,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        96,
+                        205,
+                        225
+                    ],
+                    "filename": "ufokura2_8.png",
+                    "name": "9_LEWO",
+                    "position_x": 583,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        240,
+                        205,
+                        225
+                    ],
+                    "filename": "ufokura2_9.png",
+                    "name": "10_LEWO",
+                    "position_x": 581,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        128,
+                        206,
+                        225
+                    ],
+                    "filename": "ufokura2_0.png",
+                    "name": "1_LEWO",
+                    "position_x": 579,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        16,
+                        207,
+                        225
+                    ],
+                    "filename": "ufokura2_1.png",
+                    "name": "2_LEWO",
+                    "position_x": 577,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        160,
+                        207,
+                        225
+                    ],
+                    "filename": "ufokura2_2.png",
+                    "name": "3_LEWO",
+                    "position_x": 575,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        48,
+                        208,
+                        225
+                    ],
+                    "filename": "ufokura2_3.png",
+                    "name": "4_LEWO",
+                    "position_x": 573,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        192,
+                        208,
+                        225
+                    ],
+                    "filename": "ufokura2_4.png",
+                    "name": "5_LEWO",
+                    "position_x": 571,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        80,
+                        209,
+                        225
+                    ],
+                    "filename": "ufokura2_5.png",
+                    "name": "6_LEWO",
+                    "position_x": 569,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        224,
+                        209,
+                        225
+                    ],
+                    "filename": "ufokura2_6.png",
+                    "name": "7_LEWO",
+                    "position_x": 567,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        112,
+                        210,
+                        225
+                    ],
+                    "filename": "ufokura2_7.png",
+                    "name": "8_LEWO",
+                    "position_x": 565,
+                    "position_y": 44
+                },
+                {
+                    "check": [],
+                    "filename": "ufokura2_8.png",
+                    "name": "9_LEWO",
+                    "position_x": 563,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        144,
+                        211,
+                        225
+                    ],
+                    "filename": "ufokura2_9.png",
+                    "name": "10_LEWO",
+                    "position_x": 561,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        32,
+                        212,
+                        225
+                    ],
+                    "filename": "ufokura2_0.png",
+                    "name": "1_LEWO",
+                    "position_x": 559,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        176,
+                        212,
+                        225
+                    ],
+                    "filename": "ufokura2_1.png",
+                    "name": "2_LEWO",
+                    "position_x": 557,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        64,
+                        213,
+                        225
+                    ],
+                    "filename": "ufokura2_2.png",
+                    "name": "3_LEWO",
+                    "position_x": 555,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        208,
+                        213,
+                        225
+                    ],
+                    "filename": "ufokura2_3.png",
+                    "name": "4_LEWO",
+                    "position_x": 553,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        96,
+                        214,
+                        225
+                    ],
+                    "filename": "ufokura2_4.png",
+                    "name": "5_LEWO",
+                    "position_x": 551,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        240,
+                        214,
+                        225
+                    ],
+                    "filename": "ufokura2_5.png",
+                    "name": "6_LEWO",
+                    "position_x": 549,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        128,
+                        215,
+                        225
+                    ],
+                    "filename": "ufokura2_6.png",
+                    "name": "7_LEWO",
+                    "position_x": 547,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        16,
+                        216,
+                        225
+                    ],
+                    "filename": "ufokura2_7.png",
+                    "name": "8_LEWO",
+                    "position_x": 545,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        160,
+                        216,
+                        225
+                    ],
+                    "filename": "ufokura2_8.png",
+                    "name": "9_LEWO",
+                    "position_x": 542,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        48,
+                        217,
+                        225
+                    ],
+                    "filename": "ufokura2_9.png",
+                    "name": "10_LEWO",
+                    "position_x": 540,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        192,
+                        217,
+                        225
+                    ],
+                    "filename": "ufokura2_0.png",
+                    "name": "1_LEWO",
+                    "position_x": 538,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        80,
+                        218,
+                        225
+                    ],
+                    "filename": "ufokura2_1.png",
+                    "name": "2_LEWO",
+                    "position_x": 536,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        224,
+                        218,
+                        225
+                    ],
+                    "filename": "ufokura2_2.png",
+                    "name": "3_LEWO",
+                    "position_x": 534,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        112,
+                        219,
+                        225
+                    ],
+                    "filename": "ufokura2_3.png",
+                    "name": "4_LEWO",
+                    "position_x": 532,
+                    "position_y": 44
+                },
+                {
+                    "check": [],
+                    "filename": "ufokura2_4.png",
+                    "name": "5_LEWO",
+                    "position_x": 529,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        144,
+                        220,
+                        225
+                    ],
+                    "filename": "ufokura2_5.png",
+                    "name": "6_LEWO",
+                    "position_x": 527,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        32,
+                        221,
+                        225
+                    ],
+                    "filename": "ufokura2_6.png",
+                    "name": "7_LEWO",
+                    "position_x": 525,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        176,
+                        221,
+                        225
+                    ],
+                    "filename": "ufokura2_0.png",
+                    "name": "1_LEWO",
+                    "position_x": 523,
+                    "position_y": 45
+                }
+            ],
+            "loop": 430,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "ufokura2_0.png": {
+            "compression": 4,
+            "name": "1_LEWO",
+            "position_x": 3,
+            "position_y": 8
+        },
+        "ufokura2_1.png": {
+            "compression": 4,
+            "name": "2_LEWO",
+            "position_x": 3,
+            "position_y": 5
+        },
+        "ufokura2_10.png": {
+            "compression": 4,
+            "name": "4_PRAWO COPY",
+            "position_x": 9,
+            "position_y": 6
+        },
+        "ufokura2_11.png": {
+            "compression": 4,
+            "name": "3_PRAWO COPY",
+            "position_x": 10,
+            "position_y": 5
+        },
+        "ufokura2_12.png": {
+            "compression": 4,
+            "name": "3_NAPRAWASTOPLEWO",
+            "position_x": 11,
+            "position_y": 5
+        },
+        "ufokura2_13.png": {
+            "compression": 4,
+            "name": "2_NAPRAWASTOPLEWO",
+            "position_x": 11,
+            "position_y": 5
+        },
+        "ufokura2_14.png": {
+            "compression": 4,
+            "name": "1_NAPRAWASTOPLEWO",
+            "position_x": 12,
+            "position_y": 6
+        },
+        "ufokura2_15.png": {
+            "compression": 4,
+            "name": "0_NAPRAWA",
+            "position_x": 11,
+            "position_y": 6
+        },
+        "ufokura2_16.png": {
+            "compression": 4,
+            "name": "5_NAPRAWASTARTPRAWO",
+            "position_x": 12,
+            "position_y": 5
+        },
+        "ufokura2_17.png": {
+            "compression": 4,
+            "name": "4_NAPRAWASTARTPRAWO",
+            "position_x": 13,
+            "position_y": 5
+        },
+        "ufokura2_18.png": {
+            "compression": 4,
+            "name": "3_NAPRAWASTARTPRAWO",
+            "position_x": 15,
+            "position_y": 5
+        },
+        "ufokura2_19.png": {
+            "compression": 4,
+            "name": "2_NAPRAWASTARTPRAWO",
+            "position_x": 15,
+            "position_y": 5
+        },
+        "ufokura2_2.png": {
+            "compression": 4,
+            "name": "3_LEWO",
+            "position_x": 2,
+            "position_y": 4
+        },
+        "ufokura2_20.png": {
+            "compression": 4,
+            "name": "1_NAPRAWASTARTPRAWO",
+            "position_x": 14,
+            "position_y": 4
+        },
+        "ufokura2_21.png": {
+            "compression": 4,
+            "name": "1_PRAWO",
+            "position_x": 14,
+            "position_y": 8
+        },
+        "ufokura2_22.png": {
+            "compression": 4,
+            "name": "2_PRAWO",
+            "position_x": 14,
+            "position_y": 5
+        },
+        "ufokura2_23.png": {
+            "compression": 4,
+            "name": "3_PRAWO",
+            "position_x": 14,
+            "position_y": 4
+        },
+        "ufokura2_24.png": {
+            "compression": 4,
+            "name": "4_PRAWO",
+            "position_x": 14,
+            "position_y": 6
+        },
+        "ufokura2_25.png": {
+            "compression": 4,
+            "name": "5_PRAWO",
+            "position_x": 14,
+            "position_y": 7
+        },
+        "ufokura2_26.png": {
+            "compression": 4,
+            "name": "6_PRAWO",
+            "position_x": 14,
+            "position_y": 8
+        },
+        "ufokura2_27.png": {
+            "compression": 4,
+            "name": "7_PRAWO",
+            "position_x": 14,
+            "position_y": 5
+        },
+        "ufokura2_28.png": {
+            "compression": 4,
+            "name": "8_PRAWO",
+            "position_x": 14,
+            "position_y": 4
+        },
+        "ufokura2_29.png": {
+            "compression": 4,
+            "name": "9_PRAWO",
+            "position_x": 14,
+            "position_y": 6
+        },
+        "ufokura2_3.png": {
+            "compression": 4,
+            "name": "4_LEWO",
+            "position_x": 3,
+            "position_y": 6
+        },
+        "ufokura2_30.png": {
+            "compression": 4,
+            "name": "10_PRAWO",
+            "position_x": 14,
+            "position_y": 7
+        },
+        "ufokura2_4.png": {
+            "compression": 4,
+            "name": "5_LEWO",
+            "position_x": 3,
+            "position_y": 7
+        },
+        "ufokura2_5.png": {
+            "compression": 4,
+            "name": "6_LEWO",
+            "position_x": 3,
+            "position_y": 8
+        },
+        "ufokura2_6.png": {
+            "compression": 4,
+            "name": "7_LEWO",
+            "position_x": 3,
+            "position_y": 5
+        },
+        "ufokura2_7.png": {
+            "compression": 4,
+            "name": "8_LEWO",
+            "position_x": 2,
+            "position_y": 4
+        },
+        "ufokura2_8.png": {
+            "compression": 4,
+            "name": "9_LEWO",
+            "position_x": 3,
+            "position_y": 6
+        },
+        "ufokura2_9.png": {
+            "compression": 4,
+            "name": "10_LEWO",
+            "position_x": 3,
+            "position_y": 7
+        }
+    },
+    "transparency": 255
+}

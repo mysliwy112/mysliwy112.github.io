@@ -1,0 +1,1391 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "BEZRUCH": {
+            "frames": [
+                {
+                    "check": [
+                        216,
+                        91,
+                        225
+                    ],
+                    "filename": "animacje_0.png",
+                    "name": "Layer 13",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "KRET_1": {
+            "frames": [
+                {
+                    "check": [
+                        8,
+                        49,
+                        225
+                    ],
+                    "filename": "animacje_2.png",
+                    "name": "12_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        168,
+                        49,
+                        225
+                    ],
+                    "filename": "animacje_2.png",
+                    "name": "12_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        50,
+                        225
+                    ],
+                    "filename": "animacje_10.png",
+                    "name": "13_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        232,
+                        50,
+                        225
+                    ],
+                    "filename": "animacje_10.png",
+                    "name": "13_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        136,
+                        51,
+                        225
+                    ],
+                    "filename": "animacje_16.png",
+                    "name": "10_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        40,
+                        52,
+                        225
+                    ],
+                    "filename": "animacje_20.png",
+                    "name": "11_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        200,
+                        52,
+                        225
+                    ],
+                    "filename": "animacje_2.png",
+                    "name": "12_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        104,
+                        53,
+                        225
+                    ],
+                    "filename": "animacje_2.png",
+                    "name": "12_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        8,
+                        54,
+                        225
+                    ],
+                    "filename": "animacje_10.png",
+                    "name": "13_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        168,
+                        54,
+                        225
+                    ],
+                    "filename": "animacje_10.png",
+                    "name": "13_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        55,
+                        225
+                    ],
+                    "filename": "animacje_16.png",
+                    "name": "10_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        232,
+                        55,
+                        225
+                    ],
+                    "filename": "animacje_20.png",
+                    "name": "11_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        136,
+                        56,
+                        225
+                    ],
+                    "filename": "animacje_2.png",
+                    "name": "12_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        40,
+                        57,
+                        225
+                    ],
+                    "filename": "animacje_2.png",
+                    "name": "12_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        200,
+                        57,
+                        225
+                    ],
+                    "filename": "animacje_10.png",
+                    "name": "13_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        104,
+                        58,
+                        225
+                    ],
+                    "filename": "animacje_10.png",
+                    "name": "13_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "KRET_START": {
+            "frames": [
+                {
+                    "check": [
+                        232,
+                        31,
+                        225
+                    ],
+                    "filename": "animacje_0.png",
+                    "name": "Layer 13",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "sfx\\00skarb1.wav;sfx\\00skarb2.wav",
+                    "sfx_seed": 76950944
+                },
+                {
+                    "check": [
+                        104,
+                        227,
+                        161
+                    ],
+                    "filename": "animacje_6.png",
+                    "name": "1_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        104,
+                        249,
+                        161
+                    ],
+                    "filename": "animacje_6.png",
+                    "name": "1_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        8,
+                        250,
+                        161
+                    ],
+                    "filename": "animacje_13.png",
+                    "name": "2_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        168,
+                        250,
+                        161
+                    ],
+                    "filename": "animacje_13.png",
+                    "name": "2_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        251,
+                        161
+                    ],
+                    "filename": "animacje_19.png",
+                    "name": "3_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        232,
+                        251,
+                        161
+                    ],
+                    "filename": "animacje_19.png",
+                    "name": "3_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        136,
+                        252,
+                        161
+                    ],
+                    "filename": "animacje_15.png",
+                    "name": "4_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        40,
+                        253,
+                        161
+                    ],
+                    "filename": "animacje_15.png",
+                    "name": "4_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        200,
+                        253,
+                        161
+                    ],
+                    "filename": "animacje_9.png",
+                    "name": "5_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        104,
+                        254,
+                        161
+                    ],
+                    "filename": "animacje_9.png",
+                    "name": "5_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        8,
+                        255,
+                        161
+                    ],
+                    "filename": "animacje_1.png",
+                    "name": "Layer 13 copy 6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        168,
+                        255,
+                        161
+                    ],
+                    "filename": "animacje_1.png",
+                    "name": "Layer 13 copy 6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        128,
+                        32,
+                        225
+                    ],
+                    "filename": "animacje_27.png",
+                    "name": "7_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        32,
+                        33,
+                        225
+                    ],
+                    "filename": "animacje_27.png",
+                    "name": "7_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        192,
+                        33,
+                        225
+                    ],
+                    "filename": "animacje_29.png",
+                    "name": "8_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        34,
+                        225
+                    ],
+                    "filename": "animacje_29.png",
+                    "name": "8_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "animacje_31.png",
+                    "name": "9_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        160,
+                        35,
+                        225
+                    ],
+                    "filename": "animacje_31.png",
+                    "name": "9_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        64,
+                        36,
+                        225
+                    ],
+                    "filename": "animacje_16.png",
+                    "name": "10_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        36,
+                        225
+                    ],
+                    "filename": "animacje_16.png",
+                    "name": "10_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        128,
+                        37,
+                        225
+                    ],
+                    "filename": "animacje_20.png",
+                    "name": "11_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        32,
+                        38,
+                        225
+                    ],
+                    "filename": "animacje_20.png",
+                    "name": "11_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "KRET_STOP": {
+            "frames": [
+                {
+                    "check": [
+                        232,
+                        39,
+                        225
+                    ],
+                    "filename": "animacje_1.png",
+                    "name": "Layer 13 copy 6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        136,
+                        40,
+                        225
+                    ],
+                    "filename": "animacje_1.png",
+                    "name": "Layer 13 copy 6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        40,
+                        41,
+                        225
+                    ],
+                    "filename": "animacje_9.png",
+                    "name": "5_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        200,
+                        41,
+                        225
+                    ],
+                    "filename": "animacje_9.png",
+                    "name": "5_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        104,
+                        42,
+                        225
+                    ],
+                    "filename": "animacje_15.png",
+                    "name": "4_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        8,
+                        43,
+                        225
+                    ],
+                    "filename": "animacje_15.png",
+                    "name": "4_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        168,
+                        43,
+                        225
+                    ],
+                    "filename": "animacje_19.png",
+                    "name": "3_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        44,
+                        225
+                    ],
+                    "filename": "animacje_19.png",
+                    "name": "3_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        232,
+                        44,
+                        225
+                    ],
+                    "filename": "animacje_13.png",
+                    "name": "2_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        8,
+                        253,
+                        3
+                    ],
+                    "filename": "animacje_13.png",
+                    "name": "2_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "sfx\\00skarb3.wav",
+                    "sfx_seed": 66921072
+                },
+                {
+                    "check": [
+                        40,
+                        46,
+                        225
+                    ],
+                    "filename": "animacje_6.png",
+                    "name": "1_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        200,
+                        46,
+                        225
+                    ],
+                    "filename": "animacje_6.png",
+                    "name": "1_otwierazle2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        255,
+                        161
+                    ],
+                    "filename": "animacje_0.png",
+                    "name": "Layer 13",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "SKARBLOOP": {
+            "frames": [
+                {
+                    "check": [
+                        240,
+                        85,
+                        225
+                    ],
+                    "filename": "animacje_5.png",
+                    "name": "Layer 112 copy 3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        86,
+                        225
+                    ],
+                    "filename": "animacje_5.png",
+                    "name": "Layer 112 copy 3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48,
+                        87,
+                        225
+                    ],
+                    "filename": "animacje_12.png",
+                    "name": "Layer 112 copy 4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        87,
+                        225
+                    ],
+                    "filename": "animacje_12.png",
+                    "name": "Layer 112 copy 4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        225
+                    ],
+                    "filename": "animacje_18.png",
+                    "name": "Layer 112 copy 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        16,
+                        89,
+                        225
+                    ],
+                    "filename": "animacje_18.png",
+                    "name": "Layer 112 copy 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        89,
+                        225
+                    ],
+                    "filename": "animacje_23.png",
+                    "name": "Layer 112 copy 2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        90,
+                        225
+                    ],
+                    "filename": "animacje_23.png",
+                    "name": "Layer 112 copy 2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "SKARBOPEN": {
+            "frames": [
+                {
+                    "check": [
+                        232,
+                        81,
+                        225
+                    ],
+                    "filename": "animacje_0.png",
+                    "name": "Layer 13",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "sfx\\00skarb1.wav;sfx\\00skarb2.wav",
+                    "sfx_seed": 66952072
+                },
+                {
+                    "check": [
+                        120,
+                        82,
+                        225
+                    ],
+                    "filename": "animacje_8.png",
+                    "name": "Layer 112",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        8,
+                        83,
+                        225
+                    ],
+                    "filename": "animacje_8.png",
+                    "name": "Layer 112",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        152,
+                        83,
+                        225
+                    ],
+                    "filename": "animacje_14.png",
+                    "name": "Layer 112 copy",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        84,
+                        225
+                    ],
+                    "filename": "animacje_14.png",
+                    "name": "Layer 112 copy",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "SKRZYNIA1": {
+            "frames": [
+                {
+                    "check": [
+                        80,
+                        93,
+                        225
+                    ],
+                    "filename": "animacje_0.png",
+                    "name": "LAYER 13",
+                    "position_x": 138,
+                    "position_y": 111
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "SKRZYNIA2": {
+            "frames": [
+                {
+                    "check": [
+                        200,
+                        94,
+                        225
+                    ],
+                    "filename": "animacje_0.png",
+                    "name": "LAYER 13",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "SKRZYNIA3": {
+            "frames": [
+                {
+                    "check": [
+                        64,
+                        96,
+                        225
+                    ],
+                    "filename": "animacje_0.png",
+                    "name": "LAYER 13",
+                    "position_x": 230,
+                    "position_y": -5
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "SZKIELET_1": {
+            "frames": [
+                {
+                    "check": [
+                        168,
+                        65,
+                        225
+                    ],
+                    "filename": "animacje_3.png",
+                    "name": "5_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "sfx\\00szkielet.wav",
+                    "sfx_seed": 66935600
+                },
+                {
+                    "check": [
+                        72,
+                        66,
+                        225
+                    ],
+                    "filename": "animacje_3.png",
+                    "name": "5_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        232,
+                        66,
+                        225
+                    ],
+                    "filename": "animacje_11.png",
+                    "name": "6_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        136,
+                        67,
+                        225
+                    ],
+                    "filename": "animacje_11.png",
+                    "name": "6_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        40,
+                        68,
+                        225
+                    ],
+                    "filename": "animacje_17.png",
+                    "name": "7_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        200,
+                        68,
+                        225
+                    ],
+                    "filename": "animacje_17.png",
+                    "name": "7_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        104,
+                        69,
+                        225
+                    ],
+                    "filename": "animacje_22.png",
+                    "name": "8_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        8,
+                        70,
+                        225
+                    ],
+                    "filename": "animacje_22.png",
+                    "name": "8_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        168,
+                        70,
+                        225
+                    ],
+                    "filename": "animacje_24.png",
+                    "name": "9_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        71,
+                        225
+                    ],
+                    "filename": "animacje_24.png",
+                    "name": "9_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        232,
+                        71,
+                        225
+                    ],
+                    "filename": "animacje_25.png",
+                    "name": "10_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        136,
+                        72,
+                        225
+                    ],
+                    "filename": "animacje_25.png",
+                    "name": "10_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        40,
+                        73,
+                        225
+                    ],
+                    "filename": "animacje_26.png",
+                    "name": "11_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        200,
+                        73,
+                        225
+                    ],
+                    "filename": "animacje_26.png",
+                    "name": "11_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        104,
+                        74,
+                        225
+                    ],
+                    "filename": "animacje_28.png",
+                    "name": "12_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        8,
+                        75,
+                        225
+                    ],
+                    "filename": "animacje_28.png",
+                    "name": "12_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        168,
+                        75,
+                        225
+                    ],
+                    "filename": "animacje_30.png",
+                    "name": "13_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        76,
+                        225
+                    ],
+                    "filename": "animacje_30.png",
+                    "name": "13_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "SZKIELET_START": {
+            "frames": [
+                {
+                    "check": [
+                        16,
+                        60,
+                        225
+                    ],
+                    "filename": "animacje_0.png",
+                    "name": "Layer 13",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "sfx\\00skarb1.wav;sfx\\00skarb2.wav",
+                    "sfx_seed": 15524688
+                },
+                {
+                    "check": [
+                        160,
+                        60,
+                        225
+                    ],
+                    "filename": "animacje_7.png",
+                    "name": "1_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        64,
+                        61,
+                        225
+                    ],
+                    "filename": "animacje_7.png",
+                    "name": "1_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        61,
+                        225
+                    ],
+                    "filename": "animacje_4.png",
+                    "name": "2_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        128,
+                        62,
+                        225
+                    ],
+                    "filename": "animacje_4.png",
+                    "name": "2_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        32,
+                        63,
+                        225
+                    ],
+                    "filename": "animacje_21.png",
+                    "name": "3_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        192,
+                        63,
+                        225
+                    ],
+                    "filename": "animacje_21.png",
+                    "name": "3_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "SZKIELET_STOP": {
+            "frames": [
+                {
+                    "check": [
+                        224,
+                        77,
+                        225
+                    ],
+                    "filename": "animacje_4.png",
+                    "name": "2_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        128,
+                        78,
+                        225
+                    ],
+                    "filename": "animacje_4.png",
+                    "name": "2_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "sfx\\00skarb3.wav",
+                    "sfx_seed": 66942552
+                },
+                {
+                    "check": [
+                        32,
+                        79,
+                        225
+                    ],
+                    "filename": "animacje_7.png",
+                    "name": "1_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        192,
+                        79,
+                        225
+                    ],
+                    "filename": "animacje_7.png",
+                    "name": "1_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        80,
+                        225
+                    ],
+                    "filename": "animacje_0.png",
+                    "name": "Layer 13",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "animacje_0.png": {
+            "compression": 4,
+            "name": "LAYER 13",
+            "position_x": 143,
+            "position_y": 288
+        },
+        "animacje_1.png": {
+            "compression": 4,
+            "name": "LAYER 13 COPY 6",
+            "position_x": 113,
+            "position_y": 224
+        },
+        "animacje_10.png": {
+            "compression": 4,
+            "name": "13_OTWIERAZLE2",
+            "position_x": 113,
+            "position_y": 224
+        },
+        "animacje_11.png": {
+            "compression": 4,
+            "name": "6_OTWIERAZLE1",
+            "position_x": 113,
+            "position_y": 187
+        },
+        "animacje_12.png": {
+            "compression": 4,
+            "name": "LAYER 112 COPY 4",
+            "position_x": 113,
+            "position_y": 224
+        },
+        "animacje_13.png": {
+            "compression": 4,
+            "name": "2_OTWIERAZLE2",
+            "position_x": 113,
+            "position_y": 224
+        },
+        "animacje_14.png": {
+            "compression": 4,
+            "name": "LAYER 112 COPY",
+            "position_x": 113,
+            "position_y": 224
+        },
+        "animacje_15.png": {
+            "compression": 4,
+            "name": "4_OTWIERAZLE2",
+            "position_x": 113,
+            "position_y": 224
+        },
+        "animacje_16.png": {
+            "compression": 4,
+            "name": "10_OTWIERAZLE2",
+            "position_x": 113,
+            "position_y": 224
+        },
+        "animacje_17.png": {
+            "compression": 4,
+            "name": "7_OTWIERAZLE1",
+            "position_x": 113,
+            "position_y": 211
+        },
+        "animacje_18.png": {
+            "compression": 4,
+            "name": "LAYER 112 COPY 5",
+            "position_x": 113,
+            "position_y": 224
+        },
+        "animacje_19.png": {
+            "compression": 4,
+            "name": "3_OTWIERAZLE2",
+            "position_x": 113,
+            "position_y": 224
+        },
+        "animacje_2.png": {
+            "compression": 4,
+            "name": "12_OTWIERAZLE2",
+            "position_x": 113,
+            "position_y": 224
+        },
+        "animacje_20.png": {
+            "compression": 4,
+            "name": "11_OTWIERAZLE2",
+            "position_x": 113,
+            "position_y": 224
+        },
+        "animacje_21.png": {
+            "compression": 4,
+            "name": "3_OTWIERAZLE1",
+            "position_x": 113,
+            "position_y": 224
+        },
+        "animacje_22.png": {
+            "compression": 4,
+            "name": "8_OTWIERAZLE1",
+            "position_x": 113,
+            "position_y": 224
+        },
+        "animacje_23.png": {
+            "compression": 4,
+            "name": "LAYER 112 COPY 2",
+            "position_x": 113,
+            "position_y": 224
+        },
+        "animacje_24.png": {
+            "compression": 4,
+            "name": "9_OTWIERAZLE1",
+            "position_x": 113,
+            "position_y": 204
+        },
+        "animacje_25.png": {
+            "compression": 4,
+            "name": "10_OTWIERAZLE1",
+            "position_x": 113,
+            "position_y": 184
+        },
+        "animacje_26.png": {
+            "compression": 4,
+            "name": "11_OTWIERAZLE1",
+            "position_x": 113,
+            "position_y": 175
+        },
+        "animacje_27.png": {
+            "compression": 4,
+            "name": "7_OTWIERAZLE2",
+            "position_x": 113,
+            "position_y": 224
+        },
+        "animacje_28.png": {
+            "compression": 4,
+            "name": "12_OTWIERAZLE1",
+            "position_x": 113,
+            "position_y": 178
+        },
+        "animacje_29.png": {
+            "compression": 4,
+            "name": "8_OTWIERAZLE2",
+            "position_x": 113,
+            "position_y": 224
+        },
+        "animacje_3.png": {
+            "compression": 4,
+            "name": "5_OTWIERAZLE1",
+            "position_x": 109,
+            "position_y": 190
+        },
+        "animacje_30.png": {
+            "compression": 4,
+            "name": "13_OTWIERAZLE1",
+            "position_x": 113,
+            "position_y": 224
+        },
+        "animacje_31.png": {
+            "compression": 4,
+            "name": "9_OTWIERAZLE2",
+            "position_x": 113,
+            "position_y": 224
+        },
+        "animacje_4.png": {
+            "compression": 4,
+            "name": "2_OTWIERAZLE1",
+            "position_x": 113,
+            "position_y": 224
+        },
+        "animacje_5.png": {
+            "compression": 4,
+            "name": "LAYER 112 COPY 3",
+            "position_x": 113,
+            "position_y": 224
+        },
+        "animacje_6.png": {
+            "compression": 4,
+            "name": "1_OTWIERAZLE2",
+            "position_x": 142,
+            "position_y": 244
+        },
+        "animacje_7.png": {
+            "compression": 4,
+            "name": "1_OTWIERAZLE1",
+            "position_x": 142,
+            "position_y": 254
+        },
+        "animacje_8.png": {
+            "compression": 4,
+            "name": "LAYER 112",
+            "position_x": 142,
+            "position_y": 254
+        },
+        "animacje_9.png": {
+            "compression": 4,
+            "name": "5_OTWIERAZLE2",
+            "position_x": 113,
+            "position_y": 224
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,89 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "650-400-1": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_drzwi_0.png",
+                    "name": "DRZWI1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "CLOSE": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_drzwi_0.png",
+                    "name": "DRZWI1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "OPENED": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_drzwi_1.png",
+                    "name": "DRZWI2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_drzwi_0.png",
+                    "name": "DRZWI1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "m_drzwi_0.png": {
+            "compression": 3,
+            "name": "DRZWI1",
+            "position_x": 684,
+            "position_y": 315
+        },
+        "m_drzwi_1.png": {
+            "compression": 3,
+            "name": "DRZWI2",
+            "position_x": 666,
+            "position_y": 349
+        }
+    },
+    "transparency": 255
+}

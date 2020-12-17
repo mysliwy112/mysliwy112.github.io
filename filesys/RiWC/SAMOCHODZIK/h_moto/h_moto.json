@@ -1,0 +1,72 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "BACK": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "h_moto_1.png",
+                    "name": "PODWOZIEMALE",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "h_moto_0.png",
+                    "name": "LAYER_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "h_moto_2.png",
+                    "name": "LAYER_2_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 1,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "h_moto_0.png": {
+            "compression": 2,
+            "name": "LAYER_2",
+            "position_x": 2,
+            "position_y": 9
+        },
+        "h_moto_1.png": {
+            "compression": 2,
+            "name": "PODWOZIEMALE",
+            "position_x": 3,
+            "position_y": 9
+        },
+        "h_moto_2.png": {
+            "compression": 2,
+            "name": "LAYER_2_COPY",
+            "position_x": 2,
+            "position_y": 9
+        }
+    },
+    "transparency": 255
+}

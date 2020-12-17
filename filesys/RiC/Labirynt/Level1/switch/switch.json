@@ -1,0 +1,32 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "A1": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "switch_0.png",
+                    "name": "0",
+                    "position_x": 582,
+                    "position_y": -19
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "switch_0.png": {
+            "compression": 4,
+            "name": "S1",
+            "position_x": 280,
+            "position_y": 320
+        }
+    },
+    "transparency": 255
+}

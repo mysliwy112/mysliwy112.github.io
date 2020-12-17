@@ -1,0 +1,150 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "stolik": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod5_3.png",
+                    "name": "stolik",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "sztaluga": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod5_0.png",
+                    "name": "sztaluga",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "tablica1": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod5_1.png",
+                    "name": "1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "tablica2": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod5_2.png",
+                    "name": "pixel",
+                    "position_x": -1000,
+                    "position_y": -1000
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod5_4.png",
+                    "name": "2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "tablica3": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod5_2.png",
+                    "name": "pixel",
+                    "position_x": -1000,
+                    "position_y": -1000
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod5_5.png",
+                    "name": "3",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "pod5_0.png": {
+            "compression": 3,
+            "name": "sztaluga",
+            "position_x": 547,
+            "position_y": 217
+        },
+        "pod5_1.png": {
+            "compression": 3,
+            "name": "1",
+            "position_x": 572,
+            "position_y": 219
+        },
+        "pod5_2.png": {
+            "compression": 3,
+            "name": "pixel"
+        },
+        "pod5_3.png": {
+            "compression": 3,
+            "name": "stolik",
+            "position_x": 178,
+            "position_y": 542
+        },
+        "pod5_4.png": {
+            "compression": 3,
+            "name": "2",
+            "position_x": 560,
+            "position_y": 302
+        },
+        "pod5_5.png": {
+            "compression": 3,
+            "name": "3",
+            "position_x": 548,
+            "position_y": 375
+        }
+    },
+    "transparency": 255
+}

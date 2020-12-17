@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "510-420-1": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_dzwonek_0.png",
+                    "name": "DZWONEK",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_dzwonek_0.png",
+                    "name": "DZWONEK",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "m_dzwonek_0.png": {
+            "compression": 2,
+            "name": "DZWONEK",
+            "position_x": 499,
+            "position_y": 364
+        }
+    },
+    "transparency": 255
+}

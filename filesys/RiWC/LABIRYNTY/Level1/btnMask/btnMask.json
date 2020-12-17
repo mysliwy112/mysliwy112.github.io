@@ -1,0 +1,154 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "A1": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "btnMask_0.png",
+                    "name": "0",
+                    "position_x": -120,
+                    "position_y": -80
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "btnMask_2.png",
+                    "name": "1",
+                    "position_x": -160,
+                    "position_y": -40
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "A2": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "btnMask_0.png",
+                    "name": "0",
+                    "position_x": -40,
+                    "position_y": -80
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "btnMask_2.png",
+                    "name": "1",
+                    "position_x": 0,
+                    "position_y": -40
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "A3": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "btnMask_0.png",
+                    "name": "0",
+                    "position_x": 280,
+                    "position_y": 80
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "btnMask_2.png",
+                    "name": "1",
+                    "position_x": 280,
+                    "position_y": 80
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "A4": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "btnMask_0.png",
+                    "name": "0",
+                    "position_x": -240,
+                    "position_y": -200
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "btnMask_2.png",
+                    "name": "1",
+                    "position_x": -280,
+                    "position_y": -160
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "A5": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "btnMask_1.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "btnMask_0.png": {
+            "compression": 4,
+            "name": "S1_MA",
+            "position_x": 360,
+            "position_y": 320
+        },
+        "btnMask_1.png": {
+            "compression": 4,
+            "name": "BRAK"
+        },
+        "btnMask_2.png": {
+            "compression": 4,
+            "name": "S1_MB",
+            "position_x": 360,
+            "position_y": 280
+        }
+    },
+    "transparency": 255
+}

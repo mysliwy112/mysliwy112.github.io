@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "butelka_but_0.png",
+                    "name": "BUTELKA_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "butelka_but_1.png",
+                    "name": "BUTELKA",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "butelka_but_0.png": {
+            "compression": 4,
+            "name": "BUTELKA_COPY",
+            "position_x": 10,
+            "position_y": 10
+        },
+        "butelka_but_1.png": {
+            "compression": 4,
+            "name": "BUTELKA",
+            "position_x": 14,
+            "position_y": 17
+        }
+    },
+    "transparency": 255
+}

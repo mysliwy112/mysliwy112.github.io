@@ -1,0 +1,32 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "kosc_0.png",
+                    "name": "KOSC",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "kosc_0.png": {
+            "compression": 4,
+            "name": "KOSC",
+            "position_x": 146,
+            "position_y": 130
+        }
+    },
+    "transparency": 255
+}

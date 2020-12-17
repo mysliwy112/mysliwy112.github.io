@@ -1,0 +1,83 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "KRECI": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "szpula_0.png",
+                    "name": "SZPULA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "szpula_1.png",
+                    "name": "SZPULA_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "szpula_2.png",
+                    "name": "SZPULA_COPY_2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 2,
+            "transparency": 255
+        },
+        "STOI": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "szpula_0.png",
+                    "name": "SZPULA",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "szpula_0.png": {
+            "compression": 4,
+            "name": "SZPULA",
+            "position_x": 683,
+            "position_y": 336
+        },
+        "szpula_1.png": {
+            "compression": 4,
+            "name": "SZPULA_COPY",
+            "position_x": 683,
+            "position_y": 336
+        },
+        "szpula_2.png": {
+            "compression": 4,
+            "name": "SZPULA_COPY_2",
+            "position_x": 682,
+            "position_y": 336
+        }
+    },
+    "transparency": 255
+}

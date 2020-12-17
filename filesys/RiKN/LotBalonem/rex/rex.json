@@ -1,0 +1,733 @@
+{
+    "author": "",
+    "bpp": 16,
+    "events": {
+        "idle": {
+            "frames": [
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_0.png",
+                    "name": "reks_idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_1.png",
+                    "name": "reks_idle_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_2.png",
+                    "name": "reks_idle_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_3.png",
+                    "name": "reks_idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_4.png",
+                    "name": "reks_idle_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_5.png",
+                    "name": "reks_idle_6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_6.png",
+                    "name": "reks_idle_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_7.png",
+                    "name": "reks_idle_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_8.png",
+                    "name": "reks_idle_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_9.png",
+                    "name": "reks_idle_10",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 9,
+            "transparency": 255
+        },
+        "lina": {
+            "frames": [
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_16.png",
+                    "name": "reks_linia_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_17.png",
+                    "name": "reks_linia_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_18.png",
+                    "name": "reks_linia_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_19.png",
+                    "name": "reks_linia_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_20.png",
+                    "name": "reks_linia_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_21.png",
+                    "name": "reks_linia_6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_22.png",
+                    "name": "reks_linia_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_23.png",
+                    "name": "reks_linia_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_24.png",
+                    "name": "reks_linia_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_23.png",
+                    "name": "reks_linia_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_22.png",
+                    "name": "reks_linia_7",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "linaam": {
+            "frames": [
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_16.png",
+                    "name": "reks_linia_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_17.png",
+                    "name": "reks_linia_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_18.png",
+                    "name": "reks_linia_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_19.png",
+                    "name": "reks_linia_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_20.png",
+                    "name": "reks_linia_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_21.png",
+                    "name": "reks_linia_6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_22.png",
+                    "name": "reks_linia_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_23.png",
+                    "name": "reks_linia_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_24.png",
+                    "name": "reks_linia_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_19.png",
+                    "name": "reks_linia_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_20.png",
+                    "name": "reks_linia_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_21.png",
+                    "name": "reks_linia_6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_22.png",
+                    "name": "reks_linia_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_23.png",
+                    "name": "reks_linia_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_24.png",
+                    "name": "reks_linia_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_23.png",
+                    "name": "reks_linia_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_22.png",
+                    "name": "reks_linia_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_21.png",
+                    "name": "reks_linia_6",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "prze": {
+            "frames": [
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_10.png",
+                    "name": "reks_przeszk_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_11.png",
+                    "name": "reks_przeszk_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_12.png",
+                    "name": "reks_przeszk_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_13.png",
+                    "name": "reks_przeszk_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_14.png",
+                    "name": "reks_przeszk_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_15.png",
+                    "name": "reks_przeszk_6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_14.png",
+                    "name": "reks_przeszk_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_13.png",
+                    "name": "reks_przeszk_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_12.png",
+                    "name": "reks_przeszk_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_11.png",
+                    "name": "reks_przeszk_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "rex_10.png",
+                    "name": "reks_przeszk_1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "rex_0.png": {
+            "compression": 3,
+            "name": "reks_idle_1",
+            "position_x": 57,
+            "position_y": 231
+        },
+        "rex_1.png": {
+            "compression": 3,
+            "name": "reks_idle_2",
+            "position_x": 57,
+            "position_y": 231
+        },
+        "rex_10.png": {
+            "compression": 3,
+            "name": "reks_przeszk_1",
+            "position_x": 54,
+            "position_y": 228
+        },
+        "rex_11.png": {
+            "compression": 3,
+            "name": "reks_przeszk_2",
+            "position_x": 50,
+            "position_y": 226
+        },
+        "rex_12.png": {
+            "compression": 3,
+            "name": "reks_przeszk_3",
+            "position_x": 42,
+            "position_y": 229
+        },
+        "rex_13.png": {
+            "compression": 3,
+            "name": "reks_przeszk_4",
+            "position_x": 40,
+            "position_y": 233
+        },
+        "rex_14.png": {
+            "compression": 3,
+            "name": "reks_przeszk_5",
+            "position_x": 39,
+            "position_y": 235
+        },
+        "rex_15.png": {
+            "compression": 3,
+            "name": "reks_przeszk_6",
+            "position_x": 39,
+            "position_y": 235
+        },
+        "rex_16.png": {
+            "compression": 3,
+            "name": "reks_linia_1",
+            "position_x": 59,
+            "position_y": 232
+        },
+        "rex_17.png": {
+            "compression": 3,
+            "name": "reks_linia_2",
+            "position_x": 61,
+            "position_y": 232
+        },
+        "rex_18.png": {
+            "compression": 3,
+            "name": "reks_linia_3",
+            "position_x": 65,
+            "position_y": 232
+        },
+        "rex_19.png": {
+            "compression": 3,
+            "name": "reks_linia_4",
+            "position_x": 72,
+            "position_y": 233
+        },
+        "rex_2.png": {
+            "compression": 3,
+            "name": "reks_idle_3",
+            "position_x": 57,
+            "position_y": 231
+        },
+        "rex_20.png": {
+            "compression": 3,
+            "name": "reks_linia_5",
+            "position_x": 71,
+            "position_y": 233
+        },
+        "rex_21.png": {
+            "compression": 3,
+            "name": "reks_linia_6",
+            "position_x": 71,
+            "position_y": 233
+        },
+        "rex_22.png": {
+            "compression": 3,
+            "name": "reks_linia_7",
+            "position_x": 73,
+            "position_y": 233
+        },
+        "rex_23.png": {
+            "compression": 3,
+            "name": "reks_linia_8",
+            "position_x": 74,
+            "position_y": 232
+        },
+        "rex_24.png": {
+            "compression": 3,
+            "name": "reks_linia_9",
+            "position_x": 74,
+            "position_y": 233
+        },
+        "rex_3.png": {
+            "compression": 3,
+            "name": "reks_idle_4",
+            "position_x": 57,
+            "position_y": 231
+        },
+        "rex_4.png": {
+            "compression": 3,
+            "name": "reks_idle_5",
+            "position_x": 57,
+            "position_y": 233
+        },
+        "rex_5.png": {
+            "compression": 3,
+            "name": "reks_idle_6",
+            "position_x": 57,
+            "position_y": 235
+        },
+        "rex_6.png": {
+            "compression": 3,
+            "name": "reks_idle_7",
+            "position_x": 57,
+            "position_y": 234
+        },
+        "rex_7.png": {
+            "compression": 3,
+            "name": "reks_idle_8",
+            "position_x": 57,
+            "position_y": 233
+        },
+        "rex_8.png": {
+            "compression": 3,
+            "name": "reks_idle_9",
+            "position_x": 57,
+            "position_y": 234
+        },
+        "rex_9.png": {
+            "compression": 3,
+            "name": "reks_idle_10",
+            "position_x": 57,
+            "position_y": 233
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "idle": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "inv_slot_0.png",
+                    "name": "podkladka",
+                    "position_x": -40,
+                    "position_y": -40
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "inv_slot_1.png",
+                    "name": "podkladka_outline",
+                    "position_x": -40,
+                    "position_y": -40
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "inv_slot_0.png": {
+            "compression": 3,
+            "name": "podkladka",
+            "position_x": 11,
+            "position_y": 11
+        },
+        "inv_slot_1.png": {
+            "compression": 3,
+            "name": "podkladka_outline",
+            "position_x": 8,
+            "position_y": 8
+        }
+    },
+    "transparency": 255
+}

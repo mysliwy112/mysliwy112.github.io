@@ -1,0 +1,55 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "1": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_path_0.png",
+                    "name": "STRAZNICY_1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "2": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_path_1.png",
+                    "name": "STRAZNICY_2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "enemy1_path_0.png": {
+            "compression": 2,
+            "name": "STRAZNICY_1",
+            "position_x": 336,
+            "position_y": 163
+        },
+        "enemy1_path_1.png": {
+            "compression": 2,
+            "name": "STRAZNICY_2",
+            "position_x": 202,
+            "position_y": 166
+        }
+    },
+    "transparency": 255
+}

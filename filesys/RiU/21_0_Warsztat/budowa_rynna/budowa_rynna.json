@@ -1,0 +1,52 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "budowa_rynna_0.png",
+                    "name": "RYNNA",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "budowa_rynna_0.png": {
+            "compression": 4,
+            "name": "RYNNA",
+            "position_x": 187,
+            "position_y": 137
+        }
+    },
+    "transparency": 255
+}

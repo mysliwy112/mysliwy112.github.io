@@ -1,0 +1,233 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "DOWN": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_mask_3.png",
+                    "name": "LAYER_2_COPY_3",
+                    "position_x": 1,
+                    "position_y": -97
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "DOWN_GREK": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_mask_3.png",
+                    "name": "LAYER_2_COPY_3",
+                    "position_x": 1,
+                    "position_y": -97
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "IDLE": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_mask_4.png",
+                    "name": "LAYER_3",
+                    "position_x": 1,
+                    "position_y": -97
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "IDLE_GREK": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_mask_4.png",
+                    "name": "LAYER_3",
+                    "position_x": 1,
+                    "position_y": -97
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "LEFT": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_mask_0.png",
+                    "name": "LAYER_2",
+                    "position_x": 1,
+                    "position_y": -97
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "LEFT_GREK": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_mask_0.png",
+                    "name": "LAYER_2",
+                    "position_x": 1,
+                    "position_y": -97
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "RIGHT": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_mask_1.png",
+                    "name": "LAYER_2_COPY_2",
+                    "position_x": 1,
+                    "position_y": -97
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "RIGHT_GREK": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_mask_1.png",
+                    "name": "LAYER_2_COPY_2",
+                    "position_x": 1,
+                    "position_y": -97
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "UP": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_mask_2.png",
+                    "name": "LAYER_2_COPY",
+                    "position_x": 1,
+                    "position_y": -97
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "UP_GREK": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_mask_2.png",
+                    "name": "LAYER_2_COPY",
+                    "position_x": 1,
+                    "position_y": -97
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "WAIT": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_mask_4.png",
+                    "name": "LAYER_3",
+                    "position_x": 1,
+                    "position_y": -97
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "WAIT_GREK": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_mask_4.png",
+                    "name": "LAYER_3",
+                    "position_x": 1,
+                    "position_y": -97
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "enemy1_mask_0.png": {
+            "compression": 4,
+            "name": "LAYER_2"
+        },
+        "enemy1_mask_1.png": {
+            "compression": 4,
+            "name": "LAYER_2_COPY_2"
+        },
+        "enemy1_mask_2.png": {
+            "compression": 4,
+            "name": "LAYER_2_COPY"
+        },
+        "enemy1_mask_3.png": {
+            "compression": 4,
+            "name": "LAYER_2_COPY_3"
+        },
+        "enemy1_mask_4.png": {
+            "compression": 4,
+            "name": "LAYER_3"
+        }
+    },
+    "transparency": 255
+}

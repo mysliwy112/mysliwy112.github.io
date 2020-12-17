@@ -1,0 +1,162 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "476-528-5": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "i_pokrywka_0.png",
+                    "name": "POKRYWA",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "OPEN": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "i_pokrywka_0.png",
+                    "name": "POKRYWA",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\klapa.wav",
+                    "sfx_seed": 50243468
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "i_pokrywka_0.png",
+                    "name": "POKRYWA",
+                    "position_x": -1,
+                    "position_y": -4
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "i_pokrywka_0.png",
+                    "name": "POKRYWA",
+                    "position_x": -1,
+                    "position_y": -8
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "i_pokrywka_0.png",
+                    "name": "POKRYWA",
+                    "position_x": -2,
+                    "position_y": -13
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "i_pokrywka_0.png",
+                    "name": "POKRYWA",
+                    "position_x": -2,
+                    "position_y": -17
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "i_pokrywka_0.png",
+                    "name": "POKRYWA",
+                    "position_x": -3,
+                    "position_y": -22
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "i_pokrywka_0.png",
+                    "name": "POKRYWA",
+                    "position_x": -3,
+                    "position_y": -26
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "i_pokrywka_0.png",
+                    "name": "POKRYWA",
+                    "position_x": -4,
+                    "position_y": -30
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "OPENED": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "i_pokrywka_0.png",
+                    "name": "POKRYWA",
+                    "position_x": -4,
+                    "position_y": -30
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "i_pokrywka_0.png",
+                    "name": "POKRYWA",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "i_pokrywka_0.png": {
+            "compression": 3,
+            "name": "POKRYWA",
+            "position_x": 504,
+            "position_y": 513
+        }
+    },
+    "transparency": 255
+}

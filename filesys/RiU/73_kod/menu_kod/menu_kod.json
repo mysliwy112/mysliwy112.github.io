@@ -1,0 +1,95 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "ONCLICK": {
+            "frames": [
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "menu_kod_0.png",
+                    "name": "KASETA",
+                    "position_x": 0,
+                    "position_y": -520
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONFOCUSOFF": {
+            "frames": [
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "menu_kod_2.png",
+                    "name": "KASETA COPY 2",
+                    "position_x": 0,
+                    "position_y": -520
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONFOCUSON": {
+            "frames": [
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "menu_kod_1.png",
+                    "name": "KASETA COPY",
+                    "position_x": 0,
+                    "position_y": -520
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONNOEVENT": {
+            "frames": [
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "menu_kod_0.png",
+                    "name": "KASETA",
+                    "position_x": 0,
+                    "position_y": -520
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "menu_kod_0.png": {
+            "compression": 4,
+            "name": "KASETA",
+            "position_x": 18,
+            "position_y": 527
+        },
+        "menu_kod_1.png": {
+            "compression": 4,
+            "name": "KASETA COPY",
+            "position_x": 17,
+            "position_y": 524
+        },
+        "menu_kod_2.png": {
+            "compression": 4,
+            "name": "KASETA COPY 2",
+            "position_x": 17,
+            "position_y": 524
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "kosc_but_0.png",
+                    "name": "KOSC_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "kosc_but_1.png",
+                    "name": "KOSC",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "kosc_but_0.png": {
+            "compression": 4,
+            "name": "KOSC_COPY",
+            "position_x": 8,
+            "position_y": 8
+        },
+        "kosc_but_1.png": {
+            "compression": 4,
+            "name": "KOSC",
+            "position_x": 11,
+            "position_y": 9
+        }
+    },
+    "transparency": 255
+}

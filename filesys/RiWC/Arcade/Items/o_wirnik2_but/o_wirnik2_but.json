@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "o_wirnik2_but_0.png",
+                    "name": "WIRNIK2_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "o_wirnik2_but_1.png",
+                    "name": "WIRNIK2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "o_wirnik2_but_0.png": {
+            "compression": 3,
+            "name": "WIRNIK2_COPY",
+            "position_x": 10,
+            "position_y": 9
+        },
+        "o_wirnik2_but_1.png": {
+            "compression": 3,
+            "name": "WIRNIK2",
+            "position_x": 28,
+            "position_y": 9
+        }
+    },
+    "transparency": 255
+}

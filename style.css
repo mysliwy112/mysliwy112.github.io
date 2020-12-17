@@ -1,0 +1,59 @@
+
+
+ul, #filesys {
+    list-style-type: none;
+}
+  
+#filesys {
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+
+.caret {
+    cursor: pointer;
+    user-select: none;
+}
+
+.caret::before {
+    content: "\25B6";
+    color: black;
+    display: inline-block;
+    margin-right: 6px;
+}
+
+.caret-down::before {
+    transform: rotate(90deg);  
+}
+
+.nested {
+    display: none;
+}
+
+.active {
+    display: block;
+}
+
+#frames{
+    display: flex;
+}
+
+#frames img{
+    width: auto;
+    height: 150px;
+    padding: 10px;
+    border: solid;
+}
+#player{
+    float: left;
+}
+#events{
+    float: right;
+}
+#screen {
+    border: dotted;
+}
+
+#play_buttons{
+    display: flex;
+}

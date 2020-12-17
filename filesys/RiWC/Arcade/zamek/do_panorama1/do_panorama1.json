@@ -1,0 +1,48 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "402-565-599": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "do_panorama1_0.png",
+                    "name": "DO_PANORAMA1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "do_panorama1_0.png",
+                    "name": "DO_PANORAMA1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "do_panorama1_0.png": {
+            "compression": 3,
+            "name": "DO_PANORAMA1",
+            "position_x": 730
+        }
+    },
+    "transparency": 255
+}

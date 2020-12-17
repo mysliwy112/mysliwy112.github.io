@@ -1,0 +1,166 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "BEZRUCH": {
+            "frames": [
+                {
+                    "check": [
+                        48,
+                        151,
+                        164
+                    ],
+                    "filename": "kamien8_0.png",
+                    "name": "KAMIEN2",
+                    "position_x": -101,
+                    "position_y": -79
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STRZAL": {
+            "frames": [
+                {
+                    "check": [
+                        160,
+                        149,
+                        164
+                    ],
+                    "filename": "kamien8_0.png",
+                    "name": "KAMIEN2",
+                    "position_x": -101,
+                    "position_y": -79,
+                    "sfx": "sfx\\00laskamien1.wav;sfx\\00laskamien2.wav",
+                    "sfx_seed": 10795952
+                },
+                {
+                    "check": [
+                        16,
+                        149,
+                        164
+                    ],
+                    "filename": "kamien8_1.png",
+                    "name": "WYBUCH",
+                    "position_x": -101,
+                    "position_y": -79
+                },
+                {
+                    "check": [
+                        128,
+                        148,
+                        164
+                    ],
+                    "filename": "kamien8_1.png",
+                    "name": "WYBUCH",
+                    "position_x": -101,
+                    "position_y": -79
+                },
+                {
+                    "check": [
+                        240,
+                        147,
+                        164
+                    ],
+                    "filename": "kamien8_2.png",
+                    "name": "WYBUCH2",
+                    "position_x": -101,
+                    "position_y": -79
+                },
+                {
+                    "check": [
+                        96,
+                        147,
+                        164
+                    ],
+                    "filename": "kamien8_2.png",
+                    "name": "WYBUCH2",
+                    "position_x": -101,
+                    "position_y": -79
+                },
+                {
+                    "check": [
+                        208,
+                        146,
+                        164
+                    ],
+                    "filename": "kamien8_3.png",
+                    "name": "WYBUCH3",
+                    "position_x": -101,
+                    "position_y": -79
+                },
+                {
+                    "check": [
+                        64,
+                        146,
+                        164
+                    ],
+                    "filename": "kamien8_3.png",
+                    "name": "WYBUCH3",
+                    "position_x": -101,
+                    "position_y": -79
+                },
+                {
+                    "check": [
+                        176,
+                        145,
+                        164
+                    ],
+                    "filename": "kamien8_3.png",
+                    "name": "WYBUCH3",
+                    "position_x": -28,
+                    "position_y": 317
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "kamien8_0.png": {
+            "compression": 4,
+            "name": "KAMIEN2",
+            "position_x": 487,
+            "position_y": 288
+        },
+        "kamien8_1.png": {
+            "compression": 4,
+            "name": "WYBUCH",
+            "position_x": 488,
+            "position_y": 293
+        },
+        "kamien8_2.png": {
+            "compression": 4,
+            "name": "WYBUCH2",
+            "position_x": 496,
+            "position_y": 304
+        },
+        "kamien8_3.png": {
+            "compression": 4,
+            "name": "WYBUCH3",
+            "position_x": 504,
+            "position_y": 307
+        }
+    },
+    "transparency": 255
+}

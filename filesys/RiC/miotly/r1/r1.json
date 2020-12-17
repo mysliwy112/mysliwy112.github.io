@@ -1,0 +1,98 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "r1_0.png",
+                    "name": "A",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "r1_1.png",
+                    "name": "E",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "r1_2.png",
+                    "name": "D",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "r1_3.png",
+                    "name": "C",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "r1_4.png",
+                    "name": "B",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 4,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "r1_0.png": {
+            "compression": 4,
+            "name": "A"
+        },
+        "r1_1.png": {
+            "compression": 4,
+            "name": "E",
+            "position_x": 2,
+            "position_y": 2
+        },
+        "r1_2.png": {
+            "compression": 4,
+            "name": "D",
+            "position_x": 2,
+            "position_y": 2
+        },
+        "r1_3.png": {
+            "compression": 4,
+            "name": "C",
+            "position_x": 2,
+            "position_y": 2
+        },
+        "r1_4.png": {
+            "compression": 4,
+            "name": "B",
+            "position_x": 1,
+            "position_y": 1
+        }
+    },
+    "transparency": 255
+}

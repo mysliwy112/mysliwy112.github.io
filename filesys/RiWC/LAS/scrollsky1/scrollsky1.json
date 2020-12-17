@@ -1,0 +1,75 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "SCROLL": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "scrollsky1_0.png",
+                    "name": "2A",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "scrollsky1_1.png",
+                    "name": "2B",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "scrollsky1_2.png",
+                    "name": "2C",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "scrollsky1_3.png",
+                    "name": "2D",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "scrollsky1_0.png": {
+            "compression": 3,
+            "name": "2A"
+        },
+        "scrollsky1_1.png": {
+            "compression": 3,
+            "name": "2B"
+        },
+        "scrollsky1_2.png": {
+            "compression": 3,
+            "name": "2C"
+        },
+        "scrollsky1_3.png": {
+            "compression": 3,
+            "name": "2D"
+        }
+    },
+    "transparency": 255
+}

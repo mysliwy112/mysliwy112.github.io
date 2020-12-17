@@ -1,0 +1,1098 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CAN_SPELL": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_0.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "DOWN": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_0.png",
+                    "name": "NORMAL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_8.png",
+                    "name": "DOWN",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_16.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_24.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_0.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_8.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_16.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_24.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "DOWN_FROG": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_4.png",
+                    "name": "_FROG",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_12.png",
+                    "name": "DOWN",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_20.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_28.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_4.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_12.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_20.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_28.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "IDLE": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_0.png",
+                    "name": "NORMAL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_0.png",
+                    "name": "IDLE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_0.png",
+                    "name": "IDLE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_0.png",
+                    "name": "IDLE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_0.png",
+                    "name": "IDLE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_0.png",
+                    "name": "IDLE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_0.png",
+                    "name": "IDLE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_0.png",
+                    "name": "IDLE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_0.png",
+                    "name": "IDLE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_0.png",
+                    "name": "IDLE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_0.png",
+                    "name": "IDLE",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "IMMUNE": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_0.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "LEFT": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_1.png",
+                    "name": "NORMAL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_9.png",
+                    "name": "LEFT",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_17.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_25.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_1.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_9.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_17.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_25.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "LEFT_FROG": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_5.png",
+                    "name": "_FROG",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_13.png",
+                    "name": "LEFT",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_21.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_29.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_5.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_13.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_21.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_29.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "RIGHT": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_2.png",
+                    "name": "NORMAL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_10.png",
+                    "name": "RIGHT",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_18.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_26.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_2.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_10.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_18.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_26.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "RIGHT_FROG": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_7.png",
+                    "name": "_FROG",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_15.png",
+                    "name": "RIGHT",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_23.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_31.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_7.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_15.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_23.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_31.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "UP": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_3.png",
+                    "name": "NORMAL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_11.png",
+                    "name": "UP",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_19.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_27.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_3.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_11.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_19.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_27.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "UP_FROG": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_6.png",
+                    "name": "_FROG",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_14.png",
+                    "name": "UP",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_22.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_30.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_6.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_14.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_22.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "locha_30.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "locha_0.png": {
+            "compression": 4,
+            "name": "1",
+            "position_x": 7
+        },
+        "locha_1.png": {
+            "compression": 4,
+            "name": "1",
+            "position_y": 7
+        },
+        "locha_10.png": {
+            "compression": 4,
+            "name": "2",
+            "position_y": 8
+        },
+        "locha_11.png": {
+            "compression": 4,
+            "name": "2",
+            "position_x": 8
+        },
+        "locha_12.png": {
+            "compression": 4,
+            "name": "2",
+            "position_x": 9,
+            "position_y": 11
+        },
+        "locha_13.png": {
+            "compression": 4,
+            "name": "2",
+            "position_x": 12,
+            "position_y": 9
+        },
+        "locha_14.png": {
+            "compression": 4,
+            "name": "2",
+            "position_x": 9,
+            "position_y": 12
+        },
+        "locha_15.png": {
+            "compression": 4,
+            "name": "2",
+            "position_x": 11,
+            "position_y": 9
+        },
+        "locha_16.png": {
+            "compression": 4,
+            "name": "3",
+            "position_x": 7
+        },
+        "locha_17.png": {
+            "compression": 4,
+            "name": "3",
+            "position_y": 7
+        },
+        "locha_18.png": {
+            "compression": 4,
+            "name": "3",
+            "position_y": 7
+        },
+        "locha_19.png": {
+            "compression": 4,
+            "name": "3",
+            "position_x": 7
+        },
+        "locha_2.png": {
+            "compression": 4,
+            "name": "1",
+            "position_y": 7
+        },
+        "locha_20.png": {
+            "compression": 4,
+            "name": "3",
+            "position_x": 9,
+            "position_y": 6
+        },
+        "locha_21.png": {
+            "compression": 4,
+            "name": "3",
+            "position_x": 10,
+            "position_y": 9
+        },
+        "locha_22.png": {
+            "compression": 4,
+            "name": "3",
+            "position_x": 8,
+            "position_y": 10
+        },
+        "locha_23.png": {
+            "compression": 4,
+            "name": "3",
+            "position_x": 6,
+            "position_y": 8
+        },
+        "locha_24.png": {
+            "compression": 4,
+            "name": "4",
+            "position_x": 7
+        },
+        "locha_25.png": {
+            "compression": 4,
+            "name": "4",
+            "position_y": 7
+        },
+        "locha_26.png": {
+            "compression": 4,
+            "name": "4",
+            "position_y": 8
+        },
+        "locha_27.png": {
+            "compression": 4,
+            "name": "4",
+            "position_x": 8
+        },
+        "locha_28.png": {
+            "compression": 4,
+            "name": "4",
+            "position_x": 10,
+            "position_y": -4
+        },
+        "locha_29.png": {
+            "compression": 4,
+            "name": "4",
+            "position_x": 9,
+            "position_y": 10
+        },
+        "locha_3.png": {
+            "compression": 4,
+            "name": "1",
+            "position_x": 7
+        },
+        "locha_30.png": {
+            "compression": 4,
+            "name": "4",
+            "position_x": 10,
+            "position_y": 9
+        },
+        "locha_31.png": {
+            "compression": 4,
+            "name": "4",
+            "position_x": -4,
+            "position_y": 10
+        },
+        "locha_4.png": {
+            "compression": 4,
+            "name": "1",
+            "position_x": 9,
+            "position_y": 11
+        },
+        "locha_5.png": {
+            "compression": 4,
+            "name": "1",
+            "position_x": 12,
+            "position_y": 9
+        },
+        "locha_6.png": {
+            "compression": 4,
+            "name": "1",
+            "position_x": 9,
+            "position_y": 12
+        },
+        "locha_7.png": {
+            "compression": 4,
+            "name": "1",
+            "position_x": 11,
+            "position_y": 9
+        },
+        "locha_8.png": {
+            "compression": 4,
+            "name": "2",
+            "position_x": 7
+        },
+        "locha_9.png": {
+            "compression": 4,
+            "name": "2",
+            "position_y": 7
+        }
+    },
+    "transparency": 255
+}

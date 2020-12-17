@@ -1,0 +1,145 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "easy": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "glows_4.png",
+                    "name": "b3",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "normal": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "glows_3.png",
+                    "name": "a3",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "null": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "glows_0.png",
+                    "name": "1",
+                    "position_x": -1,
+                    "position_y": -1
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "szuflada": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "glows_1.png",
+                    "name": "ac",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "usuwanie": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "glows_2.png",
+                    "name": "kosz2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "zajezdnia": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "glows_5.png",
+                    "name": "zajezdnia2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "glows_0.png": {
+            "compression": 3,
+            "name": "1"
+        },
+        "glows_1.png": {
+            "compression": 3,
+            "name": "ac",
+            "position_x": 467,
+            "position_y": 202
+        },
+        "glows_2.png": {
+            "compression": 3,
+            "name": "kosz2",
+            "position_x": 407,
+            "position_y": 202
+        },
+        "glows_3.png": {
+            "compression": 3,
+            "name": "a3",
+            "position_x": 434,
+            "position_y": 202
+        },
+        "glows_4.png": {
+            "compression": 3,
+            "name": "b3",
+            "position_x": 434,
+            "position_y": 232
+        },
+        "glows_5.png": {
+            "compression": 3,
+            "name": "zajezdnia2",
+            "position_x": 710,
+            "position_y": 202
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "350-530-1": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "o_kamyczek_0.png",
+                    "name": "KAMYK_ORG",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "o_kamyczek_0.png",
+                    "name": "KAMYK_ORG",
+                    "position_x": -48,
+                    "position_y": 135
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "o_kamyczek_0.png": {
+            "compression": 3,
+            "name": "KAMYK_ORG",
+            "position_x": 373,
+            "position_y": 388
+        }
+    },
+    "transparency": 255
+}

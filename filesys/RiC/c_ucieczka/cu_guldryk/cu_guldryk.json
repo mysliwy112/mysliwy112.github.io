@@ -1,0 +1,742 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_0.png",
+                    "name": "GUL",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\c_uciecz.wav",
+                    "sfx_seed": 50254116
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_1.png",
+                    "name": "GUL_COPY",
+                    "position_x": -1,
+                    "position_y": -19
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_2.png",
+                    "name": "GUL_COPY_2",
+                    "position_x": 11,
+                    "position_y": -39
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_3.png",
+                    "name": "GUL_COPY_3",
+                    "position_x": 35,
+                    "position_y": -46
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_4.png",
+                    "name": "GUL_COPY_4",
+                    "position_x": 57,
+                    "position_y": -41
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_5.png",
+                    "name": "GUL_COPY_5",
+                    "position_x": 73,
+                    "position_y": -20
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_6.png",
+                    "name": "GUL_COPY_6",
+                    "position_x": 73,
+                    "position_y": 3
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_7.png",
+                    "name": "GUL_COPY_7",
+                    "position_x": 56,
+                    "position_y": 25
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_8.png",
+                    "name": "GUL_COPY_8",
+                    "position_x": 33,
+                    "position_y": 32
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_9.png",
+                    "name": "GUL_COPY_9",
+                    "position_x": 9,
+                    "position_y": 32
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_10.png",
+                    "name": "GUL_COPY_10",
+                    "position_x": -15,
+                    "position_y": 29
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_11.png",
+                    "name": "GUL_COPY_11",
+                    "position_x": -39,
+                    "position_y": 28
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_12.png",
+                    "name": "GUL_COPY_12",
+                    "position_x": -62,
+                    "position_y": 39
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_13.png",
+                    "name": "GUL_COPY_13",
+                    "position_x": -65,
+                    "position_y": 62
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_14.png",
+                    "name": "GUL_COPY_14",
+                    "position_x": -47,
+                    "position_y": 79
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_15.png",
+                    "name": "GUL_COPY_15",
+                    "position_x": -23,
+                    "position_y": 76
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_16.png",
+                    "name": "GUL_COPY_16",
+                    "position_x": -4,
+                    "position_y": 59
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_17.png",
+                    "name": "GUL_COPY_17",
+                    "position_x": 8,
+                    "position_y": 35
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_18.png",
+                    "name": "GUL_COPY_18",
+                    "position_x": 13,
+                    "position_y": 11
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_19.png",
+                    "name": "GUL_COPY_19",
+                    "position_x": 15,
+                    "position_y": -14
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_20.png",
+                    "name": "GUL_COPY_20",
+                    "position_x": 17,
+                    "position_y": -38
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_21.png",
+                    "name": "GUL_COPY_21",
+                    "position_x": 27,
+                    "position_y": -62
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_22.png",
+                    "name": "GUL_COPY_22",
+                    "position_x": 47,
+                    "position_y": -83
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_23.png",
+                    "name": "GUL_COPY_23",
+                    "position_x": 70,
+                    "position_y": -83
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_24.png",
+                    "name": "GUL_COPY_24",
+                    "position_x": 85,
+                    "position_y": -65
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_25.png",
+                    "name": "GUL_COPY_25",
+                    "position_x": 79,
+                    "position_y": -41
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_26.png",
+                    "name": "GUL_COPY_26",
+                    "position_x": 56,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_27.png",
+                    "name": "GUL_COPY_27",
+                    "position_x": 33,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_28.png",
+                    "name": "GUL_COPY_28",
+                    "position_x": 9,
+                    "position_y": -38
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_29.png",
+                    "name": "GUL_COPY_29",
+                    "position_x": -15,
+                    "position_y": -42
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_30.png",
+                    "name": "GUL_COPY_30",
+                    "position_x": -37,
+                    "position_y": -46
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_31.png",
+                    "name": "GUL_COPY_31",
+                    "position_x": -62,
+                    "position_y": -46
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_32.png",
+                    "name": "GUL_COPY_32",
+                    "position_x": -84,
+                    "position_y": -32
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_33.png",
+                    "name": "GUL_COPY_33",
+                    "position_x": -94,
+                    "position_y": -11
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_34.png",
+                    "name": "GUL_COPY_34",
+                    "position_x": -92,
+                    "position_y": 12
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_35.png",
+                    "name": "GUL_COPY_35",
+                    "position_x": -76,
+                    "position_y": 32
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_36.png",
+                    "name": "GUL_COPY_36",
+                    "position_x": -55,
+                    "position_y": 39
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_37.png",
+                    "name": "GUL_COPY_37",
+                    "position_x": -33,
+                    "position_y": 29
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_38.png",
+                    "name": "GUL_COPY_38",
+                    "position_x": -16,
+                    "position_y": 9
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_39.png",
+                    "name": "GUL_COPY_39",
+                    "position_x": -11,
+                    "position_y": -12
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_40.png",
+                    "name": "GUL_COPY_40",
+                    "position_x": -5,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_41.png",
+                    "name": "GUL_COPY_41",
+                    "position_x": -5,
+                    "position_y": -48
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_guldryk_41.png",
+                    "name": "GUL_COPY_41",
+                    "position_x": 10,
+                    "position_y": 238
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "cu_guldryk_0.png": {
+            "compression": 3,
+            "name": "GUL",
+            "position_x": 230,
+            "position_y": 103
+        },
+        "cu_guldryk_1.png": {
+            "compression": 3,
+            "name": "GUL_COPY",
+            "position_x": 159,
+            "position_y": 136
+        },
+        "cu_guldryk_10.png": {
+            "compression": 3,
+            "name": "GUL_COPY_10",
+            "position_x": 337,
+            "position_y": 310
+        },
+        "cu_guldryk_11.png": {
+            "compression": 3,
+            "name": "GUL_COPY_11",
+            "position_x": 363,
+            "position_y": 284
+        },
+        "cu_guldryk_12.png": {
+            "compression": 3,
+            "name": "GUL_COPY_12",
+            "position_x": 376,
+            "position_y": 303
+        },
+        "cu_guldryk_13.png": {
+            "compression": 3,
+            "name": "GUL_COPY_13",
+            "position_x": 373,
+            "position_y": 323
+        },
+        "cu_guldryk_14.png": {
+            "compression": 3,
+            "name": "GUL_COPY_14",
+            "position_x": 371,
+            "position_y": 334
+        },
+        "cu_guldryk_15.png": {
+            "compression": 3,
+            "name": "GUL_COPY_15",
+            "position_x": 378,
+            "position_y": 331
+        },
+        "cu_guldryk_16.png": {
+            "compression": 3,
+            "name": "GUL_COPY_16",
+            "position_x": 396,
+            "position_y": 330
+        },
+        "cu_guldryk_17.png": {
+            "compression": 3,
+            "name": "GUL_COPY_17",
+            "position_x": 383,
+            "position_y": 335
+        },
+        "cu_guldryk_18.png": {
+            "compression": 3,
+            "name": "GUL_COPY_18",
+            "position_x": 393,
+            "position_y": 350
+        },
+        "cu_guldryk_19.png": {
+            "compression": 3,
+            "name": "GUL_COPY_19",
+            "position_x": 403,
+            "position_y": 338
+        },
+        "cu_guldryk_2.png": {
+            "compression": 3,
+            "name": "GUL_COPY_2",
+            "position_x": 209,
+            "position_y": 215
+        },
+        "cu_guldryk_20.png": {
+            "compression": 3,
+            "name": "GUL_COPY_20",
+            "position_x": 409,
+            "position_y": 348
+        },
+        "cu_guldryk_21.png": {
+            "compression": 3,
+            "name": "GUL_COPY_21",
+            "position_x": 408,
+            "position_y": 355
+        },
+        "cu_guldryk_22.png": {
+            "compression": 3,
+            "name": "GUL_COPY_22",
+            "position_x": 407,
+            "position_y": 361
+        },
+        "cu_guldryk_23.png": {
+            "compression": 3,
+            "name": "GUL_COPY_23",
+            "position_x": 409,
+            "position_y": 358
+        },
+        "cu_guldryk_24.png": {
+            "compression": 3,
+            "name": "GUL_COPY_24",
+            "position_x": 418,
+            "position_y": 359
+        },
+        "cu_guldryk_25.png": {
+            "compression": 3,
+            "name": "GUL_COPY_25",
+            "position_x": 411,
+            "position_y": 360
+        },
+        "cu_guldryk_26.png": {
+            "compression": 3,
+            "name": "GUL_COPY_26",
+            "position_x": 416,
+            "position_y": 368
+        },
+        "cu_guldryk_27.png": {
+            "compression": 3,
+            "name": "GUL_COPY_27",
+            "position_x": 421,
+            "position_y": 362
+        },
+        "cu_guldryk_28.png": {
+            "compression": 3,
+            "name": "GUL_COPY_28",
+            "position_x": 423,
+            "position_y": 367
+        },
+        "cu_guldryk_29.png": {
+            "compression": 3,
+            "name": "GUL_COPY_29",
+            "position_x": 423,
+            "position_y": 370
+        },
+        "cu_guldryk_3.png": {
+            "compression": 3,
+            "name": "GUL_COPY_3",
+            "position_x": 270,
+            "position_y": 157
+        },
+        "cu_guldryk_30.png": {
+            "compression": 3,
+            "name": "GUL_COPY_30",
+            "position_x": 422,
+            "position_y": 372
+        },
+        "cu_guldryk_31.png": {
+            "compression": 3,
+            "name": "GUL_COPY_31",
+            "position_x": 422,
+            "position_y": 371
+        },
+        "cu_guldryk_32.png": {
+            "compression": 3,
+            "name": "GUL_COPY_32",
+            "position_x": 427,
+            "position_y": 371
+        },
+        "cu_guldryk_33.png": {
+            "compression": 3,
+            "name": "GUL_COPY_33",
+            "position_x": 424,
+            "position_y": 370
+        },
+        "cu_guldryk_34.png": {
+            "compression": 3,
+            "name": "GUL_COPY_34",
+            "position_x": 426,
+            "position_y": 376
+        },
+        "cu_guldryk_35.png": {
+            "compression": 3,
+            "name": "GUL_COPY_35",
+            "position_x": 428,
+            "position_y": 372
+        },
+        "cu_guldryk_36.png": {
+            "compression": 3,
+            "name": "GUL_COPY_36",
+            "position_x": 430,
+            "position_y": 375
+        },
+        "cu_guldryk_37.png": {
+            "compression": 3,
+            "name": "GUL_COPY_37",
+            "position_x": 430,
+            "position_y": 376
+        },
+        "cu_guldryk_38.png": {
+            "compression": 3,
+            "name": "GUL_COPY_38",
+            "position_x": 430,
+            "position_y": 377
+        },
+        "cu_guldryk_39.png": {
+            "compression": 3,
+            "name": "GUL_COPY_39",
+            "position_x": 428,
+            "position_y": 376
+        },
+        "cu_guldryk_4.png": {
+            "compression": 3,
+            "name": "GUL_COPY_4",
+            "position_x": 300,
+            "position_y": 199
+        },
+        "cu_guldryk_40.png": {
+            "compression": 3,
+            "name": "GUL_COPY_40",
+            "position_x": 430,
+            "position_y": 377
+        },
+        "cu_guldryk_41.png": {
+            "compression": 3,
+            "name": "GUL_COPY_41",
+            "position_x": 430,
+            "position_y": 377
+        },
+        "cu_guldryk_5.png": {
+            "compression": 3,
+            "name": "GUL_COPY_5",
+            "position_x": 292,
+            "position_y": 247
+        },
+        "cu_guldryk_6.png": {
+            "compression": 3,
+            "name": "GUL_COPY_6",
+            "position_x": 286,
+            "position_y": 272
+        },
+        "cu_guldryk_7.png": {
+            "compression": 3,
+            "name": "GUL_COPY_7",
+            "position_x": 304,
+            "position_y": 265
+        },
+        "cu_guldryk_8.png": {
+            "compression": 3,
+            "name": "GUL_COPY_8",
+            "position_x": 346,
+            "position_y": 261
+        },
+        "cu_guldryk_9.png": {
+            "compression": 3,
+            "name": "GUL_COPY_9",
+            "position_x": 316,
+            "position_y": 275
+        }
+    },
+    "transparency": 255
+}

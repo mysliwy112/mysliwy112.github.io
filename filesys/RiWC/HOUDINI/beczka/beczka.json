@@ -1,0 +1,136 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "DRGA": {
+            "frames": [
+                {
+                    "check": [
+                        64,
+                        206,
+                        85
+                    ],
+                    "filename": "beczka_0.png",
+                    "name": "BALIA_COPY_7",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "WYWRACA": {
+            "frames": [
+                {
+                    "check": [
+                        64,
+                        206,
+                        85
+                    ],
+                    "filename": "beczka_0.png",
+                    "name": "BALIA_COPY_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        64,
+                        206,
+                        85
+                    ],
+                    "filename": "beczka_1.png",
+                    "name": "BALIA_COPY",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\rykus.wav",
+                    "sfx_seed": 14792868
+                },
+                {
+                    "check": [
+                        64,
+                        206,
+                        85
+                    ],
+                    "filename": "beczka_2.png",
+                    "name": "BALIA_COPY_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        64,
+                        206,
+                        85
+                    ],
+                    "filename": "beczka_3.png",
+                    "name": "BALIA_COPY_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        64,
+                        206,
+                        85
+                    ],
+                    "filename": "beczka_4.png",
+                    "name": "BALIA_COPY_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        64,
+                        206,
+                        85
+                    ],
+                    "filename": "beczka_5.png",
+                    "name": "BALIA_COPY_5",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "beczka_0.png": {
+            "compression": 3,
+            "name": "BALIA_COPY_7",
+            "position_x": 242,
+            "position_y": 408
+        },
+        "beczka_1.png": {
+            "compression": 3,
+            "name": "BALIA_COPY",
+            "position_x": 253,
+            "position_y": 400
+        },
+        "beczka_2.png": {
+            "compression": 3,
+            "name": "BALIA_COPY_2",
+            "position_x": 303,
+            "position_y": 394
+        },
+        "beczka_3.png": {
+            "compression": 3,
+            "name": "BALIA_COPY_3",
+            "position_x": 338,
+            "position_y": 443
+        },
+        "beczka_4.png": {
+            "compression": 3,
+            "name": "BALIA_COPY_4",
+            "position_x": 354,
+            "position_y": 501
+        },
+        "beczka_5.png": {
+            "compression": 3,
+            "name": "BALIA_COPY_5",
+            "position_x": 382,
+            "position_y": 549
+        }
+    },
+    "transparency": 255
+}

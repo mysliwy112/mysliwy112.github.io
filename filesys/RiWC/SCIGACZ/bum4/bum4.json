@@ -1,0 +1,65 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "BUM": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "bum4_0.png",
+                    "name": "LAYER_2",
+                    "position_x": -45,
+                    "position_y": -41
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "bum4_1.png",
+                    "name": "LAYER_3",
+                    "position_x": -45,
+                    "position_y": -41
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "bum4_2.png",
+                    "name": "LAYER_5",
+                    "position_x": -45,
+                    "position_y": -41
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "bum4_0.png": {
+            "compression": 4,
+            "name": "LAYER_2",
+            "position_x": 24,
+            "position_y": 21
+        },
+        "bum4_1.png": {
+            "compression": 4,
+            "name": "LAYER_3",
+            "position_x": 5,
+            "position_y": 2
+        },
+        "bum4_2.png": {
+            "compression": 4,
+            "name": "LAYER_5",
+            "position_x": 3
+        }
+    },
+    "transparency": 255
+}

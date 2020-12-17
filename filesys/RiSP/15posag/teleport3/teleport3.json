@@ -1,0 +1,300 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "DOWN": {
+            "frames": [
+                {
+                    "check": [
+                        16,
+                        127,
+                        164
+                    ],
+                    "filename": "teleport3_1.png",
+                    "name": "TELEPORT COPY 4",
+                    "position_x": -154,
+                    "position_y": 154,
+                    "sfx": "sfx\\00teleport2.wav",
+                    "sfx_seed": 10799856
+                },
+                {
+                    "check": [
+                        128,
+                        126,
+                        164
+                    ],
+                    "filename": "teleport3_3.png",
+                    "name": "TELEPORT COPY 3",
+                    "position_x": -154,
+                    "position_y": 154
+                },
+                {
+                    "check": [
+                        240,
+                        125,
+                        164
+                    ],
+                    "filename": "teleport3_4.png",
+                    "name": "TELEPORT COPY 2",
+                    "position_x": -154,
+                    "position_y": 154
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        164
+                    ],
+                    "filename": "teleport3_2.png",
+                    "name": "TELEPORT COPY",
+                    "position_x": -154,
+                    "position_y": 154
+                },
+                {
+                    "check": [
+                        208,
+                        124,
+                        164
+                    ],
+                    "filename": "teleport3_0.png",
+                    "name": "TELEPORT",
+                    "position_x": -154,
+                    "position_y": 154
+                },
+                {
+                    "check": [
+                        112,
+                        174,
+                        164
+                    ],
+                    "filename": "teleport3_0.png",
+                    "name": "TELEPORT",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        171,
+                        164
+                    ],
+                    "filename": "teleport3_0.png",
+                    "name": "TELEPORT",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        169,
+                        164
+                    ],
+                    "filename": "teleport3_0.png",
+                    "name": "TELEPORT",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        16,
+                        168,
+                        164
+                    ],
+                    "filename": "teleport3_0.png",
+                    "name": "TELEPORT",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "teleport3_0.png",
+                    "name": "TELEPORT",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "START": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        123,
+                        164
+                    ],
+                    "filename": "teleport3_0.png",
+                    "name": "TELEPORT",
+                    "position_x": -154,
+                    "position_y": 154
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "UP": {
+            "frames": [
+                {
+                    "check": [
+                        240,
+                        98,
+                        164
+                    ],
+                    "filename": "teleport3_0.png",
+                    "name": "TELEPORT",
+                    "position_x": -154,
+                    "position_y": 154,
+                    "sfx": "sfx\\00teleport1.wav",
+                    "sfx_seed": 10793408
+                },
+                {
+                    "check": [
+                        96,
+                        98,
+                        164
+                    ],
+                    "filename": "teleport3_2.png",
+                    "name": "TELEPORT COPY",
+                    "position_x": -154,
+                    "position_y": 154
+                },
+                {
+                    "check": [
+                        208,
+                        97,
+                        164
+                    ],
+                    "filename": "teleport3_4.png",
+                    "name": "TELEPORT COPY 2",
+                    "position_x": -154,
+                    "position_y": 154
+                },
+                {
+                    "check": [
+                        64,
+                        97,
+                        164
+                    ],
+                    "filename": "teleport3_3.png",
+                    "name": "TELEPORT COPY 3",
+                    "position_x": -154,
+                    "position_y": 154
+                },
+                {
+                    "check": [
+                        176,
+                        96,
+                        164
+                    ],
+                    "filename": "teleport3_1.png",
+                    "name": "TELEPORT COPY 4",
+                    "position_x": -154,
+                    "position_y": 154
+                },
+                {
+                    "check": [
+                        224,
+                        155,
+                        164
+                    ],
+                    "filename": "teleport3_1.png",
+                    "name": "TELEPORT COPY 4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "teleport3_1.png",
+                    "name": "TELEPORT COPY 4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "teleport3_1.png",
+                    "name": "TELEPORT COPY 4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        148,
+                        164
+                    ],
+                    "filename": "teleport3_1.png",
+                    "name": "TELEPORT COPY 4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        146,
+                        164
+                    ],
+                    "filename": "teleport3_1.png",
+                    "name": "TELEPORT COPY 4",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "teleport3_0.png": {
+            "compression": 4,
+            "name": "TELEPORT",
+            "position_x": 448,
+            "position_y": 135
+        },
+        "teleport3_1.png": {
+            "compression": 4,
+            "name": "TELEPORT COPY 4",
+            "position_x": 443,
+            "position_y": 30
+        },
+        "teleport3_2.png": {
+            "compression": 4,
+            "name": "TELEPORT COPY",
+            "position_x": 443,
+            "position_y": 119
+        },
+        "teleport3_3.png": {
+            "compression": 4,
+            "name": "TELEPORT COPY 3",
+            "position_x": 443,
+            "position_y": 70
+        },
+        "teleport3_4.png": {
+            "compression": 4,
+            "name": "TELEPORT COPY 2",
+            "position_x": 443,
+            "position_y": 96
+        }
+    },
+    "transparency": 255
+}

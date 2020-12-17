@@ -1,0 +1,775 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "L": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_6.png",
+                    "name": "KON_NOGI_0",
+                    "position_x": -129,
+                    "position_y": -224
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_13.png",
+                    "name": "KON_NOGI_START_1",
+                    "position_x": -129,
+                    "position_y": -224
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_19.png",
+                    "name": "KON_NOGI_START_2",
+                    "position_x": -129,
+                    "position_y": -224
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_25.png",
+                    "name": "KON_NOGI_START_3",
+                    "position_x": -129,
+                    "position_y": -224
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_27.png",
+                    "name": "KON_NOGI_START_4",
+                    "position_x": -129,
+                    "position_y": -224
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "L_GO": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_4.png",
+                    "name": "KON_NOGI_1",
+                    "position_x": -129,
+                    "position_y": -224
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_11.png",
+                    "name": "KON_NOGI_2",
+                    "position_x": -129,
+                    "position_y": -224
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_17.png",
+                    "name": "KON_NOGI_3",
+                    "position_x": -129,
+                    "position_y": -224
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_23.png",
+                    "name": "KON_NOGI_4",
+                    "position_x": -129,
+                    "position_y": -224
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_7.png",
+                    "name": "KON_NOGI_5",
+                    "position_x": -129,
+                    "position_y": -224
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "L_UPADEK": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_7.png",
+                    "name": "KON_NOGI_5",
+                    "position_x": -129,
+                    "position_y": -224
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_7.png",
+                    "name": "KON_NOGI_5",
+                    "position_x": -143,
+                    "position_y": -226
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_4.png",
+                    "name": "KON_NOGI_1",
+                    "position_x": -160,
+                    "position_y": -228
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_4.png",
+                    "name": "KON_NOGI_1",
+                    "position_x": -179,
+                    "position_y": -228
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_11.png",
+                    "name": "KON_NOGI_2",
+                    "position_x": -199,
+                    "position_y": -222
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_11.png",
+                    "name": "KON_NOGI_2",
+                    "position_x": -216,
+                    "position_y": -215
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_11.png",
+                    "name": "KON_NOGI_2",
+                    "position_x": -227,
+                    "position_y": -210
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_11.png",
+                    "name": "KON_NOGI_2",
+                    "position_x": -241,
+                    "position_y": -205
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_11.png",
+                    "name": "KON_NOGI_2",
+                    "position_x": -254,
+                    "position_y": -203
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_11.png",
+                    "name": "KON_NOGI_2",
+                    "position_x": -261,
+                    "position_y": -203
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_11.png",
+                    "name": "KON_NOGI_2",
+                    "position_x": -266,
+                    "position_y": -203
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "L_ZWROT": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_5.png",
+                    "name": "KON_NOGI_STOP_1",
+                    "position_x": -129,
+                    "position_y": -224
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_12.png",
+                    "name": "KON_NOGI_STOP_2",
+                    "position_x": -129,
+                    "position_y": -224
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_18.png",
+                    "name": "KON_NOGI_STOP_3",
+                    "position_x": -129,
+                    "position_y": -224
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_24.png",
+                    "name": "KON_NOGI_STOP_4",
+                    "position_x": -129,
+                    "position_y": -224
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "R": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_2.png",
+                    "name": "KON_NOGI_0",
+                    "position_x": -129,
+                    "position_y": -224
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_10.png",
+                    "name": "KON_NOGI_START_1",
+                    "position_x": -129,
+                    "position_y": -224
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_16.png",
+                    "name": "KON_NOGI_START_2",
+                    "position_x": -129,
+                    "position_y": -224
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_22.png",
+                    "name": "KON_NOGI_START_3",
+                    "position_x": -129,
+                    "position_y": -224
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_26.png",
+                    "name": "KON_NOGI_START_4",
+                    "position_x": -129,
+                    "position_y": -224
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "R_GO": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_0.png",
+                    "name": "KON_NOGI_1",
+                    "position_x": -129,
+                    "position_y": -224
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_8.png",
+                    "name": "KON_NOGI_2",
+                    "position_x": -129,
+                    "position_y": -224
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_14.png",
+                    "name": "KON_NOGI_3",
+                    "position_x": -129,
+                    "position_y": -224
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_20.png",
+                    "name": "KON_NOGI_4",
+                    "position_x": -129,
+                    "position_y": -224
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_3.png",
+                    "name": "KON_NOGI_5",
+                    "position_x": -129,
+                    "position_y": -224
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "R_UPADEK": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_3.png",
+                    "name": "KON_NOGI_5",
+                    "position_x": -129,
+                    "position_y": -224
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_3.png",
+                    "name": "KON_NOGI_5",
+                    "position_x": -116,
+                    "position_y": -226
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_0.png",
+                    "name": "KON_NOGI_1",
+                    "position_x": -99,
+                    "position_y": -228
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_0.png",
+                    "name": "KON_NOGI_1",
+                    "position_x": -80,
+                    "position_y": -228
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_8.png",
+                    "name": "KON_NOGI_2",
+                    "position_x": -60,
+                    "position_y": -222
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_8.png",
+                    "name": "KON_NOGI_2",
+                    "position_x": -43,
+                    "position_y": -216
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_8.png",
+                    "name": "KON_NOGI_2",
+                    "position_x": -32,
+                    "position_y": -211
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_8.png",
+                    "name": "KON_NOGI_2",
+                    "position_x": -18,
+                    "position_y": -206
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_8.png",
+                    "name": "KON_NOGI_2",
+                    "position_x": -5,
+                    "position_y": -204
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_8.png",
+                    "name": "KON_NOGI_2",
+                    "position_x": 2,
+                    "position_y": -204
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_8.png",
+                    "name": "KON_NOGI_2",
+                    "position_x": 7,
+                    "position_y": -204
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "R_ZWROT": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_1.png",
+                    "name": "KON_NOGI_STOP_1",
+                    "position_x": -129,
+                    "position_y": -224
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_9.png",
+                    "name": "KON_NOGI_STOP_2",
+                    "position_x": -129,
+                    "position_y": -224
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_15.png",
+                    "name": "KON_NOGI_STOP_3",
+                    "position_x": -129,
+                    "position_y": -224
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy13_rumak_21.png",
+                    "name": "KON_NOGI_STOP_4",
+                    "position_x": -129,
+                    "position_y": -224
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "enemy13_rumak_0.png": {
+            "compression": 3,
+            "name": "KON_NOGI_1",
+            "position_x": 28,
+            "position_y": 70
+        },
+        "enemy13_rumak_1.png": {
+            "compression": 3,
+            "name": "KON_NOGI_STOP_1",
+            "position_x": 27,
+            "position_y": 73
+        },
+        "enemy13_rumak_10.png": {
+            "compression": 3,
+            "name": "KON_NOGI_START_1",
+            "position_x": 34,
+            "position_y": 66
+        },
+        "enemy13_rumak_11.png": {
+            "compression": 3,
+            "name": "KON_NOGI_2",
+            "position_x": 29,
+            "position_y": 64
+        },
+        "enemy13_rumak_12.png": {
+            "compression": 3,
+            "name": "KON_NOGI_STOP_2",
+            "position_x": 35,
+            "position_y": 89
+        },
+        "enemy13_rumak_13.png": {
+            "compression": 3,
+            "name": "KON_NOGI_START_1",
+            "position_x": 39,
+            "position_y": 66
+        },
+        "enemy13_rumak_14.png": {
+            "compression": 3,
+            "name": "KON_NOGI_3",
+            "position_x": 4,
+            "position_y": 56
+        },
+        "enemy13_rumak_15.png": {
+            "compression": 3,
+            "name": "KON_NOGI_STOP_3",
+            "position_x": 32,
+            "position_y": 75
+        },
+        "enemy13_rumak_16.png": {
+            "compression": 3,
+            "name": "KON_NOGI_START_2",
+            "position_x": 24,
+            "position_y": 65
+        },
+        "enemy13_rumak_17.png": {
+            "compression": 3,
+            "name": "KON_NOGI_3",
+            "position_x": 30,
+            "position_y": 56
+        },
+        "enemy13_rumak_18.png": {
+            "compression": 3,
+            "name": "KON_NOGI_STOP_3",
+            "position_x": 34,
+            "position_y": 75
+        },
+        "enemy13_rumak_19.png": {
+            "compression": 3,
+            "name": "KON_NOGI_START_2",
+            "position_x": 46,
+            "position_y": 65
+        },
+        "enemy13_rumak_2.png": {
+            "compression": 3,
+            "name": "KON_NOGI_0",
+            "position_x": 43,
+            "position_y": 66
+        },
+        "enemy13_rumak_20.png": {
+            "compression": 3,
+            "name": "KON_NOGI_4",
+            "position_x": 7,
+            "position_y": 55
+        },
+        "enemy13_rumak_21.png": {
+            "compression": 3,
+            "name": "KON_NOGI_STOP_4",
+            "position_x": 38,
+            "position_y": 65
+        },
+        "enemy13_rumak_22.png": {
+            "compression": 3,
+            "name": "KON_NOGI_START_3",
+            "position_x": 16,
+            "position_y": 66
+        },
+        "enemy13_rumak_23.png": {
+            "compression": 3,
+            "name": "KON_NOGI_4",
+            "position_x": 29,
+            "position_y": 55
+        },
+        "enemy13_rumak_24.png": {
+            "compression": 3,
+            "name": "KON_NOGI_STOP_4",
+            "position_x": 32,
+            "position_y": 65
+        },
+        "enemy13_rumak_25.png": {
+            "compression": 3,
+            "name": "KON_NOGI_START_3",
+            "position_x": 56,
+            "position_y": 66
+        },
+        "enemy13_rumak_26.png": {
+            "compression": 3,
+            "name": "KON_NOGI_START_4",
+            "position_x": 28,
+            "position_y": 62
+        },
+        "enemy13_rumak_27.png": {
+            "compression": 3,
+            "name": "KON_NOGI_START_4",
+            "position_x": 41,
+            "position_y": 62
+        },
+        "enemy13_rumak_3.png": {
+            "compression": 3,
+            "name": "KON_NOGI_5",
+            "position_x": 20,
+            "position_y": 62
+        },
+        "enemy13_rumak_4.png": {
+            "compression": 3,
+            "name": "KON_NOGI_1",
+            "position_x": 30,
+            "position_y": 70
+        },
+        "enemy13_rumak_5.png": {
+            "compression": 3,
+            "name": "KON_NOGI_STOP_1",
+            "position_x": 33,
+            "position_y": 73
+        },
+        "enemy13_rumak_6.png": {
+            "compression": 3,
+            "name": "KON_NOGI_0",
+            "position_x": 32,
+            "position_y": 66
+        },
+        "enemy13_rumak_7.png": {
+            "compression": 3,
+            "name": "KON_NOGI_5",
+            "position_x": 30,
+            "position_y": 62
+        },
+        "enemy13_rumak_8.png": {
+            "compression": 3,
+            "name": "KON_NOGI_2",
+            "position_x": 15,
+            "position_y": 64
+        },
+        "enemy13_rumak_9.png": {
+            "compression": 3,
+            "name": "KON_NOGI_STOP_2",
+            "position_x": 32,
+            "position_y": 89
+        }
+    },
+    "transparency": 255
+}

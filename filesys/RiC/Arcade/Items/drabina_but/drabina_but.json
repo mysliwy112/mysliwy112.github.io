@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "drabina_but_0.png",
+                    "name": "DRABINA_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "drabina_but_1.png",
+                    "name": "DRABINA",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "drabina_but_0.png": {
+            "compression": 4,
+            "name": "DRABINA_COPY",
+            "position_x": 10,
+            "position_y": 8
+        },
+        "drabina_but_1.png": {
+            "compression": 4,
+            "name": "DRABINA",
+            "position_x": 13,
+            "position_y": 8
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,32 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PRZEGRYZA": {
+            "frames": [
+                {
+                    "check": [
+                        64,
+                        206,
+                        85
+                    ],
+                    "filename": "m_przegryza_0.png",
+                    "name": "PRZEGRYZA",
+                    "position_x": 0,
+                    "position_y": -86
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "m_przegryza_0.png": {
+            "compression": 3,
+            "name": "PRZEGRYZA",
+            "position_x": 143,
+            "position_y": 52
+        }
+    },
+    "transparency": 255
+}

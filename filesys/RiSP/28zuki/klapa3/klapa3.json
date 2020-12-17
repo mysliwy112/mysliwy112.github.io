@@ -1,0 +1,69 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "klapa3_0.png",
+                    "name": "KLAPA2 COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "klapa3_1.png",
+                    "name": "KLAPA2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "klapa3_0.png": {
+            "compression": 4,
+            "name": "KLAPA2 COPY",
+            "position_x": 114,
+            "position_y": 415
+        },
+        "klapa3_1.png": {
+            "compression": 4,
+            "name": "KLAPA2",
+            "position_x": 113,
+            "position_y": 417
+        }
+    },
+    "transparency": 255
+}

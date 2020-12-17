@@ -1,0 +1,1445 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "DOPLANSZY16": {
+            "frames": [
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_1.png",
+                    "name": "3_TYL_L DO P",
+                    "position_x": 484,
+                    "position_y": 333
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_4.png",
+                    "name": "3_DO STOP 34 TYLEM_L",
+                    "position_x": 484,
+                    "position_y": 336
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_8.png",
+                    "name": "4_CHOD 34 TYLEM_L",
+                    "position_x": 425,
+                    "position_y": 333
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_13.png",
+                    "name": "5_CHOD 34 TYLEM_L",
+                    "position_x": 420,
+                    "position_y": 332
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_19.png",
+                    "name": "6_CHOD 34 TYLEM_L",
+                    "position_x": 412,
+                    "position_y": 331,
+                    "sfx": "SFX\\0rexstep4.wav",
+                    "sfx_seed": 190981632
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_25.png",
+                    "name": "7_CHOD 34 TYLEM_L",
+                    "position_x": 403,
+                    "position_y": 330
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_31.png",
+                    "name": "8_CHOD 34 TYLEM_L",
+                    "position_x": 400,
+                    "position_y": 326
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_37.png",
+                    "name": "9_CHOD 34 TYLEM_L",
+                    "position_x": 392,
+                    "position_y": 324
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_42.png",
+                    "name": "10_CHOD 34 TYLEM_L",
+                    "position_x": 381,
+                    "position_y": 321
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_44.png",
+                    "name": "11_CHOD 34 TYLEM_L",
+                    "position_x": 371,
+                    "position_y": 319
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_46.png",
+                    "name": "12_CHOD 34 TYLEM_L",
+                    "position_x": 358,
+                    "position_y": 318,
+                    "sfx": "SFX\\0rexstep6.wav",
+                    "sfx_seed": 20683304
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_48.png",
+                    "name": "1_CHOD 34 TYLEM_L",
+                    "position_x": 350,
+                    "position_y": 312
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_50.png",
+                    "name": "2_CHOD 34 TYLEM_L",
+                    "position_x": 342,
+                    "position_y": 307
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_52.png",
+                    "name": "3_CHOD 34 TYLEM_L",
+                    "position_x": 329,
+                    "position_y": 305
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ODKLADAMAPE": {
+            "frames": [
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_2.png",
+                    "name": "8_MAPA",
+                    "position_x": 451,
+                    "position_y": 336
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_2.png",
+                    "name": "8_MAPA",
+                    "position_x": 451,
+                    "position_y": 336
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_2.png",
+                    "name": "8_MAPA",
+                    "position_x": 451,
+                    "position_y": 336,
+                    "sfx": "SFX\\05rexmap.wav",
+                    "sfx_seed": 217953224
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_15.png",
+                    "name": "7_MAPA",
+                    "position_x": 451,
+                    "position_y": 336
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_21.png",
+                    "name": "6_MAPA",
+                    "position_x": 451,
+                    "position_y": 336
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_27.png",
+                    "name": "5_MAPA",
+                    "position_x": 451,
+                    "position_y": 336
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_33.png",
+                    "name": "4_MAPA",
+                    "position_x": 451,
+                    "position_y": 336
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_38.png",
+                    "name": "3_MAPA",
+                    "position_x": 451,
+                    "position_y": 336
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_32.png",
+                    "name": "2_MAPA",
+                    "position_x": 451,
+                    "position_y": 336
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_26.png",
+                    "name": "1_MAPA",
+                    "position_x": 451,
+                    "position_y": 336
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_20.png",
+                    "name": "3_START PRZP OD 00TYLL",
+                    "position_x": 484,
+                    "position_y": 333
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_14.png",
+                    "name": "2_START PRZP OD 00TYLL",
+                    "position_x": 484,
+                    "position_y": 333
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_9.png",
+                    "name": "1_START PRZP OD 00TYLL",
+                    "position_x": 484,
+                    "position_y": 333
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_4.png",
+                    "name": "3_DO STOP 34 TYLEM_L",
+                    "position_x": 484,
+                    "position_y": 335
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_1.png",
+                    "name": "3_TYL_L DO P",
+                    "position_x": 484,
+                    "position_y": 333
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "OGLADAMAPE": {
+            "frames": [
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_1.png",
+                    "name": "3_TYL_L DO P",
+                    "position_x": 484,
+                    "position_y": 333
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_4.png",
+                    "name": "3_DO STOP 34 TYLEM_L",
+                    "position_x": 484,
+                    "position_y": 335
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_9.png",
+                    "name": "1_START PRZP OD 00TYLL",
+                    "position_x": 484,
+                    "position_y": 333
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_14.png",
+                    "name": "2_START PRZP OD 00TYLL",
+                    "position_x": 484,
+                    "position_y": 333
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_20.png",
+                    "name": "3_START PRZP OD 00TYLL",
+                    "position_x": 484,
+                    "position_y": 333
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_26.png",
+                    "name": "1_MAPA",
+                    "position_x": 451,
+                    "position_y": 336
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_32.png",
+                    "name": "2_MAPA",
+                    "position_x": 451,
+                    "position_y": 336
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_38.png",
+                    "name": "3_MAPA",
+                    "position_x": 451,
+                    "position_y": 336
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_33.png",
+                    "name": "4_MAPA",
+                    "position_x": 451,
+                    "position_y": 336,
+                    "sfx": "SFX\\05rexmap.wav",
+                    "sfx_seed": 20684860
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_27.png",
+                    "name": "5_MAPA",
+                    "position_x": 451,
+                    "position_y": 336
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_21.png",
+                    "name": "6_MAPA",
+                    "position_x": 451,
+                    "position_y": 336
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_15.png",
+                    "name": "7_MAPA",
+                    "position_x": 451,
+                    "position_y": 336
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_2.png",
+                    "name": "8_MAPA",
+                    "position_x": 451,
+                    "position_y": 336
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_2.png",
+                    "name": "8_MAPA",
+                    "position_x": 451,
+                    "position_y": 336
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_2.png",
+                    "name": "8_MAPA",
+                    "position_x": 451,
+                    "position_y": 336
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_2.png",
+                    "name": "8_MAPA",
+                    "position_x": 451,
+                    "position_y": 336
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ROZKLADARECE": {
+            "frames": [
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_1.png",
+                    "name": "3_TYL_L DO P",
+                    "position_x": 484,
+                    "position_y": 333,
+                    "sfx": "SFX\\rex_str3.wav",
+                    "sfx_seed": 217956336
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_6.png",
+                    "name": "2_TYL_L DO P",
+                    "position_x": 484,
+                    "position_y": 333
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_11.png",
+                    "name": "1_TYL_L DO P",
+                    "position_x": 484,
+                    "position_y": 333
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_17.png",
+                    "name": "1_ROZKLADA",
+                    "position_x": 484,
+                    "position_y": 333
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_23.png",
+                    "name": "2_ROZKLADA",
+                    "position_x": 484,
+                    "position_y": 333
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_29.png",
+                    "name": "3_ROZKLADA",
+                    "position_x": 484,
+                    "position_y": 333
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_35.png",
+                    "name": "4_ROZKLADA",
+                    "position_x": 484,
+                    "position_y": 333
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_40.png",
+                    "name": "5_ROZKLADA",
+                    "position_x": 484,
+                    "position_y": 333
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_35.png",
+                    "name": "4_ROZKLADA",
+                    "position_x": 484,
+                    "position_y": 333
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_29.png",
+                    "name": "3_ROZKLADA",
+                    "position_x": 484,
+                    "position_y": 333
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_23.png",
+                    "name": "2_ROZKLADA",
+                    "position_x": 484,
+                    "position_y": 333
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_17.png",
+                    "name": "1_ROZKLADA",
+                    "position_x": 484,
+                    "position_y": 333
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_11.png",
+                    "name": "1_TYL_L DO P",
+                    "position_x": 484,
+                    "position_y": 333
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_6.png",
+                    "name": "2_TYL_L DO P",
+                    "position_x": 484,
+                    "position_y": 333
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_1.png",
+                    "name": "3_TYL_L DO P",
+                    "position_x": 484,
+                    "position_y": 333
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ZADOWOLONY": {
+            "frames": [
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_1.png",
+                    "name": "3_TYL_L DO P",
+                    "position_x": 484,
+                    "position_y": 333
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_5.png",
+                    "name": "1_ZADOWOLONY",
+                    "position_x": 484,
+                    "position_y": 333
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_10.png",
+                    "name": "2_ZADOWOLONY",
+                    "position_x": 484,
+                    "position_y": 333
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_16.png",
+                    "name": "3_ZADOWOLONY",
+                    "position_x": 484,
+                    "position_y": 333
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_22.png",
+                    "name": "4_ZADOWOLONY",
+                    "position_x": 484,
+                    "position_y": 333,
+                    "sfx": "SFX\\rex_szcz2.wav",
+                    "sfx_seed": 217954780
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_28.png",
+                    "name": "5_ZADOWOLONY",
+                    "position_x": 484,
+                    "position_y": 333
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_34.png",
+                    "name": "6_ZADOWOLONY",
+                    "position_x": 484,
+                    "position_y": 333
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_39.png",
+                    "name": "7_ZADOWOLONY",
+                    "position_x": 484,
+                    "position_y": 333
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_34.png",
+                    "name": "6_ZADOWOLONY",
+                    "position_x": 484,
+                    "position_y": 333
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_28.png",
+                    "name": "5_ZADOWOLONY",
+                    "position_x": 484,
+                    "position_y": 333
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_22.png",
+                    "name": "4_ZADOWOLONY",
+                    "position_x": 484,
+                    "position_y": 333
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_16.png",
+                    "name": "3_ZADOWOLONY",
+                    "position_x": 484,
+                    "position_y": 333
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_10.png",
+                    "name": "2_ZADOWOLONY",
+                    "position_x": 484,
+                    "position_y": 333
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_5.png",
+                    "name": "1_ZADOWOLONY",
+                    "position_x": 484,
+                    "position_y": 333
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_1.png",
+                    "name": "3_TYL_L DO P",
+                    "position_x": 484,
+                    "position_y": 333
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ZPLANSZY12": {
+            "frames": [
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_0.png",
+                    "name": "1_CHOD 34 TYLEM_P",
+                    "position_x": 242,
+                    "position_y": 344
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_3.png",
+                    "name": "2_CHOD 34 TYLEM_P",
+                    "position_x": 249,
+                    "position_y": 343
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_7.png",
+                    "name": "3_CHOD 34 TYLEM_P",
+                    "position_x": 259,
+                    "position_y": 338
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_12.png",
+                    "name": "4_CHOD 34 TYLEM_P",
+                    "position_x": 268,
+                    "position_y": 338
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_18.png",
+                    "name": "5_CHOD 34 TYLEM_P",
+                    "position_x": 272,
+                    "position_y": 341
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_24.png",
+                    "name": "6_CHOD 34 TYLEM_P",
+                    "position_x": 278,
+                    "position_y": 340,
+                    "sfx": "SFX\\0rexstep2.wav",
+                    "sfx_seed": 16239600
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_30.png",
+                    "name": "7_CHOD 34 TYLEM_P",
+                    "position_x": 290,
+                    "position_y": 339
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_36.png",
+                    "name": "8_CHOD 34 TYLEM_P",
+                    "position_x": 294,
+                    "position_y": 338
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_41.png",
+                    "name": "9_CHOD 34 TYLEM_P",
+                    "position_x": 301,
+                    "position_y": 340
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_43.png",
+                    "name": "10_CHOD 34 TYLEM_P",
+                    "position_x": 314,
+                    "position_y": 341
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_45.png",
+                    "name": "11_CHOD 34 TYLEM_P",
+                    "position_x": 327,
+                    "position_y": 341
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_47.png",
+                    "name": "12_CHOD 34 TYLEM_P",
+                    "position_x": 339,
+                    "position_y": 342,
+                    "sfx": "SFX\\0rexstep3.wav",
+                    "sfx_seed": 153451032
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_49.png",
+                    "name": "1_DO STOP 34 TYLEM_P",
+                    "position_x": 341,
+                    "position_y": 339
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_51.png",
+                    "name": "2_DO STOP 34 TYLEM_P",
+                    "position_x": 342,
+                    "position_y": 340
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_53.png",
+                    "name": "3_DO STOP 34 TYLEM_P",
+                    "position_x": 343,
+                    "position_y": 340
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_54.png",
+                    "name": "4_DO STOP 34 TYLEM_P",
+                    "position_x": 344,
+                    "position_y": 340
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_11.png",
+                    "name": "1_TYL_L DO P",
+                    "position_x": 484,
+                    "position_y": 333
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_6.png",
+                    "name": "2_TYL_L DO P",
+                    "position_x": 484,
+                    "position_y": 333
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio15_1.png",
+                    "name": "3_TYL_L DO P",
+                    "position_x": 484,
+                    "position_y": 333
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "reksio15_0.png": {
+            "compression": 4,
+            "name": "1_CHOD 34 TYLEM_P",
+            "position_x": 169,
+            "position_y": 97
+        },
+        "reksio15_1.png": {
+            "compression": 4,
+            "name": "3_TYL_L DO P",
+            "position_x": 30,
+            "position_y": 99
+        },
+        "reksio15_10.png": {
+            "compression": 4,
+            "name": "2_ZADOWOLONY",
+            "position_x": 31,
+            "position_y": 97
+        },
+        "reksio15_11.png": {
+            "compression": 4,
+            "name": "1_TYL_L DO P",
+            "position_x": 30,
+            "position_y": 99
+        },
+        "reksio15_12.png": {
+            "compression": 4,
+            "name": "4_CHOD 34 TYLEM_P",
+            "position_x": 178,
+            "position_y": 89
+        },
+        "reksio15_13.png": {
+            "compression": 4,
+            "name": "5_CHOD 34 TYLEM_L",
+            "position_x": 73,
+            "position_y": 95
+        },
+        "reksio15_14.png": {
+            "compression": 4,
+            "name": "2_START PRZP OD 00T",
+            "position_x": 47,
+            "position_y": 93
+        },
+        "reksio15_15.png": {
+            "compression": 4,
+            "name": "7_MAPA",
+            "position_x": 57,
+            "position_y": 104
+        },
+        "reksio15_16.png": {
+            "compression": 4,
+            "name": "3_ZADOWOLONY",
+            "position_x": 31,
+            "position_y": 104
+        },
+        "reksio15_17.png": {
+            "compression": 4,
+            "name": "1_ROZKLADA",
+            "position_x": 38,
+            "position_y": 105
+        },
+        "reksio15_18.png": {
+            "compression": 4,
+            "name": "5_CHOD 34 TYLEM_P",
+            "position_x": 183,
+            "position_y": 91
+        },
+        "reksio15_19.png": {
+            "compression": 4,
+            "name": "6_CHOD 34 TYLEM_L",
+            "position_x": 69,
+            "position_y": 99
+        },
+        "reksio15_2.png": {
+            "compression": 4,
+            "name": "8_MAPA",
+            "position_x": 49,
+            "position_y": 109
+        },
+        "reksio15_20.png": {
+            "compression": 4,
+            "name": "3_START PRZP OD 00T",
+            "position_x": 47,
+            "position_y": 92
+        },
+        "reksio15_21.png": {
+            "compression": 4,
+            "name": "6_MAPA",
+            "position_x": 71,
+            "position_y": 100
+        },
+        "reksio15_22.png": {
+            "compression": 4,
+            "name": "4_ZADOWOLONY",
+            "position_x": 36,
+            "position_y": 102
+        },
+        "reksio15_23.png": {
+            "compression": 4,
+            "name": "2_ROZKLADA",
+            "position_x": 43,
+            "position_y": 105
+        },
+        "reksio15_24.png": {
+            "compression": 4,
+            "name": "6_CHOD 34 TYLEM_P",
+            "position_x": 184,
+            "position_y": 95
+        },
+        "reksio15_25.png": {
+            "compression": 4,
+            "name": "7_CHOD 34 TYLEM_L",
+            "position_x": 64,
+            "position_y": 101
+        },
+        "reksio15_26.png": {
+            "compression": 4,
+            "name": "1_MAPA",
+            "position_x": 111,
+            "position_y": 90
+        },
+        "reksio15_27.png": {
+            "compression": 4,
+            "name": "5_MAPA",
+            "position_x": 77,
+            "position_y": 96
+        },
+        "reksio15_28.png": {
+            "compression": 4,
+            "name": "5_ZADOWOLONY",
+            "position_x": 32,
+            "position_y": 101
+        },
+        "reksio15_29.png": {
+            "compression": 4,
+            "name": "3_ROZKLADA",
+            "position_x": 45,
+            "position_y": 106
+        },
+        "reksio15_3.png": {
+            "compression": 4,
+            "name": "2_CHOD 34 TYLEM_P",
+            "position_x": 174,
+            "position_y": 91
+        },
+        "reksio15_30.png": {
+            "compression": 4,
+            "name": "7_CHOD 34 TYLEM_P",
+            "position_x": 176,
+            "position_y": 97
+        },
+        "reksio15_31.png": {
+            "compression": 4,
+            "name": "8_CHOD 34 TYLEM_L",
+            "position_x": 64,
+            "position_y": 96
+        },
+        "reksio15_32.png": {
+            "compression": 4,
+            "name": "2_MAPA",
+            "position_x": 106,
+            "position_y": 90
+        },
+        "reksio15_33.png": {
+            "compression": 4,
+            "name": "4_MAPA",
+            "position_x": 81,
+            "position_y": 95
+        },
+        "reksio15_34.png": {
+            "compression": 4,
+            "name": "6_ZADOWOLONY",
+            "position_x": 27,
+            "position_y": 103
+        },
+        "reksio15_35.png": {
+            "compression": 4,
+            "name": "4_ROZKLADA",
+            "position_x": 46,
+            "position_y": 106
+        },
+        "reksio15_36.png": {
+            "compression": 4,
+            "name": "8_CHOD 34 TYLEM_P",
+            "position_x": 184,
+            "position_y": 91
+        },
+        "reksio15_37.png": {
+            "compression": 4,
+            "name": "9_CHOD 34 TYLEM_L",
+            "position_x": 69,
+            "position_y": 94
+        },
+        "reksio15_38.png": {
+            "compression": 4,
+            "name": "3_MAPA",
+            "position_x": 89,
+            "position_y": 93
+        },
+        "reksio15_39.png": {
+            "compression": 4,
+            "name": "7_ZADOWOLONY",
+            "position_x": 40,
+            "position_y": 103
+        },
+        "reksio15_4.png": {
+            "compression": 4,
+            "name": "3_DO STOP 34 TYLEM_",
+            "position_x": 35,
+            "position_y": 91
+        },
+        "reksio15_40.png": {
+            "compression": 4,
+            "name": "5_ROZKLADA",
+            "position_x": 45,
+            "position_y": 102
+        },
+        "reksio15_41.png": {
+            "compression": 4,
+            "name": "9_CHOD 34 TYLEM_P",
+            "position_x": 186,
+            "position_y": 90
+        },
+        "reksio15_42.png": {
+            "compression": 4,
+            "name": "10_CHOD 34 TYLEM_L",
+            "position_x": 80,
+            "position_y": 91
+        },
+        "reksio15_43.png": {
+            "compression": 4,
+            "name": "10_CHOD 34 TYLEM_P",
+            "position_x": 184,
+            "position_y": 88
+        },
+        "reksio15_44.png": {
+            "compression": 4,
+            "name": "11_CHOD 34 TYLEM_L",
+            "position_x": 73,
+            "position_y": 96
+        },
+        "reksio15_45.png": {
+            "compression": 4,
+            "name": "11_CHOD 34 TYLEM_P",
+            "position_x": 189,
+            "position_y": 92
+        },
+        "reksio15_46.png": {
+            "compression": 4,
+            "name": "12_CHOD 34 TYLEM_L",
+            "position_x": 72,
+            "position_y": 96
+        },
+        "reksio15_47.png": {
+            "compression": 4,
+            "name": "12_CHOD 34 TYLEM_P",
+            "position_x": 177,
+            "position_y": 92
+        },
+        "reksio15_48.png": {
+            "compression": 4,
+            "name": "1_CHOD 34 TYLEM_L",
+            "position_x": 64,
+            "position_y": 101
+        },
+        "reksio15_49.png": {
+            "compression": 4,
+            "name": "1_DO STOP 34 TYLEM_",
+            "position_x": 188,
+            "position_y": 91
+        },
+        "reksio15_5.png": {
+            "compression": 4,
+            "name": "1_ZADOWOLONY",
+            "position_x": 30,
+            "position_y": 96
+        },
+        "reksio15_50.png": {
+            "compression": 4,
+            "name": "2_CHOD 34 TYLEM_L",
+            "position_x": 68,
+            "position_y": 96
+        },
+        "reksio15_51.png": {
+            "compression": 4,
+            "name": "2_DO STOP 34 TYLEM_",
+            "position_x": 173,
+            "position_y": 89
+        },
+        "reksio15_52.png": {
+            "compression": 4,
+            "name": "3_CHOD 34 TYLEM_L",
+            "position_x": 74,
+            "position_y": 93
+        },
+        "reksio15_53.png": {
+            "compression": 4,
+            "name": "3_DO STOP 34 TYLEM_",
+            "position_x": 186,
+            "position_y": 88
+        },
+        "reksio15_54.png": {
+            "compression": 4,
+            "name": "4_DO STOP 34 TYLEM_",
+            "position_x": 178,
+            "position_y": 89
+        },
+        "reksio15_6.png": {
+            "compression": 4,
+            "name": "2_TYL_L DO P",
+            "position_x": 30,
+            "position_y": 99
+        },
+        "reksio15_7.png": {
+            "compression": 4,
+            "name": "3_CHOD 34 TYLEM_P",
+            "position_x": 182,
+            "position_y": 90
+        },
+        "reksio15_8.png": {
+            "compression": 4,
+            "name": "4_CHOD 34 TYLEM_L",
+            "position_x": 84,
+            "position_y": 93
+        },
+        "reksio15_9.png": {
+            "compression": 4,
+            "name": "1_START PRZP OD 00T",
+            "position_x": 44,
+            "position_y": 95
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,48 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "300-274-001": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "do_buda_0.png",
+                    "name": "DO_BUDY",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "do_buda_0.png",
+                    "name": "DO_BUDY",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "do_buda_0.png": {
+            "compression": 3,
+            "name": "DO_BUDY",
+            "position_y": 185
+        }
+    },
+    "transparency": 255
+}

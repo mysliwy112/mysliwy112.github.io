@@ -1,0 +1,32 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "GO": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "reksy_0.png",
+                    "name": "LAYER_1",
+                    "position_x": -79,
+                    "position_y": -28
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "reksy_0.png": {
+            "compression": 4,
+            "name": "LAYER_1",
+            "position_x": 79,
+            "position_y": 28
+        }
+    },
+    "transparency": 255
+}

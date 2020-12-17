@@ -1,0 +1,193 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLOSE": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "hel_2_dach_1.png",
+                    "name": "LAYER_20",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\dachCL.wav",
+                    "sfx_seed": 50273476
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "hel_2_dach_3.png",
+                    "name": "DACH_COPY_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "hel_2_dach_5.png",
+                    "name": "DACH_COPY_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "hel_2_dach_4.png",
+                    "name": "DACH_COPY_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "hel_2_dach_2.png",
+                    "name": "DACH_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "hel_2_dach_0.png",
+                    "name": "DACH",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "OPEN": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "hel_2_dach_0.png",
+                    "name": "DACH",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\dachOP.wav",
+                    "sfx_seed": 50271916
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "hel_2_dach_2.png",
+                    "name": "DACH_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "hel_2_dach_4.png",
+                    "name": "DACH_COPY_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "hel_2_dach_5.png",
+                    "name": "DACH_COPY_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "hel_2_dach_3.png",
+                    "name": "DACH_COPY_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "hel_2_dach_1.png",
+                    "name": "LAYER_20",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "hel_2_dach_0.png": {
+            "compression": 3,
+            "name": "DACH",
+            "position_x": 313,
+            "position_y": 103
+        },
+        "hel_2_dach_1.png": {
+            "compression": 3,
+            "name": "LAYER_20",
+            "position_x": 91,
+            "position_y": 127
+        },
+        "hel_2_dach_2.png": {
+            "compression": 3,
+            "name": "DACH_COPY",
+            "position_x": 311,
+            "position_y": 87
+        },
+        "hel_2_dach_3.png": {
+            "compression": 3,
+            "name": "DACH_COPY_4",
+            "position_x": 130,
+            "position_y": 110
+        },
+        "hel_2_dach_4.png": {
+            "compression": 3,
+            "name": "DACH_COPY_2",
+            "position_x": 296,
+            "position_y": 79
+        },
+        "hel_2_dach_5.png": {
+            "compression": 3,
+            "name": "DACH_COPY_3",
+            "position_x": 213,
+            "position_y": 102
+        }
+    },
+    "transparency": 255
+}

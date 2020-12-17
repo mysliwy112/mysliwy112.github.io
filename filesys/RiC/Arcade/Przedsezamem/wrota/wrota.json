@@ -1,0 +1,238 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "209-457-440": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "wrota_0.png",
+                    "name": "WROTA_209-457-450",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "wrota_0.png",
+                    "name": "WROTA_209-457-450",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE0": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "wrota_1.png",
+                    "name": "SET_1_COPY_5",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\wrotacl.wav",
+                    "sfx_seed": 25557300
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "wrota_2.png",
+                    "name": "SET_1_COPY_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "wrota_4.png",
+                    "name": "SET_1_COPY_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "wrota_5.png",
+                    "name": "SET_1_COPY_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "wrota_3.png",
+                    "name": "SET_1_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "wrota_0.png",
+                    "name": "WROTA_209-457-450",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE1": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "wrota_0.png",
+                    "name": "WROTA_209-457-450",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\wrota.wav",
+                    "sfx_seed": 25540068
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "wrota_3.png",
+                    "name": "SET_1_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "wrota_5.png",
+                    "name": "SET_1_COPY_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "wrota_4.png",
+                    "name": "SET_1_COPY_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "wrota_2.png",
+                    "name": "SET_1_COPY_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "wrota_1.png",
+                    "name": "SET_1_COPY_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "wrota_1.png",
+                    "name": "SET_1_COPY_5",
+                    "position_x": 35,
+                    "position_y": 398
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "wrota_0.png": {
+            "compression": 3,
+            "name": "WROTA_209-457-450",
+            "position_x": 122,
+            "position_y": 147
+        },
+        "wrota_1.png": {
+            "compression": 3,
+            "name": "SET_1_COPY_5",
+            "position_x": 122,
+            "position_y": 245
+        },
+        "wrota_2.png": {
+            "compression": 3,
+            "name": "SET_1_COPY_4",
+            "position_x": 122,
+            "position_y": 194
+        },
+        "wrota_3.png": {
+            "compression": 3,
+            "name": "SET_1_COPY",
+            "position_x": 122,
+            "position_y": 148
+        },
+        "wrota_4.png": {
+            "compression": 3,
+            "name": "SET_1_COPY_3",
+            "position_x": 122,
+            "position_y": 159
+        },
+        "wrota_5.png": {
+            "compression": 3,
+            "name": "SET_1_COPY_2",
+            "position_x": 122,
+            "position_y": 153
+        }
+    },
+    "transparency": 255
+}

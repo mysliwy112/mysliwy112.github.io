@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "380-040": {
+            "frames": [
+                {
+                    "check": [
+                        40,
+                        139,
+                        83
+                    ],
+                    "filename": "ciastko_0.png",
+                    "name": "CIASTECZKO",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        40,
+                        139,
+                        83
+                    ],
+                    "filename": "ciastko_0.png",
+                    "name": "CIASTECZKO",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "ciastko_0.png": {
+            "compression": 4,
+            "name": "CIASTECZKO",
+            "position_x": 366,
+            "position_y": 21
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "110-500-480": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_rzezbakogut_0.png",
+                    "name": "RZEZBAKOGUT",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_rzezbakogut_0.png",
+                    "name": "RZEZBAKOGUT",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "m_rzezbakogut_0.png": {
+            "compression": 3,
+            "name": "RZEZBAKOGUT",
+            "position_x": 28,
+            "position_y": 318
+        }
+    },
+    "transparency": 255
+}

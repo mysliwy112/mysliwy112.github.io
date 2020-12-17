@@ -1,0 +1,742 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_0.png",
+                    "name": "REKTOR",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\c_uciecz.wav",
+                    "sfx_seed": 51020820
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_1.png",
+                    "name": "REKTOR_COPY",
+                    "position_x": 23,
+                    "position_y": 4
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_2.png",
+                    "name": "REKTOR_COPY_2",
+                    "position_x": 42,
+                    "position_y": -19
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_3.png",
+                    "name": "REKTOR_COPY_3",
+                    "position_x": 48,
+                    "position_y": -47
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_4.png",
+                    "name": "REKTOR_COPY_4",
+                    "position_x": 48,
+                    "position_y": -77
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_5.png",
+                    "name": "REKTOR_COPY_5",
+                    "position_x": 41,
+                    "position_y": -106
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_6.png",
+                    "name": "REKTOR_COPY_6",
+                    "position_x": 27,
+                    "position_y": -136
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_7.png",
+                    "name": "REKTOR_COPY_7",
+                    "position_x": -1,
+                    "position_y": -159
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_8.png",
+                    "name": "REKTOR_COPY_8",
+                    "position_x": -31,
+                    "position_y": -174
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_9.png",
+                    "name": "REKTOR_COPY_9",
+                    "position_x": -61,
+                    "position_y": -180
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_10.png",
+                    "name": "REKTOR_COPY_10",
+                    "position_x": -91,
+                    "position_y": -176
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_11.png",
+                    "name": "REKTOR_COPY_11",
+                    "position_x": -120,
+                    "position_y": -163
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_12.png",
+                    "name": "REKTOR_COPY_12",
+                    "position_x": -135,
+                    "position_y": -135
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_13.png",
+                    "name": "REKTOR_COPY_13",
+                    "position_x": -139,
+                    "position_y": -106
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_14.png",
+                    "name": "REKTOR_COPY_14",
+                    "position_x": -119,
+                    "position_y": -79
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_15.png",
+                    "name": "REKTOR_COPY_15",
+                    "position_x": -89,
+                    "position_y": -74
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_16.png",
+                    "name": "REKTOR_COPY_16",
+                    "position_x": -60,
+                    "position_y": -79
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_17.png",
+                    "name": "REKTOR_COPY_17",
+                    "position_x": -30,
+                    "position_y": -93
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_18.png",
+                    "name": "REKTOR_COPY_18",
+                    "position_x": -1,
+                    "position_y": -114
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_19.png",
+                    "name": "REKTOR_COPY_19",
+                    "position_x": 28,
+                    "position_y": -134
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_20.png",
+                    "name": "REKTOR_COPY_20",
+                    "position_x": 58,
+                    "position_y": -152
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_21.png",
+                    "name": "REKTOR_COPY_21",
+                    "position_x": 86,
+                    "position_y": -161
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_22.png",
+                    "name": "REKTOR_COPY_22",
+                    "position_x": 116,
+                    "position_y": -162
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_23.png",
+                    "name": "REKTOR_COPY_23",
+                    "position_x": 144,
+                    "position_y": -145
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_24.png",
+                    "name": "REKTOR_COPY_24",
+                    "position_x": 150,
+                    "position_y": -116
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_25.png",
+                    "name": "REKTOR_COPY_25",
+                    "position_x": 134,
+                    "position_y": -92
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_26.png",
+                    "name": "REKTOR_COPY_26",
+                    "position_x": 104,
+                    "position_y": -87
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_27.png",
+                    "name": "REKTOR_COPY_27",
+                    "position_x": 75,
+                    "position_y": -92
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_28.png",
+                    "name": "REKTOR_COPY_28",
+                    "position_x": 44,
+                    "position_y": -103
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_29.png",
+                    "name": "REKTOR_COPY_29",
+                    "position_x": 15,
+                    "position_y": -120
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_30.png",
+                    "name": "REKTOR_COPY_30",
+                    "position_x": -15,
+                    "position_y": -141
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_31.png",
+                    "name": "REKTOR_COPY_31",
+                    "position_x": -43,
+                    "position_y": -162
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_32.png",
+                    "name": "REKTOR_COPY_32",
+                    "position_x": -72,
+                    "position_y": -168
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_33.png",
+                    "name": "REKTOR_COPY_33",
+                    "position_x": -98,
+                    "position_y": -148
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_34.png",
+                    "name": "REKTOR_COPY_34",
+                    "position_x": -107,
+                    "position_y": -118
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_35.png",
+                    "name": "REKTOR_COPY_35",
+                    "position_x": -110,
+                    "position_y": -90
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_36.png",
+                    "name": "REKTOR_COPY_36",
+                    "position_x": -103,
+                    "position_y": -62
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_37.png",
+                    "name": "REKTOR_COPY_37",
+                    "position_x": -78,
+                    "position_y": -48
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_38.png",
+                    "name": "REKTOR_COPY_38",
+                    "position_x": -51,
+                    "position_y": -57
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_39.png",
+                    "name": "REKTOR_COPY_39",
+                    "position_x": -25,
+                    "position_y": -73
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_40.png",
+                    "name": "REKTOR_COPY_40",
+                    "position_x": -12,
+                    "position_y": -97
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_41.png",
+                    "name": "REKTOR_COPY_41",
+                    "position_x": -11,
+                    "position_y": -119
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_burektor_41.png",
+                    "name": "REKTOR_COPY_41",
+                    "position_x": -12,
+                    "position_y": 181
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "cu_burektor_0.png": {
+            "compression": 3,
+            "name": "REKTOR",
+            "position_x": 152,
+            "position_y": -27
+        },
+        "cu_burektor_1.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY",
+            "position_x": -3,
+            "position_y": 106
+        },
+        "cu_burektor_10.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY_10",
+            "position_x": 261,
+            "position_y": 349
+        },
+        "cu_burektor_11.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY_11",
+            "position_x": 294,
+            "position_y": 292
+        },
+        "cu_burektor_12.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY_12",
+            "position_x": 350,
+            "position_y": 310
+        },
+        "cu_burektor_13.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY_13",
+            "position_x": 336,
+            "position_y": 335
+        },
+        "cu_burektor_14.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY_14",
+            "position_x": 318,
+            "position_y": 382
+        },
+        "cu_burektor_15.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY_15",
+            "position_x": 348,
+            "position_y": 369
+        },
+        "cu_burektor_16.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY_16",
+            "position_x": 377,
+            "position_y": 356
+        },
+        "cu_burektor_17.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY_17",
+            "position_x": 346,
+            "position_y": 379
+        },
+        "cu_burektor_18.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY_18",
+            "position_x": 356,
+            "position_y": 403
+        },
+        "cu_burektor_19.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY_19",
+            "position_x": 369,
+            "position_y": 377
+        },
+        "cu_burektor_2.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY_2",
+            "position_x": 45,
+            "position_y": 221
+        },
+        "cu_burektor_20.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY_20",
+            "position_x": 394,
+            "position_y": 386
+        },
+        "cu_burektor_21.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY_21",
+            "position_x": 388,
+            "position_y": 396
+        },
+        "cu_burektor_22.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY_22",
+            "position_x": 380,
+            "position_y": 417
+        },
+        "cu_burektor_23.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY_23",
+            "position_x": 392,
+            "position_y": 411
+        },
+        "cu_burektor_24.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY_24",
+            "position_x": 405,
+            "position_y": 406
+        },
+        "cu_burektor_25.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY_25",
+            "position_x": 391,
+            "position_y": 415
+        },
+        "cu_burektor_26.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY_26",
+            "position_x": 396,
+            "position_y": 426
+        },
+        "cu_burektor_27.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY_27",
+            "position_x": 401,
+            "position_y": 414
+        },
+        "cu_burektor_28.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY_28",
+            "position_x": 413,
+            "position_y": 419
+        },
+        "cu_burektor_29.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY_29",
+            "position_x": 409,
+            "position_y": 422
+        },
+        "cu_burektor_3.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY_3",
+            "position_x": 119,
+            "position_y": 94
+        },
+        "cu_burektor_30.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY_30",
+            "position_x": 406,
+            "position_y": 432
+        },
+        "cu_burektor_31.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY_31",
+            "position_x": 410,
+            "position_y": 429
+        },
+        "cu_burektor_32.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY_32",
+            "position_x": 417,
+            "position_y": 427
+        },
+        "cu_burektor_33.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY_33",
+            "position_x": 411,
+            "position_y": 430
+        },
+        "cu_burektor_34.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY_34",
+            "position_x": 413,
+            "position_y": 436
+        },
+        "cu_burektor_35.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY_35",
+            "position_x": 415,
+            "position_y": 429
+        },
+        "cu_burektor_36.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY_36",
+            "position_x": 421,
+            "position_y": 432
+        },
+        "cu_burektor_37.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY_37",
+            "position_x": 418,
+            "position_y": 433
+        },
+        "cu_burektor_38.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY_38",
+            "position_x": 417,
+            "position_y": 439
+        },
+        "cu_burektor_39.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY_39",
+            "position_x": 419,
+            "position_y": 436
+        },
+        "cu_burektor_4.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY_4",
+            "position_x": 246,
+            "position_y": 134
+        },
+        "cu_burektor_40.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY_40",
+            "position_x": 422,
+            "position_y": 436
+        },
+        "cu_burektor_41.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY_41",
+            "position_x": 422,
+            "position_y": 437
+        },
+        "cu_burektor_5.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY_5",
+            "position_x": 218,
+            "position_y": 193
+        },
+        "cu_burektor_6.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY_6",
+            "position_x": 176,
+            "position_y": 297
+        },
+        "cu_burektor_7.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY_7",
+            "position_x": 247,
+            "position_y": 273
+        },
+        "cu_burektor_8.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY_8",
+            "position_x": 308,
+            "position_y": 241
+        },
+        "cu_burektor_9.png": {
+            "compression": 3,
+            "name": "REKTOR_COPY_9",
+            "position_x": 241,
+            "position_y": 297
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,32 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PANELOWE_LAS": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "restart_std_0.png",
+                    "name": "RESTART",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "restart_std_0.png": {
+            "compression": 4,
+            "name": "RESTART",
+            "position_x": 748,
+            "position_y": 548
+        }
+    },
+    "transparency": 255
+}

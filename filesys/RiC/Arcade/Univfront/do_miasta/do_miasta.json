@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "400-600-000": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "do_miasta_0.png",
+                    "name": "DO_MIASTA_400-600-000",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "do_miasta_0.png",
+                    "name": "DO_MIASTA_400-600-000",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "do_miasta_0.png": {
+            "compression": 4,
+            "name": "DO_MIASTA_400-600-0",
+            "position_x": 67,
+            "position_y": 541
+        }
+    },
+    "transparency": 255
+}

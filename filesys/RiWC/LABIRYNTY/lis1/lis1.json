@@ -1,0 +1,2628 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CAN_SPELL": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_5.png",
+                    "name": "1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "DOWN": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_0.png",
+                    "name": "NORMAL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_14.png",
+                    "name": "DOWN",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_26.png",
+                    "name": "3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_37.png",
+                    "name": "4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_45.png",
+                    "name": "5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_49.png",
+                    "name": "6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_53.png",
+                    "name": "7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_57.png",
+                    "name": "8",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "DOWN_FROG": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_6.png",
+                    "name": "_FROG",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_18.png",
+                    "name": "DOWN",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_29.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_41.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_6.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_18.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_29.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_41.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "IDLE": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_4.png",
+                    "name": "NORMAL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_4.png",
+                    "name": "IDLE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_4.png",
+                    "name": "IDLE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_4.png",
+                    "name": "IDLE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_4.png",
+                    "name": "IDLE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_4.png",
+                    "name": "IDLE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_4.png",
+                    "name": "IDLE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_4.png",
+                    "name": "IDLE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_4.png",
+                    "name": "IDLE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_4.png",
+                    "name": "IDLE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_4.png",
+                    "name": "IDLE",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "IMMUNE": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_4.png",
+                    "name": "NORMAL",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "LEFT": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_1.png",
+                    "name": "NORMAL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_15.png",
+                    "name": "LEFT",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_27.png",
+                    "name": "3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_38.png",
+                    "name": "4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_46.png",
+                    "name": "5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_50.png",
+                    "name": "6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_54.png",
+                    "name": "7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_58.png",
+                    "name": "8",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "LEFT_FROG": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_7.png",
+                    "name": "_FROG",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_19.png",
+                    "name": "LEFT",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_30.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_42.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_7.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_19.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_30.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_42.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "RIGHT": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_2.png",
+                    "name": "NORMAL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_16.png",
+                    "name": "RIGHT",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_28.png",
+                    "name": "3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_39.png",
+                    "name": "4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_47.png",
+                    "name": "5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_51.png",
+                    "name": "6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_55.png",
+                    "name": "7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_59.png",
+                    "name": "8",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "RIGHT_FROG": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_9.png",
+                    "name": "_FROG",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_21.png",
+                    "name": "RIGHT",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_32.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_44.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_9.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_21.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_32.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_44.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "SPELL_DOWN": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_10.png",
+                    "name": "NORMAL",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\czarladujer.wav",
+                    "sfx_seed": 25384276
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_22.png",
+                    "name": "DOWN",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_33.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_33.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_22.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_10.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_10.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_22.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_33.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_33.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_33.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_33.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_22.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_10.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_10.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_22.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_33.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_33.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_61.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_61.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\czarstrzr.wav",
+                    "sfx_seed": 25184044
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_61.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_61.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_61.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_61.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_61.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_61.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_61.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_61.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_61.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "SPELL_LEFT": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_11.png",
+                    "name": "NORMAL",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\czarladujer.wav",
+                    "sfx_seed": 25146340
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_23.png",
+                    "name": "LEFT",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_34.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_34.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_23.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_23.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_34.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_34.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_34.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_34.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_23.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_23.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_34.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_34.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_34.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_34.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_23.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_23.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_34.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_34.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_62.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\czarstrzr.wav",
+                    "sfx_seed": 25141964
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_62.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_62.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_62.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_62.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_62.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_62.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_62.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_62.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "SPELL_RIGHT": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_13.png",
+                    "name": "NORMAL",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\czarladujer.wav",
+                    "sfx_seed": 25160036
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_25.png",
+                    "name": "RIGHT",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_36.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_36.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_36.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_36.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_25.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_13.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_36.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_36.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_36.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_36.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_25.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_13.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_36.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_36.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_36.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_36.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_25.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_13.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_64.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\czarstrzr.wav",
+                    "sfx_seed": 25289748
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_64.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_64.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_64.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_64.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_64.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_64.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_64.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_64.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "SPELL_UP": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_12.png",
+                    "name": "NORMAL",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\czarladujer.wav",
+                    "sfx_seed": 25149548
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_24.png",
+                    "name": "UP",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_35.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_35.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_24.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_24.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_35.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_35.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_35.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_35.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_24.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_24.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_35.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_35.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_35.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_35.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_24.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_24.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_35.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_35.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_63.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\czarstrzr.wav",
+                    "sfx_seed": 25286844
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_63.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_63.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_63.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_63.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_63.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_63.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_63.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_63.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "UP": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_3.png",
+                    "name": "NORMAL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_17.png",
+                    "name": "UP",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_4.png",
+                    "name": "3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_40.png",
+                    "name": "4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_48.png",
+                    "name": "5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_52.png",
+                    "name": "6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_56.png",
+                    "name": "7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_60.png",
+                    "name": "8",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "UP_FROG": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_8.png",
+                    "name": "_FROG",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_20.png",
+                    "name": "UP",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_31.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_43.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_8.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_20.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_31.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "lis1_43.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "lis1_0.png": {
+            "compression": 3,
+            "name": "1",
+            "position_x": -2,
+            "position_y": -2
+        },
+        "lis1_1.png": {
+            "compression": 3,
+            "name": "1",
+            "position_x": -5,
+            "position_y": -2
+        },
+        "lis1_10.png": {
+            "compression": 3,
+            "name": "C1",
+            "position_x": 5,
+            "position_y": 10
+        },
+        "lis1_11.png": {
+            "compression": 3,
+            "name": "C1",
+            "position_x": -8,
+            "position_y": 5
+        },
+        "lis1_12.png": {
+            "compression": 3,
+            "name": "C1",
+            "position_x": 4,
+            "position_y": -8
+        },
+        "lis1_13.png": {
+            "compression": 3,
+            "name": "C1",
+            "position_x": 10,
+            "position_y": 4
+        },
+        "lis1_14.png": {
+            "compression": 3,
+            "name": "2",
+            "position_x": -2,
+            "position_y": -2
+        },
+        "lis1_15.png": {
+            "compression": 3,
+            "name": "2",
+            "position_x": -5,
+            "position_y": -2
+        },
+        "lis1_16.png": {
+            "compression": 3,
+            "name": "2",
+            "position_x": -2,
+            "position_y": -3
+        },
+        "lis1_17.png": {
+            "compression": 3,
+            "name": "2",
+            "position_x": -3,
+            "position_y": -5
+        },
+        "lis1_18.png": {
+            "compression": 3,
+            "name": "2",
+            "position_x": 9,
+            "position_y": 11
+        },
+        "lis1_19.png": {
+            "compression": 3,
+            "name": "2",
+            "position_x": 12,
+            "position_y": 9
+        },
+        "lis1_2.png": {
+            "compression": 3,
+            "name": "1",
+            "position_x": -2,
+            "position_y": -3
+        },
+        "lis1_20.png": {
+            "compression": 3,
+            "name": "2",
+            "position_x": 9,
+            "position_y": 12
+        },
+        "lis1_21.png": {
+            "compression": 3,
+            "name": "2",
+            "position_x": 11,
+            "position_y": 9
+        },
+        "lis1_22.png": {
+            "compression": 3,
+            "name": "C2",
+            "position_x": 5,
+            "position_y": 10
+        },
+        "lis1_23.png": {
+            "compression": 3,
+            "name": "C2",
+            "position_x": -8,
+            "position_y": 5
+        },
+        "lis1_24.png": {
+            "compression": 3,
+            "name": "C2",
+            "position_x": 4,
+            "position_y": -8
+        },
+        "lis1_25.png": {
+            "compression": 3,
+            "name": "C2",
+            "position_x": 10,
+            "position_y": 4
+        },
+        "lis1_26.png": {
+            "compression": 3,
+            "name": "3",
+            "position_x": -2,
+            "position_y": -3
+        },
+        "lis1_27.png": {
+            "compression": 3,
+            "name": "3",
+            "position_x": -6,
+            "position_y": -2
+        },
+        "lis1_28.png": {
+            "compression": 3,
+            "name": "3",
+            "position_x": -3,
+            "position_y": -2
+        },
+        "lis1_29.png": {
+            "compression": 3,
+            "name": "3",
+            "position_x": 9,
+            "position_y": 6
+        },
+        "lis1_3.png": {
+            "compression": 3,
+            "name": "1",
+            "position_x": -3,
+            "position_y": -5
+        },
+        "lis1_30.png": {
+            "compression": 3,
+            "name": "3",
+            "position_x": 10,
+            "position_y": 9
+        },
+        "lis1_31.png": {
+            "compression": 3,
+            "name": "3",
+            "position_x": 8,
+            "position_y": 10
+        },
+        "lis1_32.png": {
+            "compression": 3,
+            "name": "3",
+            "position_x": 6,
+            "position_y": 8
+        },
+        "lis1_33.png": {
+            "compression": 3,
+            "name": "C3",
+            "position_x": 5,
+            "position_y": 10
+        },
+        "lis1_34.png": {
+            "compression": 3,
+            "name": "C3",
+            "position_x": -7,
+            "position_y": 5
+        },
+        "lis1_35.png": {
+            "compression": 3,
+            "name": "C3",
+            "position_x": 4,
+            "position_y": -7
+        },
+        "lis1_36.png": {
+            "compression": 3,
+            "name": "C3",
+            "position_x": 10,
+            "position_y": 4
+        },
+        "lis1_37.png": {
+            "compression": 3,
+            "name": "4",
+            "position_x": -2,
+            "position_y": -3
+        },
+        "lis1_38.png": {
+            "compression": 3,
+            "name": "4",
+            "position_x": -6,
+            "position_y": -2
+        },
+        "lis1_39.png": {
+            "compression": 3,
+            "name": "4",
+            "position_x": -3,
+            "position_y": -4
+        },
+        "lis1_4.png": {
+            "compression": 3,
+            "name": "3",
+            "position_x": -2,
+            "position_y": -6
+        },
+        "lis1_40.png": {
+            "compression": 3,
+            "name": "4",
+            "position_x": -4,
+            "position_y": -6
+        },
+        "lis1_41.png": {
+            "compression": 3,
+            "name": "4",
+            "position_x": 10,
+            "position_y": -4
+        },
+        "lis1_42.png": {
+            "compression": 3,
+            "name": "4",
+            "position_x": 9,
+            "position_y": 10
+        },
+        "lis1_43.png": {
+            "compression": 3,
+            "name": "4",
+            "position_x": 10,
+            "position_y": 9
+        },
+        "lis1_44.png": {
+            "compression": 3,
+            "name": "4",
+            "position_x": -4,
+            "position_y": 10
+        },
+        "lis1_45.png": {
+            "compression": 3,
+            "name": "5",
+            "position_x": -2,
+            "position_y": -2
+        },
+        "lis1_46.png": {
+            "compression": 3,
+            "name": "5",
+            "position_x": -5,
+            "position_y": -2
+        },
+        "lis1_47.png": {
+            "compression": 3,
+            "name": "5",
+            "position_x": -2,
+            "position_y": -3
+        },
+        "lis1_48.png": {
+            "compression": 3,
+            "name": "5",
+            "position_x": -3,
+            "position_y": -5
+        },
+        "lis1_49.png": {
+            "compression": 3,
+            "name": "6",
+            "position_x": -2,
+            "position_y": -2
+        },
+        "lis1_5.png": {
+            "compression": 3,
+            "name": "STOI",
+            "position_x": 3,
+            "position_y": 10
+        },
+        "lis1_50.png": {
+            "compression": 3,
+            "name": "6",
+            "position_x": -5,
+            "position_y": -2
+        },
+        "lis1_51.png": {
+            "compression": 3,
+            "name": "6",
+            "position_x": -2,
+            "position_y": -3
+        },
+        "lis1_52.png": {
+            "compression": 3,
+            "name": "6",
+            "position_x": -3,
+            "position_y": -5
+        },
+        "lis1_53.png": {
+            "compression": 3,
+            "name": "7",
+            "position_x": -2,
+            "position_y": -3
+        },
+        "lis1_54.png": {
+            "compression": 3,
+            "name": "7",
+            "position_x": -6,
+            "position_y": -2
+        },
+        "lis1_55.png": {
+            "compression": 3,
+            "name": "7",
+            "position_x": -3,
+            "position_y": -4
+        },
+        "lis1_56.png": {
+            "compression": 3,
+            "name": "7",
+            "position_x": -4,
+            "position_y": -6
+        },
+        "lis1_57.png": {
+            "compression": 3,
+            "name": "8",
+            "position_x": -2,
+            "position_y": -3
+        },
+        "lis1_58.png": {
+            "compression": 3,
+            "name": "8",
+            "position_x": -6,
+            "position_y": -2
+        },
+        "lis1_59.png": {
+            "compression": 3,
+            "name": "8",
+            "position_x": -3,
+            "position_y": -2
+        },
+        "lis1_6.png": {
+            "compression": 3,
+            "name": "1",
+            "position_x": 9,
+            "position_y": 11
+        },
+        "lis1_60.png": {
+            "compression": 3,
+            "name": "8",
+            "position_x": -2,
+            "position_y": -6
+        },
+        "lis1_61.png": {
+            "compression": 3,
+            "name": "C4",
+            "position_x": 1,
+            "position_y": 10
+        },
+        "lis1_62.png": {
+            "compression": 3,
+            "name": "C4",
+            "position_x": -13,
+            "position_y": 1
+        },
+        "lis1_63.png": {
+            "compression": 3,
+            "name": "C4",
+            "position_x": 4,
+            "position_y": -13
+        },
+        "lis1_64.png": {
+            "compression": 3,
+            "name": "C4",
+            "position_x": 10,
+            "position_y": 4
+        },
+        "lis1_7.png": {
+            "compression": 3,
+            "name": "1",
+            "position_x": 12,
+            "position_y": 9
+        },
+        "lis1_8.png": {
+            "compression": 3,
+            "name": "1",
+            "position_x": 9,
+            "position_y": 12
+        },
+        "lis1_9.png": {
+            "compression": 3,
+            "name": "1",
+            "position_x": 11,
+            "position_y": 9
+        }
+    },
+    "transparency": 255
+}

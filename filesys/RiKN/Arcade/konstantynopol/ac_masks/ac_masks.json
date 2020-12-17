@@ -1,0 +1,131 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "idle": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "ac_masks_0.png",
+                    "name": "pixel",
+                    "position_x": -1000,
+                    "position_y": -1000
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "ac_masks_1.png",
+                    "name": "Layer_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "ac_masks_2.png",
+                    "name": "dzwi5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "ac_masks_3.png",
+                    "name": "dzwi4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "ac_masks_4.png",
+                    "name": "dzwi3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "ac_masks_5.png",
+                    "name": "dzwi2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "ac_masks_6.png",
+                    "name": "dzwi1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "ac_masks_0.png": {
+            "compression": 3,
+            "name": "pixel"
+        },
+        "ac_masks_1.png": {
+            "compression": 3,
+            "name": "Layer_1",
+            "position_y": 157
+        },
+        "ac_masks_2.png": {
+            "compression": 3,
+            "name": "dzwi5",
+            "position_x": 779,
+            "position_y": 85
+        },
+        "ac_masks_3.png": {
+            "compression": 3,
+            "name": "dzwi4",
+            "position_x": 1073,
+            "position_y": 82
+        },
+        "ac_masks_4.png": {
+            "compression": 3,
+            "name": "dzwi3",
+            "position_x": 1310,
+            "position_y": 86
+        },
+        "ac_masks_5.png": {
+            "compression": 3,
+            "name": "dzwi2",
+            "position_x": 1423,
+            "position_y": 110
+        },
+        "ac_masks_6.png": {
+            "compression": 3,
+            "name": "dzwi1",
+            "position_x": 1762,
+            "position_y": 143
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,75 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "OFF": {
+            "frames": [
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "wtyczka_0.png",
+                    "name": "WTYCZKA1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ON": {
+            "frames": [
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "wtyczka_1.png",
+                    "name": "WTYCZKA2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "wtyczka_0.png": {
+            "compression": 4,
+            "name": "WTYCZKA1",
+            "position_x": 12,
+            "position_y": 427
+        },
+        "wtyczka_1.png": {
+            "compression": 4,
+            "name": "WTYCZKA2",
+            "position_x": 3,
+            "position_y": 172
+        }
+    },
+    "transparency": 255
+}

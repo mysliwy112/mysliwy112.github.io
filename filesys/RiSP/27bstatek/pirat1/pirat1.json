@@ -1,0 +1,193 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "GADA_1": {
+            "frames": [
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "pirat1_1.png",
+                    "name": " A-32",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "pirat1_3.png",
+                    "name": "A-33",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "pirat1_4.png",
+                    "name": "A-34",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "pirat1_5.png",
+                    "name": " A-35",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "pirat1_4.png",
+                    "name": "A-34",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "pirat1_3.png",
+                    "name": "A-33",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "GADA_START": {
+            "frames": [
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "pirat1_0.png",
+                    "name": "A-30",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "pirat1_2.png",
+                    "name": "A-31",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "GADA_STOP": {
+            "frames": [
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "pirat1_2.png",
+                    "name": "A-31",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "pirat1_0.png",
+                    "name": "A-30",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "pirat1_0.png": {
+            "compression": 4,
+            "name": "A-30",
+            "position_x": 172,
+            "position_y": 325
+        },
+        "pirat1_1.png": {
+            "compression": 4,
+            "name": " A-32",
+            "position_x": 138,
+            "position_y": 277
+        },
+        "pirat1_2.png": {
+            "compression": 4,
+            "name": "A-31",
+            "position_x": 161,
+            "position_y": 310
+        },
+        "pirat1_3.png": {
+            "compression": 4,
+            "name": "A-33",
+            "position_x": 138,
+            "position_y": 273
+        },
+        "pirat1_4.png": {
+            "compression": 4,
+            "name": "A-34",
+            "position_x": 138,
+            "position_y": 271
+        },
+        "pirat1_5.png": {
+            "compression": 4,
+            "name": " A-35",
+            "position_x": 138,
+            "position_y": 271
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,124 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "9000-9000-3": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "n_brukdo_0.png",
+                    "name": "BRUK",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "n_brukdo_1.png",
+                    "name": "BRUK_COPY_4",
+                    "position_x": 0,
+                    "position_y": 560
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE0": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "n_brukdo_1.png",
+                    "name": "BRUK_COPY_4",
+                    "position_x": 0,
+                    "position_y": 560
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "n_brukdo_2.png",
+                    "name": "BRUK_COPY_3",
+                    "position_x": 0,
+                    "position_y": 560
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "n_brukdo_3.png",
+                    "name": "BRUK_COPY_2",
+                    "position_x": 0,
+                    "position_y": 560
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "n_brukdo_4.png",
+                    "name": "BRUK_COPY",
+                    "position_x": 0,
+                    "position_y": 560
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "n_brukdo_0.png",
+                    "name": "BRUK",
+                    "position_x": 0,
+                    "position_y": 560
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "n_brukdo_0.png": {
+            "compression": 3,
+            "name": "BRUK"
+        },
+        "n_brukdo_1.png": {
+            "compression": 3,
+            "name": "BRUK_COPY_4"
+        },
+        "n_brukdo_2.png": {
+            "compression": 3,
+            "name": "BRUK_COPY_3"
+        },
+        "n_brukdo_3.png": {
+            "compression": 3,
+            "name": "BRUK_COPY_2"
+        },
+        "n_brukdo_4.png": {
+            "compression": 3,
+            "name": "BRUK_COPY"
+        }
+    },
+    "transparency": 255
+}

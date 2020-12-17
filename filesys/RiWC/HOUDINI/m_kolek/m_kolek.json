@@ -1,0 +1,32 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "KOLEK": {
+            "frames": [
+                {
+                    "check": [
+                        64,
+                        206,
+                        85
+                    ],
+                    "filename": "m_kolek_0.png",
+                    "name": "KOLEK",
+                    "position_x": 0,
+                    "position_y": -86
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "m_kolek_0.png": {
+            "compression": 3,
+            "name": "KOLEK",
+            "position_x": 136,
+            "position_y": 344
+        }
+    },
+    "transparency": 255
+}

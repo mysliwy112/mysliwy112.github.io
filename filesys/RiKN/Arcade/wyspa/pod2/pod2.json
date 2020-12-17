@@ -1,0 +1,925 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "kopiec": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_4.png",
+                    "name": "pixel",
+                    "position_x": -1000,
+                    "position_y": -1000
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_9.png",
+                    "name": "kopiec",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "pod2a": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_0.png",
+                    "name": "Warstwa_31",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "pod2b": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_1.png",
+                    "name": "Warstwa_25",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "pod2c": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_2.png",
+                    "name": "Warstwa_23_kopia",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "pod2d": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_3.png",
+                    "name": "Warstwa_23_kopia_3",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "skrzynia": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_4.png",
+                    "name": "pixel",
+                    "position_x": -1000,
+                    "position_y": -1000
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_4.png",
+                    "name": "pixel",
+                    "position_x": -1000,
+                    "position_y": -1000
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_10.png",
+                    "name": "Layer_13",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "skrzynia_leci": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_5.png",
+                    "name": "Layer_13_kopia",
+                    "position_x": -41,
+                    "position_y": -163
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_7.png",
+                    "name": "Layer_13_kopia_2",
+                    "position_x": -26,
+                    "position_y": -162
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_11.png",
+                    "name": "Layer_13_kopia_3",
+                    "position_x": -19,
+                    "position_y": -152
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_13.png",
+                    "name": "Layer_13_kopia_4",
+                    "position_x": -14,
+                    "position_y": -139
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_5.png",
+                    "name": "Layer_13_kopia",
+                    "position_x": -8,
+                    "position_y": -124
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_7.png",
+                    "name": "Layer_13_kopia_2",
+                    "position_x": -7,
+                    "position_y": -111
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_11.png",
+                    "name": "Layer_13_kopia_3",
+                    "position_x": -4,
+                    "position_y": -95
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_13.png",
+                    "name": "Layer_13_kopia_4",
+                    "position_x": 1,
+                    "position_y": -80
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_5.png",
+                    "name": "Layer_13_kopia",
+                    "position_x": 1,
+                    "position_y": -66
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_7.png",
+                    "name": "Layer_13_kopia_2",
+                    "position_x": 1,
+                    "position_y": -52
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_11.png",
+                    "name": "Layer_13_kopia_3",
+                    "position_x": 1,
+                    "position_y": -38
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_13.png",
+                    "name": "Layer_13_kopia_4",
+                    "position_x": 1,
+                    "position_y": -24
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_5.png",
+                    "name": "Layer_13_kopia",
+                    "position_x": 1,
+                    "position_y": -11
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_10.png",
+                    "name": "Layer_13",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "skrzynia_otw": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_6.png",
+                    "name": "1_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_8.png",
+                    "name": "2_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_12.png",
+                    "name": "3_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_14.png",
+                    "name": "4_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_15.png",
+                    "name": "5_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_16.png",
+                    "name": "6_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_17.png",
+                    "name": "7_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_18.png",
+                    "name": "8_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_19.png",
+                    "name": "9_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_20.png",
+                    "name": "10_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_21.png",
+                    "name": "11_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_22.png",
+                    "name": "12_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_23.png",
+                    "name": "13_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_12.png",
+                    "name": "3_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_14.png",
+                    "name": "4_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_15.png",
+                    "name": "5_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_16.png",
+                    "name": "6_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_17.png",
+                    "name": "7_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_18.png",
+                    "name": "8_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_19.png",
+                    "name": "9_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_20.png",
+                    "name": "10_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_21.png",
+                    "name": "11_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_22.png",
+                    "name": "12_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_23.png",
+                    "name": "13_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_12.png",
+                    "name": "3_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_14.png",
+                    "name": "4_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_15.png",
+                    "name": "5_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_16.png",
+                    "name": "6_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_17.png",
+                    "name": "7_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_18.png",
+                    "name": "8_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_19.png",
+                    "name": "9_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_20.png",
+                    "name": "10_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_21.png",
+                    "name": "11_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_22.png",
+                    "name": "12_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_23.png",
+                    "name": "13_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_14.png",
+                    "name": "4_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_15.png",
+                    "name": "5_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_16.png",
+                    "name": "6_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_17.png",
+                    "name": "7_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_12.png",
+                    "name": "3_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_8.png",
+                    "name": "2_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_6.png",
+                    "name": "1_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_10.png",
+                    "name": "Layer_13",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "pod2_0.png": {
+            "compression": 3,
+            "name": "Warstwa_31",
+            "position_x": 823,
+            "position_y": 128
+        },
+        "pod2_1.png": {
+            "compression": 3,
+            "name": "Warstwa_25",
+            "position_x": 469,
+            "position_y": 48
+        },
+        "pod2_10.png": {
+            "compression": 3,
+            "name": "LAYER_13",
+            "position_x": 1146,
+            "position_y": 469
+        },
+        "pod2_11.png": {
+            "compression": 3,
+            "name": "Layer_13_kopia_3",
+            "position_x": 1142,
+            "position_y": 471
+        },
+        "pod2_12.png": {
+            "compression": 3,
+            "name": "3_OTWIERAZLE1",
+            "position_x": 1136,
+            "position_y": 452
+        },
+        "pod2_13.png": {
+            "compression": 3,
+            "name": "Layer_13_kopia_4",
+            "position_x": 1148,
+            "position_y": 466
+        },
+        "pod2_14.png": {
+            "compression": 3,
+            "name": "4_OTWIERAZLE1",
+            "position_x": 1136,
+            "position_y": 442
+        },
+        "pod2_15.png": {
+            "compression": 3,
+            "name": "5_OTWIERAZLE1",
+            "position_x": 1134,
+            "position_y": 441
+        },
+        "pod2_16.png": {
+            "compression": 3,
+            "name": "6_OTWIERAZLE1",
+            "position_x": 1135,
+            "position_y": 442
+        },
+        "pod2_17.png": {
+            "compression": 3,
+            "name": "7_OTWIERAZLE1",
+            "position_x": 1136,
+            "position_y": 446
+        },
+        "pod2_18.png": {
+            "compression": 3,
+            "name": "8_OTWIERAZLE1",
+            "position_x": 1136,
+            "position_y": 452
+        },
+        "pod2_19.png": {
+            "compression": 3,
+            "name": "9_OTWIERAZLE1",
+            "position_x": 1136,
+            "position_y": 446
+        },
+        "pod2_2.png": {
+            "compression": 3,
+            "name": "Warstwa_23_kopia",
+            "position_x": 231,
+            "position_y": 80
+        },
+        "pod2_20.png": {
+            "compression": 3,
+            "name": "10_OTWIERAZLE1",
+            "position_x": 1136,
+            "position_y": 440
+        },
+        "pod2_21.png": {
+            "compression": 3,
+            "name": "11_OTWIERAZLE1",
+            "position_x": 1136,
+            "position_y": 436
+        },
+        "pod2_22.png": {
+            "compression": 3,
+            "name": "12_OTWIERAZLE1",
+            "position_x": 1136,
+            "position_y": 438
+        },
+        "pod2_23.png": {
+            "compression": 3,
+            "name": "13_OTWIERAZLE1",
+            "position_x": 1136,
+            "position_y": 452
+        },
+        "pod2_3.png": {
+            "compression": 3,
+            "name": "Warstwa_23_kopia_3",
+            "position_x": 51,
+            "position_y": 259
+        },
+        "pod2_4.png": {
+            "compression": 3,
+            "name": "pixel"
+        },
+        "pod2_5.png": {
+            "compression": 3,
+            "name": "Layer_13_kopia",
+            "position_x": 1143,
+            "position_y": 468
+        },
+        "pod2_6.png": {
+            "compression": 3,
+            "name": "1_OTWIERAZLE1",
+            "position_x": 1145,
+            "position_y": 459
+        },
+        "pod2_7.png": {
+            "compression": 3,
+            "name": "Layer_13_kopia_2",
+            "position_x": 1148,
+            "position_y": 466
+        },
+        "pod2_8.png": {
+            "compression": 3,
+            "name": "2_OTWIERAZLE1",
+            "position_x": 1136,
+            "position_y": 452
+        },
+        "pod2_9.png": {
+            "compression": 3,
+            "name": "kopiec",
+            "position_x": 733,
+            "position_y": 168
+        }
+    },
+    "transparency": 255
+}

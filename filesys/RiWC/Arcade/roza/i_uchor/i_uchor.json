@@ -1,0 +1,129 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "120-440-600": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "i_uchor_0.png",
+                    "name": "UCHO1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "i_uchor_0.png",
+                    "name": "UCHO1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE0": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "i_uchor_0.png",
+                    "name": "UCHO1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE1": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "i_uchor_1.png",
+                    "name": "UCHO2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE2": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "i_uchor_2.png",
+                    "name": "UCHO3",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE3": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "i_uchor_1.png",
+                    "name": "UCHO2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "i_uchor_0.png": {
+            "compression": 4,
+            "name": "UCHO1",
+            "position_x": 77,
+            "position_y": 137
+        },
+        "i_uchor_1.png": {
+            "compression": 4,
+            "name": "UCHO2",
+            "position_x": 79,
+            "position_y": 156
+        },
+        "i_uchor_2.png": {
+            "compression": 4,
+            "name": "UCHO3",
+            "position_x": 75,
+            "position_y": 161
+        }
+    },
+    "transparency": 255
+}

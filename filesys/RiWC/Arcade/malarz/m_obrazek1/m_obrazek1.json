@@ -1,0 +1,89 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "268-397-1": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_obrazek1_0.png",
+                    "name": "M1J",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "OFF": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_obrazek1_1.png",
+                    "name": "M1C",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ON": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_obrazek1_0.png",
+                    "name": "M1J",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_obrazek1_0.png",
+                    "name": "M1J",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "m_obrazek1_0.png": {
+            "compression": 3,
+            "name": "M1J",
+            "position_x": 188,
+            "position_y": 70
+        },
+        "m_obrazek1_1.png": {
+            "compression": 3,
+            "name": "M1C",
+            "position_x": 188,
+            "position_y": 70
+        }
+    },
+    "transparency": 255
+}

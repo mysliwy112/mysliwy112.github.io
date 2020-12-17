@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "1000-500-10": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_rozaszyld_0.png",
+                    "name": "POD_ROZA",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_rozaszyld_0.png",
+                    "name": "POD_ROZA",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "m_rozaszyld_0.png": {
+            "compression": 2,
+            "name": "POD_ROZA",
+            "position_x": 964,
+            "position_y": 327
+        }
+    },
+    "transparency": 255
+}

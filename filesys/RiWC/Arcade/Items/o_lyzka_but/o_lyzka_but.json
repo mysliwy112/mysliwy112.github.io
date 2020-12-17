@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "o_lyzka_but_0.png",
+                    "name": "LYZKA_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "o_lyzka_but_1.png",
+                    "name": "LYZKA",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "o_lyzka_but_0.png": {
+            "compression": 4,
+            "name": "LYZKA_COPY",
+            "position_x": 10,
+            "position_y": 10
+        },
+        "o_lyzka_but_1.png": {
+            "compression": 4,
+            "name": "LYZKA",
+            "position_x": 15,
+            "position_y": 30
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,105 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "DOOR": {
+            "frames": [
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "door_0.png",
+                    "name": "closed",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\00mendorcls.wav",
+                    "sfx_seed": 19558300
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "door_2.png",
+                    "name": "middle",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "door_1.png",
+                    "name": "open",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "DOOR2": {
+            "frames": [
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "door_1.png",
+                    "name": "open",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\00mendorin.wav",
+                    "sfx_seed": 19679268
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "door_2.png",
+                    "name": "middle",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "door_0.png",
+                    "name": "closed",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "door_0.png": {
+            "compression": 4,
+            "name": "OPEN"
+        },
+        "door_1.png": {
+            "compression": 4,
+            "name": "CLOSED",
+            "position_y": 3
+        },
+        "door_2.png": {
+            "compression": 4,
+            "name": "MIDDLE",
+            "position_y": 2
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,89 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "ONCLICK": {
+            "frames": [
+                {
+                    "check": [
+                        64,
+                        206,
+                        85
+                    ],
+                    "filename": "e_no_1.png",
+                    "name": "nie_ac",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONFOCUSOFF": {
+            "frames": [
+                {
+                    "check": [
+                        64,
+                        206,
+                        85
+                    ],
+                    "filename": "e_no_0.png",
+                    "name": "nie_in",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONFOCUSON": {
+            "frames": [
+                {
+                    "check": [
+                        64,
+                        206,
+                        85
+                    ],
+                    "filename": "e_no_1.png",
+                    "name": "nie_ac",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONNOEVENT": {
+            "frames": [
+                {
+                    "check": [
+                        64,
+                        206,
+                        85
+                    ],
+                    "filename": "e_no_0.png",
+                    "name": "nie_in",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "e_no_0.png": {
+            "compression": 3,
+            "name": "nie_in",
+            "position_x": 138,
+            "position_y": 551
+        },
+        "e_no_1.png": {
+            "compression": 3,
+            "name": "nie_ac",
+            "position_x": 138,
+            "position_y": 551
+        }
+    },
+    "transparency": 255
+}

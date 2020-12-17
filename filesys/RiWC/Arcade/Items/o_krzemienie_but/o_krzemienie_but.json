@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "o_krzemienie_but_0.png",
+                    "name": "KAMYK_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "o_krzemienie_but_1.png",
+                    "name": "KAMYK",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "o_krzemienie_but_0.png": {
+            "compression": 3,
+            "name": "KAMYK_COPY",
+            "position_x": 10,
+            "position_y": 10
+        },
+        "o_krzemienie_but_1.png": {
+            "compression": 3,
+            "name": "KAMYK",
+            "position_x": 25,
+            "position_y": 26
+        }
+    },
+    "transparency": 255
+}

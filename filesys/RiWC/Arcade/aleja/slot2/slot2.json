@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "290-530-10": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "slot2_0.png",
+                    "name": "TLO_COPY_4",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "slot2_0.png",
+                    "name": "TLO_COPY_4",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "slot2_0.png": {
+            "compression": 3,
+            "name": "TLO_COPY_4",
+            "position_x": 236,
+            "position_y": 199
+        }
+    },
+    "transparency": 255
+}

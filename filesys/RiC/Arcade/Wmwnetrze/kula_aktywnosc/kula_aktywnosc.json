@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "650-850": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "kula_aktywnosc_0.png",
+                    "name": "AKTYWNOSC",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "kula_aktywnosc_0.png",
+                    "name": "AKTYWNOSC",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "kula_aktywnosc_0.png": {
+            "compression": 4,
+            "name": "AKTYWNOSC",
+            "position_x": 119,
+            "position_y": 7
+        }
+    },
+    "transparency": 255
+}

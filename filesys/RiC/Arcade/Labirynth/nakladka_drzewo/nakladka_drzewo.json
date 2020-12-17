@@ -1,0 +1,48 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "129-1172-1200": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "nakladka_drzewo_0.png",
+                    "name": "WEJSCIE",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "nakladka_drzewo_0.png",
+                    "name": "WEJSCIE",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "nakladka_drzewo_0.png": {
+            "compression": 4,
+            "name": "WEJSCIE",
+            "position_y": 937
+        }
+    },
+    "transparency": 255
+}

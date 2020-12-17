@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "LATAWIEC": {
+            "frames": [
+                {
+                    "check": [
+                        16,
+                        51,
+                        78
+                    ],
+                    "filename": "3osmiornica_0.png",
+                    "name": "OSMIORNICZKA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        16,
+                        51,
+                        78
+                    ],
+                    "filename": "3osmiornica_1.png",
+                    "name": "OSMIORNICZKA",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "3osmiornica_0.png": {
+            "compression": 4,
+            "name": "OSMIORNICZKA",
+            "position_x": 673,
+            "position_y": 24
+        },
+        "3osmiornica_1.png": {
+            "compression": 4,
+            "name": "OSMIORNICZKA",
+            "position_x": 513,
+            "position_y": 194
+        }
+    },
+    "transparency": 255
+}

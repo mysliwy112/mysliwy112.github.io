@@ -1,0 +1,136 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "204-241-001": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "paczka1a_0.png",
+                    "name": "PACZKA1_COPY_4_204-241-001",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "paczka1a_0.png",
+                    "name": "PACZKA1_COPY_4_204-241-001",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE0": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "paczka1a_0.png",
+                    "name": "PACZKA1_COPY_4_204-241-001",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\piw2.wav",
+                    "sfx_seed": 50388828
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "paczka1a_1.png",
+                    "name": "PACZKA1_COPY_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "paczka1a_2.png",
+                    "name": "PACZKA1_COPY_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "paczka1a_3.png",
+                    "name": "PACZKA1_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "paczka1a_4.png",
+                    "name": "PACZKA1_307-243-020",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "paczka1a_0.png": {
+            "compression": 4,
+            "name": "PACZKA1_COPY_4_204-",
+            "position_x": 195,
+            "position_y": 152
+        },
+        "paczka1a_1.png": {
+            "compression": 4,
+            "name": "PACZKA1_COPY_3",
+            "position_x": 228,
+            "position_y": 143
+        },
+        "paczka1a_2.png": {
+            "compression": 4,
+            "name": "PACZKA1_COPY_2",
+            "position_x": 255,
+            "position_y": 152
+        },
+        "paczka1a_3.png": {
+            "compression": 4,
+            "name": "PACZKA1_COPY",
+            "position_x": 256,
+            "position_y": 195
+        },
+        "paczka1a_4.png": {
+            "compression": 4,
+            "name": "PACZKA1_307-243-020",
+            "position_x": 255,
+            "position_y": 228
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,55 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "305-517-020": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "do_ratusza_0.png",
+                    "name": "DO_RATUSZA_305-517-020",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "do_ratusza_1.png",
+                    "name": "DRZWI_OTWARTE",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "do_ratusza_0.png": {
+            "compression": 4,
+            "name": "DO_RATUSZA_305-517-",
+            "position_x": 249,
+            "position_y": 431
+        },
+        "do_ratusza_1.png": {
+            "compression": 4,
+            "name": "DRZWI_OTWARTE",
+            "position_x": 266,
+            "position_y": 437
+        }
+    },
+    "transparency": 255
+}

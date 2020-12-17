@@ -1,0 +1,66 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "telep3_0.png",
+                    "name": "P1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "telep3_1.png",
+                    "name": "P2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "telep3_2.png",
+                    "name": "P3",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 2,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "telep3_0.png": {
+            "compression": 4,
+            "name": "P1",
+            "position_x": 36,
+            "position_y": 196
+        },
+        "telep3_1.png": {
+            "compression": 4,
+            "name": "P2",
+            "position_x": 35,
+            "position_y": 197
+        },
+        "telep3_2.png": {
+            "compression": 4,
+            "name": "P3",
+            "position_x": 35,
+            "position_y": 195
+        }
+    },
+    "transparency": 255
+}

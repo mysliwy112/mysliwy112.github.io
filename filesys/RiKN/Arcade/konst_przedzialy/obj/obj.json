@@ -1,0 +1,106 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "galazka": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj_1.png",
+                    "name": "pixel",
+                    "position_x": -1000,
+                    "position_y": -1000
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj_3.png",
+                    "name": "galazka",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "parasol": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj_1.png",
+                    "name": "pixel",
+                    "position_x": -1000,
+                    "position_y": -1000
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj_2.png",
+                    "name": "parasol",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "wlaz": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj_0.png",
+                    "name": "klapa",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "obj_0.png": {
+            "compression": 3,
+            "name": "klapa",
+            "position_x": 324,
+            "position_y": 60
+        },
+        "obj_1.png": {
+            "compression": 3,
+            "name": "pixel",
+            "position_x": -1,
+            "position_y": -1
+        },
+        "obj_2.png": {
+            "compression": 3,
+            "name": "parasol",
+            "position_x": 213,
+            "position_y": 254
+        },
+        "obj_3.png": {
+            "compression": 3,
+            "name": "galazka",
+            "position_x": 104,
+            "position_y": 367
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "1670-500-10": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_leonardokartka_0.png",
+                    "name": "KARTKA_VINCI",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_leonardokartka_0.png",
+                    "name": "KARTKA_VINCI",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "m_leonardokartka_0.png": {
+            "compression": 2,
+            "name": "KARTKA_VINCI",
+            "position_x": 1659,
+            "position_y": 422
+        }
+    },
+    "transparency": 255
+}

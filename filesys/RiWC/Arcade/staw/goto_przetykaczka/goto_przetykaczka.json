@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "303-372-412": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "goto_przetykaczka_0.png",
+                    "name": "PRZETYKACZKA_GOTO303-372-412",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "goto_przetykaczka_0.png",
+                    "name": "PRZETYKACZKA_GOTO303-372-412",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "goto_przetykaczka_0.png": {
+            "compression": 4,
+            "name": "PRZETYKACZKA_GOTO30",
+            "position_x": 364,
+            "position_y": 233
+        }
+    },
+    "transparency": 255
+}

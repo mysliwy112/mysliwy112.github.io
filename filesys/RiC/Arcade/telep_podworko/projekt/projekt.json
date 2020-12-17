@@ -1,0 +1,210 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "570-417-601": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "projekt_0.png",
+                    "name": "LAYER_66",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "projekt_0.png",
+                    "name": "LAYER_66",
+                    "position_x": 269,
+                    "position_y": 5
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE0": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "projekt_0.png",
+                    "name": "LAYER_66",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\int_kart3.wav",
+                    "sfx_seed": 50684948
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "projekt_2.png",
+                    "name": "LAYER_66_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "projekt_4.png",
+                    "name": "LAYER_65",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "projekt_3.png",
+                    "name": "LAYER_64",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "projekt_1.png",
+                    "name": "PROJEKT",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE1": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "projekt_1.png",
+                    "name": "PROJEKT",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\int_kart4.wav",
+                    "sfx_seed": 50250148
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "projekt_3.png",
+                    "name": "LAYER_64",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "projekt_4.png",
+                    "name": "LAYER_65",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "projekt_2.png",
+                    "name": "LAYER_66_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "projekt_0.png",
+                    "name": "LAYER_66",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "projekt_0.png",
+                    "name": "LAYER_66",
+                    "position_x": 263,
+                    "position_y": 10
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "projekt_0.png": {
+            "compression": 3,
+            "name": "LAYER_66",
+            "position_x": 545,
+            "position_y": 325
+        },
+        "projekt_1.png": {
+            "compression": 3,
+            "name": "PROJEKT",
+            "position_x": 24,
+            "position_y": 25
+        },
+        "projekt_2.png": {
+            "compression": 3,
+            "name": "LAYER_66_COPY",
+            "position_x": 465,
+            "position_y": 286
+        },
+        "projekt_3.png": {
+            "compression": 3,
+            "name": "LAYER_64",
+            "position_x": 218,
+            "position_y": 108
+        },
+        "projekt_4.png": {
+            "compression": 3,
+            "name": "LAYER_65",
+            "position_x": 345,
+            "position_y": 224
+        }
+    },
+    "transparency": 255
+}

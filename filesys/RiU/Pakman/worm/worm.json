@@ -1,0 +1,854 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "Click": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FocusOff": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FocusOn": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "INIT": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_4.png",
+                    "name": "brak",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NoEvent": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "WALK0": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_0.png",
+                    "name": "1_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_5.png",
+                    "name": "2_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_9.png",
+                    "name": "3_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_13.png",
+                    "name": "4_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_17.png",
+                    "name": "5_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_21.png",
+                    "name": "6_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_25.png",
+                    "name": "7_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_29.png",
+                    "name": "8_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_33.png",
+                    "name": "9_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_37.png",
+                    "name": "10_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_41.png",
+                    "name": "11_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_45.png",
+                    "name": "12_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_49.png",
+                    "name": "13_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "WALK1": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_1.png",
+                    "name": "1_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_6.png",
+                    "name": "2_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_10.png",
+                    "name": "3_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_14.png",
+                    "name": "4_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_18.png",
+                    "name": "5_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_22.png",
+                    "name": "6_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_26.png",
+                    "name": "7_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_30.png",
+                    "name": "8_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_34.png",
+                    "name": "9_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_38.png",
+                    "name": "10_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_42.png",
+                    "name": "11_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_46.png",
+                    "name": "12_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_50.png",
+                    "name": "13_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "WALK2": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_2.png",
+                    "name": "1_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_7.png",
+                    "name": "2_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_11.png",
+                    "name": "3_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_15.png",
+                    "name": "4_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_19.png",
+                    "name": "5_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_23.png",
+                    "name": "6_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_27.png",
+                    "name": "7_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_31.png",
+                    "name": "8_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_35.png",
+                    "name": "9_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_39.png",
+                    "name": "10_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_43.png",
+                    "name": "11_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_47.png",
+                    "name": "12_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_51.png",
+                    "name": "13_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "WALK3": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_3.png",
+                    "name": "1_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_8.png",
+                    "name": "2_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_12.png",
+                    "name": "3_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_16.png",
+                    "name": "4_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_20.png",
+                    "name": "5_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_24.png",
+                    "name": "6_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_28.png",
+                    "name": "7_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_32.png",
+                    "name": "8_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_36.png",
+                    "name": "9_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_40.png",
+                    "name": "10_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_44.png",
+                    "name": "11_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_48.png",
+                    "name": "12_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "worm_52.png",
+                    "name": "13_duzy czerw",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "worm_0.png": {
+            "compression": 4,
+            "name": "1_DUZY CZERW"
+        },
+        "worm_1.png": {
+            "compression": 4,
+            "name": "1_DUZY CZERW"
+        },
+        "worm_10.png": {
+            "compression": 4,
+            "name": "3_DUZY CZERW"
+        },
+        "worm_11.png": {
+            "compression": 4,
+            "name": "3_DUZY CZERW"
+        },
+        "worm_12.png": {
+            "compression": 4,
+            "name": "3_DUZY CZERW"
+        },
+        "worm_13.png": {
+            "compression": 4,
+            "name": "4_DUZY CZERW"
+        },
+        "worm_14.png": {
+            "compression": 4,
+            "name": "4_DUZY CZERW"
+        },
+        "worm_15.png": {
+            "compression": 4,
+            "name": "4_DUZY CZERW"
+        },
+        "worm_16.png": {
+            "compression": 4,
+            "name": "4_DUZY CZERW"
+        },
+        "worm_17.png": {
+            "compression": 4,
+            "name": "5_DUZY CZERW"
+        },
+        "worm_18.png": {
+            "compression": 4,
+            "name": "5_DUZY CZERW"
+        },
+        "worm_19.png": {
+            "compression": 4,
+            "name": "5_DUZY CZERW"
+        },
+        "worm_2.png": {
+            "compression": 4,
+            "name": "1_DUZY CZERW"
+        },
+        "worm_20.png": {
+            "compression": 4,
+            "name": "5_DUZY CZERW"
+        },
+        "worm_21.png": {
+            "compression": 4,
+            "name": "6_DUZY CZERW"
+        },
+        "worm_22.png": {
+            "compression": 4,
+            "name": "6_DUZY CZERW"
+        },
+        "worm_23.png": {
+            "compression": 4,
+            "name": "6_DUZY CZERW"
+        },
+        "worm_24.png": {
+            "compression": 4,
+            "name": "6_DUZY CZERW"
+        },
+        "worm_25.png": {
+            "compression": 4,
+            "name": "7_DUZY CZERW"
+        },
+        "worm_26.png": {
+            "compression": 4,
+            "name": "7_DUZY CZERW"
+        },
+        "worm_27.png": {
+            "compression": 4,
+            "name": "7_DUZY CZERW"
+        },
+        "worm_28.png": {
+            "compression": 4,
+            "name": "7_DUZY CZERW"
+        },
+        "worm_29.png": {
+            "compression": 4,
+            "name": "8_DUZY CZERW"
+        },
+        "worm_3.png": {
+            "compression": 4,
+            "name": "1_DUZY CZERW"
+        },
+        "worm_30.png": {
+            "compression": 4,
+            "name": "8_DUZY CZERW"
+        },
+        "worm_31.png": {
+            "compression": 4,
+            "name": "8_DUZY CZERW"
+        },
+        "worm_32.png": {
+            "compression": 4,
+            "name": "8_DUZY CZERW"
+        },
+        "worm_33.png": {
+            "compression": 4,
+            "name": "9_DUZY CZERW"
+        },
+        "worm_34.png": {
+            "compression": 4,
+            "name": "9_DUZY CZERW"
+        },
+        "worm_35.png": {
+            "compression": 4,
+            "name": "9_DUZY CZERW"
+        },
+        "worm_36.png": {
+            "compression": 4,
+            "name": "9_DUZY CZERW"
+        },
+        "worm_37.png": {
+            "compression": 4,
+            "name": "10_DUZY CZERW"
+        },
+        "worm_38.png": {
+            "compression": 4,
+            "name": "10_DUZY CZERW"
+        },
+        "worm_39.png": {
+            "compression": 4,
+            "name": "10_DUZY CZERW"
+        },
+        "worm_4.png": {
+            "compression": 4,
+            "name": "brak"
+        },
+        "worm_40.png": {
+            "compression": 4,
+            "name": "10_DUZY CZERW"
+        },
+        "worm_41.png": {
+            "compression": 4,
+            "name": "11_DUZY CZERW"
+        },
+        "worm_42.png": {
+            "compression": 4,
+            "name": "11_DUZY CZERW"
+        },
+        "worm_43.png": {
+            "compression": 4,
+            "name": "11_DUZY CZERW"
+        },
+        "worm_44.png": {
+            "compression": 4,
+            "name": "11_DUZY CZERW"
+        },
+        "worm_45.png": {
+            "compression": 4,
+            "name": "12_DUZY CZERW"
+        },
+        "worm_46.png": {
+            "compression": 4,
+            "name": "12_DUZY CZERW"
+        },
+        "worm_47.png": {
+            "compression": 4,
+            "name": "12_DUZY CZERW"
+        },
+        "worm_48.png": {
+            "compression": 4,
+            "name": "12_DUZY CZERW"
+        },
+        "worm_49.png": {
+            "compression": 4,
+            "name": "13_DUZY CZERW"
+        },
+        "worm_5.png": {
+            "compression": 4,
+            "name": "2_DUZY CZERW"
+        },
+        "worm_50.png": {
+            "compression": 4,
+            "name": "13_DUZY CZERW"
+        },
+        "worm_51.png": {
+            "compression": 4,
+            "name": "13_DUZY CZERW"
+        },
+        "worm_52.png": {
+            "compression": 4,
+            "name": "13_DUZY CZERW"
+        },
+        "worm_6.png": {
+            "compression": 4,
+            "name": "2_DUZY CZERW"
+        },
+        "worm_7.png": {
+            "compression": 4,
+            "name": "2_DUZY CZERW"
+        },
+        "worm_8.png": {
+            "compression": 4,
+            "name": "2_DUZY CZERW"
+        },
+        "worm_9.png": {
+            "compression": 4,
+            "name": "3_DUZY CZERW"
+        }
+    },
+    "transparency": 255
+}

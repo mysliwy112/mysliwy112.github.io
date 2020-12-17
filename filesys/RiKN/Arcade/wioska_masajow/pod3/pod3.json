@@ -1,0 +1,47 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "kura": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod3_0.png",
+                    "name": "Warstwa_54",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod3_1.png",
+                    "name": "pixel",
+                    "position_x": -1000,
+                    "position_y": -1000
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "pod3_0.png": {
+            "compression": 3,
+            "name": "Warstwa_54",
+            "position_x": 419,
+            "position_y": 56
+        },
+        "pod3_1.png": {
+            "compression": 3,
+            "name": "pixel"
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,89 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "ONCLICK": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_load4_1.png",
+                    "name": "LOAD_AC",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONFOCUSOFF": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_load4_0.png",
+                    "name": "LOAD_IN",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONFOCUSON": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_load4_1.png",
+                    "name": "LOAD_AC",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONNOEVENT": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_load4_0.png",
+                    "name": "LOAD_IN",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "m_load4_0.png": {
+            "compression": 3,
+            "name": "LOAD_IN",
+            "position_x": 703,
+            "position_y": 442
+        },
+        "m_load4_1.png": {
+            "compression": 3,
+            "name": "LOAD_AC",
+            "position_x": 703,
+            "position_y": 442
+        }
+    },
+    "transparency": 255
+}

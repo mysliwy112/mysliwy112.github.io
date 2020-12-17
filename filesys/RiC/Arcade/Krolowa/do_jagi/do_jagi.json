@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "800-600-15": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "do_jagi_0.png",
+                    "name": "DO_JAGI_800-600-15",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "do_jagi_0.png",
+                    "name": "DO_JAGI_800-600-15",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "do_jagi_0.png": {
+            "compression": 4,
+            "name": "DO_JAGI_800-600-15",
+            "position_x": 474,
+            "position_y": 485
+        }
+    },
+    "transparency": 255
+}

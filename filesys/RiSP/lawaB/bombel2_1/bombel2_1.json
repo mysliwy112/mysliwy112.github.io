@@ -1,0 +1,630 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        128,
+                        196,
+                        165
+                    ],
+                    "filename": "bombel2_1_0.png",
+                    "name": "1",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "sfx\\00lawa3.wav",
+                    "sfx_seed": 10837168
+                },
+                {
+                    "check": [],
+                    "filename": "bombel2_1_1.png",
+                    "name": "2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        128,
+                        195,
+                        165
+                    ],
+                    "filename": "bombel2_1_2.png",
+                    "name": "3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "bombel2_1_3.png",
+                    "name": "4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        128,
+                        194,
+                        165
+                    ],
+                    "filename": "bombel2_1_4.png",
+                    "name": "5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "bombel2_1_5.png",
+                    "name": "6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        128,
+                        193,
+                        165
+                    ],
+                    "filename": "bombel2_1_6.png",
+                    "name": "7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "bombel2_1_7.png",
+                    "name": "8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        128,
+                        192,
+                        165
+                    ],
+                    "filename": "bombel2_1_8.png",
+                    "name": "9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        223,
+                        165
+                    ],
+                    "filename": "bombel2_1_9.png",
+                    "name": "10",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        223,
+                        165
+                    ],
+                    "filename": "bombel2_1_10.png",
+                    "name": "11P",
+                    "position_x": 0,
+                    "position_y": 5
+                },
+                {
+                    "check": [
+                        240,
+                        222,
+                        165
+                    ],
+                    "filename": "bombel2_1_10.png",
+                    "name": "11P",
+                    "position_x": 0,
+                    "position_y": 5
+                },
+                {
+                    "check": [
+                        112,
+                        222,
+                        165
+                    ],
+                    "filename": "bombel2_1_10.png",
+                    "name": "11P",
+                    "position_x": 0,
+                    "position_y": 5
+                },
+                {
+                    "check": [
+                        240,
+                        221,
+                        165
+                    ],
+                    "filename": "bombel2_1_10.png",
+                    "name": "11P",
+                    "position_x": 0,
+                    "position_y": 5
+                },
+                {
+                    "check": [
+                        112,
+                        221,
+                        165
+                    ],
+                    "filename": "bombel2_1_0.png",
+                    "name": "1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        220,
+                        165
+                    ],
+                    "filename": "bombel2_1_1.png",
+                    "name": "2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        220,
+                        165
+                    ],
+                    "filename": "bombel2_1_2.png",
+                    "name": "3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        219,
+                        165
+                    ],
+                    "filename": "bombel2_1_3.png",
+                    "name": "4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        219,
+                        165
+                    ],
+                    "filename": "bombel2_1_4.png",
+                    "name": "5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        218,
+                        165
+                    ],
+                    "filename": "bombel2_1_5.png",
+                    "name": "6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        218,
+                        165
+                    ],
+                    "filename": "bombel2_1_6.png",
+                    "name": "7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        217,
+                        165
+                    ],
+                    "filename": "bombel2_1_7.png",
+                    "name": "8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        217,
+                        165
+                    ],
+                    "filename": "bombel2_1_8.png",
+                    "name": "9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        216,
+                        165
+                    ],
+                    "filename": "bombel2_1_9.png",
+                    "name": "10",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        216,
+                        165
+                    ],
+                    "filename": "bombel2_1_10.png",
+                    "name": "11P",
+                    "position_x": 0,
+                    "position_y": 5
+                },
+                {
+                    "check": [
+                        240,
+                        215,
+                        165
+                    ],
+                    "filename": "bombel2_1_10.png",
+                    "name": "11P",
+                    "position_x": 0,
+                    "position_y": 5
+                },
+                {
+                    "check": [
+                        112,
+                        215,
+                        165
+                    ],
+                    "filename": "bombel2_1_10.png",
+                    "name": "11P",
+                    "position_x": 0,
+                    "position_y": 5
+                },
+                {
+                    "check": [
+                        240,
+                        214,
+                        165
+                    ],
+                    "filename": "bombel2_1_10.png",
+                    "name": "11P",
+                    "position_x": 0,
+                    "position_y": 5
+                },
+                {
+                    "check": [
+                        112,
+                        214,
+                        165
+                    ],
+                    "filename": "bombel2_1_10.png",
+                    "name": "11P",
+                    "position_x": 0,
+                    "position_y": 5
+                },
+                {
+                    "check": [
+                        240,
+                        213,
+                        165
+                    ],
+                    "filename": "bombel2_1_10.png",
+                    "name": "11P",
+                    "position_x": 0,
+                    "position_y": 5
+                },
+                {
+                    "check": [
+                        112,
+                        213,
+                        165
+                    ],
+                    "filename": "bombel2_1_10.png",
+                    "name": "11P",
+                    "position_x": 0,
+                    "position_y": 5
+                },
+                {
+                    "check": [
+                        240,
+                        212,
+                        165
+                    ],
+                    "filename": "bombel2_1_10.png",
+                    "name": "11P",
+                    "position_x": 0,
+                    "position_y": 5
+                },
+                {
+                    "check": [
+                        112,
+                        212,
+                        165
+                    ],
+                    "filename": "bombel2_1_10.png",
+                    "name": "11P",
+                    "position_x": 0,
+                    "position_y": 5
+                },
+                {
+                    "check": [
+                        240,
+                        211,
+                        165
+                    ],
+                    "filename": "bombel2_1_10.png",
+                    "name": "11P",
+                    "position_x": 0,
+                    "position_y": 5
+                },
+                {
+                    "check": [
+                        112,
+                        211,
+                        165
+                    ],
+                    "filename": "bombel2_1_10.png",
+                    "name": "11P",
+                    "position_x": 0,
+                    "position_y": 5
+                },
+                {
+                    "check": [
+                        240,
+                        210,
+                        165
+                    ],
+                    "filename": "bombel2_1_10.png",
+                    "name": "11P",
+                    "position_x": 0,
+                    "position_y": 5
+                },
+                {
+                    "check": [
+                        112,
+                        210,
+                        165
+                    ],
+                    "filename": "bombel2_1_10.png",
+                    "name": "11P",
+                    "position_x": 0,
+                    "position_y": 5
+                },
+                {
+                    "check": [
+                        240,
+                        209,
+                        165
+                    ],
+                    "filename": "bombel2_1_0.png",
+                    "name": "1",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "sfx\\00lawa2.wav;sfx\\00lawa1.wav",
+                    "sfx_seed": 10864672
+                },
+                {
+                    "check": [
+                        112,
+                        209,
+                        165
+                    ],
+                    "filename": "bombel2_1_1.png",
+                    "name": "2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        208,
+                        165
+                    ],
+                    "filename": "bombel2_1_2.png",
+                    "name": "3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        208,
+                        165
+                    ],
+                    "filename": "bombel2_1_3.png",
+                    "name": "4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        64,
+                        208,
+                        165
+                    ],
+                    "filename": "bombel2_1_4.png",
+                    "name": "5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        239,
+                        165
+                    ],
+                    "filename": "bombel2_1_5.png",
+                    "name": "6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        238,
+                        165
+                    ],
+                    "filename": "bombel2_1_6.png",
+                    "name": "7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        238,
+                        165
+                    ],
+                    "filename": "bombel2_1_7.png",
+                    "name": "8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        237,
+                        165
+                    ],
+                    "filename": "bombel2_1_8.png",
+                    "name": "9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        237,
+                        165
+                    ],
+                    "filename": "bombel2_1_9.png",
+                    "name": "10",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        236,
+                        165
+                    ],
+                    "filename": "bombel2_1_10.png",
+                    "name": "11P",
+                    "position_x": 0,
+                    "position_y": 5
+                },
+                {
+                    "check": [
+                        80,
+                        236,
+                        165
+                    ],
+                    "filename": "bombel2_1_10.png",
+                    "name": "11P",
+                    "position_x": 0,
+                    "position_y": 5
+                },
+                {
+                    "check": [
+                        208,
+                        235,
+                        165
+                    ],
+                    "filename": "bombel2_1_10.png",
+                    "name": "11P",
+                    "position_x": 0,
+                    "position_y": 5
+                },
+                {
+                    "check": [
+                        80,
+                        235,
+                        165
+                    ],
+                    "filename": "bombel2_1_10.png",
+                    "name": "11P",
+                    "position_x": 0,
+                    "position_y": 5
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "bombel2_1_0.png": {
+            "compression": 4,
+            "name": "1",
+            "position_x": 138,
+            "position_y": 335
+        },
+        "bombel2_1_1.png": {
+            "compression": 4,
+            "name": "2",
+            "position_x": 133,
+            "position_y": 332
+        },
+        "bombel2_1_10.png": {
+            "compression": 4,
+            "name": "11P",
+            "position_x": 144,
+            "position_y": 334
+        },
+        "bombel2_1_2.png": {
+            "compression": 4,
+            "name": "3",
+            "position_x": 129,
+            "position_y": 329
+        },
+        "bombel2_1_3.png": {
+            "compression": 4,
+            "name": "4",
+            "position_x": 125,
+            "position_y": 328
+        },
+        "bombel2_1_4.png": {
+            "compression": 4,
+            "name": "5",
+            "position_x": 123,
+            "position_y": 329
+        },
+        "bombel2_1_5.png": {
+            "compression": 4,
+            "name": "6",
+            "position_x": 124,
+            "position_y": 326
+        },
+        "bombel2_1_6.png": {
+            "compression": 4,
+            "name": "7",
+            "position_x": 124,
+            "position_y": 332
+        },
+        "bombel2_1_7.png": {
+            "compression": 4,
+            "name": "8",
+            "position_x": 126,
+            "position_y": 337
+        },
+        "bombel2_1_8.png": {
+            "compression": 4,
+            "name": "9",
+            "position_x": 134,
+            "position_y": 339
+        },
+        "bombel2_1_9.png": {
+            "compression": 4,
+            "name": "10",
+            "position_x": 141,
+            "position_y": 339
+        }
+    },
+    "transparency": 255
+}

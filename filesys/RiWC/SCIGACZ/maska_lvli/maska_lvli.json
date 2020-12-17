@@ -1,0 +1,42 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "level": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "maska_lvli_0.png",
+                    "name": "1",
+                    "position_x": -60,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "maska_lvli_0.png",
+                    "name": "2",
+                    "position_x": 9540,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "maska_lvli_0.png": {
+            "compression": 4,
+            "name": "Layer_1",
+            "position_y": 440
+        }
+    },
+    "transparency": 255
+}

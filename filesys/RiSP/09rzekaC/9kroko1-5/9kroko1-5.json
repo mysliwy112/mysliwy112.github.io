@@ -1,0 +1,697 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "BEZRUCH": {
+            "frames": [
+                {
+                    "check": [
+                        48,
+                        96,
+                        164
+                    ],
+                    "filename": "9kroko1-5_0.png",
+                    "name": "00_KROKODYL",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        64,
+                        127,
+                        164
+                    ],
+                    "filename": "9kroko1-5_1.png",
+                    "name": "1_BEZRUCH",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        176,
+                        126,
+                        164
+                    ],
+                    "filename": "9kroko1-5_4.png",
+                    "name": "2_BEZRUCH",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        32,
+                        126,
+                        164
+                    ],
+                    "filename": "9kroko1-5_4.png",
+                    "name": "2_BEZRUCH",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        144,
+                        125,
+                        164
+                    ],
+                    "filename": "9kroko1-5_4.png",
+                    "name": "2_BEZRUCH",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [],
+                    "filename": "9kroko1-5_4.png",
+                    "name": "2_BEZRUCH",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        112,
+                        124,
+                        164
+                    ],
+                    "filename": "9kroko1-5_1.png",
+                    "name": "1_BEZRUCH",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        224,
+                        123,
+                        164
+                    ],
+                    "filename": "9kroko1-5_10.png",
+                    "name": "3_BEZRUCH",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        80,
+                        123,
+                        164
+                    ],
+                    "filename": "9kroko1-5_12.png",
+                    "name": "4_BEZRUCH",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        192,
+                        122,
+                        164
+                    ],
+                    "filename": "9kroko1-5_12.png",
+                    "name": "4_BEZRUCH",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        48,
+                        122,
+                        164
+                    ],
+                    "filename": "9kroko1-5_12.png",
+                    "name": "4_BEZRUCH",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        160,
+                        121,
+                        164
+                    ],
+                    "filename": "9kroko1-5_10.png",
+                    "name": "3_BEZRUCH",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        16,
+                        121,
+                        164
+                    ],
+                    "filename": "9kroko1-5_0.png",
+                    "name": "00_KROKODYL",
+                    "position_x": 178,
+                    "position_y": -85
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "OTWIERA": {
+            "frames": [
+                {
+                    "check": [
+                        128,
+                        135,
+                        164
+                    ],
+                    "filename": "9kroko1-5_0.png",
+                    "name": "00_KROKODYL",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        240,
+                        134,
+                        164
+                    ],
+                    "filename": "9kroko1-5_3.png",
+                    "name": "1_PASZCZA",
+                    "position_x": 178,
+                    "position_y": -85,
+                    "sfx": "sfx\\00kroko2.wav",
+                    "sfx_seed": 10807248
+                },
+                {
+                    "check": [
+                        96,
+                        134,
+                        164
+                    ],
+                    "filename": "9kroko1-5_6.png",
+                    "name": "2_PASZCZA",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        208,
+                        133,
+                        164
+                    ],
+                    "filename": "9kroko1-5_8.png",
+                    "name": "3_PASZCZA",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        64,
+                        133,
+                        164
+                    ],
+                    "filename": "9kroko1-5_9.png",
+                    "name": "4_PASZCZA",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        176,
+                        132,
+                        164
+                    ],
+                    "filename": "9kroko1-5_9.png",
+                    "name": "4_PASZCZA",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        32,
+                        132,
+                        164
+                    ],
+                    "filename": "9kroko1-5_9.png",
+                    "name": "4_PASZCZA",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        144,
+                        131,
+                        164
+                    ],
+                    "filename": "9kroko1-5_11.png",
+                    "name": "5_PASZCZA",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [],
+                    "filename": "9kroko1-5_13.png",
+                    "name": "6_PASZCZA",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        112,
+                        130,
+                        164
+                    ],
+                    "filename": "9kroko1-5_14.png",
+                    "name": "7_PASZCZA",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        224,
+                        129,
+                        164
+                    ],
+                    "filename": "9kroko1-5_15.png",
+                    "name": "8_PASZCZA",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        80,
+                        129,
+                        164
+                    ],
+                    "filename": "9kroko1-5_16.png",
+                    "name": "9_PASZCZA",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        192,
+                        128,
+                        164
+                    ],
+                    "filename": "9kroko1-5_0.png",
+                    "name": "00_KROKODYL",
+                    "position_x": 178,
+                    "position_y": -85
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ZADZIWIONY": {
+            "frames": [
+                {
+                    "check": [
+                        80,
+                        119,
+                        164
+                    ],
+                    "filename": "9kroko1-5_0.png",
+                    "name": "00_KROKODYL",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        192,
+                        118,
+                        164
+                    ],
+                    "filename": "9kroko1-5_2.png",
+                    "name": "1_ZDZI1",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        48,
+                        118,
+                        164
+                    ],
+                    "filename": "9kroko1-5_5.png",
+                    "name": "2_ZDZI1",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        160,
+                        117,
+                        164
+                    ],
+                    "filename": "9kroko1-5_7.png",
+                    "name": "3_ZDZI1",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        16,
+                        117,
+                        164
+                    ],
+                    "filename": "9kroko1-5_0.png",
+                    "name": "00_KROKODYL",
+                    "position_x": 178,
+                    "position_y": -85,
+                    "sfx": "sfx\\00kroko1.wav",
+                    "sfx_seed": 10801408
+                },
+                {
+                    "check": [
+                        128,
+                        116,
+                        164
+                    ],
+                    "filename": "9kroko1-5_2.png",
+                    "name": "1_ZDZI1",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        240,
+                        115,
+                        164
+                    ],
+                    "filename": "9kroko1-5_5.png",
+                    "name": "2_ZDZI1",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        96,
+                        115,
+                        164
+                    ],
+                    "filename": "9kroko1-5_7.png",
+                    "name": "3_ZDZI1",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        208,
+                        114,
+                        164
+                    ],
+                    "filename": "9kroko1-5_7.png",
+                    "name": "3_ZDZI1",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        64,
+                        114,
+                        164
+                    ],
+                    "filename": "9kroko1-5_7.png",
+                    "name": "3_ZDZI1",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        176,
+                        113,
+                        164
+                    ],
+                    "filename": "9kroko1-5_7.png",
+                    "name": "3_ZDZI1",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        32,
+                        113,
+                        164
+                    ],
+                    "filename": "9kroko1-5_5.png",
+                    "name": "2_ZDZI1",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        144,
+                        112,
+                        164
+                    ],
+                    "filename": "9kroko1-5_2.png",
+                    "name": "1_ZDZI1",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        224,
+                        143,
+                        164
+                    ],
+                    "filename": "9kroko1-5_0.png",
+                    "name": "00_KROKODYL",
+                    "position_x": 178,
+                    "position_y": -85
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ZADZIWIONY2": {
+            "frames": [
+                {
+                    "check": [
+                        64,
+                        142,
+                        164
+                    ],
+                    "filename": "9kroko1-5_0.png",
+                    "name": "00_KROKODYL",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        176,
+                        141,
+                        164
+                    ],
+                    "filename": "9kroko1-5_2.png",
+                    "name": "1_ZDZI1",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        32,
+                        141,
+                        164
+                    ],
+                    "filename": "9kroko1-5_5.png",
+                    "name": "2_ZDZI1",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        144,
+                        140,
+                        164
+                    ],
+                    "filename": "9kroko1-5_7.png",
+                    "name": "3_ZDZI1",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [],
+                    "filename": "9kroko1-5_7.png",
+                    "name": "3_ZDZI1",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        112,
+                        139,
+                        164
+                    ],
+                    "filename": "9kroko1-5_7.png",
+                    "name": "3_ZDZI1",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        224,
+                        138,
+                        164
+                    ],
+                    "filename": "9kroko1-5_7.png",
+                    "name": "3_ZDZI1",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        80,
+                        138,
+                        164
+                    ],
+                    "filename": "9kroko1-5_5.png",
+                    "name": "2_ZDZI1",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        192,
+                        137,
+                        164
+                    ],
+                    "filename": "9kroko1-5_2.png",
+                    "name": "1_ZDZI1",
+                    "position_x": 178,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        48,
+                        137,
+                        164
+                    ],
+                    "filename": "9kroko1-5_0.png",
+                    "name": "00_KROKODYL",
+                    "position_x": 178,
+                    "position_y": -85
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "9kroko1-5_0.png": {
+            "compression": 4,
+            "name": "00_KROKODYL",
+            "position_x": 50,
+            "position_y": 376
+        },
+        "9kroko1-5_1.png": {
+            "compression": 4,
+            "name": "1_BEZRUCH",
+            "position_x": 50,
+            "position_y": 376
+        },
+        "9kroko1-5_10.png": {
+            "compression": 4,
+            "name": "3_BEZRUCH",
+            "position_x": 50,
+            "position_y": 376
+        },
+        "9kroko1-5_11.png": {
+            "compression": 4,
+            "name": "5_PASZCZA",
+            "position_x": 34,
+            "position_y": 380
+        },
+        "9kroko1-5_12.png": {
+            "compression": 4,
+            "name": "4_BEZRUCH",
+            "position_x": 50,
+            "position_y": 376
+        },
+        "9kroko1-5_13.png": {
+            "compression": 4,
+            "name": "6_PASZCZA",
+            "position_x": 35,
+            "position_y": 375
+        },
+        "9kroko1-5_14.png": {
+            "compression": 4,
+            "name": "7_PASZCZA",
+            "position_x": 34,
+            "position_y": 370
+        },
+        "9kroko1-5_15.png": {
+            "compression": 4,
+            "name": "8_PASZCZA",
+            "position_x": 45,
+            "position_y": 371
+        },
+        "9kroko1-5_16.png": {
+            "compression": 4,
+            "name": "9_PASZCZA",
+            "position_x": 49,
+            "position_y": 374
+        },
+        "9kroko1-5_2.png": {
+            "compression": 4,
+            "name": "1_ZDZI1",
+            "position_x": 50,
+            "position_y": 376
+        },
+        "9kroko1-5_3.png": {
+            "compression": 4,
+            "name": "1_PASZCZA",
+            "position_x": 49,
+            "position_y": 375
+        },
+        "9kroko1-5_4.png": {
+            "compression": 4,
+            "name": "2_BEZRUCH",
+            "position_x": 50,
+            "position_y": 376
+        },
+        "9kroko1-5_5.png": {
+            "compression": 4,
+            "name": "2_ZDZI1",
+            "position_x": 50,
+            "position_y": 376
+        },
+        "9kroko1-5_6.png": {
+            "compression": 4,
+            "name": "2_PASZCZA",
+            "position_x": 45,
+            "position_y": 378
+        },
+        "9kroko1-5_7.png": {
+            "compression": 4,
+            "name": "3_ZDZI1",
+            "position_x": 50,
+            "position_y": 376
+        },
+        "9kroko1-5_8.png": {
+            "compression": 4,
+            "name": "3_PASZCZA",
+            "position_x": 34,
+            "position_y": 382
+        },
+        "9kroko1-5_9.png": {
+            "compression": 4,
+            "name": "4_PASZCZA",
+            "position_x": 33,
+            "position_y": 374
+        }
+    },
+    "transparency": 255
+}

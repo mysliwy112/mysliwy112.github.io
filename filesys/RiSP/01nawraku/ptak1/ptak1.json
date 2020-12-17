@@ -1,0 +1,785 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CHWYTAKRABA": {
+            "frames": [
+                {
+                    "check": [
+                        64,
+                        225,
+                        164
+                    ],
+                    "filename": "ptak1_2.png",
+                    "name": "1_LAPIEKRABIKA",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        176,
+                        224,
+                        164
+                    ],
+                    "filename": "ptak1_5.png",
+                    "name": "2_LAPIEKRABIKA",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        224,
+                        255,
+                        164
+                    ],
+                    "filename": "ptak1_6.png",
+                    "name": "3_LAPIEKRABIKA",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        80,
+                        255,
+                        164
+                    ],
+                    "filename": "ptak1_8.png",
+                    "name": "4_LAPIEKRABIKA",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        192,
+                        254,
+                        164
+                    ],
+                    "filename": "ptak1_11.png",
+                    "name": "5_LAPIEKRABIKA",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        48,
+                        254,
+                        164
+                    ],
+                    "filename": "ptak1_13.png",
+                    "name": "6_LAPIEKRABIKA",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        160,
+                        253,
+                        164
+                    ],
+                    "filename": "ptak1_15.png",
+                    "name": "7_LAPIEKRABIKA",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        16,
+                        253,
+                        164
+                    ],
+                    "filename": "ptak1_17.png",
+                    "name": "8_LAPIEKRABIKA",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        128,
+                        252,
+                        164
+                    ],
+                    "filename": "ptak1_19.png",
+                    "name": "9_LAPIEKRABIKA",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        240,
+                        251,
+                        164
+                    ],
+                    "filename": "ptak1_21.png",
+                    "name": "10_LAPIEKRABIKA",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        96,
+                        251,
+                        164
+                    ],
+                    "filename": "ptak1_23.png",
+                    "name": "11_LAPIEKRABIKA",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        208,
+                        250,
+                        164
+                    ],
+                    "filename": "ptak1_24.png",
+                    "name": "12_LAPIEKRABIKA",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        64,
+                        250,
+                        164
+                    ],
+                    "filename": "ptak1_25.png",
+                    "name": "13_LAPIEKRABIKA",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        176,
+                        249,
+                        164
+                    ],
+                    "filename": "ptak1_26.png",
+                    "name": "14_LAPIEKRABIKA",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        32,
+                        249,
+                        164
+                    ],
+                    "filename": "ptak1_27.png",
+                    "name": "15_LAPIEKRABIKA",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        144,
+                        248,
+                        164
+                    ],
+                    "filename": "ptak1_28.png",
+                    "name": "16_LAPIEKRABIKA",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [],
+                    "filename": "ptak1_29.png",
+                    "name": "17_LAPIEKRABIKA",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        112,
+                        247,
+                        164
+                    ],
+                    "filename": "ptak1_30.png",
+                    "name": "18_LAPIEKRABIKA",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        224,
+                        246,
+                        164
+                    ],
+                    "filename": "ptak1_31.png",
+                    "name": "19_LAPIEKRABIKA",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        80,
+                        246,
+                        164
+                    ],
+                    "filename": "ptak1_32.png",
+                    "name": "20_LAPIEKRABIKA",
+                    "position_x": -120,
+                    "position_y": -30
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PODLATUJE1": {
+            "frames": [
+                {
+                    "check": [
+                        48,
+                        216,
+                        164
+                    ],
+                    "filename": "ptak1_0.png",
+                    "name": "1_PODLATUJE",
+                    "position_x": -120,
+                    "position_y": -30,
+                    "sfx": "sfx\\01mewa1.wav;sfx\\01mewa2.wav;sfx\\01mewa3.wav;sfx\\01mewa4.wav;sfx\\01mewa5.wav",
+                    "sfx_seed": 10879488
+                },
+                {
+                    "check": [],
+                    "filename": "ptak1_3.png",
+                    "name": "2_PODLATUJE",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        112,
+                        211,
+                        164
+                    ],
+                    "filename": "ptak1_4.png",
+                    "name": "3_PODLATUJE",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        224,
+                        210,
+                        164
+                    ],
+                    "filename": "ptak1_7.png",
+                    "name": "4_PODLATUJE",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        80,
+                        210,
+                        164
+                    ],
+                    "filename": "ptak1_9.png",
+                    "name": "5_PODLATUJE",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        192,
+                        209,
+                        164
+                    ],
+                    "filename": "ptak1_12.png",
+                    "name": "6_PODLATUJE",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        48,
+                        209,
+                        164
+                    ],
+                    "filename": "ptak1_14.png",
+                    "name": "7_PODLATUJE",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        160,
+                        208,
+                        164
+                    ],
+                    "filename": "ptak1_16.png",
+                    "name": "8_PODLATUJE",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        224,
+                        239,
+                        164
+                    ],
+                    "filename": "ptak1_18.png",
+                    "name": "9_PODLATUJE",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        80,
+                        239,
+                        164
+                    ],
+                    "filename": "ptak1_20.png",
+                    "name": "10_PODLATUJE",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        192,
+                        238,
+                        164
+                    ],
+                    "filename": "ptak1_22.png",
+                    "name": "11_PODLATUJE",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        48,
+                        238,
+                        164
+                    ],
+                    "filename": "ptak1_9.png",
+                    "name": "5_PODLATUJE",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        160,
+                        237,
+                        164
+                    ],
+                    "filename": "ptak1_12.png",
+                    "name": "6_PODLATUJE",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        16,
+                        237,
+                        164
+                    ],
+                    "filename": "ptak1_14.png",
+                    "name": "7_PODLATUJE",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        128,
+                        236,
+                        164
+                    ],
+                    "filename": "ptak1_16.png",
+                    "name": "8_PODLATUJE",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        240,
+                        235,
+                        164
+                    ],
+                    "filename": "ptak1_18.png",
+                    "name": "9_PODLATUJE",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        96,
+                        235,
+                        164
+                    ],
+                    "filename": "ptak1_20.png",
+                    "name": "10_PODLATUJE",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        208,
+                        234,
+                        164
+                    ],
+                    "filename": "ptak1_22.png",
+                    "name": "11_PODLATUJE",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        64,
+                        234,
+                        164
+                    ],
+                    "filename": "ptak1_9.png",
+                    "name": "5_PODLATUJE",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        176,
+                        233,
+                        164
+                    ],
+                    "filename": "ptak1_12.png",
+                    "name": "6_PODLATUJE",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        32,
+                        233,
+                        164
+                    ],
+                    "filename": "ptak1_14.png",
+                    "name": "7_PODLATUJE",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        144,
+                        232,
+                        164
+                    ],
+                    "filename": "ptak1_16.png",
+                    "name": "8_PODLATUJE",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [],
+                    "filename": "ptak1_18.png",
+                    "name": "9_PODLATUJE",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        112,
+                        231,
+                        164
+                    ],
+                    "filename": "ptak1_20.png",
+                    "name": "10_PODLATUJE",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        224,
+                        230,
+                        164
+                    ],
+                    "filename": "ptak1_22.png",
+                    "name": "11_PODLATUJE",
+                    "position_x": -120,
+                    "position_y": -30
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PODLATUJE2": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        229,
+                        164
+                    ],
+                    "filename": "ptak1_1.png",
+                    "name": "12_PODLATUJE",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        208,
+                        228,
+                        164
+                    ],
+                    "filename": "ptak1_4.png",
+                    "name": "3_PODLATUJE",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        64,
+                        228,
+                        164
+                    ],
+                    "filename": "ptak1_3.png",
+                    "name": "2_PODLATUJE",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        176,
+                        227,
+                        164
+                    ],
+                    "filename": "ptak1_0.png",
+                    "name": "1_PODLATUJE",
+                    "position_x": -120,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        32,
+                        227,
+                        164
+                    ],
+                    "filename": "ptak1_10.png",
+                    "name": "MEWA_0",
+                    "position_x": -120,
+                    "position_y": -30
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "ptak1_0.png": {
+            "compression": 4,
+            "name": "1_PODLATUJE",
+            "position_x": 110,
+            "position_y": 138
+        },
+        "ptak1_1.png": {
+            "compression": 4,
+            "name": "12_PODLATUJE",
+            "position_x": 86,
+            "position_y": 100
+        },
+        "ptak1_10.png": {
+            "compression": 4,
+            "name": "MEWA_0",
+            "position_x": 127,
+            "position_y": 134
+        },
+        "ptak1_11.png": {
+            "compression": 4,
+            "name": "5_LAPIEKRABIKA",
+            "position_x": 88,
+            "position_y": 64
+        },
+        "ptak1_12.png": {
+            "compression": 4,
+            "name": "6_PODLATUJE",
+            "position_x": 88,
+            "position_y": 64
+        },
+        "ptak1_13.png": {
+            "compression": 4,
+            "name": "6_LAPIEKRABIKA",
+            "position_x": 30,
+            "position_y": 56
+        },
+        "ptak1_14.png": {
+            "compression": 4,
+            "name": "7_PODLATUJE",
+            "position_x": 30,
+            "position_y": 56
+        },
+        "ptak1_15.png": {
+            "compression": 4,
+            "name": "7_LAPIEKRABIKA",
+            "position_x": 28,
+            "position_y": 7
+        },
+        "ptak1_16.png": {
+            "compression": 4,
+            "name": "8_PODLATUJE",
+            "position_x": 28,
+            "position_y": 7
+        },
+        "ptak1_17.png": {
+            "compression": 4,
+            "name": "8_LAPIEKRABIKA",
+            "position_x": 11,
+            "position_y": 6
+        },
+        "ptak1_18.png": {
+            "compression": 4,
+            "name": "9_PODLATUJE",
+            "position_x": 11,
+            "position_y": 6
+        },
+        "ptak1_19.png": {
+            "compression": 4,
+            "name": "9_LAPIEKRABIKA",
+            "position_x": 1,
+            "position_y": 84
+        },
+        "ptak1_2.png": {
+            "compression": 4,
+            "name": "1_LAPIEKRABIKA",
+            "position_x": 93,
+            "position_y": 152
+        },
+        "ptak1_20.png": {
+            "compression": 4,
+            "name": "10_PODLATUJE",
+            "position_x": 1,
+            "position_y": 84
+        },
+        "ptak1_21.png": {
+            "compression": 4,
+            "name": "10_LAPIEKRABIKA",
+            "position_x": 49,
+            "position_y": 79
+        },
+        "ptak1_22.png": {
+            "compression": 4,
+            "name": "11_PODLATUJE",
+            "position_x": 49,
+            "position_y": 79
+        },
+        "ptak1_23.png": {
+            "compression": 4,
+            "name": "11_LAPIEKRABIKA",
+            "position_x": 86,
+            "position_y": 77
+        },
+        "ptak1_24.png": {
+            "compression": 4,
+            "name": "12_LAPIEKRABIKA",
+            "position_x": 88,
+            "position_y": 64
+        },
+        "ptak1_25.png": {
+            "compression": 4,
+            "name": "13_LAPIEKRABIKA",
+            "position_x": 28,
+            "position_y": 7
+        },
+        "ptak1_26.png": {
+            "compression": 4,
+            "name": "14_LAPIEKRABIKA",
+            "position_x": 11,
+            "position_y": 6
+        },
+        "ptak1_27.png": {
+            "compression": 4,
+            "name": "15_LAPIEKRABIKA",
+            "position_x": 1,
+            "position_y": 84
+        },
+        "ptak1_28.png": {
+            "compression": 4,
+            "name": "16_LAPIEKRABIKA",
+            "position_x": 49,
+            "position_y": 79
+        },
+        "ptak1_29.png": {
+            "compression": 4,
+            "name": "17_LAPIEKRABIKA",
+            "position_x": 86,
+            "position_y": 74
+        },
+        "ptak1_3.png": {
+            "compression": 4,
+            "name": "2_PODLATUJE",
+            "position_x": 94,
+            "position_y": 144
+        },
+        "ptak1_30.png": {
+            "compression": 4,
+            "name": "18_LAPIEKRABIKA",
+            "position_x": 96,
+            "position_y": 66
+        },
+        "ptak1_31.png": {
+            "compression": 4,
+            "name": "19_LAPIEKRABIKA",
+            "position_x": 86,
+            "position_y": 49
+        },
+        "ptak1_32.png": {
+            "compression": 4,
+            "name": "20_LAPIEKRABIKA",
+            "position_x": 100,
+            "position_y": 60
+        },
+        "ptak1_4.png": {
+            "compression": 4,
+            "name": "3_PODLATUJE",
+            "position_x": 106,
+            "position_y": 112
+        },
+        "ptak1_5.png": {
+            "compression": 4,
+            "name": "2_LAPIEKRABIKA",
+            "position_x": 106,
+            "position_y": 112
+        },
+        "ptak1_6.png": {
+            "compression": 4,
+            "name": "3_LAPIEKRABIKA",
+            "position_x": 100,
+            "position_y": 101
+        },
+        "ptak1_7.png": {
+            "compression": 4,
+            "name": "4_PODLATUJE",
+            "position_x": 100,
+            "position_y": 101
+        },
+        "ptak1_8.png": {
+            "compression": 4,
+            "name": "4_LAPIEKRABIKA",
+            "position_x": 86,
+            "position_y": 77
+        },
+        "ptak1_9.png": {
+            "compression": 4,
+            "name": "5_PODLATUJE",
+            "position_x": 86,
+            "position_y": 77
+        }
+    },
+    "transparency": 255
+}

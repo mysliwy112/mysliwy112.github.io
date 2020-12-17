@@ -1,0 +1,355 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        32,
+                        236,
+                        164
+                    ],
+                    "filename": "kura_0.png",
+                    "name": "1_PATRZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        235,
+                        164
+                    ],
+                    "filename": "kura_0.png",
+                    "name": "1_PATRZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "kura_1.png",
+                    "name": "2_PATRZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        234,
+                        164
+                    ],
+                    "filename": "kura_1.png",
+                    "name": "2_PATRZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        233,
+                        164
+                    ],
+                    "filename": "kura_2.png",
+                    "name": "3_PATRZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        233,
+                        164
+                    ],
+                    "filename": "kura_2.png",
+                    "name": "3_PATRZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        192,
+                        232,
+                        164
+                    ],
+                    "filename": "kura_3.png",
+                    "name": "4_PATRZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48,
+                        232,
+                        164
+                    ],
+                    "filename": "kura_3.png",
+                    "name": "4_PATRZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        160,
+                        231,
+                        164
+                    ],
+                    "filename": "kura_4.png",
+                    "name": "5_PATRZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        16,
+                        231,
+                        164
+                    ],
+                    "filename": "kura_4.png",
+                    "name": "5_PATRZY",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "sfx\\kurastrach2.wav",
+                    "sfx_seed": 11003232
+                },
+                {
+                    "check": [
+                        128,
+                        230,
+                        164
+                    ],
+                    "filename": "kura_5.png",
+                    "name": "6_PATRZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        229,
+                        164
+                    ],
+                    "filename": "kura_5.png",
+                    "name": "6_PATRZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        229,
+                        164
+                    ],
+                    "filename": "kura_6.png",
+                    "name": "7_PATRZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        228,
+                        164
+                    ],
+                    "filename": "kura_6.png",
+                    "name": "7_PATRZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        64,
+                        228,
+                        164
+                    ],
+                    "filename": "kura_7.png",
+                    "name": "8_PATRZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        227,
+                        164
+                    ],
+                    "filename": "kura_7.png",
+                    "name": "8_PATRZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        32,
+                        227,
+                        164
+                    ],
+                    "filename": "kura_8.png",
+                    "name": "9_PATRZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        226,
+                        164
+                    ],
+                    "filename": "kura_8.png",
+                    "name": "9_PATRZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "kura_9.png",
+                    "name": "10_PATRZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        225,
+                        164
+                    ],
+                    "filename": "kura_9.png",
+                    "name": "10_PATRZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        224,
+                        164
+                    ],
+                    "filename": "kura_10.png",
+                    "name": "12_PATRZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        224,
+                        164
+                    ],
+                    "filename": "kura_10.png",
+                    "name": "12_PATRZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        255,
+                        164
+                    ],
+                    "filename": "kura_9.png",
+                    "name": "10_PATRZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "kura_9.png",
+                    "name": "10_PATRZY",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "kura_0.png": {
+            "compression": 4,
+            "name": "1_PATRZY",
+            "position_x": 211,
+            "position_y": 192
+        },
+        "kura_1.png": {
+            "compression": 4,
+            "name": "2_PATRZY",
+            "position_x": 208,
+            "position_y": 187
+        },
+        "kura_10.png": {
+            "compression": 4,
+            "name": "12_PATRZY",
+            "position_x": 172,
+            "position_y": 164
+        },
+        "kura_2.png": {
+            "compression": 4,
+            "name": "3_PATRZY",
+            "position_x": 202,
+            "position_y": 180
+        },
+        "kura_3.png": {
+            "compression": 4,
+            "name": "4_PATRZY",
+            "position_x": 201,
+            "position_y": 180
+        },
+        "kura_4.png": {
+            "compression": 4,
+            "name": "5_PATRZY",
+            "position_x": 199,
+            "position_y": 176
+        },
+        "kura_5.png": {
+            "compression": 4,
+            "name": "6_PATRZY",
+            "position_x": 183,
+            "position_y": 188
+        },
+        "kura_6.png": {
+            "compression": 4,
+            "name": "7_PATRZY",
+            "position_x": 181,
+            "position_y": 188
+        },
+        "kura_7.png": {
+            "compression": 4,
+            "name": "8_PATRZY",
+            "position_x": 176,
+            "position_y": 176
+        },
+        "kura_8.png": {
+            "compression": 4,
+            "name": "9_PATRZY",
+            "position_x": 173,
+            "position_y": 171
+        },
+        "kura_9.png": {
+            "compression": 4,
+            "name": "10_PATRZY",
+            "position_x": 172,
+            "position_y": 166
+        }
+    },
+    "transparency": 255
+}

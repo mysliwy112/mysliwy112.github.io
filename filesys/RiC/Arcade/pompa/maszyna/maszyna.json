@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "380-537-120": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "maszyna_0.png",
+                    "name": "MASZYNA_380-537-120",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "maszyna_0.png",
+                    "name": "MASZYNA_380-537-120",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "maszyna_0.png": {
+            "compression": 3,
+            "name": "MASZYNA_380-537-120",
+            "position_x": 201,
+            "position_y": 62
+        }
+    },
+    "transparency": 255
+}

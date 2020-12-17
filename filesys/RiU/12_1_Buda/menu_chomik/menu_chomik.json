@@ -1,0 +1,255 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONCLICK": {
+            "frames": [
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "menu_chomik_2.png",
+                    "name": "CHOMIK",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONFOCUSOFF": {
+            "frames": [
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "menu_chomik_0.png",
+                    "name": "1_BIEGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "menu_chomik_3.png",
+                    "name": "2_BIEGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "menu_chomik_4.png",
+                    "name": "3_BIEGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "menu_chomik_5.png",
+                    "name": "4_BIEGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "menu_chomik_6.png",
+                    "name": "5_BIEGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "menu_chomik_7.png",
+                    "name": "6_BIEGA",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONFOCUSON": {
+            "frames": [
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "menu_chomik_1.png",
+                    "name": "CHOMIK",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONNOEVENT": {
+            "frames": [
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "menu_chomik_0.png",
+                    "name": "1_BIEGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "menu_chomik_3.png",
+                    "name": "2_BIEGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "menu_chomik_4.png",
+                    "name": "3_BIEGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "menu_chomik_5.png",
+                    "name": "4_BIEGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "menu_chomik_6.png",
+                    "name": "5_BIEGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "menu_chomik_7.png",
+                    "name": "6_BIEGA",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "menu_chomik_0.png": {
+            "compression": 4,
+            "name": "1_BIEGA",
+            "position_x": 18,
+            "position_y": 528
+        },
+        "menu_chomik_1.png": {
+            "compression": 4,
+            "name": "CHOMIK",
+            "position_x": 11,
+            "position_y": 521
+        },
+        "menu_chomik_2.png": {
+            "compression": 4,
+            "name": "CHOMIK",
+            "position_x": 15,
+            "position_y": 525
+        },
+        "menu_chomik_3.png": {
+            "compression": 4,
+            "name": "2_BIEGA",
+            "position_x": 17,
+            "position_y": 526
+        },
+        "menu_chomik_4.png": {
+            "compression": 4,
+            "name": "3_BIEGA",
+            "position_x": 17,
+            "position_y": 527
+        },
+        "menu_chomik_5.png": {
+            "compression": 4,
+            "name": "4_BIEGA",
+            "position_x": 17,
+            "position_y": 526
+        },
+        "menu_chomik_6.png": {
+            "compression": 4,
+            "name": "5_BIEGA",
+            "position_x": 17,
+            "position_y": 526
+        },
+        "menu_chomik_7.png": {
+            "compression": 4,
+            "name": "6_BIEGA",
+            "position_x": 17,
+            "position_y": 527
+        }
+    },
+    "transparency": 255
+}

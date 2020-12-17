@@ -1,0 +1,91 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "idle": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "ac_masks_easy_0.png",
+                    "name": "pixel",
+                    "position_x": -1,
+                    "position_y": -1
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "ac_masks_easy_1.png",
+                    "name": "gwozdz",
+                    "position_x": 200,
+                    "position_y": -348
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "ac_masks_easy_1.png",
+                    "name": "ac_mask_pokretlo",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "ac_masks_easy_2.png",
+                    "name": "ac_mask_tlok",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "ac_masks_easy_3.png",
+                    "name": "ac_mask_drzwi",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "ac_masks_easy_0.png": {
+            "compression": 3,
+            "name": "pixel"
+        },
+        "ac_masks_easy_1.png": {
+            "compression": 3,
+            "name": "ac_mask_pokretlo",
+            "position_x": 452,
+            "position_y": 377
+        },
+        "ac_masks_easy_2.png": {
+            "compression": 3,
+            "name": "ac_mask_tlok",
+            "position_x": 154,
+            "position_y": 376
+        },
+        "ac_masks_easy_3.png": {
+            "compression": 3,
+            "name": "ac_mask_drzwi",
+            "position_x": 62
+        }
+    },
+    "transparency": 255
+}

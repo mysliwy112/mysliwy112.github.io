@@ -1,0 +1,80 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "0-0-602": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "n_monitory_0.png",
+                    "name": "MONITORY1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "n_monitory_0.png",
+                    "name": "MONITORY1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "n_monitory_1.png",
+                    "name": "MONITORY2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "n_monitory_2.png",
+                    "name": "MONITORY3",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 2,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "n_monitory_0.png": {
+            "compression": 3,
+            "name": "MONITORY1",
+            "position_y": 173
+        },
+        "n_monitory_1.png": {
+            "compression": 3,
+            "name": "MONITORY2",
+            "position_y": 173
+        },
+        "n_monitory_2.png": {
+            "compression": 3,
+            "name": "MONITORY3",
+            "position_y": 173
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "530-480-544": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "goto_lejek_0.png",
+                    "name": "LEJEK_GOTO530-480-544",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "goto_lejek_0.png",
+                    "name": "LEJEK_GOTO530-480-544",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "goto_lejek_0.png": {
+            "compression": 4,
+            "name": "LEJEK_GOTO530-480-5",
+            "position_x": 368,
+            "position_y": 281
+        }
+    },
+    "transparency": 255
+}

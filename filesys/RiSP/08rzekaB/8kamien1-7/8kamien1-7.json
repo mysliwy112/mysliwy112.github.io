@@ -1,0 +1,103 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "BEZRUCH": {
+            "frames": [
+                {
+                    "check": [
+                        72,
+                        104,
+                        84
+                    ],
+                    "filename": "8kamien1-7_0.png",
+                    "name": "1_00ZOLW",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        104,
+                        84
+                    ],
+                    "filename": "8kamien1-7_1.png",
+                    "name": "3_00ZOLW",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        104,
+                        84
+                    ],
+                    "filename": "8kamien1-7_2.png",
+                    "name": "2_00ZOLW",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        104,
+                        84
+                    ],
+                    "filename": "8kamien1-7_3.png",
+                    "name": "4_00ZOLW",
+                    "position_x": 356,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "8kamien1-7_0.png": {
+            "compression": 4,
+            "name": "1_00ZOLW",
+            "position_x": 33,
+            "position_y": 240
+        },
+        "8kamien1-7_1.png": {
+            "compression": 4,
+            "name": "3_00ZOLW",
+            "position_x": 37,
+            "position_y": 240
+        },
+        "8kamien1-7_2.png": {
+            "compression": 4,
+            "name": "2_00ZOLW",
+            "position_x": 37,
+            "position_y": 240
+        },
+        "8kamien1-7_3.png": {
+            "compression": 4,
+            "name": "4_00ZOLW",
+            "position_x": 35,
+            "position_y": 240
+        }
+    },
+    "transparency": 255
+}

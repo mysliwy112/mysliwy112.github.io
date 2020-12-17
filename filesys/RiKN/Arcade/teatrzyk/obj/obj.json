@@ -1,0 +1,31 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "zaslona": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj_0.png",
+                    "name": "nakladka",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "obj_0.png": {
+            "compression": 3,
+            "name": "nakladka",
+            "position_y": 160
+        }
+    },
+    "transparency": 255
+}

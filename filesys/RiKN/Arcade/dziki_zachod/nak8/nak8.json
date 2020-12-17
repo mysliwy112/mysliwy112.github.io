@@ -1,0 +1,32 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "nak8a": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "nak8_0.png",
+                    "name": "1_plan",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "nak8_0.png": {
+            "compression": 3,
+            "name": "1_plan",
+            "position_x": 649,
+            "position_y": 256
+        }
+    },
+    "transparency": 255
+}

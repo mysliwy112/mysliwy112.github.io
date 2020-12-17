@@ -1,0 +1,1075 @@
+{
+    "author": "",
+    "bpp": 16,
+    "events": {
+        "krok_atak": {
+            "frames": [
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_26.png",
+                    "name": "krok_atak_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_27.png",
+                    "name": "krok_atak_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_28.png",
+                    "name": "krok_atak_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_29.png",
+                    "name": "krok_atak_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_30.png",
+                    "name": "krok_atak_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_31.png",
+                    "name": "krok_atak_6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_32.png",
+                    "name": "krok_atak_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_33.png",
+                    "name": "krok_atak_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_34.png",
+                    "name": "krok_atak_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_35.png",
+                    "name": "krok_atak_10",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_36.png",
+                    "name": "krok_atak_11",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_37.png",
+                    "name": "krok_atak_12",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_38.png",
+                    "name": "krok_atak_13",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_39.png",
+                    "name": "krok_atak_14",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_40.png",
+                    "name": "krok_atak_15",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "krok_idle": {
+            "frames": [
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_21.png",
+                    "name": "krok_idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_22.png",
+                    "name": "krok_idle_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_23.png",
+                    "name": "krok_idle_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_24.png",
+                    "name": "krok_idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_25.png",
+                    "name": "krok_idle_5",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "krok_kol": {
+            "frames": [
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_53.png",
+                    "name": "krok_kolizja_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_54.png",
+                    "name": "krok_kolizja_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_55.png",
+                    "name": "krok_kolizja_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_56.png",
+                    "name": "krok_kolizja_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_57.png",
+                    "name": "krok_kolizja_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_58.png",
+                    "name": "krok_kolizja_6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_59.png",
+                    "name": "krok_kolizja_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_60.png",
+                    "name": "krok_kolizja_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_61.png",
+                    "name": "krok_kolizja_9",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "krok_zwis": {
+            "frames": [
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_41.png",
+                    "name": "krok_zwis_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_42.png",
+                    "name": "krok_zwis_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_43.png",
+                    "name": "krok_zwis_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_44.png",
+                    "name": "krok_zwis_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_45.png",
+                    "name": "krok_zwis_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_46.png",
+                    "name": "krok_zwis_6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_47.png",
+                    "name": "krok_zwis_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_48.png",
+                    "name": "krok_zwis_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_49.png",
+                    "name": "krok_zwis_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_50.png",
+                    "name": "krok_zwis_10",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_51.png",
+                    "name": "krok_zwis_11",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_52.png",
+                    "name": "krok_zwis_12",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "lew_idle": {
+            "frames": [
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_0.png",
+                    "name": "lew_idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_1.png",
+                    "name": "lew_idle_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_2.png",
+                    "name": "lew_idle_3",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "lew_ryk": {
+            "frames": [
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_3.png",
+                    "name": "lew_ryk_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_4.png",
+                    "name": "lew_ryk_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_5.png",
+                    "name": "lew_ryk_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_6.png",
+                    "name": "lew_ryk_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_7.png",
+                    "name": "lew_ryk_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_8.png",
+                    "name": "lew_ryk_6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_9.png",
+                    "name": "lew_ryk_7",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ptak": {
+            "frames": [
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_10.png",
+                    "name": "flaming_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_11.png",
+                    "name": "flaming_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_12.png",
+                    "name": "flaming_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_13.png",
+                    "name": "flaming_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_14.png",
+                    "name": "flaming_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_15.png",
+                    "name": "flaming_6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_16.png",
+                    "name": "flaming_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_17.png",
+                    "name": "flaming_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_18.png",
+                    "name": "flaming_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_19.png",
+                    "name": "flaming_10",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "anim_20.png",
+                    "name": "flaming_11",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "anim_0.png": {
+            "compression": 4,
+            "name": "lew_idle_1",
+            "position_y": 27
+        },
+        "anim_1.png": {
+            "compression": 4,
+            "name": "lew_idle_2",
+            "position_y": 27
+        },
+        "anim_10.png": {
+            "compression": 4,
+            "name": "flaming_1",
+            "position_y": 23
+        },
+        "anim_11.png": {
+            "compression": 4,
+            "name": "flaming_2",
+            "position_y": 25
+        },
+        "anim_12.png": {
+            "compression": 4,
+            "name": "flaming_3",
+            "position_y": 28
+        },
+        "anim_13.png": {
+            "compression": 4,
+            "name": "flaming_4",
+            "position_y": 18
+        },
+        "anim_14.png": {
+            "compression": 4,
+            "name": "flaming_5",
+            "position_y": 12
+        },
+        "anim_15.png": {
+            "compression": 4,
+            "name": "flaming_6",
+            "position_y": 7
+        },
+        "anim_16.png": {
+            "compression": 4,
+            "name": "flaming_7"
+        },
+        "anim_17.png": {
+            "compression": 4,
+            "name": "flaming_8"
+        },
+        "anim_18.png": {
+            "compression": 4,
+            "name": "flaming_9",
+            "position_y": 13
+        },
+        "anim_19.png": {
+            "compression": 4,
+            "name": "flaming_10",
+            "position_y": 25
+        },
+        "anim_2.png": {
+            "compression": 4,
+            "name": "lew_idle_3",
+            "position_y": 27
+        },
+        "anim_20.png": {
+            "compression": 4,
+            "name": "flaming_11",
+            "position_y": 24
+        },
+        "anim_21.png": {
+            "compression": 4,
+            "name": "krok_idle_1",
+            "position_y": 98
+        },
+        "anim_22.png": {
+            "compression": 4,
+            "name": "krok_idle_2",
+            "position_y": 99
+        },
+        "anim_23.png": {
+            "compression": 4,
+            "name": "krok_idle_3",
+            "position_y": 101
+        },
+        "anim_24.png": {
+            "compression": 4,
+            "name": "krok_idle_4",
+            "position_y": 99
+        },
+        "anim_25.png": {
+            "compression": 4,
+            "name": "krok_idle_5",
+            "position_y": 97
+        },
+        "anim_26.png": {
+            "compression": 4,
+            "name": "krok_atak_1",
+            "position_x": 1,
+            "position_y": 98
+        },
+        "anim_27.png": {
+            "compression": 4,
+            "name": "krok_atak_2",
+            "position_x": 1,
+            "position_y": 96
+        },
+        "anim_28.png": {
+            "compression": 4,
+            "name": "krok_atak_3",
+            "position_x": 3,
+            "position_y": 92
+        },
+        "anim_29.png": {
+            "compression": 4,
+            "name": "krok_atak_4",
+            "position_x": 13,
+            "position_y": 48
+        },
+        "anim_3.png": {
+            "compression": 4,
+            "name": "lew_ryk_1",
+            "position_y": 25
+        },
+        "anim_30.png": {
+            "compression": 4,
+            "name": "krok_atak_5",
+            "position_x": 18,
+            "position_y": 31
+        },
+        "anim_31.png": {
+            "compression": 4,
+            "name": "krok_atak_6",
+            "position_x": 28,
+            "position_y": 25
+        },
+        "anim_32.png": {
+            "compression": 4,
+            "name": "krok_atak_7",
+            "position_x": 49,
+            "position_y": 21
+        },
+        "anim_33.png": {
+            "compression": 4,
+            "name": "krok_atak_8",
+            "position_x": 72,
+            "position_y": 20
+        },
+        "anim_34.png": {
+            "compression": 4,
+            "name": "krok_atak_9",
+            "position_x": 87,
+            "position_y": 20
+        },
+        "anim_35.png": {
+            "compression": 4,
+            "name": "krok_atak_10",
+            "position_x": 104,
+            "position_y": 19
+        },
+        "anim_36.png": {
+            "compression": 4,
+            "name": "krok_atak_11",
+            "position_x": 107,
+            "position_y": 18
+        },
+        "anim_37.png": {
+            "compression": 4,
+            "name": "krok_atak_12",
+            "position_x": 96,
+            "position_y": 18
+        },
+        "anim_38.png": {
+            "compression": 4,
+            "name": "krok_atak_13",
+            "position_x": 89,
+            "position_y": 17
+        },
+        "anim_39.png": {
+            "compression": 4,
+            "name": "krok_atak_14",
+            "position_x": 92,
+            "position_y": 16
+        },
+        "anim_4.png": {
+            "compression": 4,
+            "name": "lew_ryk_2",
+            "position_y": 21
+        },
+        "anim_40.png": {
+            "compression": 4,
+            "name": "krok_atak_15",
+            "position_x": 96,
+            "position_y": 18
+        },
+        "anim_41.png": {
+            "compression": 4,
+            "name": "krok_zwis_1",
+            "position_x": 104,
+            "position_y": 17
+        },
+        "anim_42.png": {
+            "compression": 4,
+            "name": "krok_zwis_2",
+            "position_x": 106,
+            "position_y": 17
+        },
+        "anim_43.png": {
+            "compression": 4,
+            "name": "krok_zwis_3",
+            "position_x": 108,
+            "position_y": 17
+        },
+        "anim_44.png": {
+            "compression": 4,
+            "name": "krok_zwis_4",
+            "position_x": 114,
+            "position_y": 17
+        },
+        "anim_45.png": {
+            "compression": 4,
+            "name": "krok_zwis_5",
+            "position_x": 112,
+            "position_y": 17
+        },
+        "anim_46.png": {
+            "compression": 4,
+            "name": "krok_zwis_6",
+            "position_x": 111,
+            "position_y": 17
+        },
+        "anim_47.png": {
+            "compression": 4,
+            "name": "krok_zwis_7",
+            "position_x": 109,
+            "position_y": 17
+        },
+        "anim_48.png": {
+            "compression": 4,
+            "name": "krok_zwis_8",
+            "position_x": 111,
+            "position_y": 17
+        },
+        "anim_49.png": {
+            "compression": 4,
+            "name": "krok_zwis_9",
+            "position_x": 116,
+            "position_y": 17
+        },
+        "anim_5.png": {
+            "compression": 4,
+            "name": "lew_ryk_3",
+            "position_y": 13
+        },
+        "anim_50.png": {
+            "compression": 4,
+            "name": "krok_zwis_10",
+            "position_x": 114,
+            "position_y": 17
+        },
+        "anim_51.png": {
+            "compression": 4,
+            "name": "krok_zwis_11",
+            "position_x": 108,
+            "position_y": 17
+        },
+        "anim_52.png": {
+            "compression": 4,
+            "name": "krok_zwis_12",
+            "position_x": 106,
+            "position_y": 17
+        },
+        "anim_53.png": {
+            "compression": 4,
+            "name": "krok_kolizja_1",
+            "position_x": 96,
+            "position_y": 18
+        },
+        "anim_54.png": {
+            "compression": 4,
+            "name": "krok_kolizja_2",
+            "position_x": 89,
+            "position_y": 18
+        },
+        "anim_55.png": {
+            "compression": 4,
+            "name": "krok_kolizja_3",
+            "position_x": 85,
+            "position_y": 17
+        },
+        "anim_56.png": {
+            "compression": 4,
+            "name": "krok_kolizja_4",
+            "position_x": 81,
+            "position_y": 17
+        },
+        "anim_57.png": {
+            "compression": 4,
+            "name": "krok_kolizja_5",
+            "position_x": 85,
+            "position_y": 17
+        },
+        "anim_58.png": {
+            "compression": 4,
+            "name": "krok_kolizja_6",
+            "position_x": 87,
+            "position_y": 18
+        },
+        "anim_59.png": {
+            "compression": 4,
+            "name": "krok_kolizja_7",
+            "position_x": 91,
+            "position_y": 13
+        },
+        "anim_6.png": {
+            "compression": 4,
+            "name": "lew_ryk_4",
+            "position_y": 13
+        },
+        "anim_60.png": {
+            "compression": 4,
+            "name": "krok_kolizja_8",
+            "position_x": 68
+        },
+        "anim_61.png": {
+            "compression": 4,
+            "name": "krok_kolizja_9",
+            "position_x": 73,
+            "position_y": 13
+        },
+        "anim_7.png": {
+            "compression": 4,
+            "name": "lew_ryk_5"
+        },
+        "anim_8.png": {
+            "compression": 4,
+            "name": "lew_ryk_6",
+            "position_y": 14
+        },
+        "anim_9.png": {
+            "compression": 4,
+            "name": "lew_ryk_7",
+            "position_y": 13
+        }
+    },
+    "transparency": 255
+}

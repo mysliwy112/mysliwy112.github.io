@@ -1,0 +1,32 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "idle": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "belka_0.png",
+                    "name": "dach",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "belka_0.png": {
+            "compression": 3,
+            "name": "dach",
+            "position_x": 243,
+            "position_y": 575
+        }
+    },
+    "transparency": 255
+}

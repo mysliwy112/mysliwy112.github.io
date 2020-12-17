@@ -1,0 +1,66 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "hats": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_0.png",
+                    "name": "HATS",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_1.png",
+                    "name": "HATS_kopia",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod2_2.png",
+                    "name": "HATS_kopia_2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "pod2_0.png": {
+            "compression": 3,
+            "name": "HATS",
+            "position_x": 481,
+            "position_y": 43
+        },
+        "pod2_1.png": {
+            "compression": 3,
+            "name": "HATS_kopia",
+            "position_x": 481,
+            "position_y": 32
+        },
+        "pod2_2.png": {
+            "compression": 3,
+            "name": "HATS_kopia_2",
+            "position_x": 499,
+            "position_y": 20
+        }
+    },
+    "transparency": 255
+}

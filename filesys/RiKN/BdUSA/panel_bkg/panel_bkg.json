@@ -1,0 +1,32 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "idle": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "panel_bkg_0.png",
+                    "name": "dynamit",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "panel_bkg_0.png": {
+            "compression": 3,
+            "name": "dynamit",
+            "position_x": 306,
+            "position_y": 3
+        }
+    },
+    "transparency": 255
+}

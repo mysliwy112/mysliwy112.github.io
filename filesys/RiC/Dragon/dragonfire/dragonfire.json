@@ -1,0 +1,104 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PAUSE": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "dragonfire_1.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 800
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "dragonfire_0.png",
+                    "name": "1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "dragonfire_2.png",
+                    "name": "2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "dragonfire_3.png",
+                    "name": "3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "dragonfire_4.png",
+                    "name": "4",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "dragonfire_0.png": {
+            "compression": 4,
+            "name": "1",
+            "position_x": 42,
+            "position_y": 49
+        },
+        "dragonfire_1.png": {
+            "compression": 4,
+            "name": "LAYER_1"
+        },
+        "dragonfire_2.png": {
+            "compression": 4,
+            "name": "2",
+            "position_x": 42,
+            "position_y": 49
+        },
+        "dragonfire_3.png": {
+            "compression": 4,
+            "name": "3",
+            "position_x": 42,
+            "position_y": 49
+        },
+        "dragonfire_4.png": {
+            "compression": 4,
+            "name": "4",
+            "position_x": 42,
+            "position_y": 49
+        }
+    },
+    "transparency": 255
+}

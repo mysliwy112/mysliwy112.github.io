@@ -1,0 +1,141 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "0": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "ammo_4.png",
+                    "name": "CZ1",
+                    "position_x": 263,
+                    "position_y": -26
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "1": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "ammo_4.png",
+                    "name": "CZ1",
+                    "position_x": -229,
+                    "position_y": -40
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "2": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "ammo_3.png",
+                    "name": "CZ2",
+                    "position_x": -229,
+                    "position_y": -40
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "3": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "ammo_2.png",
+                    "name": "CZ3",
+                    "position_x": -229,
+                    "position_y": -40
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "4": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "ammo_1.png",
+                    "name": "CZ4",
+                    "position_x": -229,
+                    "position_y": -40
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "5": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "ammo_0.png",
+                    "name": "CZ5",
+                    "position_x": -229,
+                    "position_y": -40
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "ammo_0.png": {
+            "compression": 4,
+            "name": "CZ5",
+            "position_x": 588,
+            "position_y": 41
+        },
+        "ammo_1.png": {
+            "compression": 4,
+            "name": "CZ4",
+            "position_x": 606,
+            "position_y": 41
+        },
+        "ammo_2.png": {
+            "compression": 4,
+            "name": "CZ3",
+            "position_x": 622,
+            "position_y": 41
+        },
+        "ammo_3.png": {
+            "compression": 4,
+            "name": "CZ2",
+            "position_x": 638,
+            "position_y": 41
+        },
+        "ammo_4.png": {
+            "compression": 4,
+            "name": "CZ1",
+            "position_x": 654,
+            "position_y": 41
+        }
+    },
+    "transparency": 255
+}

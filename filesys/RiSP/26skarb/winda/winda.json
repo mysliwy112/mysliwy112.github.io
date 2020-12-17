@@ -1,0 +1,645 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "CLOSE": {
+            "frames": [
+                {
+                    "check": [
+                        200,
+                        185,
+                        232,
+                        3
+                    ],
+                    "filename": "winda_1.png",
+                    "name": "DRZWI",
+                    "position_x": 94,
+                    "position_y": 18
+                },
+                {
+                    "check": [
+                        144,
+                        59,
+                        238
+                    ],
+                    "filename": "winda_1.png",
+                    "name": "DRZWI",
+                    "position_x": 81,
+                    "position_y": 18
+                },
+                {
+                    "check": [
+                        32,
+                        60,
+                        238
+                    ],
+                    "filename": "winda_1.png",
+                    "name": "DRZWI",
+                    "position_x": 68,
+                    "position_y": 17
+                },
+                {
+                    "check": [
+                        176,
+                        60,
+                        238
+                    ],
+                    "filename": "winda_1.png",
+                    "name": "DRZWI",
+                    "position_x": 56,
+                    "position_y": 16
+                },
+                {
+                    "check": [
+                        64,
+                        61,
+                        238
+                    ],
+                    "filename": "winda_1.png",
+                    "name": "DRZWI",
+                    "position_x": 45,
+                    "position_y": 15
+                },
+                {
+                    "check": [
+                        208,
+                        61,
+                        238
+                    ],
+                    "filename": "winda_1.png",
+                    "name": "DRZWI",
+                    "position_x": 35,
+                    "position_y": 13
+                },
+                {
+                    "check": [
+                        96,
+                        62,
+                        238
+                    ],
+                    "filename": "winda_1.png",
+                    "name": "DRZWI",
+                    "position_x": 25,
+                    "position_y": 11
+                },
+                {
+                    "check": [
+                        240,
+                        62,
+                        238
+                    ],
+                    "filename": "winda_1.png",
+                    "name": "DRZWI",
+                    "position_x": 17,
+                    "position_y": 9
+                },
+                {
+                    "check": [
+                        128,
+                        63,
+                        238
+                    ],
+                    "filename": "winda_1.png",
+                    "name": "DRZWI",
+                    "position_x": 10,
+                    "position_y": 7
+                },
+                {
+                    "check": [
+                        184,
+                        169,
+                        166
+                    ],
+                    "filename": "winda_1.png",
+                    "name": "DRZWI",
+                    "position_x": 4,
+                    "position_y": 4
+                },
+                {
+                    "check": [
+                        72,
+                        170,
+                        166
+                    ],
+                    "filename": "winda_1.png",
+                    "name": "DRZWI",
+                    "position_x": 0,
+                    "position_y": 2
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "DOWN": {
+            "frames": [
+                {
+                    "check": [
+                        136,
+                        121,
+                        166
+                    ],
+                    "filename": "winda_0.png",
+                    "name": "WINDA",
+                    "position_x": 0,
+                    "position_y": -474,
+                    "sfx": "sfx\\00winda3.wav",
+                    "sfx_seed": 10928248
+                },
+                {
+                    "check": [
+                        40,
+                        32,
+                        238
+                    ],
+                    "filename": "winda_0.png",
+                    "name": "WINDA",
+                    "position_x": 0,
+                    "position_y": -438
+                },
+                {
+                    "check": [
+                        184,
+                        32,
+                        238
+                    ],
+                    "filename": "winda_0.png",
+                    "name": "WINDA",
+                    "position_x": 0,
+                    "position_y": -404
+                },
+                {
+                    "check": [
+                        72,
+                        33,
+                        238
+                    ],
+                    "filename": "winda_0.png",
+                    "name": "WINDA",
+                    "position_x": 0,
+                    "position_y": -371
+                },
+                {
+                    "check": [
+                        216,
+                        33,
+                        238
+                    ],
+                    "filename": "winda_0.png",
+                    "name": "WINDA",
+                    "position_x": 0,
+                    "position_y": -339
+                },
+                {
+                    "check": [
+                        104,
+                        34,
+                        238
+                    ],
+                    "filename": "winda_0.png",
+                    "name": "WINDA",
+                    "position_x": 0,
+                    "position_y": -308
+                },
+                {
+                    "check": [
+                        248,
+                        34,
+                        238
+                    ],
+                    "filename": "winda_0.png",
+                    "name": "WINDA",
+                    "position_x": 0,
+                    "position_y": -277
+                },
+                {
+                    "check": [
+                        136,
+                        35,
+                        238
+                    ],
+                    "filename": "winda_0.png",
+                    "name": "WINDA",
+                    "position_x": 0,
+                    "position_y": -246
+                },
+                {
+                    "check": [
+                        24,
+                        36,
+                        238
+                    ],
+                    "filename": "winda_0.png",
+                    "name": "WINDA",
+                    "position_x": 0,
+                    "position_y": -214
+                },
+                {
+                    "check": [
+                        168,
+                        36,
+                        238
+                    ],
+                    "filename": "winda_0.png",
+                    "name": "WINDA",
+                    "position_x": -1,
+                    "position_y": -182,
+                    "sfx": "sfx\\00winda5.wav",
+                    "sfx_seed": 15607008
+                },
+                {
+                    "check": [
+                        128,
+                        37,
+                        238
+                    ],
+                    "filename": "winda_0.png",
+                    "name": "WINDA",
+                    "position_x": -1,
+                    "position_y": -149
+                },
+                {
+                    "check": [
+                        16,
+                        38,
+                        238
+                    ],
+                    "filename": "winda_0.png",
+                    "name": "WINDA",
+                    "position_x": -1,
+                    "position_y": -114
+                },
+                {
+                    "check": [
+                        160,
+                        38,
+                        238
+                    ],
+                    "filename": "winda_0.png",
+                    "name": "WINDA",
+                    "position_x": 0,
+                    "position_y": -78
+                },
+                {
+                    "check": [
+                        56,
+                        180,
+                        166
+                    ],
+                    "filename": "winda_0.png",
+                    "name": "WINDA",
+                    "position_x": 0,
+                    "position_y": -40
+                },
+                {
+                    "check": [
+                        200,
+                        180,
+                        166
+                    ],
+                    "filename": "winda_0.png",
+                    "name": "WINDA",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "OPEN": {
+            "frames": [
+                {
+                    "check": [
+                        216,
+                        177,
+                        235
+                    ],
+                    "filename": "winda_1.png",
+                    "name": "DRZWI",
+                    "position_x": 0,
+                    "position_y": 2,
+                    "sfx": "sfx\\00winda1.wav",
+                    "sfx_seed": 10923048
+                },
+                {
+                    "check": [
+                        200,
+                        172,
+                        166
+                    ],
+                    "filename": "winda_1.png",
+                    "name": "DRZWI",
+                    "position_x": 7,
+                    "position_y": 3
+                },
+                {
+                    "check": [
+                        88,
+                        173,
+                        166
+                    ],
+                    "filename": "winda_1.png",
+                    "name": "DRZWI",
+                    "position_x": 14,
+                    "position_y": 6
+                },
+                {
+                    "check": [
+                        232,
+                        173,
+                        166
+                    ],
+                    "filename": "winda_1.png",
+                    "name": "DRZWI",
+                    "position_x": 22,
+                    "position_y": 8
+                },
+                {
+                    "check": [
+                        120,
+                        174,
+                        166
+                    ],
+                    "filename": "winda_1.png",
+                    "name": "DRZWI",
+                    "position_x": 31,
+                    "position_y": 10
+                },
+                {
+                    "check": [
+                        8,
+                        175,
+                        166
+                    ],
+                    "filename": "winda_1.png",
+                    "name": "DRZWI",
+                    "position_x": 39,
+                    "position_y": 12
+                },
+                {
+                    "check": [
+                        152,
+                        175,
+                        166
+                    ],
+                    "filename": "winda_1.png",
+                    "name": "DRZWI",
+                    "position_x": 49,
+                    "position_y": 14
+                },
+                {
+                    "check": [
+                        40,
+                        176,
+                        166
+                    ],
+                    "filename": "winda_1.png",
+                    "name": "DRZWI",
+                    "position_x": 59,
+                    "position_y": 15
+                },
+                {
+                    "check": [
+                        184,
+                        176,
+                        166
+                    ],
+                    "filename": "winda_1.png",
+                    "name": "DRZWI",
+                    "position_x": 70,
+                    "position_y": 15
+                },
+                {
+                    "check": [
+                        72,
+                        177,
+                        166
+                    ],
+                    "filename": "winda_1.png",
+                    "name": "DRZWI",
+                    "position_x": 81,
+                    "position_y": 15
+                },
+                {
+                    "check": [
+                        216,
+                        177,
+                        166
+                    ],
+                    "filename": "winda_1.png",
+                    "name": "DRZWI",
+                    "position_x": 94,
+                    "position_y": 14
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "UP": {
+            "frames": [
+                {
+                    "check": [
+                        144,
+                        182,
+                        166
+                    ],
+                    "filename": "winda_0.png",
+                    "name": "WINDA",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "sfx\\00winda4.wav",
+                    "sfx_seed": 10925768
+                },
+                {
+                    "check": [
+                        104,
+                        183,
+                        166
+                    ],
+                    "filename": "winda_0.png",
+                    "name": "WINDA",
+                    "position_x": 0,
+                    "position_y": -29
+                },
+                {
+                    "check": [
+                        248,
+                        183,
+                        166
+                    ],
+                    "filename": "winda_0.png",
+                    "name": "WINDA",
+                    "position_x": 0,
+                    "position_y": -60
+                },
+                {
+                    "check": [
+                        136,
+                        184,
+                        166
+                    ],
+                    "filename": "winda_0.png",
+                    "name": "WINDA",
+                    "position_x": 0,
+                    "position_y": -94
+                },
+                {
+                    "check": [
+                        24,
+                        185,
+                        166
+                    ],
+                    "filename": "winda_0.png",
+                    "name": "WINDA",
+                    "position_x": 0,
+                    "position_y": -129
+                },
+                {
+                    "check": [
+                        168,
+                        185,
+                        166
+                    ],
+                    "filename": "winda_0.png",
+                    "name": "WINDA",
+                    "position_x": 0,
+                    "position_y": -165
+                },
+                {
+                    "check": [
+                        56,
+                        186,
+                        166
+                    ],
+                    "filename": "winda_0.png",
+                    "name": "WINDA",
+                    "position_x": 0,
+                    "position_y": -202
+                },
+                {
+                    "check": [
+                        200,
+                        186,
+                        166
+                    ],
+                    "filename": "winda_0.png",
+                    "name": "WINDA",
+                    "position_x": 0,
+                    "position_y": -239
+                },
+                {
+                    "check": [
+                        88,
+                        187,
+                        166
+                    ],
+                    "filename": "winda_0.png",
+                    "name": "WINDA",
+                    "position_x": -1,
+                    "position_y": -276
+                },
+                {
+                    "check": [
+                        64,
+                        54,
+                        238
+                    ],
+                    "filename": "winda_0.png",
+                    "name": "WINDA",
+                    "position_x": -1,
+                    "position_y": -313
+                },
+                {
+                    "check": [
+                        208,
+                        54,
+                        238
+                    ],
+                    "filename": "winda_0.png",
+                    "name": "WINDA",
+                    "position_x": -1,
+                    "position_y": -348
+                },
+                {
+                    "check": [
+                        96,
+                        55,
+                        238
+                    ],
+                    "filename": "winda_0.png",
+                    "name": "WINDA",
+                    "position_x": -1,
+                    "position_y": -383
+                },
+                {
+                    "check": [
+                        240,
+                        55,
+                        238
+                    ],
+                    "filename": "winda_0.png",
+                    "name": "WINDA",
+                    "position_x": -1,
+                    "position_y": -415
+                },
+                {
+                    "check": [
+                        128,
+                        56,
+                        238
+                    ],
+                    "filename": "winda_0.png",
+                    "name": "WINDA",
+                    "position_x": 0,
+                    "position_y": -446
+                },
+                {
+                    "check": [
+                        16,
+                        57,
+                        238
+                    ],
+                    "filename": "winda_0.png",
+                    "name": "WINDA",
+                    "position_x": 0,
+                    "position_y": -474
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "winda_0.png": {
+            "compression": 4,
+            "name": "WINDA",
+            "position_x": 633
+        },
+        "winda_1.png": {
+            "compression": 4,
+            "name": "DRZWI",
+            "position_x": 700,
+            "position_y": 19
+        }
+    },
+    "transparency": 255
+}

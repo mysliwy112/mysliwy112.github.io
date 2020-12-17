@@ -1,0 +1,498 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "LAPIAREKSIA": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        49,
+                        165
+                    ],
+                    "filename": "piraci_1.png",
+                    "name": "20_PIRACI",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "sfx\\0025bpiraci.wav",
+                    "sfx_seed": 10892976
+                },
+                {
+                    "check": [
+                        32,
+                        49,
+                        165
+                    ],
+                    "filename": "piraci_3.png",
+                    "name": "21_PIRACI",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        48,
+                        165
+                    ],
+                    "filename": "piraci_5.png",
+                    "name": "22_PIRACI",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        79,
+                        165
+                    ],
+                    "filename": "piraci_7.png",
+                    "name": "23_PIRACI",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        79,
+                        165
+                    ],
+                    "filename": "piraci_9.png",
+                    "name": "24_PIRACI",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        192,
+                        78,
+                        165
+                    ],
+                    "filename": "piraci_11.png",
+                    "name": "25_PIRACI",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48,
+                        78,
+                        165
+                    ],
+                    "filename": "piraci_13.png",
+                    "name": "26_PIRACI",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        160,
+                        77,
+                        165
+                    ],
+                    "filename": "piraci_15.png",
+                    "name": "27_PIRACI",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "WYSYPUJASIE": {
+            "frames": [
+                {
+                    "check": [
+                        48,
+                        32,
+                        165
+                    ],
+                    "filename": "piraci_0.png",
+                    "name": "1_PIRACI",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48,
+                        34,
+                        165
+                    ],
+                    "filename": "piraci_2.png",
+                    "name": "2_PIRACI",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        64,
+                        60,
+                        165
+                    ],
+                    "filename": "piraci_4.png",
+                    "name": "3_PIRACI",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        59,
+                        165
+                    ],
+                    "filename": "piraci_6.png",
+                    "name": "4_PIRACI",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        32,
+                        59,
+                        165
+                    ],
+                    "filename": "piraci_8.png",
+                    "name": "5_PIRACI",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        58,
+                        165
+                    ],
+                    "filename": "piraci_10.png",
+                    "name": "6_PIRACI",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "piraci_12.png",
+                    "name": "7_PIRACI",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        57,
+                        165
+                    ],
+                    "filename": "piraci_14.png",
+                    "name": "8_PIRACI",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        56,
+                        165
+                    ],
+                    "filename": "piraci_16.png",
+                    "name": "9_PIRACI",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        56,
+                        165
+                    ],
+                    "filename": "piraci_17.png",
+                    "name": "10_PIRACI",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        192,
+                        55,
+                        165
+                    ],
+                    "filename": "piraci_18.png",
+                    "name": "11_PIRACI",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48,
+                        55,
+                        165
+                    ],
+                    "filename": "piraci_19.png",
+                    "name": "12_PIRACI",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        160,
+                        54,
+                        165
+                    ],
+                    "filename": "piraci_20.png",
+                    "name": "13_PIRACI",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        16,
+                        54,
+                        165
+                    ],
+                    "filename": "piraci_21.png",
+                    "name": "14_PIRACI",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        128,
+                        53,
+                        165
+                    ],
+                    "filename": "piraci_22.png",
+                    "name": "15_PIRACI",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        52,
+                        165
+                    ],
+                    "filename": "piraci_23.png",
+                    "name": "16_PIRACI",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        52,
+                        165
+                    ],
+                    "filename": "piraci_24.png",
+                    "name": "17_PIRACI",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        51,
+                        165
+                    ],
+                    "filename": "piraci_25.png",
+                    "name": "18_PIRACI",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        64,
+                        51,
+                        165
+                    ],
+                    "filename": "piraci_26.png",
+                    "name": "19_PIRACI",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "piraci_0.png": {
+            "compression": 4,
+            "name": "1_PIRACI",
+            "position_x": 491,
+            "position_y": 293
+        },
+        "piraci_1.png": {
+            "compression": 4,
+            "name": "20_PIRACI",
+            "position_x": 360,
+            "position_y": 224
+        },
+        "piraci_10.png": {
+            "compression": 4,
+            "name": "6_PIRACI",
+            "position_x": 369,
+            "position_y": 291
+        },
+        "piraci_11.png": {
+            "compression": 4,
+            "name": "25_PIRACI",
+            "position_x": 358,
+            "position_y": 267
+        },
+        "piraci_12.png": {
+            "compression": 4,
+            "name": "7_PIRACI",
+            "position_x": 363,
+            "position_y": 292
+        },
+        "piraci_13.png": {
+            "compression": 4,
+            "name": "26_PIRACI",
+            "position_x": 358,
+            "position_y": 267
+        },
+        "piraci_14.png": {
+            "compression": 4,
+            "name": "8_PIRACI",
+            "position_x": 329,
+            "position_y": 292
+        },
+        "piraci_15.png": {
+            "compression": 4,
+            "name": "27_PIRACI",
+            "position_x": 358,
+            "position_y": 287
+        },
+        "piraci_16.png": {
+            "compression": 4,
+            "name": "9_PIRACI",
+            "position_x": 306,
+            "position_y": 291
+        },
+        "piraci_17.png": {
+            "compression": 4,
+            "name": "10_PIRACI",
+            "position_x": 286,
+            "position_y": 292
+        },
+        "piraci_18.png": {
+            "compression": 4,
+            "name": "11_PIRACI",
+            "position_x": 270,
+            "position_y": 292
+        },
+        "piraci_19.png": {
+            "compression": 4,
+            "name": "12_PIRACI",
+            "position_x": 264,
+            "position_y": 289
+        },
+        "piraci_2.png": {
+            "compression": 4,
+            "name": "2_PIRACI",
+            "position_x": 470,
+            "position_y": 291
+        },
+        "piraci_20.png": {
+            "compression": 4,
+            "name": "13_PIRACI",
+            "position_x": 278,
+            "position_y": 284
+        },
+        "piraci_21.png": {
+            "compression": 4,
+            "name": "14_PIRACI",
+            "position_x": 275,
+            "position_y": 287
+        },
+        "piraci_22.png": {
+            "compression": 4,
+            "name": "15_PIRACI",
+            "position_x": 268,
+            "position_y": 290
+        },
+        "piraci_23.png": {
+            "compression": 4,
+            "name": "16_PIRACI",
+            "position_x": 276,
+            "position_y": 291
+        },
+        "piraci_24.png": {
+            "compression": 4,
+            "name": "17_PIRACI",
+            "position_x": 280,
+            "position_y": 294
+        },
+        "piraci_25.png": {
+            "compression": 4,
+            "name": "18_PIRACI",
+            "position_x": 309,
+            "position_y": 295
+        },
+        "piraci_26.png": {
+            "compression": 4,
+            "name": "19_PIRACI",
+            "position_x": 332,
+            "position_y": 253
+        },
+        "piraci_3.png": {
+            "compression": 4,
+            "name": "21_PIRACI",
+            "position_x": 357,
+            "position_y": 227
+        },
+        "piraci_4.png": {
+            "compression": 4,
+            "name": "3_PIRACI",
+            "position_x": 425,
+            "position_y": 282
+        },
+        "piraci_5.png": {
+            "compression": 4,
+            "name": "22_PIRACI",
+            "position_x": 346,
+            "position_y": 262
+        },
+        "piraci_6.png": {
+            "compression": 4,
+            "name": "4_PIRACI",
+            "position_x": 404,
+            "position_y": 284
+        },
+        "piraci_7.png": {
+            "compression": 4,
+            "name": "23_PIRACI",
+            "position_x": 359,
+            "position_y": 265
+        },
+        "piraci_8.png": {
+            "compression": 4,
+            "name": "5_PIRACI",
+            "position_x": 381,
+            "position_y": 289
+        },
+        "piraci_9.png": {
+            "compression": 4,
+            "name": "24_PIRACI",
+            "position_x": 360,
+            "position_y": 274
+        }
+    },
+    "transparency": 255
+}

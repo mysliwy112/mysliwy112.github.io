@@ -1,0 +1,72 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "L1": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "autol_mask_0.png",
+                    "name": "Layer_6",
+                    "position_x": -245,
+                    "position_y": -30
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "L2": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "autol_mask_1.png",
+                    "name": "Layer_1_copy",
+                    "position_x": -125,
+                    "position_y": -30
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "L3": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "autol_mask_2.png",
+                    "name": "Layer_5",
+                    "position_x": -85,
+                    "position_y": -30
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "autol_mask_0.png": {
+            "compression": 4,
+            "name": "Layer_6"
+        },
+        "autol_mask_1.png": {
+            "compression": 4,
+            "name": "Layer_1_copy"
+        },
+        "autol_mask_2.png": {
+            "compression": 4,
+            "name": "Layer_5"
+        }
+    },
+    "transparency": 255
+}

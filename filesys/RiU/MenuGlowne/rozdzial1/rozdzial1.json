@@ -1,0 +1,89 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "ONCLICK": {
+            "frames": [
+                {
+                    "check": [
+                        72,
+                        137,
+                        84
+                    ],
+                    "filename": "rozdzial1_1.png",
+                    "name": "inwazja2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONFOCUSOFF": {
+            "frames": [
+                {
+                    "check": [
+                        72,
+                        137,
+                        84
+                    ],
+                    "filename": "rozdzial1_0.png",
+                    "name": "inwazja1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONFOCUSON": {
+            "frames": [
+                {
+                    "check": [
+                        72,
+                        137,
+                        84
+                    ],
+                    "filename": "rozdzial1_1.png",
+                    "name": "inwazja2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONNOEVENT": {
+            "frames": [
+                {
+                    "check": [
+                        72,
+                        137,
+                        84
+                    ],
+                    "filename": "rozdzial1_0.png",
+                    "name": "inwazja1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "rozdzial1_0.png": {
+            "compression": 4,
+            "name": "INWAZJA1",
+            "position_x": 6,
+            "position_y": 364
+        },
+        "rozdzial1_1.png": {
+            "compression": 4,
+            "name": "INWAZJA2",
+            "position_x": 6,
+            "position_y": 364
+        }
+    },
+    "transparency": 255
+}

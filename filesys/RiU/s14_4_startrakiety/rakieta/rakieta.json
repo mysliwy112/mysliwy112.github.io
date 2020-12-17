@@ -1,0 +1,1025 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "Click": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FocusOff": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FocusOn": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NoEvent": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_0.png",
+                    "name": "RAKIETA",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\00rakstart.wav",
+                    "sfx_seed": 14230548
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_1.png",
+                    "name": "RAKIETA COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_2.png",
+                    "name": "RAKIETA COPY 2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_3.png",
+                    "name": "RAKIETA COPY 3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_4.png",
+                    "name": "RAKIETA COPY 4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_5.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_6.png",
+                    "name": "RAKIETA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_7.png",
+                    "name": "RAKIETA COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_8.png",
+                    "name": "RAKIETA COPY 2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_9.png",
+                    "name": "RAKIETA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_10.png",
+                    "name": "RAKIETA COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_11.png",
+                    "name": "RAKIETA COPY 2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_12.png",
+                    "name": "RAKIETA COPY 3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_13.png",
+                    "name": "RAKIETA COPY 4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_14.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_15.png",
+                    "name": "RAKIETA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_16.png",
+                    "name": "RAKIETA COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_17.png",
+                    "name": "RAKIETA COPY 2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_18.png",
+                    "name": "RAKIETA COPY 3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_19.png",
+                    "name": "RAKIETA COPY 4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_21.png",
+                    "name": "brak",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "rakieta_20.png",
+                    "name": "RAKIETA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "rakieta_0.png": {
+            "compression": 3,
+            "name": "RAKIETA",
+            "position_x": 336,
+            "position_y": 163
+        },
+        "rakieta_1.png": {
+            "compression": 3,
+            "name": "RAKIETA COPY",
+            "position_x": 330,
+            "position_y": 147
+        },
+        "rakieta_10.png": {
+            "compression": 3,
+            "name": "RAKIETA COPY",
+            "position_x": 272,
+            "position_y": 61
+        },
+        "rakieta_11.png": {
+            "compression": 3,
+            "name": "RAKIETA COPY 2",
+            "position_x": 265,
+            "position_y": 61
+        },
+        "rakieta_12.png": {
+            "compression": 3,
+            "name": "RAKIETA COPY 3",
+            "position_x": 257,
+            "position_y": 61
+        },
+        "rakieta_13.png": {
+            "compression": 3,
+            "name": "RAKIETA COPY 4",
+            "position_x": 250,
+            "position_y": 61
+        },
+        "rakieta_14.png": {
+            "compression": 3,
+            "name": "RAKIETA COPY 5",
+            "position_x": 237,
+            "position_y": 61
+        },
+        "rakieta_15.png": {
+            "compression": 3,
+            "name": "RAKIETA",
+            "position_x": 223,
+            "position_y": 61
+        },
+        "rakieta_16.png": {
+            "compression": 3,
+            "name": "RAKIETA COPY",
+            "position_x": 218,
+            "position_y": 61
+        },
+        "rakieta_17.png": {
+            "compression": 3,
+            "name": "RAKIETA COPY 2",
+            "position_x": 210,
+            "position_y": 61
+        },
+        "rakieta_18.png": {
+            "compression": 3,
+            "name": "RAKIETA COPY 3",
+            "position_x": 209,
+            "position_y": 61
+        },
+        "rakieta_19.png": {
+            "compression": 3,
+            "name": "RAKIETA COPY 4",
+            "position_x": 188,
+            "position_y": 61
+        },
+        "rakieta_2.png": {
+            "compression": 3,
+            "name": "RAKIETA COPY 2",
+            "position_x": 323,
+            "position_y": 126
+        },
+        "rakieta_20.png": {
+            "compression": 3,
+            "name": "RAKIETA COPY 5",
+            "position_x": 263,
+            "position_y": 61
+        },
+        "rakieta_21.png": {
+            "compression": 3,
+            "name": "brak"
+        },
+        "rakieta_3.png": {
+            "compression": 3,
+            "name": "RAKIETA COPY 3",
+            "position_x": 316,
+            "position_y": 111
+        },
+        "rakieta_4.png": {
+            "compression": 3,
+            "name": "RAKIETA COPY 4",
+            "position_x": 308,
+            "position_y": 95
+        },
+        "rakieta_5.png": {
+            "compression": 3,
+            "name": "RAKIETA COPY 5",
+            "position_x": 295,
+            "position_y": 84
+        },
+        "rakieta_6.png": {
+            "compression": 3,
+            "name": "RAKIETA",
+            "position_x": 281,
+            "position_y": 74
+        },
+        "rakieta_7.png": {
+            "compression": 3,
+            "name": "RAKIETA COPY",
+            "position_x": 284,
+            "position_y": 61
+        },
+        "rakieta_8.png": {
+            "compression": 3,
+            "name": "RAKIETA COPY 2",
+            "position_x": 268,
+            "position_y": 61
+        },
+        "rakieta_9.png": {
+            "compression": 3,
+            "name": "RAKIETA",
+            "position_x": 278,
+            "position_y": 61
+        }
+    },
+    "transparency": 255
+}

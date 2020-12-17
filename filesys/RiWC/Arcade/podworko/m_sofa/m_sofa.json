@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "530-480-549": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_sofa_0.png",
+                    "name": "SOFA_GOTO_530-480-549",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_sofa_0.png",
+                    "name": "SOFA_GOTO_530-480-549",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "m_sofa_0.png": {
+            "compression": 3,
+            "name": "SOFA_GOTO_530-480-5",
+            "position_x": 43,
+            "position_y": 293
+        }
+    },
+    "transparency": 255
+}

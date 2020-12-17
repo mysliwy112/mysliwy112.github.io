@@ -1,0 +1,5691 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "glowa": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_15.png",
+                    "name": "glowa",
+                    "position_x": 42,
+                    "position_y": -79
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "kair_noca": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_14.png",
+                    "name": "kair_noca",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "kupiec_gada": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_3.png",
+                    "name": "kupiec_gada_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_19.png",
+                    "name": "kupiec_gada_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_24.png",
+                    "name": "kupiec_gada_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_29.png",
+                    "name": "kupiec_gada_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_34.png",
+                    "name": "kupiec_gada_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_39.png",
+                    "name": "kupiec_gada_6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_43.png",
+                    "name": "kupiec_gada_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_46.png",
+                    "name": "kupiec_gada_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_49.png",
+                    "name": "kupiec_gada_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_52.png",
+                    "name": "kupiec_gada_10",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_55.png",
+                    "name": "kupiec_gada_11",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 10,
+            "transparency": 255
+        },
+        "kupiec_idle": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_17.png",
+                    "name": "kupiec_bezr_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_17.png",
+                    "name": "kupiec_bezr_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_17.png",
+                    "name": "kupiec_bezr_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "kupiec_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 57,
+            "transparency": 255
+        },
+        "kupiec_przeszk": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_2.png",
+                    "name": "kupiec_przeszk_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_18.png",
+                    "name": "kupiec_przeszk_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_23.png",
+                    "name": "kupiec_przeszk_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_28.png",
+                    "name": "kupiec_przeszk_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_33.png",
+                    "name": "kupiec_przeszk_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_38.png",
+                    "name": "kupiec_przeszk_6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_2.png",
+                    "name": "kupiec_przeszk_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_18.png",
+                    "name": "kupiec_przeszk_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_23.png",
+                    "name": "kupiec_przeszk_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_28.png",
+                    "name": "kupiec_przeszk_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_33.png",
+                    "name": "kupiec_przeszk_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_38.png",
+                    "name": "kupiec_przeszk_6",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "lampa": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_10.png",
+                    "name": "lampa",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "mis": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_6.png",
+                    "name": "mis",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "mumionek": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_8.png",
+                    "name": "mumianek",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "nilus": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_7.png",
+                    "name": "nilus",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "piramida_sniegu": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_13.png",
+                    "name": "piramida_sniegu",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "sfinks": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_12.png",
+                    "name": "sfinks",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "skarabeusz": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_11.png",
+                    "name": "skarabeusz",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "szkot_gada": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_5.png",
+                    "name": "szkot_gada_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_21.png",
+                    "name": "szkot_gada_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_26.png",
+                    "name": "szkot_gada_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_31.png",
+                    "name": "szkot_gada_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_36.png",
+                    "name": "szkot_gada_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_41.png",
+                    "name": "szkot_gada_6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_44.png",
+                    "name": "szkot_gada_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_47.png",
+                    "name": "szkot_gada_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_50.png",
+                    "name": "szkot_gada_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_53.png",
+                    "name": "szkot_gada_10",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 9,
+            "transparency": 255
+        },
+        "szkot_idle": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_4.png",
+                    "name": "szkot_bezr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_20.png",
+                    "name": "szkot_bezr_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_25.png",
+                    "name": "szkot_bezr_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_30.png",
+                    "name": "szkot_bezr_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_35.png",
+                    "name": "szkot_bezr_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_40.png",
+                    "name": "szkot_bezr_6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_40.png",
+                    "name": "szkot_bezr_6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_35.png",
+                    "name": "szkot_bezr_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_35.png",
+                    "name": "szkot_bezr_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_35.png",
+                    "name": "szkot_bezr_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_35.png",
+                    "name": "szkot_bezr_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_35.png",
+                    "name": "szkot_bezr_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_35.png",
+                    "name": "szkot_bezr_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_35.png",
+                    "name": "szkot_bezr_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_35.png",
+                    "name": "szkot_bezr_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_35.png",
+                    "name": "szkot_bezr_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_35.png",
+                    "name": "szkot_bezr_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_35.png",
+                    "name": "szkot_bezr_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_35.png",
+                    "name": "szkot_bezr_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_35.png",
+                    "name": "szkot_bezr_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_35.png",
+                    "name": "szkot_bezr_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_35.png",
+                    "name": "szkot_bezr_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_35.png",
+                    "name": "szkot_bezr_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_35.png",
+                    "name": "szkot_bezr_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_35.png",
+                    "name": "szkot_bezr_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_35.png",
+                    "name": "szkot_bezr_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_35.png",
+                    "name": "szkot_bezr_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_35.png",
+                    "name": "szkot_bezr_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_35.png",
+                    "name": "szkot_bezr_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_25.png",
+                    "name": "szkot_bezr_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_57.png",
+                    "name": "szkot_bezr_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_57.png",
+                    "name": "szkot_bezr_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_57.png",
+                    "name": "szkot_bezr_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_57.png",
+                    "name": "szkot_bezr_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_57.png",
+                    "name": "szkot_bezr_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_57.png",
+                    "name": "szkot_bezr_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_57.png",
+                    "name": "szkot_bezr_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_57.png",
+                    "name": "szkot_bezr_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_57.png",
+                    "name": "szkot_bezr_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_57.png",
+                    "name": "szkot_bezr_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_57.png",
+                    "name": "szkot_bezr_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_57.png",
+                    "name": "szkot_bezr_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_57.png",
+                    "name": "szkot_bezr_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_57.png",
+                    "name": "szkot_bezr_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_57.png",
+                    "name": "szkot_bezr_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_57.png",
+                    "name": "szkot_bezr_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_57.png",
+                    "name": "szkot_bezr_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_58.png",
+                    "name": "szkot_bezr_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_60.png",
+                    "name": "szkot_bezr_10",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_61.png",
+                    "name": "szkot_bezr_11",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_61.png",
+                    "name": "szkot_bezr_11",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_61.png",
+                    "name": "szkot_bezr_11",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_59.png",
+                    "name": "szkot_bezr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 106,
+            "transparency": 255
+        },
+        "termometr": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_9.png",
+                    "name": "termometr",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "wielblad": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_16.png",
+                    "name": "wiel_2",
+                    "position_x": -556,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_22.png",
+                    "name": "wiel_3",
+                    "position_x": -532,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_27.png",
+                    "name": "wiel_4",
+                    "position_x": -508,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_32.png",
+                    "name": "wiel_5",
+                    "position_x": -484,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_37.png",
+                    "name": "wiel_6",
+                    "position_x": -460,
+                    "position_y": -1
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_42.png",
+                    "name": "wiel_7",
+                    "position_x": -435,
+                    "position_y": -1
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_45.png",
+                    "name": "wiel_8",
+                    "position_x": -411,
+                    "position_y": -1
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_48.png",
+                    "name": "wiel_9",
+                    "position_x": -387,
+                    "position_y": -1
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_51.png",
+                    "name": "wiel_10",
+                    "position_x": -363,
+                    "position_y": -1
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_54.png",
+                    "name": "wiel_11",
+                    "position_x": -339,
+                    "position_y": -1
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_56.png",
+                    "name": "wiel_12",
+                    "position_x": -314,
+                    "position_y": -1
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -290,
+                    "position_y": -1
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_16.png",
+                    "name": "wiel_2",
+                    "position_x": -266,
+                    "position_y": -1
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_22.png",
+                    "name": "wiel_3",
+                    "position_x": -242,
+                    "position_y": -1
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_27.png",
+                    "name": "wiel_4",
+                    "position_x": -218,
+                    "position_y": -2
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_32.png",
+                    "name": "wiel_5",
+                    "position_x": -193,
+                    "position_y": -2
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_37.png",
+                    "name": "wiel_6",
+                    "position_x": -169,
+                    "position_y": -2
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_42.png",
+                    "name": "wiel_7",
+                    "position_x": -145,
+                    "position_y": -2
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_45.png",
+                    "name": "wiel_8",
+                    "position_x": -121,
+                    "position_y": -2
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_48.png",
+                    "name": "wiel_9",
+                    "position_x": -97,
+                    "position_y": -2
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_51.png",
+                    "name": "wiel_10",
+                    "position_x": -72,
+                    "position_y": -2
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_54.png",
+                    "name": "wiel_11",
+                    "position_x": -48,
+                    "position_y": -2
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_56.png",
+                    "name": "wiel_12",
+                    "position_x": -24,
+                    "position_y": -2
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": 0,
+                    "position_y": -3
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_16.png",
+                    "name": "wiel_2",
+                    "position_x": 24,
+                    "position_y": -3
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_22.png",
+                    "name": "wiel_3",
+                    "position_x": 48,
+                    "position_y": -3
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_27.png",
+                    "name": "wiel_4",
+                    "position_x": 73,
+                    "position_y": -3
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_32.png",
+                    "name": "wiel_5",
+                    "position_x": 97,
+                    "position_y": -3
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_37.png",
+                    "name": "wiel_6",
+                    "position_x": 121,
+                    "position_y": -3
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_42.png",
+                    "name": "wiel_7",
+                    "position_x": 145,
+                    "position_y": -3
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_45.png",
+                    "name": "wiel_8",
+                    "position_x": 169,
+                    "position_y": -3
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_48.png",
+                    "name": "wiel_9",
+                    "position_x": 194,
+                    "position_y": -3
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_51.png",
+                    "name": "wiel_10",
+                    "position_x": 218,
+                    "position_y": -4
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_54.png",
+                    "name": "wiel_11",
+                    "position_x": 242,
+                    "position_y": -4
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_56.png",
+                    "name": "wiel_12",
+                    "position_x": 266,
+                    "position_y": -4
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": 290,
+                    "position_y": -4
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_16.png",
+                    "name": "wiel_2",
+                    "position_x": 315,
+                    "position_y": -4
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_22.png",
+                    "name": "wiel_3",
+                    "position_x": 339,
+                    "position_y": -4
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_27.png",
+                    "name": "wiel_4",
+                    "position_x": 363,
+                    "position_y": -4
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_32.png",
+                    "name": "wiel_5",
+                    "position_x": 387,
+                    "position_y": -4
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_37.png",
+                    "name": "wiel_6",
+                    "position_x": 411,
+                    "position_y": -4
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_42.png",
+                    "name": "wiel_7",
+                    "position_x": 436,
+                    "position_y": -4
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_45.png",
+                    "name": "wiel_8",
+                    "position_x": 460,
+                    "position_y": -5
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_48.png",
+                    "name": "wiel_9",
+                    "position_x": 484,
+                    "position_y": -5
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_51.png",
+                    "name": "wiel_10",
+                    "position_x": 508,
+                    "position_y": -5
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_54.png",
+                    "name": "wiel_11",
+                    "position_x": 532,
+                    "position_y": -5
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_56.png",
+                    "name": "wiel_12",
+                    "position_x": 557,
+                    "position_y": -5
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "wiel_1",
+                    "position_x": -580,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "obj3_0.png": {
+            "compression": 3,
+            "name": "wiel_1",
+            "position_x": 249,
+            "position_y": 217
+        },
+        "obj3_1.png": {
+            "compression": 3,
+            "name": "kupiec_bezr_1",
+            "position_x": 15,
+            "position_y": 349
+        },
+        "obj3_10.png": {
+            "compression": 3,
+            "name": "lampa",
+            "position_x": 180,
+            "position_y": 455
+        },
+        "obj3_11.png": {
+            "compression": 3,
+            "name": "skarabeusz",
+            "position_x": 176,
+            "position_y": 451
+        },
+        "obj3_12.png": {
+            "compression": 3,
+            "name": "sfinks",
+            "position_x": 176,
+            "position_y": 450
+        },
+        "obj3_13.png": {
+            "compression": 3,
+            "name": "piramida_sniegu",
+            "position_x": 181,
+            "position_y": 446
+        },
+        "obj3_14.png": {
+            "compression": 3,
+            "name": "kair_noca",
+            "position_x": 180,
+            "position_y": 455
+        },
+        "obj3_15.png": {
+            "compression": 3,
+            "name": "glowa",
+            "position_x": 80,
+            "position_y": 527
+        },
+        "obj3_16.png": {
+            "compression": 3,
+            "name": "wiel_2",
+            "position_x": 249,
+            "position_y": 219
+        },
+        "obj3_17.png": {
+            "compression": 3,
+            "name": "kupiec_bezr_2",
+            "position_x": 15,
+            "position_y": 349
+        },
+        "obj3_18.png": {
+            "compression": 3,
+            "name": "kupiec_przeszk_2",
+            "position_x": 15,
+            "position_y": 349
+        },
+        "obj3_19.png": {
+            "compression": 3,
+            "name": "kupiec_gada_2",
+            "position_x": 15,
+            "position_y": 348
+        },
+        "obj3_2.png": {
+            "compression": 3,
+            "name": "kupiec_przeszk_1",
+            "position_x": 15,
+            "position_y": 349
+        },
+        "obj3_20.png": {
+            "compression": 3,
+            "name": "szkot_bezr_2",
+            "position_x": 658,
+            "position_y": 277
+        },
+        "obj3_21.png": {
+            "compression": 3,
+            "name": "szkot_gada_2",
+            "position_x": 658,
+            "position_y": 278
+        },
+        "obj3_22.png": {
+            "compression": 3,
+            "name": "wiel_3",
+            "position_x": 243,
+            "position_y": 220
+        },
+        "obj3_23.png": {
+            "compression": 3,
+            "name": "kupiec_przeszk_3",
+            "position_x": 15,
+            "position_y": 349
+        },
+        "obj3_24.png": {
+            "compression": 3,
+            "name": "kupiec_gada_3",
+            "position_x": 15,
+            "position_y": 348
+        },
+        "obj3_25.png": {
+            "compression": 3,
+            "name": "szkot_bezr_3",
+            "position_x": 658,
+            "position_y": 276
+        },
+        "obj3_26.png": {
+            "compression": 3,
+            "name": "szkot_gada_3",
+            "position_x": 657,
+            "position_y": 278
+        },
+        "obj3_27.png": {
+            "compression": 3,
+            "name": "wiel_4",
+            "position_x": 242,
+            "position_y": 219
+        },
+        "obj3_28.png": {
+            "compression": 3,
+            "name": "kupiec_przeszk_4",
+            "position_x": 15,
+            "position_y": 349
+        },
+        "obj3_29.png": {
+            "compression": 3,
+            "name": "kupiec_gada_4",
+            "position_x": 15,
+            "position_y": 347
+        },
+        "obj3_3.png": {
+            "compression": 3,
+            "name": "kupiec_gada_1",
+            "position_x": 15,
+            "position_y": 349
+        },
+        "obj3_30.png": {
+            "compression": 3,
+            "name": "szkot_bezr_4",
+            "position_x": 660,
+            "position_y": 275
+        },
+        "obj3_31.png": {
+            "compression": 3,
+            "name": "szkot_gada_4",
+            "position_x": 656,
+            "position_y": 278
+        },
+        "obj3_32.png": {
+            "compression": 3,
+            "name": "wiel_5",
+            "position_x": 243,
+            "position_y": 218
+        },
+        "obj3_33.png": {
+            "compression": 3,
+            "name": "kupiec_przeszk_5",
+            "position_x": 15,
+            "position_y": 349
+        },
+        "obj3_34.png": {
+            "compression": 3,
+            "name": "kupiec_gada_5",
+            "position_x": 15,
+            "position_y": 346
+        },
+        "obj3_35.png": {
+            "compression": 3,
+            "name": "szkot_bezr_5",
+            "position_x": 660,
+            "position_y": 275
+        },
+        "obj3_36.png": {
+            "compression": 3,
+            "name": "szkot_gada_5",
+            "position_x": 652,
+            "position_y": 278
+        },
+        "obj3_37.png": {
+            "compression": 3,
+            "name": "wiel_6",
+            "position_x": 242,
+            "position_y": 218
+        },
+        "obj3_38.png": {
+            "compression": 3,
+            "name": "kupiec_przeszk_6",
+            "position_x": 15,
+            "position_y": 349
+        },
+        "obj3_39.png": {
+            "compression": 3,
+            "name": "kupiec_gada_6",
+            "position_x": 15,
+            "position_y": 350
+        },
+        "obj3_4.png": {
+            "compression": 3,
+            "name": "szkot_bezr_1",
+            "position_x": 658,
+            "position_y": 277
+        },
+        "obj3_40.png": {
+            "compression": 3,
+            "name": "szkot_bezr_6",
+            "position_x": 660,
+            "position_y": 275
+        },
+        "obj3_41.png": {
+            "compression": 3,
+            "name": "szkot_gada_6",
+            "position_x": 657,
+            "position_y": 279
+        },
+        "obj3_42.png": {
+            "compression": 3,
+            "name": "wiel_7",
+            "position_x": 244,
+            "position_y": 216
+        },
+        "obj3_43.png": {
+            "compression": 3,
+            "name": "kupiec_gada_7",
+            "position_x": 15,
+            "position_y": 349
+        },
+        "obj3_44.png": {
+            "compression": 3,
+            "name": "szkot_gada_7",
+            "position_x": 656,
+            "position_y": 280
+        },
+        "obj3_45.png": {
+            "compression": 3,
+            "name": "wiel_8",
+            "position_x": 251,
+            "position_y": 218
+        },
+        "obj3_46.png": {
+            "compression": 3,
+            "name": "kupiec_gada_8",
+            "position_x": 15,
+            "position_y": 350
+        },
+        "obj3_47.png": {
+            "compression": 3,
+            "name": "szkot_gada_8",
+            "position_x": 659,
+            "position_y": 281
+        },
+        "obj3_48.png": {
+            "compression": 3,
+            "name": "wiel_9",
+            "position_x": 260,
+            "position_y": 218
+        },
+        "obj3_49.png": {
+            "compression": 3,
+            "name": "kupiec_gada_9",
+            "position_x": 15,
+            "position_y": 350
+        },
+        "obj3_5.png": {
+            "compression": 3,
+            "name": "szkot_gada_1",
+            "position_x": 658,
+            "position_y": 278
+        },
+        "obj3_50.png": {
+            "compression": 3,
+            "name": "szkot_gada_9",
+            "position_x": 659,
+            "position_y": 282
+        },
+        "obj3_51.png": {
+            "compression": 3,
+            "name": "wiel_10",
+            "position_x": 271,
+            "position_y": 219
+        },
+        "obj3_52.png": {
+            "compression": 3,
+            "name": "kupiec_gada_10",
+            "position_x": 15,
+            "position_y": 350
+        },
+        "obj3_53.png": {
+            "compression": 3,
+            "name": "szkot_gada_10",
+            "position_x": 658,
+            "position_y": 283
+        },
+        "obj3_54.png": {
+            "compression": 3,
+            "name": "wiel_11",
+            "position_x": 278,
+            "position_y": 221
+        },
+        "obj3_55.png": {
+            "compression": 3,
+            "name": "kupiec_gada_11",
+            "position_x": 15,
+            "position_y": 352
+        },
+        "obj3_56.png": {
+            "compression": 3,
+            "name": "wiel_12",
+            "position_x": 268,
+            "position_y": 219
+        },
+        "obj3_57.png": {
+            "compression": 3,
+            "name": "szkot_bezr_7",
+            "position_x": 658,
+            "position_y": 278
+        },
+        "obj3_58.png": {
+            "compression": 3,
+            "name": "szkot_bezr_8",
+            "position_x": 658,
+            "position_y": 280
+        },
+        "obj3_59.png": {
+            "compression": 3,
+            "name": "szkot_bezr_9",
+            "position_x": 658,
+            "position_y": 282
+        },
+        "obj3_6.png": {
+            "compression": 3,
+            "name": "mis",
+            "position_x": 186,
+            "position_y": 443
+        },
+        "obj3_60.png": {
+            "compression": 3,
+            "name": "szkot_bezr_10",
+            "position_x": 659,
+            "position_y": 284
+        },
+        "obj3_61.png": {
+            "compression": 3,
+            "name": "szkot_bezr_11",
+            "position_x": 659,
+            "position_y": 284
+        },
+        "obj3_7.png": {
+            "compression": 3,
+            "name": "nilus",
+            "position_x": 176,
+            "position_y": 450
+        },
+        "obj3_8.png": {
+            "compression": 3,
+            "name": "mumianek",
+            "position_x": 181,
+            "position_y": 448
+        },
+        "obj3_9.png": {
+            "compression": 3,
+            "name": "termometr",
+            "position_x": 185,
+            "position_y": 442
+        }
+    },
+    "transparency": 255
+}

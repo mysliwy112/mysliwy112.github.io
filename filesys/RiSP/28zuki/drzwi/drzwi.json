@@ -1,0 +1,155 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        127,
+                        164
+                    ],
+                    "filename": "drzwi_0.png",
+                    "name": "DRZWI",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        128,
+                        122,
+                        164
+                    ],
+                    "filename": "drzwi_1.png",
+                    "name": "DRZWI COPY",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "sfx\\00drzwi1.wav",
+                    "sfx_seed": 10833200
+                },
+                {
+                    "check": [
+                        224,
+                        173,
+                        164
+                    ],
+                    "filename": "drzwi_1.png",
+                    "name": "DRZWI COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        172,
+                        164
+                    ],
+                    "filename": "drzwi_1.png",
+                    "name": "DRZWI COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        16,
+                        171,
+                        164
+                    ],
+                    "filename": "drzwi_1.png",
+                    "name": "DRZWI COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        160,
+                        169,
+                        164
+                    ],
+                    "filename": "drzwi_1.png",
+                    "name": "DRZWI COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        168,
+                        164
+                    ],
+                    "filename": "drzwi_1.png",
+                    "name": "DRZWI COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        167,
+                        164
+                    ],
+                    "filename": "drzwi_1.png",
+                    "name": "DRZWI COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        166,
+                        164
+                    ],
+                    "filename": "drzwi_1.png",
+                    "name": "DRZWI COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "drzwi_1.png",
+                    "name": "DRZWI COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "drzwi_0.png": {
+            "compression": 4,
+            "name": "DRZWI",
+            "position_x": 445,
+            "position_y": 456
+        },
+        "drzwi_1.png": {
+            "compression": 4,
+            "name": "DRZWI COPY",
+            "position_x": 403,
+            "position_y": 459
+        }
+    },
+    "transparency": 255
+}

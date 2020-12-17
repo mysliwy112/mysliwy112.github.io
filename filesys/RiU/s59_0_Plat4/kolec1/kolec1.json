@@ -1,0 +1,935 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "Click": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FocusOff": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FocusOn": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NoEvent": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PAUSE": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        197,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        32,
+                        197,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        144,
+                        196,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                },
+                {
+                    "check": [],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        112,
+                        195,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        224,
+                        194,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        80,
+                        194,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        192,
+                        193,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        48,
+                        193,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        160,
+                        192,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        224,
+                        223,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        80,
+                        223,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        192,
+                        222,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        48,
+                        222,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        160,
+                        221,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        16,
+                        221,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        128,
+                        220,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        240,
+                        219,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        96,
+                        219,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        208,
+                        218,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        64,
+                        218,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        176,
+                        217,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        32,
+                        217,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        144,
+                        216,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                },
+                {
+                    "check": [],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        112,
+                        215,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        224,
+                        214,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        80,
+                        214,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        192,
+                        213,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        48,
+                        213,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        160,
+                        212,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        16,
+                        212,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        128,
+                        211,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        240,
+                        210,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        96,
+                        210,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        208,
+                        209,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        64,
+                        209,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        176,
+                        208,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        224,
+                        239,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        80,
+                        239,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        192,
+                        238,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": -122,
+                    "position_y": -6
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        144,
+                        190,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48,
+                        250,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 18,
+                    "position_y": 0,
+                    "sfx": "sfx\\000brama4.wav",
+                    "sfx_seed": 10812080
+                },
+                {
+                    "check": [
+                        112,
+                        189,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 37,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        188,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 56,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        188,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 74,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        192,
+                        187,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 92,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48,
+                        187,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 110,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        160,
+                        186,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 128,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        16,
+                        186,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 146,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        128,
+                        185,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 163,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        184,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 181,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        184,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 198,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        183,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 216,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        64,
+                        183,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 233,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        182,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 251,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        32,
+                        182,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 268,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        181,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 286,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 303,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        180,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 321,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        179,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 338,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        179,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 356,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        192,
+                        178,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 374,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48,
+                        178,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 392,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        160,
+                        177,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 410,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        16,
+                        177,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 428,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        128,
+                        176,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 446,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        207,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 465,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        207,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 483,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        192,
+                        206,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 502,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48,
+                        206,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 522,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        160,
+                        205,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 541,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        16,
+                        205,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 561,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        128,
+                        204,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 580,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        203,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 601,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        203,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 621,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        202,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 642,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        64,
+                        202,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 663,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        201,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 685,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        32,
+                        201,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 707,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        200,
+                        164
+                    ],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 729,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "kolec1_0.png",
+                    "name": "KOLEC",
+                    "position_x": 752,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "kolec1_0.png": {
+            "compression": 4,
+            "name": "KOLEC",
+            "position_x": 51,
+            "position_y": 368
+        }
+    },
+    "transparency": 255
+}

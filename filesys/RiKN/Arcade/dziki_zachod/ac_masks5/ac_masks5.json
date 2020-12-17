@@ -1,0 +1,79 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "idle": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "ac_masks5_0.png",
+                    "name": "pixel",
+                    "position_x": -1000,
+                    "position_y": -1000
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "ac_masks5_1.png",
+                    "name": "Layer_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "ac_masks5_2.png",
+                    "name": "Layer_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "ac_masks5_3.png",
+                    "name": "Layer_3",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "ac_masks5_0.png": {
+            "compression": 3,
+            "name": "pixel"
+        },
+        "ac_masks5_1.png": {
+            "compression": 3,
+            "name": "Layer_1"
+        },
+        "ac_masks5_2.png": {
+            "compression": 3,
+            "name": "Layer_2",
+            "position_x": 700,
+            "position_y": 500
+        },
+        "ac_masks5_3.png": {
+            "compression": 3,
+            "name": "Layer_3",
+            "position_x": 527,
+            "position_y": 75
+        }
+    },
+    "transparency": 255
+}

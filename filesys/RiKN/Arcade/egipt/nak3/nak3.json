@@ -1,0 +1,52 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "1plan": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "nak3_1.png",
+                    "name": "1plan",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "stragan": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "nak3_0.png",
+                    "name": "stragan",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "nak3_0.png": {
+            "compression": 3,
+            "name": "stragan",
+            "position_y": 166
+        },
+        "nak3_1.png": {
+            "compression": 3,
+            "name": "1plan"
+        }
+    },
+    "transparency": 255
+}

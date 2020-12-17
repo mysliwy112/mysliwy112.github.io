@@ -1,0 +1,55 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "DRZWI1": {
+            "frames": [
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "drzwi_0.png",
+                    "name": "DRZWI",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "DRZWI2": {
+            "frames": [
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "drzwi_1.png",
+                    "name": "DRZWI OTWARTE",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "drzwi_0.png": {
+            "compression": 4,
+            "name": "DRZWI",
+            "position_x": 570,
+            "position_y": 141
+        },
+        "drzwi_1.png": {
+            "compression": 4,
+            "name": "DRZWI OTWARTE",
+            "position_x": 570,
+            "position_y": 138
+        }
+    },
+    "transparency": 255
+}

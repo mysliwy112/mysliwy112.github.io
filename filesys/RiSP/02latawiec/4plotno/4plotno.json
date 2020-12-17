@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "02": {
+            "frames": [
+                {
+                    "check": [
+                        16,
+                        51,
+                        78
+                    ],
+                    "filename": "4plotno_0.png",
+                    "name": "PLOTNO",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        16,
+                        51,
+                        78
+                    ],
+                    "filename": "4plotno_1.png",
+                    "name": "PLOTNO",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "4plotno_0.png": {
+            "compression": 4,
+            "name": "PLOTNO",
+            "position_x": 597,
+            "position_y": 375
+        },
+        "4plotno_1.png": {
+            "compression": 4,
+            "name": "PLOTNO",
+            "position_x": 349,
+            "position_y": 147
+        }
+    },
+    "transparency": 255
+}

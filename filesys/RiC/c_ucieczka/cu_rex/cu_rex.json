@@ -1,0 +1,809 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_0.png",
+                    "name": "REX1",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\c_uciecz.wav",
+                    "sfx_seed": 51020820
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_0.png",
+                    "name": "REX1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_0.png",
+                    "name": "REX1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_1.png",
+                    "name": "REX2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_1.png",
+                    "name": "REX2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_2.png",
+                    "name": "REX3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_3.png",
+                    "name": "REX3_COPY",
+                    "position_x": -39,
+                    "position_y": -24
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_4.png",
+                    "name": "REX3_COPY_2",
+                    "position_x": -82,
+                    "position_y": -47
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_5.png",
+                    "name": "REX3_COPY_3",
+                    "position_x": -125,
+                    "position_y": -75
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_6.png",
+                    "name": "REX3_COPY_4",
+                    "position_x": -170,
+                    "position_y": -100
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_7.png",
+                    "name": "REX3_COPY_5",
+                    "position_x": -212,
+                    "position_y": -117
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_8.png",
+                    "name": "REX3_COPY_6",
+                    "position_x": -257,
+                    "position_y": -121
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_9.png",
+                    "name": "REX3_COPY_7",
+                    "position_x": -297,
+                    "position_y": -103
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_10.png",
+                    "name": "REX3_COPY_8",
+                    "position_x": -333,
+                    "position_y": -71
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_11.png",
+                    "name": "REX3_COPY_9",
+                    "position_x": -349,
+                    "position_y": -26
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_12.png",
+                    "name": "REX3_COPY_10",
+                    "position_x": -356,
+                    "position_y": 18
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_13.png",
+                    "name": "REX3_COPY_11",
+                    "position_x": -358,
+                    "position_y": 64
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_14.png",
+                    "name": "REX3_COPY_12",
+                    "position_x": -350,
+                    "position_y": 108
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_15.png",
+                    "name": "REX3_COPY_13",
+                    "position_x": -316,
+                    "position_y": 148
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_16.png",
+                    "name": "REX3_COPY_14",
+                    "position_x": -275,
+                    "position_y": 178
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_17.png",
+                    "name": "REX3_COPY_15",
+                    "position_x": -231,
+                    "position_y": 196
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_18.png",
+                    "name": "REX3_COPY_16",
+                    "position_x": -186,
+                    "position_y": 203
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_19.png",
+                    "name": "REX3_COPY_17",
+                    "position_x": -143,
+                    "position_y": 211
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_20.png",
+                    "name": "REX3_COPY_18",
+                    "position_x": -99,
+                    "position_y": 216
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_21.png",
+                    "name": "REX3_COPY_19",
+                    "position_x": -53,
+                    "position_y": 205
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_22.png",
+                    "name": "REX3_COPY_20",
+                    "position_x": -11,
+                    "position_y": 177
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_23.png",
+                    "name": "REX3_COPY_21",
+                    "position_x": 25,
+                    "position_y": 134
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_24.png",
+                    "name": "REX3_COPY_22",
+                    "position_x": 39,
+                    "position_y": 90
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_25.png",
+                    "name": "REX3_COPY_23",
+                    "position_x": 41,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_26.png",
+                    "name": "REX3_COPY_24",
+                    "position_x": 29,
+                    "position_y": -3
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_27.png",
+                    "name": "REX3_COPY_25",
+                    "position_x": -1,
+                    "position_y": -46
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_28.png",
+                    "name": "REX3_COPY_26",
+                    "position_x": -43,
+                    "position_y": -84
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_29.png",
+                    "name": "REX3_COPY_27",
+                    "position_x": -88,
+                    "position_y": -99
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_30.png",
+                    "name": "REX3_COPY_28",
+                    "position_x": -134,
+                    "position_y": -97
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_31.png",
+                    "name": "REX3_COPY_29",
+                    "position_x": -175,
+                    "position_y": -64
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_32.png",
+                    "name": "REX3_COPY_30",
+                    "position_x": -194,
+                    "position_y": -18
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_33.png",
+                    "name": "REX3_COPY_31",
+                    "position_x": -192,
+                    "position_y": 27
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_34.png",
+                    "name": "REX3_COPY_32",
+                    "position_x": -171,
+                    "position_y": 72
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_35.png",
+                    "name": "REX3_COPY_33",
+                    "position_x": -130,
+                    "position_y": 109
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_36.png",
+                    "name": "REX3_COPY_34",
+                    "position_x": -86,
+                    "position_y": 117
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_37.png",
+                    "name": "REX3_COPY_35",
+                    "position_x": -44,
+                    "position_y": 95
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_38.png",
+                    "name": "REX3_COPY_36",
+                    "position_x": -28,
+                    "position_y": 50
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_39.png",
+                    "name": "REX3_COPY_37",
+                    "position_x": -52,
+                    "position_y": 9
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_40.png",
+                    "name": "REX3_COPY_38",
+                    "position_x": -95,
+                    "position_y": -5
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_41.png",
+                    "name": "REX3_COPY_39",
+                    "position_x": -119,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_42.png",
+                    "name": "REX3_COPY_40",
+                    "position_x": -91,
+                    "position_y": 52
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_43.png",
+                    "name": "REX3_COPY_41",
+                    "position_x": -79,
+                    "position_y": 22
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_rex_43.png",
+                    "name": "REX3_COPY_41",
+                    "position_x": -57,
+                    "position_y": 367
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "cu_rex_0.png": {
+            "compression": 3,
+            "name": "REX1",
+            "position_x": 451,
+            "position_y": 216
+        },
+        "cu_rex_1.png": {
+            "compression": 3,
+            "name": "REX2",
+            "position_x": 438,
+            "position_y": 169
+        },
+        "cu_rex_10.png": {
+            "compression": 3,
+            "name": "REX3_COPY_8",
+            "position_x": 400,
+            "position_y": 202
+        },
+        "cu_rex_11.png": {
+            "compression": 3,
+            "name": "REX3_COPY_9",
+            "position_x": 421,
+            "position_y": 176
+        },
+        "cu_rex_12.png": {
+            "compression": 3,
+            "name": "REX3_COPY_10",
+            "position_x": 439,
+            "position_y": 196
+        },
+        "cu_rex_13.png": {
+            "compression": 3,
+            "name": "REX3_COPY_11",
+            "position_x": 420,
+            "position_y": 211
+        },
+        "cu_rex_14.png": {
+            "compression": 3,
+            "name": "REX3_COPY_12",
+            "position_x": 434,
+            "position_y": 227
+        },
+        "cu_rex_15.png": {
+            "compression": 3,
+            "name": "REX3_COPY_13",
+            "position_x": 469,
+            "position_y": 211
+        },
+        "cu_rex_16.png": {
+            "compression": 3,
+            "name": "REX3_COPY_14",
+            "position_x": 459,
+            "position_y": 223
+        },
+        "cu_rex_17.png": {
+            "compression": 3,
+            "name": "REX3_COPY_15",
+            "position_x": 445,
+            "position_y": 251
+        },
+        "cu_rex_18.png": {
+            "compression": 3,
+            "name": "REX3_COPY_16",
+            "position_x": 456,
+            "position_y": 243
+        },
+        "cu_rex_19.png": {
+            "compression": 3,
+            "name": "REX3_COPY_17",
+            "position_x": 464,
+            "position_y": 231
+        },
+        "cu_rex_2.png": {
+            "compression": 3,
+            "name": "REX3",
+            "position_x": 272,
+            "position_y": 106
+        },
+        "cu_rex_20.png": {
+            "compression": 3,
+            "name": "REX3_COPY_18",
+            "position_x": 472,
+            "position_y": 241
+        },
+        "cu_rex_21.png": {
+            "compression": 3,
+            "name": "REX3_COPY_19",
+            "position_x": 464,
+            "position_y": 246
+        },
+        "cu_rex_22.png": {
+            "compression": 3,
+            "name": "REX3_COPY_20",
+            "position_x": 470,
+            "position_y": 254
+        },
+        "cu_rex_23.png": {
+            "compression": 3,
+            "name": "REX3_COPY_21",
+            "position_x": 485,
+            "position_y": 246
+        },
+        "cu_rex_24.png": {
+            "compression": 3,
+            "name": "REX3_COPY_22",
+            "position_x": 481,
+            "position_y": 252
+        },
+        "cu_rex_25.png": {
+            "compression": 3,
+            "name": "REX3_COPY_23",
+            "position_x": 474,
+            "position_y": 264
+        },
+        "cu_rex_26.png": {
+            "compression": 3,
+            "name": "REX3_COPY_24",
+            "position_x": 479,
+            "position_y": 261
+        },
+        "cu_rex_27.png": {
+            "compression": 3,
+            "name": "REX3_COPY_25",
+            "position_x": 482,
+            "position_y": 255
+        },
+        "cu_rex_28.png": {
+            "compression": 3,
+            "name": "REX3_COPY_26",
+            "position_x": 486,
+            "position_y": 260
+        },
+        "cu_rex_29.png": {
+            "compression": 3,
+            "name": "REX3_COPY_27",
+            "position_x": 482,
+            "position_y": 261
+        },
+        "cu_rex_3.png": {
+            "compression": 3,
+            "name": "REX3_COPY",
+            "position_x": 320,
+            "position_y": 49
+        },
+        "cu_rex_30.png": {
+            "compression": 3,
+            "name": "REX3_COPY_28",
+            "position_x": 485,
+            "position_y": 265
+        },
+        "cu_rex_31.png": {
+            "compression": 3,
+            "name": "REX3_COPY_29",
+            "position_x": 491,
+            "position_y": 262
+        },
+        "cu_rex_32.png": {
+            "compression": 3,
+            "name": "REX3_COPY_30",
+            "position_x": 490,
+            "position_y": 264
+        },
+        "cu_rex_33.png": {
+            "compression": 3,
+            "name": "REX3_COPY_31",
+            "position_x": 487,
+            "position_y": 268
+        },
+        "cu_rex_34.png": {
+            "compression": 3,
+            "name": "REX3_COPY_32",
+            "position_x": 489,
+            "position_y": 269
+        },
+        "cu_rex_35.png": {
+            "compression": 3,
+            "name": "REX3_COPY_33",
+            "position_x": 490,
+            "position_y": 265
+        },
+        "cu_rex_36.png": {
+            "compression": 3,
+            "name": "REX3_COPY_34",
+            "position_x": 493,
+            "position_y": 268
+        },
+        "cu_rex_37.png": {
+            "compression": 3,
+            "name": "REX3_COPY_35",
+            "position_x": 491,
+            "position_y": 268
+        },
+        "cu_rex_38.png": {
+            "compression": 3,
+            "name": "REX3_COPY_36",
+            "position_x": 493,
+            "position_y": 270
+        },
+        "cu_rex_39.png": {
+            "compression": 3,
+            "name": "REX3_COPY_37",
+            "position_x": 494,
+            "position_y": 267
+        },
+        "cu_rex_4.png": {
+            "compression": 3,
+            "name": "REX3_COPY_2",
+            "position_x": 361,
+            "position_y": 92
+        },
+        "cu_rex_40.png": {
+            "compression": 3,
+            "name": "REX3_COPY_38",
+            "position_x": 493,
+            "position_y": 270
+        },
+        "cu_rex_41.png": {
+            "compression": 3,
+            "name": "REX3_COPY_39",
+            "position_x": 491,
+            "position_y": 271
+        },
+        "cu_rex_42.png": {
+            "compression": 3,
+            "name": "REX3_COPY_40",
+            "position_x": 493,
+            "position_y": 270
+        },
+        "cu_rex_43.png": {
+            "compression": 3,
+            "name": "REX3_COPY_41",
+            "position_x": 493,
+            "position_y": 270
+        },
+        "cu_rex_5.png": {
+            "compression": 3,
+            "name": "REX3_COPY_3",
+            "position_x": 318,
+            "position_y": 129
+        },
+        "cu_rex_6.png": {
+            "compression": 3,
+            "name": "REX3_COPY_4",
+            "position_x": 349,
+            "position_y": 164
+        },
+        "cu_rex_7.png": {
+            "compression": 3,
+            "name": "REX3_COPY_5",
+            "position_x": 435,
+            "position_y": 128
+        },
+        "cu_rex_8.png": {
+            "compression": 3,
+            "name": "REX3_COPY_6",
+            "position_x": 408,
+            "position_y": 154
+        },
+        "cu_rex_9.png": {
+            "compression": 3,
+            "name": "REX3_COPY_7",
+            "position_x": 378,
+            "position_y": 222
+        }
+    },
+    "transparency": 255
+}

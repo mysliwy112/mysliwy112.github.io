@@ -1,0 +1,109 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "A1": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "switchGraph_0.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "switchGraph_2.png",
+                    "name": "1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "A2": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "switchGraph_1.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "switchGraph_1.png",
+                    "name": "1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "A3": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "switchGraph_1.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "switchGraph_1.png",
+                    "name": "1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "switchGraph_0.png": {
+            "compression": 4,
+            "name": "E",
+            "position_x": 719,
+            "position_y": 379
+        },
+        "switchGraph_1.png": {
+            "compression": 4,
+            "name": "brak"
+        },
+        "switchGraph_2.png": {
+            "compression": 4,
+            "name": "E_COPY",
+            "position_x": 754,
+            "position_y": 349
+        }
+    },
+    "transparency": 255
+}

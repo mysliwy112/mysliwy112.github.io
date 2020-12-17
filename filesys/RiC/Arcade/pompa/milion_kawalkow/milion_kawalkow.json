@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "130-515-100": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "milion_kawalkow_0.png",
+                    "name": "KAWALKI",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "milion_kawalkow_0.png",
+                    "name": "KAWALKI",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "milion_kawalkow_0.png": {
+            "compression": 4,
+            "name": "KAWALKI",
+            "position_x": 68,
+            "position_y": 290
+        }
+    },
+    "transparency": 255
+}

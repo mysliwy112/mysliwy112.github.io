@@ -1,0 +1,77 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kubek0_0.png",
+                    "name": "0",
+                    "position_x": -310,
+                    "position_y": -40
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kubek0_0.png",
+                    "name": "1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kubek0_1.png",
+                    "name": "2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kubek0_2.png",
+                    "name": "3",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "kubek0_0.png": {
+            "compression": 3,
+            "name": "KUBEK1",
+            "position_x": 102,
+            "position_y": 263
+        },
+        "kubek0_1.png": {
+            "compression": 3,
+            "name": "KUBEK1_COPY_2",
+            "position_x": 102,
+            "position_y": 248
+        },
+        "kubek0_2.png": {
+            "compression": 3,
+            "name": "KUBEK1_COPY_5",
+            "position_x": 102,
+            "position_y": 238
+        }
+    },
+    "transparency": 255
+}

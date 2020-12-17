@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "171-481-330": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "kretti_0.png",
+                    "name": "KOSMITA_1",
+                    "position_x": 79,
+                    "position_y": 223
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "kretti_0.png",
+                    "name": "KOSMITA_1",
+                    "position_x": 79,
+                    "position_y": 223
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "kretti_0.png": {
+            "compression": 3,
+            "name": "KOSMITA_1",
+            "position_x": 25,
+            "position_y": 30
+        }
+    },
+    "transparency": 255
+}

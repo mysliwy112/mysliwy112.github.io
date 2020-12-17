@@ -1,0 +1,947 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [],
+                    "filename": "tytul2_0.png",
+                    "name": "LAYER 4",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "sfx\\muzatitle2.wav",
+                    "sfx_seed": 10783168
+                },
+                {
+                    "check": [
+                        48,
+                        137,
+                        164
+                    ],
+                    "filename": "tytul2_1.png",
+                    "name": "LAYER 4 COPY 2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        160,
+                        136,
+                        164
+                    ],
+                    "filename": "tytul2_2.png",
+                    "name": "LAYER 4 COPY 3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        16,
+                        136,
+                        164
+                    ],
+                    "filename": "tytul2_3.png",
+                    "name": "LAYER 4 COPY 4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        128,
+                        135,
+                        164
+                    ],
+                    "filename": "tytul2_4.png",
+                    "name": "LAYER 4 COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        134,
+                        164
+                    ],
+                    "filename": "tytul2_5.png",
+                    "name": "LAYER 4 COPY 6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        134,
+                        164
+                    ],
+                    "filename": "tytul2_6.png",
+                    "name": "LAYER 4 COPY 7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        133,
+                        164
+                    ],
+                    "filename": "tytul2_7.png",
+                    "name": "LAYER 4 COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        64,
+                        133,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        132,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        32,
+                        132,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        131,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        130,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        129,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        129,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        208,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        202,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        160,
+                        208,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        138,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        138,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        64,
+                        210,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        209,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        139,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48,
+                        139,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        235,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        239,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48,
+                        140,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        128,
+                        234,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        236,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        232,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        16,
+                        229,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        192,
+                        128,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48,
+                        128,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        159,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        158,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        157,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        157,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        192,
+                        156,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48,
+                        156,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        160,
+                        155,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        16,
+                        155,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        128,
+                        154,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        153,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        152,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        64,
+                        152,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        151,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        32,
+                        151,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        150,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        149,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        148,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        148,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        192,
+                        147,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48,
+                        147,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        160,
+                        146,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        16,
+                        146,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        128,
+                        145,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        144,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        144,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        175,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        174,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        173,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        173,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        192,
+                        172,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48,
+                        172,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        160,
+                        171,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        16,
+                        171,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        128,
+                        170,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        169,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        169,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        168,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        64,
+                        168,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        167,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        32,
+                        167,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        166,
+                        164
+                    ],
+                    "filename": "tytul2_8.png",
+                    "name": "LAYER 4 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "tytul2_0.png": {
+            "compression": 4,
+            "name": "LAYER 4",
+            "position_x": 547,
+            "position_y": 365
+        },
+        "tytul2_1.png": {
+            "compression": 4,
+            "name": "LAYER 4 COPY 2",
+            "position_x": 458,
+            "position_y": 253
+        },
+        "tytul2_2.png": {
+            "compression": 4,
+            "name": "LAYER 4 COPY 3",
+            "position_x": 350,
+            "position_y": 253
+        },
+        "tytul2_3.png": {
+            "compression": 4,
+            "name": "LAYER 4 COPY 4",
+            "position_x": 213,
+            "position_y": 238
+        },
+        "tytul2_4.png": {
+            "compression": 4,
+            "name": "LAYER 4 COPY 5",
+            "position_x": 99,
+            "position_y": 206
+        },
+        "tytul2_5.png": {
+            "compression": 4,
+            "name": "LAYER 4 COPY 6",
+            "position_x": 65,
+            "position_y": 203
+        },
+        "tytul2_6.png": {
+            "compression": 4,
+            "name": "LAYER 4 COPY 7",
+            "position_x": 31,
+            "position_y": 202
+        },
+        "tytul2_7.png": {
+            "compression": 4,
+            "name": "LAYER 4 COPY",
+            "position_x": 19,
+            "position_y": 267
+        },
+        "tytul2_8.png": {
+            "compression": 4,
+            "name": "LAYER 4 COPY 8",
+            "position_x": 16,
+            "position_y": 276
+        }
+    },
+    "transparency": 255
+}

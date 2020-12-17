@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "666-1130": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "o_krysztal_0.png",
+                    "name": "KRYSZTAL_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "o_krysztal_0.png",
+                    "name": "KRYSZTAL_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "o_krysztal_0.png": {
+            "compression": 3,
+            "name": "KRYSZTAL_COPY",
+            "position_x": 660,
+            "position_y": 1112
+        }
+    },
+    "transparency": 255
+}

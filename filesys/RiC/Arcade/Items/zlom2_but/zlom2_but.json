@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "zlom2_but_0.png",
+                    "name": "ZLOM_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "zlom2_but_1.png",
+                    "name": "ZLOM",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "zlom2_but_0.png": {
+            "compression": 4,
+            "name": "ZLOM_COPY",
+            "position_x": 7,
+            "position_y": 2
+        },
+        "zlom2_but_1.png": {
+            "compression": 4,
+            "name": "ZLOM",
+            "position_x": 7,
+            "position_y": 2
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,30 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "idle": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "slad_0.png",
+                    "name": "slad",
+                    "position_x": -26,
+                    "position_y": -55
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "slad_0.png": {
+            "compression": 3,
+            "name": "slad"
+        }
+    },
+    "transparency": 255
+}

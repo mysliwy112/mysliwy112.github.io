@@ -1,0 +1,87 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "latarnik": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj2_0.png",
+                    "name": "latarnik1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj2_2.png",
+                    "name": "latarnik2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "zapalacz": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj2_1.png",
+                    "name": "pixel",
+                    "position_x": -1000,
+                    "position_y": -1000
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj2_3.png",
+                    "name": "zapalarka",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "obj2_0.png": {
+            "compression": 3,
+            "name": "latarnik1",
+            "position_x": 236,
+            "position_y": 227
+        },
+        "obj2_1.png": {
+            "compression": 3,
+            "name": "pixel"
+        },
+        "obj2_2.png": {
+            "compression": 3,
+            "name": "latarnik2",
+            "position_x": 236,
+            "position_y": 227
+        },
+        "obj2_3.png": {
+            "compression": 3,
+            "name": "zapalarka",
+            "position_x": 260,
+            "position_y": 263
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,48 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "469-600-000": {
+            "frames": [
+                {
+                    "check": [
+                        40,
+                        139,
+                        83
+                    ],
+                    "filename": "na_podworko_0.png",
+                    "name": "NA_PODWORKO",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        40,
+                        139,
+                        83
+                    ],
+                    "filename": "na_podworko_0.png",
+                    "name": "NA_PODWORKO",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "na_podworko_0.png": {
+            "compression": 4,
+            "name": "NA_PODWORKO",
+            "position_y": -24
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,2115 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "POCHYLASIE": {
+            "frames": [
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_3.png",
+                    "name": "00",
+                    "position_x": 472,
+                    "position_y": 360,
+                    "sfx": "SFX\\rex_zad5.wav",
+                    "sfx_seed": 20686416
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_7.png",
+                    "name": "3_START PRZP OD 00TYLL",
+                    "position_x": 472,
+                    "position_y": 360
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_12.png",
+                    "name": "2_START PRZP OD 00TYLL",
+                    "position_x": 472,
+                    "position_y": 360
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_17.png",
+                    "name": "1_START PRZP OD 00TYLL",
+                    "position_x": 472,
+                    "position_y": 360
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_22.png",
+                    "name": "1_OGNISKO",
+                    "position_x": 472,
+                    "position_y": 360
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_27.png",
+                    "name": "2_OGNISKO",
+                    "position_x": 472,
+                    "position_y": 360
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_32.png",
+                    "name": "3_OGNISKO",
+                    "position_x": 472,
+                    "position_y": 360
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_37.png",
+                    "name": "4_OGNISKO",
+                    "position_x": 472,
+                    "position_y": 360
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_40.png",
+                    "name": "5_OGNISKO",
+                    "position_x": 472,
+                    "position_y": 360
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_43.png",
+                    "name": "6_OGNISKO",
+                    "position_x": 472,
+                    "position_y": 360
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_43.png",
+                    "name": "6_OGNISKO",
+                    "position_x": 472,
+                    "position_y": 360
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_43.png",
+                    "name": "6_OGNISKO",
+                    "position_x": 472,
+                    "position_y": 360
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_43.png",
+                    "name": "6_OGNISKO",
+                    "position_x": 472,
+                    "position_y": 360
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ROZKLADARECE1": {
+            "frames": [
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_3.png",
+                    "name": "00",
+                    "position_x": 472,
+                    "position_y": 360
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_8.png",
+                    "name": "1_ROZKLADA 34PRZ",
+                    "position_x": 472,
+                    "position_y": 360
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_13.png",
+                    "name": "2_ROZKLADA 34PRZ",
+                    "position_x": 472,
+                    "position_y": 360,
+                    "sfx": "SFX\\rex_szcz1.wav",
+                    "sfx_seed": 69466340
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_18.png",
+                    "name": "3_ROZKLADA 34PRZ",
+                    "position_x": 472,
+                    "position_y": 360
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_23.png",
+                    "name": "4_ROZKLADA 34PRZ",
+                    "position_x": 472,
+                    "position_y": 360
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_28.png",
+                    "name": "5_ROZKLADA 34PRZ",
+                    "position_x": 472,
+                    "position_y": 360
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_33.png",
+                    "name": "6_ROZKLADA 34PRZ",
+                    "position_x": 472,
+                    "position_y": 360
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_18.png",
+                    "name": "3_ROZKLADA 34PRZ",
+                    "position_x": 472,
+                    "position_y": 360
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_13.png",
+                    "name": "2_ROZKLADA 34PRZ",
+                    "position_x": 472,
+                    "position_y": 360
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_8.png",
+                    "name": "1_ROZKLADA 34PRZ",
+                    "position_x": 472,
+                    "position_y": 360
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_3.png",
+                    "name": "00",
+                    "position_x": 472,
+                    "position_y": 360
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ROZKLADARECE2": {
+            "frames": [
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_3.png",
+                    "name": "00",
+                    "position_x": 472,
+                    "position_y": 360
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_8.png",
+                    "name": "1_ROZKLADA 34PRZ",
+                    "position_x": 472,
+                    "position_y": 360
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_13.png",
+                    "name": "2_ROZKLADA 34PRZ",
+                    "position_x": 472,
+                    "position_y": 360,
+                    "sfx": "SFX\\rex_szcz1.wav",
+                    "sfx_seed": 20687972
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_18.png",
+                    "name": "3_ROZKLADA 34PRZ",
+                    "position_x": 472,
+                    "position_y": 360
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_23.png",
+                    "name": "4_ROZKLADA 34PRZ",
+                    "position_x": 472,
+                    "position_y": 360
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_28.png",
+                    "name": "5_ROZKLADA 34PRZ",
+                    "position_x": 472,
+                    "position_y": 360
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_33.png",
+                    "name": "6_ROZKLADA 34PRZ",
+                    "position_x": 472,
+                    "position_y": 360
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_18.png",
+                    "name": "3_ROZKLADA 34PRZ",
+                    "position_x": 472,
+                    "position_y": 360
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_13.png",
+                    "name": "2_ROZKLADA 34PRZ",
+                    "position_x": 472,
+                    "position_y": 360
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_8.png",
+                    "name": "1_ROZKLADA 34PRZ",
+                    "position_x": 472,
+                    "position_y": 360
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_3.png",
+                    "name": "00",
+                    "position_x": 472,
+                    "position_y": 360
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "SPADA": {
+            "frames": [
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_1.png",
+                    "name": "1_SPADA",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\01rekbum1.wav",
+                    "sfx_seed": 20683304
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_5.png",
+                    "name": "2_SPADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_10.png",
+                    "name": "3_SPADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_15.png",
+                    "name": "4_SPADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_20.png",
+                    "name": "5_SPADA",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\01rekbum2.wav",
+                    "sfx_seed": 20684860
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_25.png",
+                    "name": "6_SPADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_30.png",
+                    "name": "7_SPADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_35.png",
+                    "name": "8_SPADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_39.png",
+                    "name": "9_SPADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_42.png",
+                    "name": "10_SPADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_42.png",
+                    "name": "10_SPADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_42.png",
+                    "name": "10_SPADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_42.png",
+                    "name": "10_SPADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_42.png",
+                    "name": "10_SPADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_42.png",
+                    "name": "10_SPADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_42.png",
+                    "name": "10_SPADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_42.png",
+                    "name": "10_SPADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_42.png",
+                    "name": "10_SPADA",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "WIERZGA": {
+            "frames": [
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_0.png",
+                    "name": "1_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\000.wav;SFX\\rex_spetany2.wav;SFX\\000.wav;SFX\\rex_spetany1.wav;SFX\\000.wav;SFX\\000.wav",
+                    "sfx_seed": 16239600
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_4.png",
+                    "name": "2_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_9.png",
+                    "name": "3_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_14.png",
+                    "name": "4_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_19.png",
+                    "name": "5_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_24.png",
+                    "name": "6_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_29.png",
+                    "name": "7_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_34.png",
+                    "name": "8_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_38.png",
+                    "name": "9_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_41.png",
+                    "name": "10_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_44.png",
+                    "name": "11_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_45.png",
+                    "name": "12_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_46.png",
+                    "name": "13_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_47.png",
+                    "name": "14_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_48.png",
+                    "name": "15_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_49.png",
+                    "name": "16_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_0.png",
+                    "name": "1_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_4.png",
+                    "name": "2_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_9.png",
+                    "name": "3_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_14.png",
+                    "name": "4_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_19.png",
+                    "name": "5_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_24.png",
+                    "name": "6_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_29.png",
+                    "name": "7_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_34.png",
+                    "name": "8_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_38.png",
+                    "name": "9_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_41.png",
+                    "name": "10_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_44.png",
+                    "name": "11_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_45.png",
+                    "name": "12_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_46.png",
+                    "name": "13_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_47.png",
+                    "name": "14_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_48.png",
+                    "name": "15_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_49.png",
+                    "name": "16_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_0.png",
+                    "name": "1_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_4.png",
+                    "name": "2_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_9.png",
+                    "name": "3_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_14.png",
+                    "name": "4_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_19.png",
+                    "name": "5_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_24.png",
+                    "name": "6_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_29.png",
+                    "name": "7_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_34.png",
+                    "name": "8_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_38.png",
+                    "name": "9_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_41.png",
+                    "name": "10_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_44.png",
+                    "name": "11_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_45.png",
+                    "name": "12_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_46.png",
+                    "name": "13_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_47.png",
+                    "name": "14_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_48.png",
+                    "name": "15_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_49.png",
+                    "name": "16_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_0.png",
+                    "name": "1_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_4.png",
+                    "name": "2_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_9.png",
+                    "name": "3_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_14.png",
+                    "name": "4_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_19.png",
+                    "name": "5_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_24.png",
+                    "name": "6_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_29.png",
+                    "name": "7_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_34.png",
+                    "name": "8_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_38.png",
+                    "name": "9_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_41.png",
+                    "name": "10_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_44.png",
+                    "name": "11_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_45.png",
+                    "name": "12_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_46.png",
+                    "name": "13_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_47.png",
+                    "name": "14_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_48.png",
+                    "name": "15_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_49.png",
+                    "name": "16_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_0.png",
+                    "name": "1_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_4.png",
+                    "name": "2_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_9.png",
+                    "name": "3_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_14.png",
+                    "name": "4_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_19.png",
+                    "name": "5_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_24.png",
+                    "name": "6_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_29.png",
+                    "name": "7_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_34.png",
+                    "name": "8_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_38.png",
+                    "name": "9_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_41.png",
+                    "name": "10_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_44.png",
+                    "name": "11_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_45.png",
+                    "name": "12_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_46.png",
+                    "name": "13_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_47.png",
+                    "name": "14_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_48.png",
+                    "name": "15_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_49.png",
+                    "name": "16_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_0.png",
+                    "name": "1_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_4.png",
+                    "name": "2_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_9.png",
+                    "name": "3_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_14.png",
+                    "name": "4_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_19.png",
+                    "name": "5_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_24.png",
+                    "name": "6_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_29.png",
+                    "name": "7_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_34.png",
+                    "name": "8_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_38.png",
+                    "name": "9_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_41.png",
+                    "name": "10_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_44.png",
+                    "name": "11_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_45.png",
+                    "name": "12_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_46.png",
+                    "name": "13_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_47.png",
+                    "name": "14_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_48.png",
+                    "name": "15_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_49.png",
+                    "name": "16_WIERZGA",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "WSTAJE": {
+            "frames": [
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_2.png",
+                    "name": "1_WSTAJE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_6.png",
+                    "name": "2_WSTAJE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_11.png",
+                    "name": "3_WSTAJE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_16.png",
+                    "name": "4_WSTAJE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_21.png",
+                    "name": "5_WSTAJE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_26.png",
+                    "name": "6_WSTAJE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_31.png",
+                    "name": "7_WSTAJE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_36.png",
+                    "name": "8_WSTAJE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio1_3.png",
+                    "name": "00",
+                    "position_x": 472,
+                    "position_y": 360
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "reksio1_0.png": {
+            "compression": 4,
+            "name": "1_WIERZGA",
+            "position_x": 555,
+            "position_y": 28
+        },
+        "reksio1_1.png": {
+            "compression": 4,
+            "name": "1_SPADA",
+            "position_x": 545,
+            "position_y": 111
+        },
+        "reksio1_10.png": {
+            "compression": 4,
+            "name": "3_SPADA",
+            "position_x": 527,
+            "position_y": 286
+        },
+        "reksio1_11.png": {
+            "compression": 4,
+            "name": "3_WSTAJE",
+            "position_x": 535,
+            "position_y": 451
+        },
+        "reksio1_12.png": {
+            "compression": 4,
+            "name": "2_START PRZP OD 00T",
+            "position_x": 30,
+            "position_y": 58
+        },
+        "reksio1_13.png": {
+            "compression": 4,
+            "name": "2_ROZKLADA 34PRZ",
+            "position_x": 36,
+            "position_y": 53
+        },
+        "reksio1_14.png": {
+            "compression": 4,
+            "name": "4_WIERZGA",
+            "position_x": 539,
+            "position_y": 28
+        },
+        "reksio1_15.png": {
+            "compression": 4,
+            "name": "4_SPADA",
+            "position_x": 521,
+            "position_y": 386
+        },
+        "reksio1_16.png": {
+            "compression": 4,
+            "name": "4_WSTAJE",
+            "position_x": 535,
+            "position_y": 443
+        },
+        "reksio1_17.png": {
+            "compression": 4,
+            "name": "1_START PRZP OD 00T",
+            "position_x": 27,
+            "position_y": 59
+        },
+        "reksio1_18.png": {
+            "compression": 4,
+            "name": "3_ROZKLADA 34PRZ",
+            "position_x": 38,
+            "position_y": 51
+        },
+        "reksio1_19.png": {
+            "compression": 4,
+            "name": "5_WIERZGA",
+            "position_x": 529,
+            "position_y": 28
+        },
+        "reksio1_2.png": {
+            "compression": 4,
+            "name": "1_WSTAJE",
+            "position_x": 535,
+            "position_y": 462
+        },
+        "reksio1_20.png": {
+            "compression": 4,
+            "name": "5_SPADA",
+            "position_x": 507,
+            "position_y": 387
+        },
+        "reksio1_21.png": {
+            "compression": 4,
+            "name": "5_WSTAJE",
+            "position_x": 516,
+            "position_y": 445
+        },
+        "reksio1_22.png": {
+            "compression": 4,
+            "name": "1_OGNISKO",
+            "position_x": 20,
+            "position_y": 62
+        },
+        "reksio1_23.png": {
+            "compression": 4,
+            "name": "4_ROZKLADA 34PRZ",
+            "position_x": 39,
+            "position_y": 51
+        },
+        "reksio1_24.png": {
+            "compression": 4,
+            "name": "6_WIERZGA",
+            "position_x": 535,
+            "position_y": 28
+        },
+        "reksio1_25.png": {
+            "compression": 4,
+            "name": "6_SPADA",
+            "position_x": 476,
+            "position_y": 417
+        },
+        "reksio1_26.png": {
+            "compression": 4,
+            "name": "6_WSTAJE",
+            "position_x": 515,
+            "position_y": 431
+        },
+        "reksio1_27.png": {
+            "compression": 4,
+            "name": "2_OGNISKO",
+            "position_x": 18,
+            "position_y": 64
+        },
+        "reksio1_28.png": {
+            "compression": 4,
+            "name": "5_ROZKLADA 34PRZ",
+            "position_x": 39,
+            "position_y": 50
+        },
+        "reksio1_29.png": {
+            "compression": 4,
+            "name": "7_WIERZGA",
+            "position_x": 544,
+            "position_y": 28
+        },
+        "reksio1_3.png": {
+            "compression": 4,
+            "name": "00",
+            "position_x": 36,
+            "position_y": 60
+        },
+        "reksio1_30.png": {
+            "compression": 4,
+            "name": "7_SPADA",
+            "position_x": 470,
+            "position_y": 437
+        },
+        "reksio1_31.png": {
+            "compression": 4,
+            "name": "7_WSTAJE",
+            "position_x": 507,
+            "position_y": 425
+        },
+        "reksio1_32.png": {
+            "compression": 4,
+            "name": "3_OGNISKO",
+            "position_x": 12,
+            "position_y": 71
+        },
+        "reksio1_33.png": {
+            "compression": 4,
+            "name": "6_ROZKLADA 34PRZ",
+            "position_x": 39,
+            "position_y": 51
+        },
+        "reksio1_34.png": {
+            "compression": 4,
+            "name": "8_WIERZGA",
+            "position_x": 552,
+            "position_y": 28
+        },
+        "reksio1_35.png": {
+            "compression": 4,
+            "name": "8_SPADA",
+            "position_x": 466,
+            "position_y": 448
+        },
+        "reksio1_36.png": {
+            "compression": 4,
+            "name": "8_WSTAJE",
+            "position_x": 509,
+            "position_y": 423
+        },
+        "reksio1_37.png": {
+            "compression": 4,
+            "name": "4_OGNISKO",
+            "position_x": 7,
+            "position_y": 81
+        },
+        "reksio1_38.png": {
+            "compression": 4,
+            "name": "9_WIERZGA",
+            "position_x": 553,
+            "position_y": 28
+        },
+        "reksio1_39.png": {
+            "compression": 4,
+            "name": "9_SPADA",
+            "position_x": 464,
+            "position_y": 458
+        },
+        "reksio1_4.png": {
+            "compression": 4,
+            "name": "2_WIERZGA",
+            "position_x": 552,
+            "position_y": 28
+        },
+        "reksio1_40.png": {
+            "compression": 4,
+            "name": "5_OGNISKO",
+            "position_x": 6,
+            "position_y": 88
+        },
+        "reksio1_41.png": {
+            "compression": 4,
+            "name": "10_WIERZGA",
+            "position_x": 552,
+            "position_y": 28
+        },
+        "reksio1_42.png": {
+            "compression": 4,
+            "name": "10_SPADA",
+            "position_x": 465,
+            "position_y": 465
+        },
+        "reksio1_43.png": {
+            "compression": 4,
+            "name": "6_OGNISKO",
+            "position_x": 9,
+            "position_y": 94
+        },
+        "reksio1_44.png": {
+            "compression": 4,
+            "name": "11_WIERZGA",
+            "position_x": 553,
+            "position_y": 28
+        },
+        "reksio1_45.png": {
+            "compression": 4,
+            "name": "12_WIERZGA",
+            "position_x": 552,
+            "position_y": 28
+        },
+        "reksio1_46.png": {
+            "compression": 4,
+            "name": "13_WIERZGA",
+            "position_x": 552,
+            "position_y": 28
+        },
+        "reksio1_47.png": {
+            "compression": 4,
+            "name": "14_WIERZGA",
+            "position_x": 551,
+            "position_y": 28
+        },
+        "reksio1_48.png": {
+            "compression": 4,
+            "name": "15_WIERZGA",
+            "position_x": 551,
+            "position_y": 28
+        },
+        "reksio1_49.png": {
+            "compression": 4,
+            "name": "16_WIERZGA",
+            "position_x": 551,
+            "position_y": 28
+        },
+        "reksio1_5.png": {
+            "compression": 4,
+            "name": "2_SPADA",
+            "position_x": 538,
+            "position_y": 181
+        },
+        "reksio1_6.png": {
+            "compression": 4,
+            "name": "2_WSTAJE",
+            "position_x": 535,
+            "position_y": 457
+        },
+        "reksio1_7.png": {
+            "compression": 4,
+            "name": "3_START PRZP OD 00T",
+            "position_x": 30,
+            "position_y": 58
+        },
+        "reksio1_8.png": {
+            "compression": 4,
+            "name": "1_ROZKLADA 34PRZ",
+            "position_x": 37,
+            "position_y": 58
+        },
+        "reksio1_9.png": {
+            "compression": 4,
+            "name": "3_WIERZGA",
+            "position_x": 546,
+            "position_y": 28
+        }
+    },
+    "transparency": 255
+}

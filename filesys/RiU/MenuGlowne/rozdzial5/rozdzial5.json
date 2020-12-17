@@ -1,0 +1,89 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "ONCLICK": {
+            "frames": [
+                {
+                    "check": [
+                        72,
+                        137,
+                        84
+                    ],
+                    "filename": "rozdzial5_1.png",
+                    "name": "indor2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONFOCUSOFF": {
+            "frames": [
+                {
+                    "check": [
+                        72,
+                        137,
+                        84
+                    ],
+                    "filename": "rozdzial5_0.png",
+                    "name": "indor1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONFOCUSON": {
+            "frames": [
+                {
+                    "check": [
+                        72,
+                        137,
+                        84
+                    ],
+                    "filename": "rozdzial5_1.png",
+                    "name": "indor2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONNOEVENT": {
+            "frames": [
+                {
+                    "check": [
+                        72,
+                        137,
+                        84
+                    ],
+                    "filename": "rozdzial5_0.png",
+                    "name": "indor1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "rozdzial5_0.png": {
+            "compression": 4,
+            "name": "INDOR1",
+            "position_x": 551,
+            "position_y": 315
+        },
+        "rozdzial5_1.png": {
+            "compression": 4,
+            "name": "INDOR2",
+            "position_x": 551,
+            "position_y": 315
+        }
+    },
+    "transparency": 255
+}

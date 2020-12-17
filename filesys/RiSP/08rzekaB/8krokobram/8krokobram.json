@@ -1,0 +1,279 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "BEZRUCH": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        98,
+                        164
+                    ],
+                    "filename": "8krokobram_0.png",
+                    "name": "1_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        32,
+                        98,
+                        164
+                    ],
+                    "filename": "8krokobram_1.png",
+                    "name": "2_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        97,
+                        164
+                    ],
+                    "filename": "8krokobram_3.png",
+                    "name": "3_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "8krokobram_5.png",
+                    "name": "4_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        96,
+                        164
+                    ],
+                    "filename": "8krokobram_7.png",
+                    "name": "5_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48,
+                        96,
+                        164
+                    ],
+                    "filename": "8krokobram_9.png",
+                    "name": "6_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ODBIJA": {
+            "frames": [
+                {
+                    "check": [
+                        48,
+                        126,
+                        164
+                    ],
+                    "filename": "8krokobram_0.png",
+                    "name": "1_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        160,
+                        125,
+                        164
+                    ],
+                    "filename": "8krokobram_2.png",
+                    "name": "1_ODBIJA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        16,
+                        125,
+                        164
+                    ],
+                    "filename": "8krokobram_4.png",
+                    "name": "2_ODBIJA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        128,
+                        124,
+                        164
+                    ],
+                    "filename": "8krokobram_6.png",
+                    "name": "3_ODBIJA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        123,
+                        164
+                    ],
+                    "filename": "8krokobram_8.png",
+                    "name": "4_ODBIJA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        123,
+                        164
+                    ],
+                    "filename": "8krokobram_10.png",
+                    "name": "5_ODBIJA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        122,
+                        164
+                    ],
+                    "filename": "8krokobram_11.png",
+                    "name": "6_ODBIJA",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "sfx\\00kroko3.wav",
+                    "sfx_seed": 10806960
+                },
+                {
+                    "check": [
+                        64,
+                        122,
+                        164
+                    ],
+                    "filename": "8krokobram_12.png",
+                    "name": "7_ODBIJA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        121,
+                        164
+                    ],
+                    "filename": "8krokobram_13.png",
+                    "name": "8_ODBIJA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        32,
+                        121,
+                        164
+                    ],
+                    "filename": "8krokobram_0.png",
+                    "name": "1_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "8krokobram_0.png": {
+            "compression": 4,
+            "name": "1_BEZRUCH",
+            "position_x": 379,
+            "position_y": 84
+        },
+        "8krokobram_1.png": {
+            "compression": 4,
+            "name": "2_BEZRUCH",
+            "position_x": 379,
+            "position_y": 86
+        },
+        "8krokobram_10.png": {
+            "compression": 4,
+            "name": "5_ODBIJA",
+            "position_x": 385,
+            "position_y": 73
+        },
+        "8krokobram_11.png": {
+            "compression": 4,
+            "name": "6_ODBIJA",
+            "position_x": 383,
+            "position_y": 70
+        },
+        "8krokobram_12.png": {
+            "compression": 4,
+            "name": "7_ODBIJA",
+            "position_x": 381,
+            "position_y": 67
+        },
+        "8krokobram_13.png": {
+            "compression": 4,
+            "name": "8_ODBIJA",
+            "position_x": 379,
+            "position_y": 86
+        },
+        "8krokobram_2.png": {
+            "compression": 4,
+            "name": "1_ODBIJA",
+            "position_x": 380,
+            "position_y": 85
+        },
+        "8krokobram_3.png": {
+            "compression": 4,
+            "name": "3_BEZRUCH",
+            "position_x": 379,
+            "position_y": 86
+        },
+        "8krokobram_4.png": {
+            "compression": 4,
+            "name": "2_ODBIJA",
+            "position_x": 381,
+            "position_y": 89
+        },
+        "8krokobram_5.png": {
+            "compression": 4,
+            "name": "4_BEZRUCH",
+            "position_x": 379,
+            "position_y": 84
+        },
+        "8krokobram_6.png": {
+            "compression": 4,
+            "name": "3_ODBIJA",
+            "position_x": 383,
+            "position_y": 92
+        },
+        "8krokobram_7.png": {
+            "compression": 4,
+            "name": "5_BEZRUCH",
+            "position_x": 379,
+            "position_y": 84
+        },
+        "8krokobram_8.png": {
+            "compression": 4,
+            "name": "4_ODBIJA",
+            "position_x": 384,
+            "position_y": 83
+        },
+        "8krokobram_9.png": {
+            "compression": 4,
+            "name": "6_BEZRUCH",
+            "position_x": 379,
+            "position_y": 85
+        }
+    },
+    "transparency": 255
+}

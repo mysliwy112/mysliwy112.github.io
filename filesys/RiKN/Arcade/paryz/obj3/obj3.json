@@ -1,0 +1,552 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "listonosz_gada": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_2.png",
+                    "name": "listonosz",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_2.png",
+                    "name": "listonosz",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_6.png",
+                    "name": "listonosz_gada",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_6.png",
+                    "name": "listonosz_gada",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 3,
+            "transparency": 255
+        },
+        "listonosz_idle": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_2.png",
+                    "name": "listonosz",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "woz": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "woz_copy",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_3.png",
+                    "name": "woz_copy_8",
+                    "position_x": -186,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "woz_jedzie": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "woz_copy_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_4.png",
+                    "name": "woz_copy_3",
+                    "position_x": -5,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_5.png",
+                    "name": "woz_copy_4",
+                    "position_x": -10,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_7.png",
+                    "name": "woz_copy_5",
+                    "position_x": -16,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_8.png",
+                    "name": "woz_copy_6",
+                    "position_x": -21,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_9.png",
+                    "name": "woz_copy_7",
+                    "position_x": -27,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_3.png",
+                    "name": "woz_copy_8",
+                    "position_x": -32,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "woz_copy_2",
+                    "position_x": -38,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_4.png",
+                    "name": "woz_copy_3",
+                    "position_x": -43,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_5.png",
+                    "name": "woz_copy_4",
+                    "position_x": -49,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_7.png",
+                    "name": "woz_copy_5",
+                    "position_x": -54,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_8.png",
+                    "name": "woz_copy_6",
+                    "position_x": -60,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_9.png",
+                    "name": "woz_copy_7",
+                    "position_x": -65,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_3.png",
+                    "name": "woz_copy_8",
+                    "position_x": -71,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "woz_copy_2",
+                    "position_x": -76,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_4.png",
+                    "name": "woz_copy_3",
+                    "position_x": -82,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_5.png",
+                    "name": "woz_copy_4",
+                    "position_x": -87,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_7.png",
+                    "name": "woz_copy_5",
+                    "position_x": -93,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_8.png",
+                    "name": "woz_copy_6",
+                    "position_x": -98,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_9.png",
+                    "name": "woz_copy_7",
+                    "position_x": -103,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_3.png",
+                    "name": "woz_copy_8",
+                    "position_x": -109,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "woz_copy_2",
+                    "position_x": -114,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_4.png",
+                    "name": "woz_copy_3",
+                    "position_x": -120,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_5.png",
+                    "name": "woz_copy_4",
+                    "position_x": -125,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_7.png",
+                    "name": "woz_copy_5",
+                    "position_x": -131,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_8.png",
+                    "name": "woz_copy_6",
+                    "position_x": -136,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_9.png",
+                    "name": "woz_copy_7",
+                    "position_x": -142,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_3.png",
+                    "name": "woz_copy_8",
+                    "position_x": -147,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "woz_copy_2",
+                    "position_x": -153,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_4.png",
+                    "name": "woz_copy_3",
+                    "position_x": -158,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_5.png",
+                    "name": "woz_copy_4",
+                    "position_x": -164,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_7.png",
+                    "name": "woz_copy_5",
+                    "position_x": -169,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_8.png",
+                    "name": "woz_copy_6",
+                    "position_x": -175,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_9.png",
+                    "name": "woz_copy_7",
+                    "position_x": -180,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_3.png",
+                    "name": "woz_copy_8",
+                    "position_x": -186,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "obj3_0.png": {
+            "compression": 3,
+            "name": "woz_copy",
+            "position_x": -13,
+            "position_y": 60
+        },
+        "obj3_1.png": {
+            "compression": 3,
+            "name": "woz_copy_2",
+            "position_y": 57
+        },
+        "obj3_2.png": {
+            "compression": 3,
+            "name": "listonosz",
+            "position_x": 64,
+            "position_y": 88
+        },
+        "obj3_3.png": {
+            "compression": 3,
+            "name": "woz_copy_8",
+            "position_x": 2,
+            "position_y": 58
+        },
+        "obj3_4.png": {
+            "compression": 3,
+            "name": "woz_copy_3",
+            "position_x": 4,
+            "position_y": 58
+        },
+        "obj3_5.png": {
+            "compression": 3,
+            "name": "woz_copy_4",
+            "position_y": 58
+        },
+        "obj3_6.png": {
+            "compression": 3,
+            "name": "listonosz_gada",
+            "position_x": 64,
+            "position_y": 88
+        },
+        "obj3_7.png": {
+            "compression": 3,
+            "name": "woz_copy_5",
+            "position_x": -2,
+            "position_y": 60
+        },
+        "obj3_8.png": {
+            "compression": 3,
+            "name": "woz_copy_6",
+            "position_y": 57
+        },
+        "obj3_9.png": {
+            "compression": 3,
+            "name": "woz_copy_7",
+            "position_x": 1,
+            "position_y": 58
+        }
+    },
+    "transparency": 255
+}

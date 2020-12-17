@@ -1,0 +1,182 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "115-425-350": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi1_0.png",
+                    "name": "DZYWI1_115-454",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi1_0.png",
+                    "name": "DZYWI1_115-454",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE0": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi1_0.png",
+                    "name": "DZYWI1_115-454",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\door1op.wav",
+                    "sfx_seed": 25143340
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi1_2.png",
+                    "name": "DZYWI1_COPY_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi1_3.png",
+                    "name": "DZYWI1_COPY_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi1_1.png",
+                    "name": "DZYWI1_COPY_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi1_1.png",
+                    "name": "DZYWI1_COPY_4",
+                    "position_x": -116,
+                    "position_y": -4
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE1": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi1_1.png",
+                    "name": "DZYWI1_COPY_4",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\door1cl.wav",
+                    "sfx_seed": 25126356
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi1_3.png",
+                    "name": "DZYWI1_COPY_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi1_2.png",
+                    "name": "DZYWI1_COPY_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi1_0.png",
+                    "name": "DZYWI1_115-454",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "drzwi1_0.png": {
+            "compression": 4,
+            "name": "DZYWI1_115-454",
+            "position_x": 84,
+            "position_y": 138
+        },
+        "drzwi1_1.png": {
+            "compression": 4,
+            "name": "DZYWI1_COPY_4",
+            "position_x": 84,
+            "position_y": 158
+        },
+        "drzwi1_2.png": {
+            "compression": 4,
+            "name": "DZYWI1_COPY_2",
+            "position_x": 84,
+            "position_y": 142
+        },
+        "drzwi1_3.png": {
+            "compression": 4,
+            "name": "DZYWI1_COPY_3",
+            "position_x": 84,
+            "position_y": 148
+        }
+    },
+    "transparency": 255
+}

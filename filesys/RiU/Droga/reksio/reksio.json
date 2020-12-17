@@ -1,0 +1,607 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "Click": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "DOWN": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_2.png",
+                    "name": "1_R_Z GORYD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_7.png",
+                    "name": "2_R_Z GORYD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_11.png",
+                    "name": "3_R_Z GORYD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_15.png",
+                    "name": "4_R_Z GORYD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_19.png",
+                    "name": "5_R_Z GORYD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_23.png",
+                    "name": "6_R_Z GORYD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_27.png",
+                    "name": "7_R_Z GORYD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_31.png",
+                    "name": "8_R_Z GORYD",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FocusOff": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FocusOn": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "IDLE": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_3.png",
+                    "name": "1_R_Z GORYL",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "INIT": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_4.png",
+                    "name": "brak",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "LEFT": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_3.png",
+                    "name": "1_R_Z GORYL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_8.png",
+                    "name": "2_R_Z GORYL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_12.png",
+                    "name": "3_R_Z GORYL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_16.png",
+                    "name": "4_R_Z GORYL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_20.png",
+                    "name": "5_R_Z GORYL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_24.png",
+                    "name": "6_R_Z GORYL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_28.png",
+                    "name": "7_R_Z GORYL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_32.png",
+                    "name": "8_R_Z GORYL",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NoEvent": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "RIGHT": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_1.png",
+                    "name": "1_R_Z GORYP",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_6.png",
+                    "name": "2_R_Z GORYP",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_10.png",
+                    "name": "3_R_Z GORYP",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_14.png",
+                    "name": "4_R_Z GORYP",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_18.png",
+                    "name": "5_R_Z GORYP",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_22.png",
+                    "name": "6_R_Z GORYP",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_26.png",
+                    "name": "7_R_Z GORYP",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_30.png",
+                    "name": "8_R_Z GORYP",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "UP": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_0.png",
+                    "name": "1_R_Z GORYG",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_5.png",
+                    "name": "2_R_Z GORYG",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_9.png",
+                    "name": "3_R_Z GORYG",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_13.png",
+                    "name": "4_R_Z GORYG",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_17.png",
+                    "name": "5_R_Z GORYG",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_21.png",
+                    "name": "6_R_Z GORYG",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_25.png",
+                    "name": "7_R_Z GORYG",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "reksio_29.png",
+                    "name": "8_R_Z GORYG",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "reksio_0.png": {
+            "compression": 4,
+            "name": "1_R_Z GORYG",
+            "position_x": 3
+        },
+        "reksio_1.png": {
+            "compression": 4,
+            "name": "1_R_Z GORYP",
+            "position_y": 3
+        },
+        "reksio_10.png": {
+            "compression": 4,
+            "name": "3_R_Z GORYP",
+            "position_y": 3
+        },
+        "reksio_11.png": {
+            "compression": 4,
+            "name": "3_R_Z GORYD"
+        },
+        "reksio_12.png": {
+            "compression": 4,
+            "name": "3_R_Z GORYL",
+            "position_x": 5
+        },
+        "reksio_13.png": {
+            "compression": 4,
+            "name": "4_R_Z GORYG",
+            "position_x": 3,
+            "position_y": 3
+        },
+        "reksio_14.png": {
+            "compression": 4,
+            "name": "4_R_Z GORYP",
+            "position_y": 3
+        },
+        "reksio_15.png": {
+            "compression": 4,
+            "name": "4_R_Z GORYD"
+        },
+        "reksio_16.png": {
+            "compression": 4,
+            "name": "4_R_Z GORYL",
+            "position_x": 3
+        },
+        "reksio_17.png": {
+            "compression": 4,
+            "name": "5_R_Z GORYG",
+            "position_x": 3
+        },
+        "reksio_18.png": {
+            "compression": 4,
+            "name": "5_R_Z GORYP",
+            "position_y": 3
+        },
+        "reksio_19.png": {
+            "compression": 4,
+            "name": "5_R_Z GORYD",
+            "position_x": 3
+        },
+        "reksio_2.png": {
+            "compression": 4,
+            "name": "1_R_Z GORYD",
+            "position_x": 4
+        },
+        "reksio_20.png": {
+            "compression": 4,
+            "name": "5_R_Z GORYL",
+            "position_y": 3
+        },
+        "reksio_21.png": {
+            "compression": 4,
+            "name": "6_R_Z GORYG",
+            "position_x": 2,
+            "position_y": 1
+        },
+        "reksio_22.png": {
+            "compression": 4,
+            "name": "6_R_Z GORYP",
+            "position_y": 2
+        },
+        "reksio_23.png": {
+            "compression": 4,
+            "name": "6_R_Z GORYD",
+            "position_x": 3
+        },
+        "reksio_24.png": {
+            "compression": 4,
+            "name": "6_R_Z GORYL",
+            "position_x": 1,
+            "position_y": 3
+        },
+        "reksio_25.png": {
+            "compression": 4,
+            "name": "7_R_Z GORYG",
+            "position_y": 5
+        },
+        "reksio_26.png": {
+            "compression": 4,
+            "name": "7_R_Z GORYP"
+        },
+        "reksio_27.png": {
+            "compression": 4,
+            "name": "7_R_Z GORYD",
+            "position_x": 3
+        },
+        "reksio_28.png": {
+            "compression": 4,
+            "name": "7_R_Z GORYL",
+            "position_x": 5,
+            "position_y": 3
+        },
+        "reksio_29.png": {
+            "compression": 4,
+            "name": "8_R_Z GORYG",
+            "position_y": 2
+        },
+        "reksio_3.png": {
+            "compression": 4,
+            "name": "1_R_Z GORYL",
+            "position_y": 4
+        },
+        "reksio_30.png": {
+            "compression": 4,
+            "name": "8_R_Z GORYP"
+        },
+        "reksio_31.png": {
+            "compression": 4,
+            "name": "8_R_Z GORYD",
+            "position_x": 4
+        },
+        "reksio_32.png": {
+            "compression": 4,
+            "name": "8_R_Z GORYL",
+            "position_x": 2,
+            "position_y": 4
+        },
+        "reksio_4.png": {
+            "compression": 4,
+            "name": "BRAK"
+        },
+        "reksio_5.png": {
+            "compression": 4,
+            "name": "2_R_Z GORYG",
+            "position_x": 3,
+            "position_y": 1
+        },
+        "reksio_6.png": {
+            "compression": 4,
+            "name": "2_R_Z GORYP",
+            "position_y": 3
+        },
+        "reksio_7.png": {
+            "compression": 4,
+            "name": "2_R_Z GORYD",
+            "position_x": 2
+        },
+        "reksio_8.png": {
+            "compression": 4,
+            "name": "2_R_Z GORYL",
+            "position_x": 1,
+            "position_y": 2
+        },
+        "reksio_9.png": {
+            "compression": 4,
+            "name": "3_R_Z GORYG",
+            "position_x": 3,
+            "position_y": 5
+        }
+    },
+    "transparency": 255
+}

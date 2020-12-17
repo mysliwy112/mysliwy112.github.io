@@ -1,0 +1,114 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "ACTIVE": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "cursor_1.png",
+                    "name": "AC",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "INACTIVE": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "cursor_0.png",
+                    "name": "IN",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ROZDZKA": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "cursor_3.png",
+                    "name": "CZAR",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "WAIT": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "cursor_4.png",
+                    "name": "WAIT",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "WYJSCIE": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "cursor_2.png",
+                    "name": "AC_COPY_2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "cursor_0.png": {
+            "compression": 4,
+            "name": "IN"
+        },
+        "cursor_1.png": {
+            "compression": 4,
+            "name": "AC"
+        },
+        "cursor_2.png": {
+            "compression": 4,
+            "name": "AC_COPY_2"
+        },
+        "cursor_3.png": {
+            "compression": 4,
+            "name": "CZAR"
+        },
+        "cursor_4.png": {
+            "compression": 4,
+            "name": "WAIT"
+        }
+    },
+    "transparency": 255
+}

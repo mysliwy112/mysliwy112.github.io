@@ -1,0 +1,30 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "mask": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "weh_mask_0.png",
+                    "name": "Layer_1",
+                    "position_x": -54,
+                    "position_y": -6
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "weh_mask_0.png": {
+            "compression": 4,
+            "name": "LAYER_1"
+        }
+    },
+    "transparency": 255
+}

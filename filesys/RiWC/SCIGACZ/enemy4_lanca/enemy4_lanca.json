@@ -1,0 +1,30 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "nic": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "enemy4_lanca_0.png",
+                    "name": "BRAK",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "enemy4_lanca_0.png": {
+            "compression": 4,
+            "name": "brak"
+        }
+    },
+    "transparency": 255
+}

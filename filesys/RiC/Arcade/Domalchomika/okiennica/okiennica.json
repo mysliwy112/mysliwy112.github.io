@@ -1,0 +1,72 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "414-436-310": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "okiennica_0.png",
+                    "name": "OKIENNICA_414-436-310",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "okiennica_0.png",
+                    "name": "OKIENNICA_414-436-310",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE0": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "okiennica_1.png",
+                    "name": "OKIENNICA_OTWARTA",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "okiennica_0.png": {
+            "compression": 4,
+            "name": "OKIENNICA_414-436-3",
+            "position_x": 432,
+            "position_y": 289
+        },
+        "okiennica_1.png": {
+            "compression": 4,
+            "name": "OKIENNICA_OTWARTA",
+            "position_x": 412,
+            "position_y": 283
+        }
+    },
+    "transparency": 255
+}

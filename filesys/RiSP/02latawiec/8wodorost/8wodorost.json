@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "LATAWIEC": {
+            "frames": [
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "8wodorost_0.png",
+                    "name": "OGON1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "8wodorost_1.png",
+                    "name": "OGON2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "8wodorost_0.png": {
+            "compression": 4,
+            "name": "OGON1",
+            "position_x": 140,
+            "position_y": 29
+        },
+        "8wodorost_1.png": {
+            "compression": 4,
+            "name": "OGON2",
+            "position_x": 193,
+            "position_y": 383
+        }
+    },
+    "transparency": 255
+}

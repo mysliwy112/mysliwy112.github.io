@@ -1,0 +1,137 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "GADA_1": {
+            "frames": [
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "ufokura_1.png",
+                    "name": "1_GADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "ufokura_2.png",
+                    "name": "2_GADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "ufokura_3.png",
+                    "name": "3_GADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "ufokura_2.png",
+                    "name": "2_GADA",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "GADA_START": {
+            "frames": [
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "ufokura_0.png",
+                    "name": "0_NAPRAWA",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "GADA_STOP": {
+            "frames": [
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "ufokura_0.png",
+                    "name": "0_NAPRAWA",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "ufokura_0.png": {
+            "compression": 3,
+            "name": "0_NAPRAWA",
+            "position_x": 252,
+            "position_y": 223
+        },
+        "ufokura_1.png": {
+            "compression": 3,
+            "name": "1_GADA",
+            "position_x": 253,
+            "position_y": 217
+        },
+        "ufokura_2.png": {
+            "compression": 3,
+            "name": "2_GADA",
+            "position_x": 253,
+            "position_y": 211
+        },
+        "ufokura_3.png": {
+            "compression": 3,
+            "name": "3_GADA",
+            "position_x": 252,
+            "position_y": 203
+        }
+    },
+    "transparency": 255
+}

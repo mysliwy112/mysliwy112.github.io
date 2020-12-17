@@ -1,0 +1,647 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "GO": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_0.png",
+                    "name": "KON_NOGI_0",
+                    "position_x": -7,
+                    "position_y": -50
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_2.png",
+                    "name": "KON_NOGI_1",
+                    "position_x": -7,
+                    "position_y": -50
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_1.png",
+                    "name": "KON_NOGI_2",
+                    "position_x": -7,
+                    "position_y": -50
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_3.png",
+                    "name": "KON_NOGI_3",
+                    "position_x": -7,
+                    "position_y": -50
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_4.png",
+                    "name": "KON_NOGI_4",
+                    "position_x": -7,
+                    "position_y": -50
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_5.png",
+                    "name": "KON_NOGI_5",
+                    "position_x": -7,
+                    "position_y": -50
+                }
+            ],
+            "loop": 5,
+            "transparency": 255
+        },
+        "JUMP": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_1.png",
+                    "name": "KON_NOGI_2",
+                    "position_x": -7,
+                    "position_y": -50
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_1.png",
+                    "name": "KON_NOGI_2",
+                    "position_x": -6,
+                    "position_y": -82
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_1.png",
+                    "name": "KON_NOGI_2",
+                    "position_x": -6,
+                    "position_y": -100
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_1.png",
+                    "name": "KON_NOGI_2",
+                    "position_x": -6,
+                    "position_y": -120
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_1.png",
+                    "name": "KON_NOGI_2",
+                    "position_x": -6,
+                    "position_y": -136
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_1.png",
+                    "name": "KON_NOGI_2",
+                    "position_x": -6,
+                    "position_y": -148
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_1.png",
+                    "name": "KON_NOGI_2",
+                    "position_x": -6,
+                    "position_y": -156
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_1.png",
+                    "name": "KON_NOGI_2",
+                    "position_x": -6,
+                    "position_y": -161
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_1.png",
+                    "name": "KON_NOGI_2",
+                    "position_x": -6,
+                    "position_y": -165
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "SPADA": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_1.png",
+                    "name": "KON_NOGI_2",
+                    "position_x": -7,
+                    "position_y": -50
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "WYJAZD": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_0.png",
+                    "name": "KON_NOGI_0",
+                    "position_x": -235,
+                    "position_y": -49
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_2.png",
+                    "name": "KON_NOGI_1",
+                    "position_x": -223,
+                    "position_y": -49
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_1.png",
+                    "name": "KON_NOGI_2",
+                    "position_x": -211,
+                    "position_y": -49
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_3.png",
+                    "name": "KON_NOGI_3",
+                    "position_x": -199,
+                    "position_y": -49
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_4.png",
+                    "name": "KON_NOGI_4",
+                    "position_x": -187,
+                    "position_y": -49
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_5.png",
+                    "name": "KON_NOGI_5",
+                    "position_x": -175,
+                    "position_y": -48
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_0.png",
+                    "name": "KON_NOGI_0",
+                    "position_x": -162,
+                    "position_y": -48
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_2.png",
+                    "name": "KON_NOGI_1",
+                    "position_x": -150,
+                    "position_y": -48
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_1.png",
+                    "name": "KON_NOGI_2",
+                    "position_x": -138,
+                    "position_y": -48
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_3.png",
+                    "name": "KON_NOGI_3",
+                    "position_x": -126,
+                    "position_y": -48
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_4.png",
+                    "name": "KON_NOGI_4",
+                    "position_x": -114,
+                    "position_y": -48
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_5.png",
+                    "name": "KON_NOGI_5",
+                    "position_x": -102,
+                    "position_y": -48
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_0.png",
+                    "name": "KON_NOGI_0",
+                    "position_x": -89,
+                    "position_y": -48
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_2.png",
+                    "name": "KON_NOGI_1",
+                    "position_x": -77,
+                    "position_y": -48
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_1.png",
+                    "name": "KON_NOGI_2",
+                    "position_x": -65,
+                    "position_y": -48
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_3.png",
+                    "name": "KON_NOGI_3",
+                    "position_x": -53,
+                    "position_y": -47
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_4.png",
+                    "name": "KON_NOGI_4",
+                    "position_x": -41,
+                    "position_y": -47
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_5.png",
+                    "name": "KON_NOGI_5",
+                    "position_x": -29,
+                    "position_y": -47
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_0.png",
+                    "name": "KON_NOGI_0",
+                    "position_x": -16,
+                    "position_y": -47
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_2.png",
+                    "name": "KON_NOGI_1",
+                    "position_x": -4,
+                    "position_y": -47
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_1.png",
+                    "name": "KON_NOGI_2",
+                    "position_x": 8,
+                    "position_y": -47
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_3.png",
+                    "name": "KON_NOGI_3",
+                    "position_x": 20,
+                    "position_y": -47
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_4.png",
+                    "name": "KON_NOGI_4",
+                    "position_x": 32,
+                    "position_y": -47
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_5.png",
+                    "name": "KON_NOGI_5",
+                    "position_x": 44,
+                    "position_y": -47
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_0.png",
+                    "name": "KON_NOGI_0",
+                    "position_x": 57,
+                    "position_y": -47
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_2.png",
+                    "name": "KON_NOGI_1",
+                    "position_x": 69,
+                    "position_y": -46
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_1.png",
+                    "name": "KON_NOGI_2",
+                    "position_x": 81,
+                    "position_y": -46
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_3.png",
+                    "name": "KON_NOGI_3",
+                    "position_x": 93,
+                    "position_y": -46
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_4.png",
+                    "name": "KON_NOGI_4",
+                    "position_x": 105,
+                    "position_y": -46
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_5.png",
+                    "name": "KON_NOGI_5",
+                    "position_x": 118,
+                    "position_y": -46
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "WYJAZD2": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_0.png",
+                    "name": "KON_NOGI_0",
+                    "position_x": -7,
+                    "position_y": -50
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_2.png",
+                    "name": "KON_NOGI_1",
+                    "position_x": -7,
+                    "position_y": -50
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_1.png",
+                    "name": "KON_NOGI_2",
+                    "position_x": -7,
+                    "position_y": -50
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_3.png",
+                    "name": "KON_NOGI_3",
+                    "position_x": -7,
+                    "position_y": -50
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_4.png",
+                    "name": "KON_NOGI_4",
+                    "position_x": -7,
+                    "position_y": -50
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kunik_5.png",
+                    "name": "KON_NOGI_5",
+                    "position_x": -7,
+                    "position_y": -50
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "kunik_0.png": {
+            "compression": 4,
+            "name": "KON_NOGI_0",
+            "position_x": 7,
+            "position_y": 50
+        },
+        "kunik_1.png": {
+            "compression": 4,
+            "name": "KON_NOGI_2",
+            "position_x": 7,
+            "position_y": 50
+        },
+        "kunik_2.png": {
+            "compression": 4,
+            "name": "KON_NOGI_1",
+            "position_x": 7,
+            "position_y": 50
+        },
+        "kunik_3.png": {
+            "compression": 4,
+            "name": "KON_NOGI_3",
+            "position_x": 7,
+            "position_y": 50
+        },
+        "kunik_4.png": {
+            "compression": 4,
+            "name": "KON_NOGI_4",
+            "position_x": 7,
+            "position_y": 50
+        },
+        "kunik_5.png": {
+            "compression": 4,
+            "name": "KON_NOGI_5",
+            "position_x": 7,
+            "position_y": 50
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,510 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "GADA_1": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_1.png",
+                    "name": "1_GADA_E",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_4.png",
+                    "name": "2_GADA_E",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_5.png",
+                    "name": "3_GADA_E",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_0.png",
+                    "name": "2_IDLE_E",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_0.png",
+                    "name": "2_IDLE_E",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_4.png",
+                    "name": "2_GADA_E",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_4.png",
+                    "name": "2_GADA_E",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_0.png",
+                    "name": "2_IDLE_E",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "GADA_START": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_0.png",
+                    "name": "2_IDLE_E",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "GADA_STOP": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_0.png",
+                    "name": "2_IDLE_E",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "SKOK": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_3.png",
+                    "name": "1_IDLE_E",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_0.png",
+                    "name": "2_IDLE_E",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_7.png",
+                    "name": "1_SKOKE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_7.png",
+                    "name": "1_SKOKE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_9.png",
+                    "name": "2_SKOKE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_9.png",
+                    "name": "2_SKOKE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_10.png",
+                    "name": "3_SKOKE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_10.png",
+                    "name": "3_SKOKE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_11.png",
+                    "name": "4_SKOKE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_11.png",
+                    "name": "4_SKOKE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_11.png",
+                    "name": "4_SKOKE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_12.png",
+                    "name": "5_SKOKE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_13.png",
+                    "name": "6_SKOKE",
+                    "position_x": -13,
+                    "position_y": 16
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_13.png",
+                    "name": "6_SKOKE",
+                    "position_x": 24,
+                    "position_y": -34
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_14.png",
+                    "name": "7_SKOKE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_14.png",
+                    "name": "7_SKOKE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_15.png",
+                    "name": "8_SKOKE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_15.png",
+                    "name": "8_SKOKE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_16.png",
+                    "name": "9_SKOKE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_16.png",
+                    "name": "9_SKOKE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_17.png",
+                    "name": "10_SKOKE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_17.png",
+                    "name": "10_SKOKE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_18.png",
+                    "name": "1_IDLE_E_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "rex_0.png": {
+            "compression": 3,
+            "name": "2_IDLE_E",
+            "position_x": 191,
+            "position_y": 315
+        },
+        "rex_1.png": {
+            "compression": 3,
+            "name": "1_GADA_E",
+            "position_x": 192,
+            "position_y": 312
+        },
+        "rex_10.png": {
+            "compression": 3,
+            "name": "3_SKOKE",
+            "position_x": 174,
+            "position_y": 314
+        },
+        "rex_11.png": {
+            "compression": 3,
+            "name": "4_SKOKE",
+            "position_x": 177,
+            "position_y": 363
+        },
+        "rex_12.png": {
+            "compression": 3,
+            "name": "5_SKOKE",
+            "position_x": 190,
+            "position_y": 351
+        },
+        "rex_13.png": {
+            "compression": 3,
+            "name": "6_SKOKE",
+            "position_x": 223,
+            "position_y": 263
+        },
+        "rex_14.png": {
+            "compression": 3,
+            "name": "7_SKOKE",
+            "position_x": 293,
+            "position_y": 179
+        },
+        "rex_15.png": {
+            "compression": 3,
+            "name": "8_SKOKE",
+            "position_x": 312,
+            "position_y": 187
+        },
+        "rex_16.png": {
+            "compression": 3,
+            "name": "9_SKOKE",
+            "position_x": 360,
+            "position_y": 223
+        },
+        "rex_17.png": {
+            "compression": 3,
+            "name": "10_SKOKE",
+            "position_x": 383,
+            "position_y": 276
+        },
+        "rex_18.png": {
+            "compression": 3,
+            "name": "1_IDLE_E_COPY",
+            "position_x": 407,
+            "position_y": 276
+        },
+        "rex_2.png": {
+            "compression": 3,
+            "name": "4_GADA_E",
+            "position_x": 192,
+            "position_y": 310
+        },
+        "rex_3.png": {
+            "compression": 3,
+            "name": "1_IDLE_E",
+            "position_x": 194,
+            "position_y": 311
+        },
+        "rex_4.png": {
+            "compression": 3,
+            "name": "2_GADA_E",
+            "position_x": 192,
+            "position_y": 310
+        },
+        "rex_5.png": {
+            "compression": 3,
+            "name": "3_GADA_E",
+            "position_x": 192,
+            "position_y": 310
+        },
+        "rex_6.png": {
+            "compression": 3,
+            "name": "5_GADA_E",
+            "position_x": 192,
+            "position_y": 320
+        },
+        "rex_7.png": {
+            "compression": 3,
+            "name": "1_SKOKE",
+            "position_x": 157,
+            "position_y": 306
+        },
+        "rex_8.png": {
+            "compression": 3,
+            "name": "6_GADA_E",
+            "position_x": 192,
+            "position_y": 316
+        },
+        "rex_9.png": {
+            "compression": 3,
+            "name": "2_SKOKE",
+            "position_x": 173,
+            "position_y": 321
+        }
+    },
+    "transparency": 255
+}

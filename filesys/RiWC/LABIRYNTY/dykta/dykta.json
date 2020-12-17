@@ -1,0 +1,32 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "TAKEN": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "dykta_0.png",
+                    "name": "stand_copy",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "dykta_0.png": {
+            "compression": 4,
+            "name": "stand_copy",
+            "position_x": 697,
+            "position_y": 10
+        }
+    },
+    "transparency": 255
+}

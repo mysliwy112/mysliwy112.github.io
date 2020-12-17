@@ -1,0 +1,77 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "nak1": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "nak4_0.png",
+                    "name": "obelisk",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "nak2": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "nak4_1.png",
+                    "name": "nakl2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "nak3": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "nak4_2.png",
+                    "name": "Layer_2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "nak4_0.png": {
+            "compression": 3,
+            "name": "obelisk",
+            "position_x": 485,
+            "position_y": 423
+        },
+        "nak4_1.png": {
+            "compression": 3,
+            "name": "nakl2",
+            "position_y": 110
+        },
+        "nak4_2.png": {
+            "compression": 3,
+            "name": "Layer_2",
+            "position_x": 429,
+            "position_y": 291
+        }
+    },
+    "transparency": 255
+}

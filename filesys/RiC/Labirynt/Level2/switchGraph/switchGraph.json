@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "A1": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "switchGraph_0.png",
+                    "name": "0",
+                    "position_x": 345,
+                    "position_y": -148
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "switchGraph_1.png",
+                    "name": "1",
+                    "position_x": 345,
+                    "position_y": -148
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "switchGraph_0.png": {
+            "compression": 4,
+            "name": "BR1",
+            "position_x": 564,
+            "position_y": 387
+        },
+        "switchGraph_1.png": {
+            "compression": 4,
+            "name": "BR2",
+            "position_x": 564,
+            "position_y": 387
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,32 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "play": {
+            "frames": [
+                {
+                    "check": [
+                        64,
+                        206,
+                        85
+                    ],
+                    "filename": "jo_ogniwo_0.png",
+                    "name": "OGNIWO",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "jo_ogniwo_0.png": {
+            "compression": 2,
+            "name": "OGNIWO",
+            "position_x": 367,
+            "position_y": 455
+        }
+    },
+    "transparency": 255
+}

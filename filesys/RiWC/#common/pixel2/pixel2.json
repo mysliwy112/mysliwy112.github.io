@@ -1,0 +1,77 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "GADA_1": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        171,
+                        83
+                    ],
+                    "filename": "pixel2_0.png",
+                    "name": "BACKGROUND COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        171,
+                        83
+                    ],
+                    "filename": "pixel2_0.png",
+                    "name": "BACKGROUND COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "GADA_START": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        171,
+                        83
+                    ],
+                    "filename": "pixel2_0.png",
+                    "name": "BACKGROUND COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "GADA_STOP": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        171,
+                        83
+                    ],
+                    "filename": "pixel2_0.png",
+                    "name": "BACKGROUND COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "pixel2_0.png": {
+            "compression": 4,
+            "name": "BACKGROUND_COPY",
+            "position_x": 2,
+            "position_y": 2
+        }
+    },
+    "transparency": 255
+}

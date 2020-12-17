@@ -1,0 +1,116 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "470-490-575": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "goto_szpula_0.png",
+                    "name": "SZPULA",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "goto_szpula_0.png",
+                    "name": "SZPULA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "goto_szpula_0.png",
+                    "name": "SZPULA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "goto_szpula_1.png",
+                    "name": "SZPULA_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "goto_szpula_1.png",
+                    "name": "SZPULA_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "goto_szpula_2.png",
+                    "name": "SZPULA_COPY_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "goto_szpula_2.png",
+                    "name": "SZPULA_COPY_2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 5,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "goto_szpula_0.png": {
+            "compression": 4,
+            "name": "SZPULA",
+            "position_x": 646,
+            "position_y": 399
+        },
+        "goto_szpula_1.png": {
+            "compression": 4,
+            "name": "SZPULA_COPY",
+            "position_x": 646,
+            "position_y": 399
+        },
+        "goto_szpula_2.png": {
+            "compression": 4,
+            "name": "SZPULA_COPY_2",
+            "position_x": 645,
+            "position_y": 399
+        }
+    },
+    "transparency": 255
+}

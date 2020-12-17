@@ -1,0 +1,109 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "A1": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "switchMask_0.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "switchMask_1.png",
+                    "name": "1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "A2": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "switchMask_2.png",
+                    "name": "brak",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "switchMask_2.png",
+                    "name": "brak",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "A3": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "switchMask_2.png",
+                    "name": "brak",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "switchMask_2.png",
+                    "name": "brak",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "switchMask_0.png": {
+            "compression": 4,
+            "name": "DRZWI_MASK",
+            "position_x": 720,
+            "position_y": 360
+        },
+        "switchMask_1.png": {
+            "compression": 4,
+            "name": "DRZWI_MASK_COPY",
+            "position_x": 760,
+            "position_y": 360
+        },
+        "switchMask_2.png": {
+            "compression": 4,
+            "name": "brak"
+        }
+    },
+    "transparency": 255
+}

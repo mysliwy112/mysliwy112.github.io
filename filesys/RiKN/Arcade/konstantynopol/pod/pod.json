@@ -1,0 +1,77 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "drzwi": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod_1.png",
+                    "name": "drzwi",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "nabrzeze": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod_0.png",
+                    "name": "nabrzeze",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "skrzynie": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod_2.png",
+                    "name": "skrzynie",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "pod_0.png": {
+            "compression": 3,
+            "name": "nabrzeze",
+            "position_x": 336
+        },
+        "pod_1.png": {
+            "compression": 3,
+            "name": "drzwi",
+            "position_x": 551,
+            "position_y": 316
+        },
+        "pod_2.png": {
+            "compression": 3,
+            "name": "skrzynie",
+            "position_x": 472,
+            "position_y": 330
+        }
+    },
+    "transparency": 255
+}

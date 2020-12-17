@@ -1,0 +1,68 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "Click": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FocusOff": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FocusOn": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NoEvent": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "door": {
+            "frames": [
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "gate_0.png",
+                    "name": "closed",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "gate_1.png",
+                    "name": "open",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "gate_0.png": {
+            "compression": 0,
+            "name": "closed",
+            "position_x": -1
+        },
+        "gate_1.png": {
+            "compression": 0,
+            "name": "open",
+            "position_x": -1,
+            "position_y": -1
+        }
+    },
+    "transparency": 255
+}

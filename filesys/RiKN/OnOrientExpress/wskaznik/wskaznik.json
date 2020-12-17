@@ -1,0 +1,32 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "idle": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "wskaznik_0.png",
+                    "name": "wskaznik",
+                    "position_x": -3,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "wskaznik_0.png": {
+            "compression": 3,
+            "name": "wskaznik",
+            "position_x": 244,
+            "position_y": 576
+        }
+    },
+    "transparency": 255
+}

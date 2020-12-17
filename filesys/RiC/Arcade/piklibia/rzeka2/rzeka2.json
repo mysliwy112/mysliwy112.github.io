@@ -1,0 +1,116 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "238-529-001": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "rzeka2_0.png",
+                    "name": "RZEKA_238-529-001",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "rzeka2_0.png",
+                    "name": "RZEKA_238-529-001",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "rzeka2_0.png",
+                    "name": "RZEKA_238-529-001",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "rzeka2_1.png",
+                    "name": "RZEKA_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "rzeka2_1.png",
+                    "name": "RZEKA_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "rzeka2_2.png",
+                    "name": "RZEKA_COPY_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "rzeka2_2.png",
+                    "name": "RZEKA_COPY_2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 5,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "rzeka2_0.png": {
+            "compression": 4,
+            "name": "RZEKA_238-529-001",
+            "position_x": 88,
+            "position_y": 376
+        },
+        "rzeka2_1.png": {
+            "compression": 4,
+            "name": "RZEKA_COPY",
+            "position_x": 88,
+            "position_y": 376
+        },
+        "rzeka2_2.png": {
+            "compression": 4,
+            "name": "RZEKA_COPY_2",
+            "position_x": 88,
+            "position_y": 376
+        }
+    },
+    "transparency": 255
+}

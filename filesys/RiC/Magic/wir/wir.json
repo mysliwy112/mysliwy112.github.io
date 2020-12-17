@@ -1,0 +1,83 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "wir_0.png",
+                    "name": "WIR",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "wir_1.png",
+                    "name": "WIR_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "wir_2.png",
+                    "name": "WIR_COPY_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "wir_3.png",
+                    "name": "WIR_COPY_3",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 3,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "wir_0.png": {
+            "compression": 3,
+            "name": "WIR",
+            "position_x": 147,
+            "position_y": 46
+        },
+        "wir_1.png": {
+            "compression": 3,
+            "name": "WIR_COPY",
+            "position_x": 148,
+            "position_y": 46
+        },
+        "wir_2.png": {
+            "compression": 3,
+            "name": "WIR_COPY_2",
+            "position_x": 150,
+            "position_y": 48
+        },
+        "wir_3.png": {
+            "compression": 3,
+            "name": "WIR_COPY_3",
+            "position_x": 148,
+            "position_y": 47
+        }
+    },
+    "transparency": 255
+}

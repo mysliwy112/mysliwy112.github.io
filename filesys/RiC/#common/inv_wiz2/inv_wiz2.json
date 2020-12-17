@@ -1,0 +1,66 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "inv_wiz2_0.png",
+                    "name": "SNEJK0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "inv_wiz2_1.png",
+                    "name": "SNEJK1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "inv_wiz2_2.png",
+                    "name": "SNEJK2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "inv_wiz2_0.png": {
+            "compression": 4,
+            "name": "SNEJK0",
+            "position_x": 334,
+            "position_y": 471
+        },
+        "inv_wiz2_1.png": {
+            "compression": 4,
+            "name": "SNEJK1",
+            "position_x": 334,
+            "position_y": 471
+        },
+        "inv_wiz2_2.png": {
+            "compression": 4,
+            "name": "SNEJK2",
+            "position_x": 334,
+            "position_y": 471
+        }
+    },
+    "transparency": 255
+}

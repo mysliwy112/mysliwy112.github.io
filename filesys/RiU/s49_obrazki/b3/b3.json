@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "ONFOCUSON": {
+            "frames": [
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "b3_0.png",
+                    "name": "LAYER 10",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONNOEVENT": {
+            "frames": [
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "b3_0.png",
+                    "name": "LAYER 10",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "b3_0.png": {
+            "compression": 4,
+            "name": "LAYER 10",
+            "position_x": 115,
+            "position_y": 17
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,30 @@
+{
+    "author": "",
+    "bpp": 16,
+    "events": {
+        "drop": {
+            "frames": [
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "dropdol_0.png",
+                    "name": "dropdol.bmp",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "dropdol_0.png": {
+            "compression": 3,
+            "name": "dropdol.bmp"
+        }
+    },
+    "transparency": 255
+}

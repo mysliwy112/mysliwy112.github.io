@@ -1,0 +1,105 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLOSE": {
+            "frames": [
+                {
+                    "check": [
+                        72,
+                        137,
+                        84
+                    ],
+                    "filename": "szafka_0.png",
+                    "name": "szafka copy 2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        137,
+                        84
+                    ],
+                    "filename": "szafka_2.png",
+                    "name": "szafka copy",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        137,
+                        84
+                    ],
+                    "filename": "szafka_1.png",
+                    "name": "szafka",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "OPEN": {
+            "frames": [
+                {
+                    "check": [
+                        72,
+                        137,
+                        84
+                    ],
+                    "filename": "szafka_1.png",
+                    "name": "szafka",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        137,
+                        84
+                    ],
+                    "filename": "szafka_2.png",
+                    "name": "szafka copy",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        137,
+                        84
+                    ],
+                    "filename": "szafka_0.png",
+                    "name": "szafka copy 2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "szafka_0.png": {
+            "compression": 4,
+            "name": "SZAFKA COPY 2",
+            "position_x": 744,
+            "position_y": 210
+        },
+        "szafka_1.png": {
+            "compression": 4,
+            "name": "SZAFKA",
+            "position_x": 752,
+            "position_y": 219
+        },
+        "szafka_2.png": {
+            "compression": 4,
+            "name": "SZAFKA COPY",
+            "position_x": 753,
+            "position_y": 213
+        }
+    },
+    "transparency": 255
+}

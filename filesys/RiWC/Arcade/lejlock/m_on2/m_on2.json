@@ -1,0 +1,72 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "0-0-0": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_on2_0.png",
+                    "name": "RED_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ON": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_on2_1.png",
+                    "name": "GREEN_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_on2_0.png",
+                    "name": "RED_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "m_on2_0.png": {
+            "compression": 3,
+            "name": "RED_COPY",
+            "position_x": 297,
+            "position_y": 442
+        },
+        "m_on2_1.png": {
+            "compression": 3,
+            "name": "GREEN_COPY",
+            "position_x": 297,
+            "position_y": 442
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,115 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONCLICK": {
+            "frames": [
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "menu_gupidamis_2.png",
+                    "name": "GUPIDAMIS COPY 2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONFOCUSOFF": {
+            "frames": [
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "menu_gupidamis_0.png",
+                    "name": "GUPIDAMIS",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONFOCUSON": {
+            "frames": [
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "menu_gupidamis_1.png",
+                    "name": "GUPIDAMIS COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONNOEVENT": {
+            "frames": [
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "menu_gupidamis_0.png",
+                    "name": "GUPIDAMIS",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "menu_gupidamis_0.png": {
+            "compression": 0,
+            "name": "GUPIDAMIS",
+            "position_x": 18,
+            "position_y": 528
+        },
+        "menu_gupidamis_1.png": {
+            "compression": 0,
+            "name": "GUPIDAMIS COPY",
+            "position_x": 18,
+            "position_y": 525
+        },
+        "menu_gupidamis_2.png": {
+            "compression": 0,
+            "name": "GUPIDAMIS COPY 2",
+            "position_x": 18,
+            "position_y": 528
+        }
+    },
+    "transparency": 255
+}

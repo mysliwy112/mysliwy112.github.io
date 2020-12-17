@@ -1,0 +1,32 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "KULA": {
+            "frames": [
+                {
+                    "check": [
+                        64,
+                        206,
+                        85
+                    ],
+                    "filename": "m_kula_0.png",
+                    "name": "KULA",
+                    "position_x": 0,
+                    "position_y": -86
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "m_kula_0.png": {
+            "compression": 3,
+            "name": "KULA",
+            "position_x": 140,
+            "position_y": 373
+        }
+    },
+    "transparency": 255
+}

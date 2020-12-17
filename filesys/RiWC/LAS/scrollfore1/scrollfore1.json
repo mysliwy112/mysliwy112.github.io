@@ -1,0 +1,79 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "SCROLL": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "scrollfore1_0.png",
+                    "name": "1A",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "scrollfore1_1.png",
+                    "name": "1B",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "scrollfore1_2.png",
+                    "name": "1C",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "scrollfore1_3.png",
+                    "name": "1D",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "scrollfore1_0.png": {
+            "compression": 3,
+            "name": "1A",
+            "position_y": 400
+        },
+        "scrollfore1_1.png": {
+            "compression": 3,
+            "name": "1B",
+            "position_y": 491
+        },
+        "scrollfore1_2.png": {
+            "compression": 3,
+            "name": "1C",
+            "position_y": 453
+        },
+        "scrollfore1_3.png": {
+            "compression": 3,
+            "name": "1D",
+            "position_y": 480
+        }
+    },
+    "transparency": 255
+}

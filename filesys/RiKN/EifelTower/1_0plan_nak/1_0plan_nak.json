@@ -1,0 +1,82 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "idle": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "1_0plan_nak_0.png",
+                    "name": "SKRZYNIA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "1_0plan_nak_1.png",
+                    "name": "Warstwa_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "1_0plan_nak_2.png",
+                    "name": "Warstwa_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "1_0plan_nak_3.png",
+                    "name": "Warstwa_3",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "1_0plan_nak_0.png": {
+            "compression": 3,
+            "name": "SKRZYNIA",
+            "position_y": 674
+        },
+        "1_0plan_nak_1.png": {
+            "compression": 3,
+            "name": "Warstwa_1",
+            "position_x": 150,
+            "position_y": 374
+        },
+        "1_0plan_nak_2.png": {
+            "compression": 3,
+            "name": "Warstwa_2",
+            "position_x": 225,
+            "position_y": 224
+        },
+        "1_0plan_nak_3.png": {
+            "compression": 3,
+            "name": "Warstwa_3",
+            "position_x": 300,
+            "position_y": 74
+        }
+    },
+    "transparency": 255
+}

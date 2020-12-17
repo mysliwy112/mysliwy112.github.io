@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "440-560-535": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "o_pralina_0.png",
+                    "name": "LINA",
+                    "position_x": 0,
+                    "position_y": -50
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "o_pralina_0.png",
+                    "name": "LINA",
+                    "position_x": 0,
+                    "position_y": -50
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "o_pralina_0.png": {
+            "compression": 3,
+            "name": "LINA",
+            "position_x": 360,
+            "position_y": 435
+        }
+    },
+    "transparency": 255
+}

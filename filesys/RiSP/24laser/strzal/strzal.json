@@ -1,0 +1,152 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "BEZRUCH": {
+            "frames": [
+                {
+                    "check": [
+                        64,
+                        98,
+                        164
+                    ],
+                    "filename": "strzal_0.png",
+                    "name": "KURSOR",
+                    "position_x": -522,
+                    "position_y": -317
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        125,
+                        164
+                    ],
+                    "filename": "strzal_0.png",
+                    "name": "KURSOR",
+                    "position_x": -522,
+                    "position_y": -317,
+                    "sfx": "sfx\\00lashit.wav",
+                    "sfx_seed": 10800496
+                },
+                {
+                    "check": [
+                        32,
+                        125,
+                        164
+                    ],
+                    "filename": "strzal_1.png",
+                    "name": "LAYER 31 COPY",
+                    "position_x": -522,
+                    "position_y": -317
+                },
+                {
+                    "check": [
+                        144,
+                        124,
+                        164
+                    ],
+                    "filename": "strzal_2.png",
+                    "name": "LAYER 31 COPY 2",
+                    "position_x": -522,
+                    "position_y": -317
+                },
+                {
+                    "check": [],
+                    "filename": "strzal_3.png",
+                    "name": "LAYER 31 COPY 3",
+                    "position_x": -522,
+                    "position_y": -317
+                },
+                {
+                    "check": [
+                        112,
+                        123,
+                        164
+                    ],
+                    "filename": "strzal_4.png",
+                    "name": "LAYER 31 COPY 4",
+                    "position_x": -522,
+                    "position_y": -317
+                },
+                {
+                    "check": [
+                        224,
+                        122,
+                        164
+                    ],
+                    "filename": "strzal_5.png",
+                    "name": "LAYER 1",
+                    "position_x": -522,
+                    "position_y": -317
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "strzal_0.png": {
+            "compression": 4,
+            "name": "KURSOR",
+            "position_x": 470,
+            "position_y": 265
+        },
+        "strzal_1.png": {
+            "compression": 4,
+            "name": "LAYER 31 COPY",
+            "position_x": 470,
+            "position_y": 264
+        },
+        "strzal_2.png": {
+            "compression": 4,
+            "name": "LAYER 31 COPY 2",
+            "position_x": 470,
+            "position_y": 264
+        },
+        "strzal_3.png": {
+            "compression": 4,
+            "name": "LAYER 31 COPY 3",
+            "position_x": 483,
+            "position_y": 278
+        },
+        "strzal_4.png": {
+            "compression": 4,
+            "name": "LAYER 31 COPY 4",
+            "position_x": 496,
+            "position_y": 290
+        },
+        "strzal_5.png": {
+            "compression": 4,
+            "name": "LAYER 1",
+            "position_x": 523,
+            "position_y": 318
+        }
+    },
+    "transparency": 255
+}

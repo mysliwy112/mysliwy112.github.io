@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "482-491-464": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "pomnik_0.png",
+                    "name": "POMNIK_ZEPSUTY",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "pomnik_0.png",
+                    "name": "POMNIK_ZEPSUTY",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "pomnik_0.png": {
+            "compression": 3,
+            "name": "POMNIK_ZEPSUTY",
+            "position_x": 334,
+            "position_y": 305
+        }
+    },
+    "transparency": 255
+}

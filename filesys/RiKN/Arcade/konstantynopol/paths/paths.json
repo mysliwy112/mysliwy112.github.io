@@ -1,0 +1,48 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "plansza": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "paths_0.png",
+                    "name": "start",
+                    "position_x": 0,
+                    "position_y": -480
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "paths_1.png",
+                    "name": "maska_chodu",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "paths_0.png": {
+            "compression": 3,
+            "name": "Layer_1",
+            "position_y": 480
+        },
+        "paths_1.png": {
+            "compression": 3,
+            "name": "maska_chodu",
+            "position_x": 380,
+            "position_y": 140
+        }
+    },
+    "transparency": 255
+}

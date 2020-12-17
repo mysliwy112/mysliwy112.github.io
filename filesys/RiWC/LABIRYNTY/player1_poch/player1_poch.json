@@ -1,0 +1,1476 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "DOWN": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_0.png",
+                    "name": "_DOWN",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_12.png",
+                    "name": "2_Z_GORY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_24.png",
+                    "name": "3_Z_GORY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_36.png",
+                    "name": "4_Z_GORY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_44.png",
+                    "name": "5_Z_GORY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_48.png",
+                    "name": "6_Z_GORY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_52.png",
+                    "name": "7_Z_GORY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_56.png",
+                    "name": "8_Z_GORY",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "DOWN_FROG": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_8.png",
+                    "name": "_DOWN",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_20.png",
+                    "name": "1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_32.png",
+                    "name": "3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_40.png",
+                    "name": "4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_8.png",
+                    "name": "1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_20.png",
+                    "name": "2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_32.png",
+                    "name": "3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_40.png",
+                    "name": "4",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "IDLE": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_4.png",
+                    "name": "_DOWN",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_16.png",
+                    "name": "_DOWN",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_28.png",
+                    "name": "_DOWN",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "IDLE_DOWN": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_4.png",
+                    "name": "_DOWN",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_16.png",
+                    "name": "_DOWN",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_28.png",
+                    "name": "_DOWN",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "IDLE_DOWN_FROG": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_8.png",
+                    "name": "_DOWN",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "IDLE_FROG": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_8.png",
+                    "name": "_DOWN",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "IDLE_LEFT": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_5.png",
+                    "name": "_LEFT",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_17.png",
+                    "name": "_LEFT",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_29.png",
+                    "name": "_LEFT",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "IDLE_LEFT_FROG": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_9.png",
+                    "name": "_LEFT",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "IDLE_RIGHT": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_7.png",
+                    "name": "_RIGHT",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_19.png",
+                    "name": "_RIGHT",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_31.png",
+                    "name": "_RIGHT",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "IDLE_RIGHT_FROG": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_11.png",
+                    "name": "_RIGHT",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "IDLE_UP": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_6.png",
+                    "name": "_UP",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_18.png",
+                    "name": "_UP",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_30.png",
+                    "name": "_UP",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "IDLE_UP_FROG": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_10.png",
+                    "name": "_UP",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "LEFT": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_1.png",
+                    "name": "_LEFT",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_13.png",
+                    "name": "2_Z_GORY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_25.png",
+                    "name": "3_Z_GORY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_37.png",
+                    "name": "4_Z_GORY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_45.png",
+                    "name": "5_Z_GORY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_49.png",
+                    "name": "6_Z_GORY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_53.png",
+                    "name": "7_Z_GORY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_57.png",
+                    "name": "8_Z_GORY",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "LEFT_FROG": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_9.png",
+                    "name": "_LEFT",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_21.png",
+                    "name": "1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_33.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_41.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_9.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_21.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_33.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_41.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PRISONER": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_4.png",
+                    "name": "_DOWN",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_16.png",
+                    "name": "_DOWN",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_28.png",
+                    "name": "_DOWN",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "RIGHT": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_3.png",
+                    "name": "_RIGHT",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_15.png",
+                    "name": "2_Z_GORY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_27.png",
+                    "name": "3_Z_GORY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_39.png",
+                    "name": "4_Z_GORY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_47.png",
+                    "name": "5_Z_GORY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_51.png",
+                    "name": "6_Z_GORY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_55.png",
+                    "name": "7_Z_GORY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_59.png",
+                    "name": "8_Z_GORY",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "RIGHT_FROG": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_11.png",
+                    "name": "_RIGHT",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_23.png",
+                    "name": "1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_35.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_43.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_11.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_23.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_35.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_43.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "UP": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_2.png",
+                    "name": "_UP",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_14.png",
+                    "name": "2_Z_GORY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_26.png",
+                    "name": "3_Z_GORY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_38.png",
+                    "name": "4_Z_GORY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_46.png",
+                    "name": "5_Z_GORY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_50.png",
+                    "name": "6_Z_GORY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_54.png",
+                    "name": "7_Z_GORY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_58.png",
+                    "name": "8_Z_GORY",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "UP_FROG": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_10.png",
+                    "name": "_UP",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_22.png",
+                    "name": "1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_34.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_42.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_10.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_22.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_34.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_42.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "WAIT_DOWN": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_4.png",
+                    "name": "_DOWN",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_16.png",
+                    "name": "_DOWN",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_28.png",
+                    "name": "_DOWN",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "WAIT_LEFT": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_5.png",
+                    "name": "_LEFT",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_17.png",
+                    "name": "_LEFT",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_29.png",
+                    "name": "_LEFT",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "WAIT_RIGHT": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_7.png",
+                    "name": "_RIGHT",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_19.png",
+                    "name": "_RIGHT",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_31.png",
+                    "name": "_RIGHT",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "WAIT_UP": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_6.png",
+                    "name": "_UP",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_18.png",
+                    "name": "_UP",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "player1_poch_30.png",
+                    "name": "_UP",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "player1_poch_0.png": {
+            "compression": 3,
+            "name": "1_Z_GORY"
+        },
+        "player1_poch_1.png": {
+            "compression": 3,
+            "name": "1_Z_GORY"
+        },
+        "player1_poch_10.png": {
+            "compression": 3,
+            "name": "1"
+        },
+        "player1_poch_11.png": {
+            "compression": 3,
+            "name": "1"
+        },
+        "player1_poch_12.png": {
+            "compression": 3,
+            "name": "2_Z_GORY"
+        },
+        "player1_poch_13.png": {
+            "compression": 3,
+            "name": "2_Z_GORY"
+        },
+        "player1_poch_14.png": {
+            "compression": 3,
+            "name": "2_Z_GORY"
+        },
+        "player1_poch_15.png": {
+            "compression": 3,
+            "name": "2_Z_GORY"
+        },
+        "player1_poch_16.png": {
+            "compression": 3,
+            "name": "2_STOP"
+        },
+        "player1_poch_17.png": {
+            "compression": 3,
+            "name": "2_STOP"
+        },
+        "player1_poch_18.png": {
+            "compression": 3,
+            "name": "2_STOP"
+        },
+        "player1_poch_19.png": {
+            "compression": 3,
+            "name": "2_STOP"
+        },
+        "player1_poch_2.png": {
+            "compression": 3,
+            "name": "1_Z_GORY"
+        },
+        "player1_poch_20.png": {
+            "compression": 3,
+            "name": "2"
+        },
+        "player1_poch_21.png": {
+            "compression": 3,
+            "name": "2"
+        },
+        "player1_poch_22.png": {
+            "compression": 3,
+            "name": "2"
+        },
+        "player1_poch_23.png": {
+            "compression": 3,
+            "name": "2"
+        },
+        "player1_poch_24.png": {
+            "compression": 3,
+            "name": "3_Z_GORY"
+        },
+        "player1_poch_25.png": {
+            "compression": 3,
+            "name": "3_Z_GORY"
+        },
+        "player1_poch_26.png": {
+            "compression": 3,
+            "name": "3_Z_GORY"
+        },
+        "player1_poch_27.png": {
+            "compression": 3,
+            "name": "3_Z_GORY"
+        },
+        "player1_poch_28.png": {
+            "compression": 3,
+            "name": "3_STOP"
+        },
+        "player1_poch_29.png": {
+            "compression": 3,
+            "name": "3_STOP"
+        },
+        "player1_poch_3.png": {
+            "compression": 3,
+            "name": "1_Z_GORY"
+        },
+        "player1_poch_30.png": {
+            "compression": 3,
+            "name": "3_STOP"
+        },
+        "player1_poch_31.png": {
+            "compression": 3,
+            "name": "3_STOP"
+        },
+        "player1_poch_32.png": {
+            "compression": 3,
+            "name": "3"
+        },
+        "player1_poch_33.png": {
+            "compression": 3,
+            "name": "3"
+        },
+        "player1_poch_34.png": {
+            "compression": 3,
+            "name": "3"
+        },
+        "player1_poch_35.png": {
+            "compression": 3,
+            "name": "3"
+        },
+        "player1_poch_36.png": {
+            "compression": 3,
+            "name": "4_Z_GORY"
+        },
+        "player1_poch_37.png": {
+            "compression": 3,
+            "name": "4_Z_GORY"
+        },
+        "player1_poch_38.png": {
+            "compression": 3,
+            "name": "4_Z_GORY"
+        },
+        "player1_poch_39.png": {
+            "compression": 3,
+            "name": "4_Z_GORY"
+        },
+        "player1_poch_4.png": {
+            "compression": 3,
+            "name": "1_STOP"
+        },
+        "player1_poch_40.png": {
+            "compression": 3,
+            "name": "4"
+        },
+        "player1_poch_41.png": {
+            "compression": 3,
+            "name": "4"
+        },
+        "player1_poch_42.png": {
+            "compression": 3,
+            "name": "4"
+        },
+        "player1_poch_43.png": {
+            "compression": 3,
+            "name": "4"
+        },
+        "player1_poch_44.png": {
+            "compression": 3,
+            "name": "5_Z_GORY"
+        },
+        "player1_poch_45.png": {
+            "compression": 3,
+            "name": "5_Z_GORY"
+        },
+        "player1_poch_46.png": {
+            "compression": 3,
+            "name": "5_Z_GORY"
+        },
+        "player1_poch_47.png": {
+            "compression": 3,
+            "name": "5_Z_GORY"
+        },
+        "player1_poch_48.png": {
+            "compression": 3,
+            "name": "6_Z_GORY"
+        },
+        "player1_poch_49.png": {
+            "compression": 3,
+            "name": "6_Z_GORY"
+        },
+        "player1_poch_5.png": {
+            "compression": 3,
+            "name": "1_STOP"
+        },
+        "player1_poch_50.png": {
+            "compression": 3,
+            "name": "6_Z_GORY"
+        },
+        "player1_poch_51.png": {
+            "compression": 3,
+            "name": "6_Z_GORY"
+        },
+        "player1_poch_52.png": {
+            "compression": 3,
+            "name": "7_Z_GORY"
+        },
+        "player1_poch_53.png": {
+            "compression": 3,
+            "name": "7_Z_GORY"
+        },
+        "player1_poch_54.png": {
+            "compression": 3,
+            "name": "7_Z_GORY"
+        },
+        "player1_poch_55.png": {
+            "compression": 3,
+            "name": "7_Z_GORY"
+        },
+        "player1_poch_56.png": {
+            "compression": 3,
+            "name": "8_Z_GORY"
+        },
+        "player1_poch_57.png": {
+            "compression": 3,
+            "name": "8_Z_GORY"
+        },
+        "player1_poch_58.png": {
+            "compression": 3,
+            "name": "8_Z_GORY"
+        },
+        "player1_poch_59.png": {
+            "compression": 3,
+            "name": "8_Z_GORY"
+        },
+        "player1_poch_6.png": {
+            "compression": 3,
+            "name": "1_STOP"
+        },
+        "player1_poch_7.png": {
+            "compression": 3,
+            "name": "1_STOP"
+        },
+        "player1_poch_8.png": {
+            "compression": 3,
+            "name": "1"
+        },
+        "player1_poch_9.png": {
+            "compression": 3,
+            "name": "1"
+        }
+    },
+    "transparency": 255
+}

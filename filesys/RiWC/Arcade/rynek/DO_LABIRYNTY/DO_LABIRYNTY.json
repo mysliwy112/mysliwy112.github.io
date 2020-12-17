@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "440-450-1": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "DO_LABIRYNTY_0.png",
+                    "name": "SCHODY",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "DO_LABIRYNTY_0.png",
+                    "name": "SCHODY",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "DO_LABIRYNTY_0.png": {
+            "compression": 3,
+            "name": "SCHODY",
+            "position_x": 370,
+            "position_y": 402
+        }
+    },
+    "transparency": 255
+}

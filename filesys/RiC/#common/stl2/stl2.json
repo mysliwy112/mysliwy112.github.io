@@ -1,0 +1,41 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "ELAPSE": {
+            "frames": [
+                {
+                    "check": [
+                        40,
+                        139,
+                        83
+                    ],
+                    "filename": "stl2_0.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        40,
+                        139,
+                        83
+                    ],
+                    "filename": "stl2_0.png",
+                    "name": "1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 1,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "stl2_0.png": {
+            "compression": 4,
+            "name": "LAYER_1"
+        }
+    },
+    "transparency": 255
+}

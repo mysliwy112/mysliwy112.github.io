@@ -1,0 +1,320 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "A1": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "switchMask_0.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 40
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "switchMask_7.png",
+                    "name": "1",
+                    "position_x": 0,
+                    "position_y": 40
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "A2": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "switchMask_1.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 40
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "switchMask_8.png",
+                    "name": "1",
+                    "position_x": 0,
+                    "position_y": 40
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "A3": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "switchMask_2.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 40
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "switchMask_9.png",
+                    "name": "1",
+                    "position_x": 0,
+                    "position_y": 40
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "A4": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "switchMask_3.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 40
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "switchMask_10.png",
+                    "name": "1",
+                    "position_x": 0,
+                    "position_y": 40
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "A5": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "switchMask_4.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 40
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "switchMask_11.png",
+                    "name": "1",
+                    "position_x": 0,
+                    "position_y": 40
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "A6": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "switchMask_5.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 40
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "switchMask_12.png",
+                    "name": "1",
+                    "position_x": 0,
+                    "position_y": 40
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "A7": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "switchMask_6.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 40
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "switchMask_13.png",
+                    "name": "1",
+                    "position_x": 0,
+                    "position_y": 40
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "switchMask_14.png",
+                    "name": "2",
+                    "position_x": 0,
+                    "position_y": 40
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "switchMask_15.png",
+                    "name": "3",
+                    "position_x": 0,
+                    "position_y": 40
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "switchMask_0.png": {
+            "compression": 4,
+            "name": "SWITCH1_GRAPHA",
+            "position_x": 640,
+            "position_y": 120
+        },
+        "switchMask_1.png": {
+            "compression": 4,
+            "name": "SWITCH2_GRAPHA"
+        },
+        "switchMask_10.png": {
+            "compression": 4,
+            "name": "SWITCH4_GRAPHB",
+            "position_x": 760,
+            "position_y": 160
+        },
+        "switchMask_11.png": {
+            "compression": 4,
+            "name": "SWITCH5GRAPHB",
+            "position_x": 280,
+            "position_y": 360
+        },
+        "switchMask_12.png": {
+            "compression": 4,
+            "name": "SWITCH6_GRAPHB",
+            "position_x": 360
+        },
+        "switchMask_13.png": {
+            "compression": 4,
+            "name": "SWITCH7_GRAPHB",
+            "position_x": 600,
+            "position_y": 240
+        },
+        "switchMask_14.png": {
+            "compression": 4,
+            "name": "SWITCH7_GRAPHC",
+            "position_x": 560,
+            "position_y": 280
+        },
+        "switchMask_15.png": {
+            "compression": 4,
+            "name": "SWITCH7_GRAPHD",
+            "position_x": 560,
+            "position_y": 240
+        },
+        "switchMask_2.png": {
+            "compression": 4,
+            "name": "SWITCH3_GRAPHA",
+            "position_x": 680,
+            "position_y": 80
+        },
+        "switchMask_3.png": {
+            "compression": 4,
+            "name": "SWITCH4_GRAPHA",
+            "position_x": 720,
+            "position_y": 160
+        },
+        "switchMask_4.png": {
+            "compression": 4,
+            "name": "SWITCH5GRAPHA",
+            "position_x": 200,
+            "position_y": 360
+        },
+        "switchMask_5.png": {
+            "compression": 4,
+            "name": "SWITCH6_GRAPHA",
+            "position_x": 360,
+            "position_y": 40
+        },
+        "switchMask_6.png": {
+            "compression": 4,
+            "name": "SWITCH7_GRAPHA",
+            "position_x": 560,
+            "position_y": 240
+        },
+        "switchMask_7.png": {
+            "compression": 4,
+            "name": "SWITCH1_GRAPHB",
+            "position_x": 760,
+            "position_y": 120
+        },
+        "switchMask_8.png": {
+            "compression": 4,
+            "name": "SWITCH2_GRAPHB",
+            "position_x": 760,
+            "position_y": 120
+        },
+        "switchMask_9.png": {
+            "compression": 4,
+            "name": "SWITCH3_GRAPHB",
+            "position_x": 760,
+            "position_y": 80
+        }
+    },
+    "transparency": 255
+}

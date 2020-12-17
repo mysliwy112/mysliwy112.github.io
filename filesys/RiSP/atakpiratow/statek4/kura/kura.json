@@ -1,0 +1,375 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        160,
+                        121,
+                        164
+                    ],
+                    "filename": "kura_0.png",
+                    "name": "1_PANIKA",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "sfx\\kurastrach2.wav",
+                    "sfx_seed": 10875408
+                },
+                {
+                    "check": [
+                        240,
+                        115,
+                        164
+                    ],
+                    "filename": "kura_1.png",
+                    "name": "2_PANIKA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        115,
+                        164
+                    ],
+                    "filename": "kura_2.png",
+                    "name": "3_PANIKA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        114,
+                        164
+                    ],
+                    "filename": "kura_3.png",
+                    "name": "4_PANIKA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        64,
+                        114,
+                        164
+                    ],
+                    "filename": "kura_4.png",
+                    "name": "5_PANIKA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        113,
+                        164
+                    ],
+                    "filename": "kura_5.png",
+                    "name": "6_PANIKA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        32,
+                        113,
+                        164
+                    ],
+                    "filename": "kura_6.png",
+                    "name": "7_PANIKA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        112,
+                        164
+                    ],
+                    "filename": "kura_7.png",
+                    "name": "8_PANIKA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        143,
+                        164
+                    ],
+                    "filename": "kura_8.png",
+                    "name": "9_PANIKA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        143,
+                        164
+                    ],
+                    "filename": "kura_9.png",
+                    "name": "1_UCIEKA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        192,
+                        142,
+                        164
+                    ],
+                    "filename": "kura_10.png",
+                    "name": "2_UCIEKA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48,
+                        142,
+                        164
+                    ],
+                    "filename": "kura_11.png",
+                    "name": "3_UCIEKA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        160,
+                        141,
+                        164
+                    ],
+                    "filename": "kura_12.png",
+                    "name": "4_UCIEKA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        51,
+                        166
+                    ],
+                    "filename": "kura_13.png",
+                    "name": "5_UCIEKA",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "sfx\\0rexTstep3.wav",
+                    "sfx_seed": 10890080
+                },
+                {
+                    "check": [
+                        128,
+                        140,
+                        164
+                    ],
+                    "filename": "kura_14.png",
+                    "name": "6_UCIEKA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        139,
+                        164
+                    ],
+                    "filename": "kura_15.png",
+                    "name": "7_UCIEKA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        139,
+                        164
+                    ],
+                    "filename": "kura_16.png",
+                    "name": "8_UCIEKA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        138,
+                        164
+                    ],
+                    "filename": "kura_17.png",
+                    "name": "9_UCIEKA",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "sfx\\0rexTstep6.wav",
+                    "sfx_seed": 10893600
+                },
+                {
+                    "check": [
+                        64,
+                        138,
+                        164
+                    ],
+                    "filename": "kura_18.png",
+                    "name": "10_UCIEKA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        137,
+                        164
+                    ],
+                    "filename": "kura_18.png",
+                    "name": "10_UCIEKA",
+                    "position_x": 20,
+                    "position_y": 367
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "kura_0.png": {
+            "compression": 4,
+            "name": "1_PANIKA",
+            "position_x": 257,
+            "position_y": 179
+        },
+        "kura_1.png": {
+            "compression": 4,
+            "name": "2_PANIKA",
+            "position_x": 253,
+            "position_y": 193
+        },
+        "kura_10.png": {
+            "compression": 4,
+            "name": "2_UCIEKA",
+            "position_x": 173,
+            "position_y": 188
+        },
+        "kura_11.png": {
+            "compression": 4,
+            "name": "3_UCIEKA",
+            "position_x": 128,
+            "position_y": 178
+        },
+        "kura_12.png": {
+            "compression": 4,
+            "name": "4_UCIEKA",
+            "position_x": 110,
+            "position_y": 180
+        },
+        "kura_13.png": {
+            "compression": 4,
+            "name": "5_UCIEKA",
+            "position_x": 95,
+            "position_y": 174
+        },
+        "kura_14.png": {
+            "compression": 4,
+            "name": "6_UCIEKA",
+            "position_x": 80,
+            "position_y": 178
+        },
+        "kura_15.png": {
+            "compression": 4,
+            "name": "7_UCIEKA",
+            "position_x": 80,
+            "position_y": 181
+        },
+        "kura_16.png": {
+            "compression": 4,
+            "name": "8_UCIEKA",
+            "position_x": 80,
+            "position_y": 187
+        },
+        "kura_17.png": {
+            "compression": 4,
+            "name": "9_UCIEKA",
+            "position_x": 80,
+            "position_y": 180
+        },
+        "kura_18.png": {
+            "compression": 4,
+            "name": "10_UCIEKA",
+            "position_x": 80,
+            "position_y": 265
+        },
+        "kura_2.png": {
+            "compression": 4,
+            "name": "3_PANIKA",
+            "position_x": 243,
+            "position_y": 189
+        },
+        "kura_3.png": {
+            "compression": 4,
+            "name": "4_PANIKA",
+            "position_x": 244,
+            "position_y": 189
+        },
+        "kura_4.png": {
+            "compression": 4,
+            "name": "5_PANIKA",
+            "position_x": 248,
+            "position_y": 179
+        },
+        "kura_5.png": {
+            "compression": 4,
+            "name": "6_PANIKA",
+            "position_x": 248,
+            "position_y": 163
+        },
+        "kura_6.png": {
+            "compression": 4,
+            "name": "7_PANIKA",
+            "position_x": 250,
+            "position_y": 173
+        },
+        "kura_7.png": {
+            "compression": 4,
+            "name": "8_PANIKA",
+            "position_x": 251,
+            "position_y": 186
+        },
+        "kura_8.png": {
+            "compression": 4,
+            "name": "9_PANIKA",
+            "position_x": 254,
+            "position_y": 188
+        },
+        "kura_9.png": {
+            "compression": 4,
+            "name": "1_UCIEKA",
+            "position_x": 232,
+            "position_y": 197
+        }
+    },
+    "transparency": 255
+}

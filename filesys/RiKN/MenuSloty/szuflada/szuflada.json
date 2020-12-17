@@ -1,0 +1,66 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "idle": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "szuflada_0.png",
+                    "name": "czysty",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "szuflada_1.png",
+                    "name": "do_a",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "szuflada_2.png",
+                    "name": "do_b",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "szuflada_0.png": {
+            "compression": 3,
+            "name": "czysty",
+            "position_x": 469,
+            "position_y": 204
+        },
+        "szuflada_1.png": {
+            "compression": 3,
+            "name": "do_a",
+            "position_x": 469,
+            "position_y": 204
+        },
+        "szuflada_2.png": {
+            "compression": 3,
+            "name": "do_b",
+            "position_x": 469,
+            "position_y": 204
+        }
+    },
+    "transparency": 255
+}

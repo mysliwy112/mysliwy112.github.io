@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "420-065": {
+            "frames": [
+                {
+                    "check": [
+                        40,
+                        139,
+                        83
+                    ],
+                    "filename": "klucz_0.png",
+                    "name": "KLUCZ",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        40,
+                        139,
+                        83
+                    ],
+                    "filename": "klucz_0.png",
+                    "name": "KLUCZ",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "klucz_0.png": {
+            "compression": 4,
+            "name": "KLUCZ",
+            "position_x": 403,
+            "position_y": 42
+        }
+    },
+    "transparency": 255
+}

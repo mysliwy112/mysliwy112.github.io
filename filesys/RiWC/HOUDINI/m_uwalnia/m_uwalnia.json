@@ -1,0 +1,32 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "UWALNIA": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "m_uwalnia_0.png",
+                    "name": "UWALNIA",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "m_uwalnia_0.png": {
+            "compression": 4,
+            "name": "UWALNIA",
+            "position_x": 20,
+            "position_y": 460
+        }
+    },
+    "transparency": 255
+}

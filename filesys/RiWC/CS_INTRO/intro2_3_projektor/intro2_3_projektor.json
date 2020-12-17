@@ -1,0 +1,32 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "STOP": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "intro2_3_projektor_0.png",
+                    "name": "1_GADA",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "intro2_3_projektor_0.png": {
+            "compression": 3,
+            "name": "1_GADA",
+            "position_x": 25,
+            "position_y": 60
+        }
+    },
+    "transparency": 255
+}

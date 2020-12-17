@@ -1,0 +1,232 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "250-582": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "beczka8_0.png",
+                    "name": "BECZKA5_279-487",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "beczka8_1.png",
+                    "name": "BECZKA4_292-582",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE0": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "beczka8_1.png",
+                    "name": "BECZKA4_292-582",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\piw7.wav",
+                    "sfx_seed": 50300900
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "beczka8_2.png",
+                    "name": "BECZKAOBROT_COPY_7",
+                    "position_x": -11,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "beczka8_3.png",
+                    "name": "BECZKAOBROT_COPY_6",
+                    "position_x": -36,
+                    "position_y": -57
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "beczka8_4.png",
+                    "name": "BECZKAOBROT_COPY_5",
+                    "position_x": -70,
+                    "position_y": -103
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "beczka8_5.png",
+                    "name": "BECZKAOBROT_COPY_4",
+                    "position_x": -109,
+                    "position_y": -141
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "beczka8_6.png",
+                    "name": "BECZKAOBROT_COPY_3",
+                    "position_x": -153,
+                    "position_y": -173
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "beczka8_7.png",
+                    "name": "BECZKAOBROT_COPY_2",
+                    "position_x": -200,
+                    "position_y": -198
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "beczka8_8.png",
+                    "name": "BECZKAOBROT_COPY",
+                    "position_x": -247,
+                    "position_y": -217
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "beczka8_9.png",
+                    "name": "BECZKAOBROT",
+                    "position_x": -294,
+                    "position_y": -230
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "beczka8_2.png",
+                    "name": "BECZKAOBROT_COPY_7",
+                    "position_x": -337,
+                    "position_y": -236
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "beczka8_2.png",
+                    "name": "BECZKAOBROT_COPY_7",
+                    "position_x": -376,
+                    "position_y": -237
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "beczka8_0.png": {
+            "compression": 3,
+            "name": "BECZKA5_279-487",
+            "position_x": 244,
+            "position_y": 387
+        },
+        "beczka8_1.png": {
+            "compression": 3,
+            "name": "BECZKA4_292-582",
+            "position_x": 257,
+            "position_y": 483
+        },
+        "beczka8_2.png": {
+            "compression": 3,
+            "name": "BECZKAOBROT_COPY_7",
+            "position_x": 248,
+            "position_y": 479
+        },
+        "beczka8_3.png": {
+            "compression": 3,
+            "name": "BECZKAOBROT_COPY_6",
+            "position_x": 245,
+            "position_y": 491
+        },
+        "beczka8_4.png": {
+            "compression": 3,
+            "name": "BECZKAOBROT_COPY_5",
+            "position_x": 244,
+            "position_y": 481
+        },
+        "beczka8_5.png": {
+            "compression": 3,
+            "name": "BECZKAOBROT_COPY_4",
+            "position_x": 257,
+            "position_y": 481
+        },
+        "beczka8_6.png": {
+            "compression": 3,
+            "name": "BECZKAOBROT_COPY_3",
+            "position_x": 246,
+            "position_y": 481
+        },
+        "beczka8_7.png": {
+            "compression": 3,
+            "name": "BECZKAOBROT_COPY_2",
+            "position_x": 245,
+            "position_y": 491
+        },
+        "beczka8_8.png": {
+            "compression": 3,
+            "name": "BECZKAOBROT_COPY",
+            "position_x": 246,
+            "position_y": 484
+        },
+        "beczka8_9.png": {
+            "compression": 3,
+            "name": "BECZKAOBROT",
+            "position_x": 257,
+            "position_y": 483
+        }
+    },
+    "transparency": 255
+}

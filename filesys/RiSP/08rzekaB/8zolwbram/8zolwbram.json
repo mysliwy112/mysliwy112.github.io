@@ -1,0 +1,296 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "BEZRUCH": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        82,
+                        165
+                    ],
+                    "filename": "8zolwbram_0.png",
+                    "name": "1_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        64,
+                        82,
+                        165
+                    ],
+                    "filename": "8zolwbram_1.png",
+                    "name": "2_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        81,
+                        165
+                    ],
+                    "filename": "8zolwbram_3.png",
+                    "name": "3_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        72,
+                        165
+                    ],
+                    "filename": "8zolwbram_5.png",
+                    "name": "4_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        71,
+                        165
+                    ],
+                    "filename": "8zolwbram_7.png",
+                    "name": "5_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ODBIJA": {
+            "frames": [
+                {
+                    "check": [],
+                    "filename": "8zolwbram_0.png",
+                    "name": "1_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        99,
+                        165
+                    ],
+                    "filename": "8zolwbram_2.png",
+                    "name": "1_ODBIJA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        98,
+                        165
+                    ],
+                    "filename": "8zolwbram_4.png",
+                    "name": "2_ODBIJA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        98,
+                        165
+                    ],
+                    "filename": "8zolwbram_6.png",
+                    "name": "3_ODBIJA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        57,
+                        165
+                    ],
+                    "filename": "8zolwbram_8.png",
+                    "name": "4_ODBIJA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        56,
+                        165
+                    ],
+                    "filename": "8zolwbram_9.png",
+                    "name": "5_ODBIJA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        64,
+                        56,
+                        165
+                    ],
+                    "filename": "8zolwbram_10.png",
+                    "name": "6_ODBIJA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        55,
+                        165
+                    ],
+                    "filename": "8zolwbram_11.png",
+                    "name": "7_ODBIJA",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "sfx\\00kroko3.wav",
+                    "sfx_seed": 10862320
+                },
+                {
+                    "check": [
+                        128,
+                        60,
+                        165
+                    ],
+                    "filename": "8zolwbram_12.png",
+                    "name": "8_ODBIJA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        59,
+                        165
+                    ],
+                    "filename": "8zolwbram_13.png",
+                    "name": "9_ODBIJA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        59,
+                        165
+                    ],
+                    "filename": "8zolwbram_14.png",
+                    "name": "10_ODBIJA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        58,
+                        165
+                    ],
+                    "filename": "8zolwbram_0.png",
+                    "name": "1_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "8zolwbram_0.png": {
+            "compression": 4,
+            "name": "1_BEZRUCH",
+            "position_x": 278,
+            "position_y": 508
+        },
+        "8zolwbram_1.png": {
+            "compression": 4,
+            "name": "2_BEZRUCH",
+            "position_x": 276,
+            "position_y": 507
+        },
+        "8zolwbram_10.png": {
+            "compression": 4,
+            "name": "6_ODBIJA",
+            "position_x": 278,
+            "position_y": 501
+        },
+        "8zolwbram_11.png": {
+            "compression": 4,
+            "name": "7_ODBIJA",
+            "position_x": 276,
+            "position_y": 501
+        },
+        "8zolwbram_12.png": {
+            "compression": 4,
+            "name": "8_ODBIJA",
+            "position_x": 280,
+            "position_y": 472
+        },
+        "8zolwbram_13.png": {
+            "compression": 4,
+            "name": "9_ODBIJA",
+            "position_x": 279,
+            "position_y": 508
+        },
+        "8zolwbram_14.png": {
+            "compression": 4,
+            "name": "10_ODBIJA",
+            "position_x": 278,
+            "position_y": 508
+        },
+        "8zolwbram_2.png": {
+            "compression": 4,
+            "name": "1_ODBIJA",
+            "position_x": 278,
+            "position_y": 511
+        },
+        "8zolwbram_3.png": {
+            "compression": 4,
+            "name": "3_BEZRUCH",
+            "position_x": 280,
+            "position_y": 506
+        },
+        "8zolwbram_4.png": {
+            "compression": 4,
+            "name": "2_ODBIJA",
+            "position_x": 276,
+            "position_y": 514
+        },
+        "8zolwbram_5.png": {
+            "compression": 4,
+            "name": "4_BEZRUCH",
+            "position_x": 279,
+            "position_y": 506
+        },
+        "8zolwbram_6.png": {
+            "compression": 4,
+            "name": "3_ODBIJA",
+            "position_x": 280,
+            "position_y": 520
+        },
+        "8zolwbram_7.png": {
+            "compression": 4,
+            "name": "5_BEZRUCH",
+            "position_x": 278,
+            "position_y": 506
+        },
+        "8zolwbram_8.png": {
+            "compression": 4,
+            "name": "4_ODBIJA",
+            "position_x": 279,
+            "position_y": 514
+        },
+        "8zolwbram_9.png": {
+            "compression": 4,
+            "name": "5_ODBIJA",
+            "position_x": 278,
+            "position_y": 508
+        }
+    },
+    "transparency": 255
+}

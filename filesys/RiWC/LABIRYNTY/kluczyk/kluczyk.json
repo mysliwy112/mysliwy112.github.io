@@ -1,0 +1,66 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "kluczyk_0.png",
+                    "name": "0",
+                    "position_x": 7,
+                    "position_y": -1
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "kluczyk_0.png",
+                    "name": "1",
+                    "position_x": 7,
+                    "position_y": -1
+                }
+            ],
+            "loop": 1,
+            "transparency": 255
+        },
+        "TAKEN": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "kluczyk_1.png",
+                    "name": "klucz",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "kluczyk_0.png": {
+            "compression": 4,
+            "name": "KLUCZ",
+            "position_x": 121,
+            "position_y": 401
+        },
+        "kluczyk_1.png": {
+            "compression": 4,
+            "name": "klucz",
+            "position_x": 697,
+            "position_y": 10
+        }
+    },
+    "transparency": 255
+}

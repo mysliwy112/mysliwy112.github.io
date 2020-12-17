@@ -1,0 +1,65 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "MASKA": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "plot_maska_0.png",
+                    "name": "MASKA1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "plot_maska_1.png",
+                    "name": "MASKA2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "plot_maska_2.png",
+                    "name": "MASKA3",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "plot_maska_0.png": {
+            "compression": 4,
+            "name": "MASKA1",
+            "position_y": 243
+        },
+        "plot_maska_1.png": {
+            "compression": 4,
+            "name": "MASKA2",
+            "position_x": 1440,
+            "position_y": 243
+        },
+        "plot_maska_2.png": {
+            "compression": 4,
+            "name": "MASKA3",
+            "position_x": 3198,
+            "position_y": 243
+        }
+    },
+    "transparency": 255
+}

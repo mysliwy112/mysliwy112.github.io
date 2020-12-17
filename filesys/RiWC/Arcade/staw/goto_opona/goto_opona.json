@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "303-372-400": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "goto_opona_0.png",
+                    "name": "OPONA_GOTO303-372-400",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "goto_opona_0.png",
+                    "name": "OPONA_GOTO303-372-400",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "goto_opona_0.png": {
+            "compression": 4,
+            "name": "OPONA_GOTO303-372-4",
+            "position_x": 358,
+            "position_y": 391
+        }
+    },
+    "transparency": 255
+}

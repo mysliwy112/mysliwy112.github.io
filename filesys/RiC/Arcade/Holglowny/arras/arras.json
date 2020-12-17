@@ -1,0 +1,72 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "326-189-10": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "arras_0.png",
+                    "name": "ARRAS_326-189-10",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "arras_1.png",
+                    "name": "ARRAS",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE0": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "arras_0.png",
+                    "name": "ARRAS_326-189-10",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "arras_0.png": {
+            "compression": 4,
+            "name": "ARRAS_326-189-10",
+            "position_x": 237,
+            "position_y": 68
+        },
+        "arras_1.png": {
+            "compression": 4,
+            "name": "ARRAS",
+            "position_x": 237,
+            "position_y": 68
+        }
+    },
+    "transparency": 255
+}

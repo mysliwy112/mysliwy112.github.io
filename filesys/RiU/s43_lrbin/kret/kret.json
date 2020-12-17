@@ -1,0 +1,2336 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "DO46": {
+            "frames": [
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_1.png",
+                    "name": "KRET_0",
+                    "position_x": 286,
+                    "position_y": 266
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_18.png",
+                    "name": "1_OBROT",
+                    "position_x": 286,
+                    "position_y": 266
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_28.png",
+                    "name": "2_OBROT",
+                    "position_x": 286,
+                    "position_y": 266
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_36.png",
+                    "name": "3_OBROT",
+                    "position_x": 286,
+                    "position_y": 266
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_42.png",
+                    "name": "4_OBROT",
+                    "position_x": 286,
+                    "position_y": 266
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_48.png",
+                    "name": "0_TYLEM",
+                    "position_x": 286,
+                    "position_y": 266
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_53.png",
+                    "name": "1_IDZIE-34",
+                    "position_x": 286,
+                    "position_y": 261
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_57.png",
+                    "name": "2_IDZIE-34",
+                    "position_x": 270,
+                    "position_y": 257
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_60.png",
+                    "name": "3_IDZIE-34",
+                    "position_x": 240,
+                    "position_y": 253
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_63.png",
+                    "name": "4_IDZIE-34",
+                    "position_x": 238,
+                    "position_y": 244
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_66.png",
+                    "name": "5_IDZIE-34",
+                    "position_x": 218,
+                    "position_y": 241
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_68.png",
+                    "name": "6_IDZIE-34",
+                    "position_x": 204,
+                    "position_y": 236
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "GADA_1": {
+            "frames": [
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_3.png",
+                    "name": "8_GADA",
+                    "position_x": 285,
+                    "position_y": 265
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_11.png",
+                    "name": "9_GADA",
+                    "position_x": 285,
+                    "position_y": 265
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_23.png",
+                    "name": "10_GADA",
+                    "position_x": 285,
+                    "position_y": 265
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_32.png",
+                    "name": "11_GADA",
+                    "position_x": 285,
+                    "position_y": 265
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_41.png",
+                    "name": "12_GADA",
+                    "position_x": 285,
+                    "position_y": 265
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_46.png",
+                    "name": "13_GADA",
+                    "position_x": 285,
+                    "position_y": 265
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_52.png",
+                    "name": "14_GADA",
+                    "position_x": 285,
+                    "position_y": 265
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_32.png",
+                    "name": "11_GADA",
+                    "position_x": 285,
+                    "position_y": 265
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_41.png",
+                    "name": "12_GADA",
+                    "position_x": 285,
+                    "position_y": 265
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_46.png",
+                    "name": "13_GADA",
+                    "position_x": 285,
+                    "position_y": 265
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_52.png",
+                    "name": "14_GADA",
+                    "position_x": 285,
+                    "position_y": 265
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_23.png",
+                    "name": "10_GADA",
+                    "position_x": 285,
+                    "position_y": 265
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_11.png",
+                    "name": "9_GADA",
+                    "position_x": 285,
+                    "position_y": 265
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_3.png",
+                    "name": "8_GADA",
+                    "position_x": 285,
+                    "position_y": 265
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "GADA_2": {
+            "frames": [
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_2.png",
+                    "name": "4_GADA",
+                    "position_x": 285,
+                    "position_y": 265
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_12.png",
+                    "name": "5_GADA",
+                    "position_x": 285,
+                    "position_y": 265
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_24.png",
+                    "name": "6_GADA",
+                    "position_x": 285,
+                    "position_y": 265
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_33.png",
+                    "name": "7_GADA",
+                    "position_x": 285,
+                    "position_y": 265
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_24.png",
+                    "name": "6_GADA",
+                    "position_x": 285,
+                    "position_y": 265
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_12.png",
+                    "name": "5_GADA",
+                    "position_x": 285,
+                    "position_y": 265
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "GADA_START": {
+            "frames": [
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_1.png",
+                    "name": "kret_0",
+                    "position_x": 286,
+                    "position_y": 266
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_13.png",
+                    "name": "1_GADA",
+                    "position_x": 286,
+                    "position_y": 266
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_22.png",
+                    "name": "2_GADA",
+                    "position_x": 286,
+                    "position_y": 266
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_10.png",
+                    "name": "3_GADA",
+                    "position_x": 286,
+                    "position_y": 266
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "GADA_STOP": {
+            "frames": [
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_2.png",
+                    "name": "4_GADA",
+                    "position_x": 286,
+                    "position_y": 266
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_10.png",
+                    "name": "3_GADA",
+                    "position_x": 286,
+                    "position_y": 266
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_22.png",
+                    "name": "2_GADA",
+                    "position_x": 286,
+                    "position_y": 266
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_13.png",
+                    "name": "1_GADA",
+                    "position_x": 286,
+                    "position_y": 266
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_40.png",
+                    "name": "KRET_0",
+                    "position_x": 286,
+                    "position_y": 266
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "WCHODZI": {
+            "frames": [
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_0.png",
+                    "name": "brak",
+                    "position_x": 582,
+                    "position_y": 184
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_8.png",
+                    "name": "4_chod w  bok",
+                    "position_x": 571,
+                    "position_y": 186
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_20.png",
+                    "name": "5_chod w  bok",
+                    "position_x": 561,
+                    "position_y": 189
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_30.png",
+                    "name": "6_chod w  bok",
+                    "position_x": 551,
+                    "position_y": 192
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_38.png",
+                    "name": "7_chod w  bok",
+                    "position_x": 542,
+                    "position_y": 194
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_44.png",
+                    "name": "8_chod w  bok",
+                    "position_x": 532,
+                    "position_y": 197
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_50.png",
+                    "name": "9_chod w  bok",
+                    "position_x": 524,
+                    "position_y": 199
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_55.png",
+                    "name": "10_chod w  bok",
+                    "position_x": 515,
+                    "position_y": 202
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_0.png",
+                    "name": "3_chod w  bok",
+                    "position_x": 507,
+                    "position_y": 204
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_8.png",
+                    "name": "4_chod w  bok",
+                    "position_x": 499,
+                    "position_y": 206
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_20.png",
+                    "name": "5_chod w  bok",
+                    "position_x": 491,
+                    "position_y": 209
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_30.png",
+                    "name": "6_chod w  bok",
+                    "position_x": 483,
+                    "position_y": 211
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_38.png",
+                    "name": "7_chod w  bok",
+                    "position_x": 476,
+                    "position_y": 213
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_44.png",
+                    "name": "8_chod w  bok",
+                    "position_x": 468,
+                    "position_y": 215
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_50.png",
+                    "name": "9_chod w  bok",
+                    "position_x": 461,
+                    "position_y": 218
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_55.png",
+                    "name": "10_chod w  bok",
+                    "position_x": 454,
+                    "position_y": 220
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_0.png",
+                    "name": "3_chod w  bok",
+                    "position_x": 447,
+                    "position_y": 222
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_8.png",
+                    "name": "4_chod w  bok",
+                    "position_x": 441,
+                    "position_y": 224
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_20.png",
+                    "name": "5_chod w  bok",
+                    "position_x": 434,
+                    "position_y": 226
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_30.png",
+                    "name": "6_chod w  bok",
+                    "position_x": 428,
+                    "position_y": 228
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_38.png",
+                    "name": "7_chod w  bok",
+                    "position_x": 421,
+                    "position_y": 230
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_44.png",
+                    "name": "8_chod w  bok",
+                    "position_x": 415,
+                    "position_y": 232
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_50.png",
+                    "name": "9_chod w  bok",
+                    "position_x": 408,
+                    "position_y": 234
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_55.png",
+                    "name": "10_chod w  bok",
+                    "position_x": 402,
+                    "position_y": 235
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_0.png",
+                    "name": "3_chod w  bok",
+                    "position_x": 396,
+                    "position_y": 237
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_8.png",
+                    "name": "4_chod w  bok",
+                    "position_x": 390,
+                    "position_y": 239
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_20.png",
+                    "name": "5_chod w  bok",
+                    "position_x": 383,
+                    "position_y": 241
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_30.png",
+                    "name": "6_chod w  bok",
+                    "position_x": 377,
+                    "position_y": 243
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_38.png",
+                    "name": "7_chod w  bok",
+                    "position_x": 371,
+                    "position_y": 245
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_44.png",
+                    "name": "8_chod w  bok",
+                    "position_x": 364,
+                    "position_y": 246
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_50.png",
+                    "name": "9_chod w  bok",
+                    "position_x": 358,
+                    "position_y": 248
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_55.png",
+                    "name": "10_chod w  bok",
+                    "position_x": 351,
+                    "position_y": 250
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_0.png",
+                    "name": "3_chod w  bok",
+                    "position_x": 345,
+                    "position_y": 252
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_8.png",
+                    "name": "4_chod w  bok",
+                    "position_x": 338,
+                    "position_y": 253
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_20.png",
+                    "name": "5_chod w  bok",
+                    "position_x": 331,
+                    "position_y": 255
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_30.png",
+                    "name": "6_chod w  bok",
+                    "position_x": 324,
+                    "position_y": 257
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_38.png",
+                    "name": "7_chod w  bok",
+                    "position_x": 316,
+                    "position_y": 259
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_44.png",
+                    "name": "8_chod w  bok",
+                    "position_x": 309,
+                    "position_y": 260
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_50.png",
+                    "name": "9_chod w  bok",
+                    "position_x": 301,
+                    "position_y": 262
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_55.png",
+                    "name": "10_chod w  bok",
+                    "position_x": 294,
+                    "position_y": 264
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_0.png",
+                    "name": "3_chod w  bok",
+                    "position_x": 286,
+                    "position_y": 266
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_69.png",
+                    "name": "1_chod w  bok",
+                    "position_x": 286,
+                    "position_y": 266
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_1.png",
+                    "name": "kret_0",
+                    "position_x": 286,
+                    "position_y": 266
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "WYCHODZI": {
+            "frames": [
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_1.png",
+                    "name": "KRET_0",
+                    "position_x": 286,
+                    "position_y": 266
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_9.png",
+                    "name": "1_NONIE",
+                    "position_x": 286,
+                    "position_y": 266
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_21.png",
+                    "name": "2_NONIE",
+                    "position_x": 286,
+                    "position_y": 266
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_31.png",
+                    "name": "KRET_0",
+                    "position_x": 306,
+                    "position_y": 267
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_39.png",
+                    "name": "3_CHOD W  BOK",
+                    "position_x": 301,
+                    "position_y": 267
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_45.png",
+                    "name": "4_chod w  bok",
+                    "position_x": 299,
+                    "position_y": 263
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_51.png",
+                    "name": "5_chod w  bok",
+                    "position_x": 308,
+                    "position_y": 260
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_56.png",
+                    "name": "6_chod w  bok",
+                    "position_x": 317,
+                    "position_y": 257
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_59.png",
+                    "name": "7_chod w  bok",
+                    "position_x": 325,
+                    "position_y": 254
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_62.png",
+                    "name": "8_chod w  bok",
+                    "position_x": 334,
+                    "position_y": 250
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_65.png",
+                    "name": "9_chod w  bok",
+                    "position_x": 342,
+                    "position_y": 247
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_67.png",
+                    "name": "10_chod w  bok",
+                    "position_x": 350,
+                    "position_y": 244
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_39.png",
+                    "name": "3_chod w  bok",
+                    "position_x": 358,
+                    "position_y": 241
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_45.png",
+                    "name": "4_chod w  bok",
+                    "position_x": 366,
+                    "position_y": 238
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_51.png",
+                    "name": "5_chod w  bok",
+                    "position_x": 373,
+                    "position_y": 235
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_56.png",
+                    "name": "6_chod w  bok",
+                    "position_x": 381,
+                    "position_y": 232
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_59.png",
+                    "name": "7_chod w  bok",
+                    "position_x": 388,
+                    "position_y": 230
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_62.png",
+                    "name": "8_chod w  bok",
+                    "position_x": 395,
+                    "position_y": 227
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_65.png",
+                    "name": "9_chod w  bok",
+                    "position_x": 402,
+                    "position_y": 224
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_67.png",
+                    "name": "10_chod w  bok",
+                    "position_x": 409,
+                    "position_y": 221
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_39.png",
+                    "name": "3_chod w  bok",
+                    "position_x": 416,
+                    "position_y": 218
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_45.png",
+                    "name": "4_chod w  bok",
+                    "position_x": 423,
+                    "position_y": 216
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_51.png",
+                    "name": "5_chod w  bok",
+                    "position_x": 430,
+                    "position_y": 213
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_56.png",
+                    "name": "6_chod w  bok",
+                    "position_x": 436,
+                    "position_y": 210
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_59.png",
+                    "name": "7_chod w  bok",
+                    "position_x": 443,
+                    "position_y": 208
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_62.png",
+                    "name": "8_chod w  bok",
+                    "position_x": 449,
+                    "position_y": 205
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_65.png",
+                    "name": "9_chod w  bok",
+                    "position_x": 456,
+                    "position_y": 202
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_67.png",
+                    "name": "10_chod w  bok",
+                    "position_x": 463,
+                    "position_y": 200
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_39.png",
+                    "name": "3_chod w  bok",
+                    "position_x": 469,
+                    "position_y": 197
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_45.png",
+                    "name": "4_chod w  bok",
+                    "position_x": 476,
+                    "position_y": 194
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_51.png",
+                    "name": "5_chod w  bok",
+                    "position_x": 482,
+                    "position_y": 192
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_56.png",
+                    "name": "6_chod w  bok",
+                    "position_x": 489,
+                    "position_y": 189
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_59.png",
+                    "name": "7_chod w  bok",
+                    "position_x": 496,
+                    "position_y": 187
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_62.png",
+                    "name": "8_chod w  bok",
+                    "position_x": 502,
+                    "position_y": 184
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_65.png",
+                    "name": "9_chod w  bok",
+                    "position_x": 509,
+                    "position_y": 182
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_67.png",
+                    "name": "10_chod w  bok",
+                    "position_x": 516,
+                    "position_y": 179
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_39.png",
+                    "name": "3_chod w  bok",
+                    "position_x": 523,
+                    "position_y": 177
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_45.png",
+                    "name": "4_chod w  bok",
+                    "position_x": 530,
+                    "position_y": 174
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_51.png",
+                    "name": "5_chod w  bok",
+                    "position_x": 537,
+                    "position_y": 172
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_56.png",
+                    "name": "6_chod w  bok",
+                    "position_x": 545,
+                    "position_y": 170
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_59.png",
+                    "name": "7_chod w  bok",
+                    "position_x": 552,
+                    "position_y": 167
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_62.png",
+                    "name": "8_chod w  bok",
+                    "position_x": 560,
+                    "position_y": 165
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_65.png",
+                    "name": "9_chod w  bok",
+                    "position_x": 568,
+                    "position_y": 162
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_67.png",
+                    "name": "10_chod w  bok",
+                    "position_x": 575,
+                    "position_y": 160
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_39.png",
+                    "name": "3_chod w  bok",
+                    "position_x": 584,
+                    "position_y": 158
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "Z46": {
+            "frames": [
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_7.png",
+                    "name": "4_CHOD W  BOK",
+                    "position_x": 221,
+                    "position_y": 225
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_19.png",
+                    "name": "5_CHOD W  BOK",
+                    "position_x": 216,
+                    "position_y": 226
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_29.png",
+                    "name": "6_CHOD W  BOK",
+                    "position_x": 229,
+                    "position_y": 224
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_37.png",
+                    "name": "7_CHOD W  BOK",
+                    "position_x": 215,
+                    "position_y": 231
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_43.png",
+                    "name": "8_CHOD W  BOK",
+                    "position_x": 242,
+                    "position_y": 239
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_49.png",
+                    "name": "9_CHOD W  BOK",
+                    "position_x": 238,
+                    "position_y": 258
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_54.png",
+                    "name": "10_CHOD W  BOK",
+                    "position_x": 267,
+                    "position_y": 263
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_58.png",
+                    "name": "KRET_0",
+                    "position_x": 286,
+                    "position_y": 266
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_61.png",
+                    "name": "2_NONIE",
+                    "position_x": 286,
+                    "position_y": 266
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_64.png",
+                    "name": "3_NONIE",
+                    "position_x": 286,
+                    "position_y": 266
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_1.png",
+                    "name": "KRET_0",
+                    "position_x": 286,
+                    "position_y": 266
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ZAWSTYDZONY_1": {
+            "frames": [
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_4.png",
+                    "name": "6_ZAWSTYDZONY",
+                    "position_x": 286,
+                    "position_y": 266
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_15.png",
+                    "name": "7_ZAWSTYDZONY",
+                    "position_x": 286,
+                    "position_y": 266
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_26.png",
+                    "name": "8_ZAWSTYDZONY",
+                    "position_x": 286,
+                    "position_y": 266
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_34.png",
+                    "name": "9_ZAWSTYDZONY",
+                    "position_x": 286,
+                    "position_y": 266
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_26.png",
+                    "name": "8_ZAWSTYDZONY",
+                    "position_x": 286,
+                    "position_y": 266
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_15.png",
+                    "name": "7_ZAWSTYDZONY",
+                    "position_x": 286,
+                    "position_y": 266
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_4.png",
+                    "name": "6_ZAWSTYDZONY",
+                    "position_x": 286,
+                    "position_y": 266
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_47.png",
+                    "name": "5_ZAWSTYDZONY",
+                    "position_x": 286,
+                    "position_y": 266
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ZAWSTYDZONY_2": {
+            "frames": [
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_5.png",
+                    "name": "10_ZAWSTYDZONY",
+                    "position_x": 288,
+                    "position_y": 268
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_16.png",
+                    "name": "11_ZAWSTYDZONY",
+                    "position_x": 288,
+                    "position_y": 268
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_27.png",
+                    "name": "12_ZAWSTYDZONY",
+                    "position_x": 288,
+                    "position_y": 268
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_35.png",
+                    "name": "13_ZAWSTYDZONY",
+                    "position_x": 288,
+                    "position_y": 268
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_27.png",
+                    "name": "12_ZAWSTYDZONY",
+                    "position_x": 288,
+                    "position_y": 268
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_16.png",
+                    "name": "11_ZAWSTYDZONY",
+                    "position_x": 288,
+                    "position_y": 268
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ZAWSTYDZONY_START": {
+            "frames": [
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_1.png",
+                    "name": "KRET_0",
+                    "position_x": 286,
+                    "position_y": 266
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_14.png",
+                    "name": "1_ZAWSTYDZONY",
+                    "position_x": 286,
+                    "position_y": 266
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_25.png",
+                    "name": "2_ZAWSTYDZONY",
+                    "position_x": 286,
+                    "position_y": 266
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_17.png",
+                    "name": "3_ZAWSTYDZONY",
+                    "position_x": 286,
+                    "position_y": 266
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_6.png",
+                    "name": "4_ZAWSTYDZONY",
+                    "position_x": 286,
+                    "position_y": 266
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_47.png",
+                    "name": "5_ZAWSTYDZONY",
+                    "position_x": 286,
+                    "position_y": 266
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ZAWSTYDZONY_STOP": {
+            "frames": [
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_6.png",
+                    "name": "4_ZAWSTYDZONY",
+                    "position_x": 286,
+                    "position_y": 266
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_17.png",
+                    "name": "3_ZAWSTYDZONY",
+                    "position_x": 286,
+                    "position_y": 266
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_25.png",
+                    "name": "2_ZAWSTYDZONY",
+                    "position_x": 286,
+                    "position_y": 266
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_14.png",
+                    "name": "1_ZAWSTYDZONY",
+                    "position_x": 286,
+                    "position_y": 266
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_1.png",
+                    "name": "KRET_0",
+                    "position_x": 286,
+                    "position_y": 266
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "kret_0.png": {
+            "compression": 3,
+            "name": "3_CHOD W  BOK",
+            "position_x": 108,
+            "position_y": 86
+        },
+        "kret_1.png": {
+            "compression": 3,
+            "name": "KRET_0",
+            "position_x": 86,
+            "position_y": 89
+        },
+        "kret_10.png": {
+            "compression": 3,
+            "name": "3_GADA",
+            "position_x": 89,
+            "position_y": 88
+        },
+        "kret_11.png": {
+            "compression": 3,
+            "name": "9_GADA",
+            "position_x": 89,
+            "position_y": 89
+        },
+        "kret_12.png": {
+            "compression": 3,
+            "name": "5_GADA",
+            "position_x": 79,
+            "position_y": 88
+        },
+        "kret_13.png": {
+            "compression": 3,
+            "name": "1_GADA",
+            "position_x": 103,
+            "position_y": 89
+        },
+        "kret_14.png": {
+            "compression": 3,
+            "name": "1_ZAWSTYDZONY",
+            "position_x": 114,
+            "position_y": 87
+        },
+        "kret_15.png": {
+            "compression": 3,
+            "name": "7_ZAWSTYDZONY",
+            "position_x": 122,
+            "position_y": 89
+        },
+        "kret_16.png": {
+            "compression": 3,
+            "name": "11_ZAWSTYDZONY",
+            "position_x": 112,
+            "position_y": 89
+        },
+        "kret_17.png": {
+            "compression": 3,
+            "name": "3_ZAWSTYDZONY",
+            "position_x": 114,
+            "position_y": 91
+        },
+        "kret_18.png": {
+            "compression": 3,
+            "name": "1_OBROT",
+            "position_x": 81,
+            "position_y": 97
+        },
+        "kret_19.png": {
+            "compression": 3,
+            "name": "5_CHOD W  BOK",
+            "position_x": 99,
+            "position_y": 83
+        },
+        "kret_2.png": {
+            "compression": 3,
+            "name": "4_GADA",
+            "position_x": 78,
+            "position_y": 88
+        },
+        "kret_20.png": {
+            "compression": 3,
+            "name": "5_CHOD W  BOK",
+            "position_x": 107,
+            "position_y": 83
+        },
+        "kret_21.png": {
+            "compression": 3,
+            "name": "2_NONIE",
+            "position_x": 105,
+            "position_y": 92
+        },
+        "kret_22.png": {
+            "compression": 3,
+            "name": "2_GADA",
+            "position_x": 99,
+            "position_y": 88
+        },
+        "kret_23.png": {
+            "compression": 3,
+            "name": "10_GADA",
+            "position_x": 83,
+            "position_y": 90
+        },
+        "kret_24.png": {
+            "compression": 3,
+            "name": "6_GADA",
+            "position_x": 78,
+            "position_y": 89
+        },
+        "kret_25.png": {
+            "compression": 3,
+            "name": "2_ZAWSTYDZONY",
+            "position_x": 108,
+            "position_y": 90
+        },
+        "kret_26.png": {
+            "compression": 3,
+            "name": "8_ZAWSTYDZONY",
+            "position_x": 124,
+            "position_y": 86
+        },
+        "kret_27.png": {
+            "compression": 3,
+            "name": "12_ZAWSTYDZONY",
+            "position_x": 108,
+            "position_y": 90
+        },
+        "kret_28.png": {
+            "compression": 3,
+            "name": "2_OBROT",
+            "position_x": 76,
+            "position_y": 97
+        },
+        "kret_29.png": {
+            "compression": 3,
+            "name": "6_CHOD W  BOK",
+            "position_x": 109,
+            "position_y": 77
+        },
+        "kret_3.png": {
+            "compression": 3,
+            "name": "8_GADA",
+            "position_x": 83,
+            "position_y": 89
+        },
+        "kret_30.png": {
+            "compression": 3,
+            "name": "6_CHOD W  BOK",
+            "position_x": 117,
+            "position_y": 77
+        },
+        "kret_31.png": {
+            "compression": 3,
+            "name": "KRET_0",
+            "position_x": 89,
+            "position_y": 89
+        },
+        "kret_32.png": {
+            "compression": 3,
+            "name": "11_GADA",
+            "position_x": 76,
+            "position_y": 89
+        },
+        "kret_33.png": {
+            "compression": 3,
+            "name": "7_GADA",
+            "position_x": 78,
+            "position_y": 92
+        },
+        "kret_34.png": {
+            "compression": 3,
+            "name": "9_ZAWSTYDZONY",
+            "position_x": 123,
+            "position_y": 86
+        },
+        "kret_35.png": {
+            "compression": 3,
+            "name": "13_ZAWSTYDZONY",
+            "position_x": 105,
+            "position_y": 92
+        },
+        "kret_36.png": {
+            "compression": 3,
+            "name": "3_OBROT",
+            "position_x": 110,
+            "position_y": 96
+        },
+        "kret_37.png": {
+            "compression": 3,
+            "name": "7_CHOD W  BOK",
+            "position_x": 105,
+            "position_y": 84
+        },
+        "kret_38.png": {
+            "compression": 3,
+            "name": "7_CHOD W  BOK",
+            "position_x": 105,
+            "position_y": 84
+        },
+        "kret_39.png": {
+            "compression": 3,
+            "name": "3_CHOD W  BOK",
+            "position_x": 96,
+            "position_y": 86
+        },
+        "kret_4.png": {
+            "compression": 3,
+            "name": "6_ZAWSTYDZONY",
+            "position_x": 121,
+            "position_y": 91
+        },
+        "kret_40.png": {
+            "compression": 3,
+            "name": "KRET_0",
+            "position_x": 86,
+            "position_y": 89
+        },
+        "kret_41.png": {
+            "compression": 3,
+            "name": "12_GADA",
+            "position_x": 76,
+            "position_y": 89
+        },
+        "kret_42.png": {
+            "compression": 3,
+            "name": "4_OBROT",
+            "position_x": 116,
+            "position_y": 93
+        },
+        "kret_43.png": {
+            "compression": 3,
+            "name": "8_CHOD W  BOK",
+            "position_x": 80,
+            "position_y": 88
+        },
+        "kret_44.png": {
+            "compression": 3,
+            "name": "8_CHOD W  BOK",
+            "position_x": 87,
+            "position_y": 88
+        },
+        "kret_45.png": {
+            "compression": 3,
+            "name": "4_CHOD W  BOK",
+            "position_x": 77,
+            "position_y": 89
+        },
+        "kret_46.png": {
+            "compression": 3,
+            "name": "13_GADA",
+            "position_x": 76,
+            "position_y": 89
+        },
+        "kret_47.png": {
+            "compression": 3,
+            "name": "5_ZAWSTYDZONY",
+            "position_x": 120,
+            "position_y": 94
+        },
+        "kret_48.png": {
+            "compression": 3,
+            "name": "0_TYLEM",
+            "position_x": 115,
+            "position_y": 92
+        },
+        "kret_49.png": {
+            "compression": 3,
+            "name": "9_CHOD W  BOK",
+            "position_x": 99,
+            "position_y": 83
+        },
+        "kret_5.png": {
+            "compression": 3,
+            "name": "10_ZAWSTYDZONY",
+            "position_x": 115,
+            "position_y": 89
+        },
+        "kret_50.png": {
+            "compression": 3,
+            "name": "9_CHOD W  BOK",
+            "position_x": 105,
+            "position_y": 83
+        },
+        "kret_51.png": {
+            "compression": 3,
+            "name": "5_CHOD W  BOK",
+            "position_x": 99,
+            "position_y": 83
+        },
+        "kret_52.png": {
+            "compression": 3,
+            "name": "14_GADA",
+            "position_x": 76,
+            "position_y": 89
+        },
+        "kret_53.png": {
+            "compression": 3,
+            "name": "1_IDZIE-34",
+            "position_x": 96,
+            "position_y": 85
+        },
+        "kret_54.png": {
+            "compression": 3,
+            "name": "10_CHOD W  BOK",
+            "position_x": 109,
+            "position_y": 76
+        },
+        "kret_55.png": {
+            "compression": 3,
+            "name": "10_CHOD W  BOK",
+            "position_x": 116,
+            "position_y": 76
+        },
+        "kret_56.png": {
+            "compression": 3,
+            "name": "6_CHOD W  BOK",
+            "position_x": 109,
+            "position_y": 77
+        },
+        "kret_57.png": {
+            "compression": 3,
+            "name": "2_IDZIE-34",
+            "position_x": 77,
+            "position_y": 90
+        },
+        "kret_58.png": {
+            "compression": 3,
+            "name": "KRET_0",
+            "position_x": 89,
+            "position_y": 89
+        },
+        "kret_59.png": {
+            "compression": 3,
+            "name": "7_CHOD W  BOK",
+            "position_x": 105,
+            "position_y": 84
+        },
+        "kret_6.png": {
+            "compression": 3,
+            "name": "4_ZAWSTYDZONY",
+            "position_x": 117,
+            "position_y": 91
+        },
+        "kret_60.png": {
+            "compression": 3,
+            "name": "3_IDZIE-34",
+            "position_x": 72,
+            "position_y": 97
+        },
+        "kret_61.png": {
+            "compression": 3,
+            "name": "2_NONIE",
+            "position_x": 100,
+            "position_y": 92
+        },
+        "kret_62.png": {
+            "compression": 3,
+            "name": "8_CHOD W  BOK",
+            "position_x": 80,
+            "position_y": 88
+        },
+        "kret_63.png": {
+            "compression": 3,
+            "name": "4_IDZIE-34",
+            "position_x": 72,
+            "position_y": 90
+        },
+        "kret_64.png": {
+            "compression": 3,
+            "name": "3_NONIE",
+            "position_x": 99,
+            "position_y": 89
+        },
+        "kret_65.png": {
+            "compression": 3,
+            "name": "9_CHOD W  BOK",
+            "position_x": 99,
+            "position_y": 83
+        },
+        "kret_66.png": {
+            "compression": 3,
+            "name": "5_IDZIE-34",
+            "position_x": 87,
+            "position_y": 89
+        },
+        "kret_67.png": {
+            "compression": 3,
+            "name": "10_CHOD W  BOK",
+            "position_x": 109,
+            "position_y": 76
+        },
+        "kret_68.png": {
+            "compression": 3,
+            "name": "6_IDZIE-34",
+            "position_x": 79,
+            "position_y": 94
+        },
+        "kret_69.png": {
+            "compression": 3,
+            "name": "1_CHOD W  BOK",
+            "position_x": 103,
+            "position_y": 88
+        },
+        "kret_7.png": {
+            "compression": 3,
+            "name": "4_CHOD W  BOK",
+            "position_x": 77,
+            "position_y": 89
+        },
+        "kret_8.png": {
+            "compression": 3,
+            "name": "4_CHOD W  BOK",
+            "position_x": 90,
+            "position_y": 89
+        },
+        "kret_9.png": {
+            "compression": 3,
+            "name": "1_NONIE",
+            "position_x": 112,
+            "position_y": 90
+        }
+    },
+    "transparency": 255
+}

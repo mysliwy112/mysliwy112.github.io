@@ -1,0 +1,335 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "A1": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "btn_0.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 40
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "btn_9.png",
+                    "name": "1",
+                    "position_x": 0,
+                    "position_y": 40
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "A2": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "btn_1.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 40
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "btn_10.png",
+                    "name": "1",
+                    "position_x": 0,
+                    "position_y": 40
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "A3": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "btn_2.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 40
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "btn_11.png",
+                    "name": "1",
+                    "position_x": 0,
+                    "position_y": 40
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "A4": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "btn_3.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 40
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "btn_12.png",
+                    "name": "1",
+                    "position_x": 0,
+                    "position_y": 40
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "A5": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "btn_4.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 40
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "btn_13.png",
+                    "name": "1",
+                    "position_x": 0,
+                    "position_y": 40
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "A6": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "btn_5.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 40
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "btn_14.png",
+                    "name": "1",
+                    "position_x": 0,
+                    "position_y": 40
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "A7": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "btn_6.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 40
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "btn_15.png",
+                    "name": "1",
+                    "position_x": 0,
+                    "position_y": 40
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "A8": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "btn_7.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "A9": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "btn_8.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "btn_0.png": {
+            "compression": 4,
+            "name": "TELEPORT1",
+            "position_x": 40,
+            "position_y": 280
+        },
+        "btn_1.png": {
+            "compression": 4,
+            "name": "TELEPORT2",
+            "position_x": 520,
+            "position_y": 40
+        },
+        "btn_10.png": {
+            "compression": 4,
+            "name": "TELEPORT2D",
+            "position_x": 720,
+            "position_y": 320
+        },
+        "btn_11.png": {
+            "compression": 4,
+            "name": "TELEPORT3D",
+            "position_x": 560,
+            "position_y": 40
+        },
+        "btn_12.png": {
+            "compression": 4,
+            "name": "TELEPORT4D",
+            "position_x": 400,
+            "position_y": 40
+        },
+        "btn_13.png": {
+            "compression": 4,
+            "name": "TELEPORT5D",
+            "position_x": 40,
+            "position_y": 120
+        },
+        "btn_14.png": {
+            "compression": 4,
+            "name": "TELEPORT6D",
+            "position_x": 720,
+            "position_y": 320
+        },
+        "btn_15.png": {
+            "compression": 4,
+            "name": "TELEPORT7D",
+            "position_x": 40,
+            "position_y": 120
+        },
+        "btn_2.png": {
+            "compression": 4,
+            "name": "TELEPORT3",
+            "position_x": 720,
+            "position_y": 280
+        },
+        "btn_3.png": {
+            "compression": 4,
+            "name": "TELEPORT4",
+            "position_x": 40,
+            "position_y": 80
+        },
+        "btn_4.png": {
+            "compression": 4,
+            "name": "TELEPORT5",
+            "position_x": 720,
+            "position_y": 360
+        },
+        "btn_5.png": {
+            "compression": 4,
+            "name": "TELPORT6",
+            "position_x": 40,
+            "position_y": 160
+        },
+        "btn_6.png": {
+            "compression": 4,
+            "name": "TELEPORT7",
+            "position_x": 440,
+            "position_y": 40
+        },
+        "btn_7.png": {
+            "compression": 4,
+            "name": "EXIT",
+            "position_x": 680,
+            "position_y": 80
+        },
+        "btn_8.png": {
+            "compression": 4,
+            "name": "START",
+            "position_x": 120,
+            "position_y": 80
+        },
+        "btn_9.png": {
+            "compression": 4,
+            "name": "TELEPORT1D",
+            "position_x": 40,
+            "position_y": 360
+        }
+    },
+    "transparency": 255
+}

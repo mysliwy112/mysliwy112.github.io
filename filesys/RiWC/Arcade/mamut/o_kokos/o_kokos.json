@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "1410-550-599": {
+            "frames": [
+                {
+                    "check": [
+                        64,
+                        206,
+                        85
+                    ],
+                    "filename": "o_kokos_0.png",
+                    "name": "KOKOS",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        64,
+                        206,
+                        85
+                    ],
+                    "filename": "o_kokos_0.png",
+                    "name": "KOKOS",
+                    "position_x": 8,
+                    "position_y": 533
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "o_kokos_0.png": {
+            "compression": 3,
+            "name": "KOKOS",
+            "position_x": 1404,
+            "position_y": 37
+        }
+    },
+    "transparency": 255
+}

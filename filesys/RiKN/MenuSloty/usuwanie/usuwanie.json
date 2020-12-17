@@ -1,0 +1,32 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "idle": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "usuwanie_0.png",
+                    "name": "kosz1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "usuwanie_0.png": {
+            "compression": 3,
+            "name": "kosz1",
+            "position_x": 411,
+            "position_y": 206
+        }
+    },
+    "transparency": 255
+}

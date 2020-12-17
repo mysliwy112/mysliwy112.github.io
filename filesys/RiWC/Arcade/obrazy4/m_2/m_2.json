@@ -1,0 +1,117 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "560-550-1": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_2_0.png",
+                    "name": "A2A",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ACTIVE": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_2_1.png",
+                    "name": "A2C",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ANIM": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_2_0.png",
+                    "name": "A2A",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_2_2.png",
+                    "name": "A2B",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_2_1.png",
+                    "name": "A2C",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_2_0.png",
+                    "name": "A2A",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "m_2_0.png": {
+            "compression": 3,
+            "name": "A2A",
+            "position_x": 485,
+            "position_y": 45
+        },
+        "m_2_1.png": {
+            "compression": 3,
+            "name": "A2C",
+            "position_x": 485,
+            "position_y": 45
+        },
+        "m_2_2.png": {
+            "compression": 3,
+            "name": "A2B",
+            "position_x": 485,
+            "position_y": 45
+        }
+    },
+    "transparency": 255
+}

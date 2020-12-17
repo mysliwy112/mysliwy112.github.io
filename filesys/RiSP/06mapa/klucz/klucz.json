@@ -1,0 +1,32 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "04KLUCZ": {
+            "frames": [
+                {
+                    "check": [
+                        16,
+                        51,
+                        78
+                    ],
+                    "filename": "klucz_0.png",
+                    "name": "KOLKO",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "klucz_0.png": {
+            "compression": 4,
+            "name": "KOLKO",
+            "position_x": 679,
+            "position_y": 365
+        }
+    },
+    "transparency": 255
+}

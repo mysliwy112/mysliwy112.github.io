@@ -1,0 +1,89 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "ppgm_exit": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "ppmg_exit_0.png",
+                    "name": "menu_szuflady",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "ppmg_exit_2.png",
+                    "name": "menu_szuflady_kopia",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ppgm_zaj": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "ppmg_exit_1.png",
+                    "name": "zajezdnia1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "ppmg_exit_3.png",
+                    "name": "zajezdnia2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "ppmg_exit_0.png": {
+            "compression": 3,
+            "name": "menu_szuflady",
+            "position_x": 726,
+            "position_y": 417
+        },
+        "ppmg_exit_1.png": {
+            "compression": 3,
+            "name": "zajezdnia1",
+            "position_x": 726,
+            "position_y": 417
+        },
+        "ppmg_exit_2.png": {
+            "compression": 3,
+            "name": "menu_szuflady_kopia",
+            "position_x": 722,
+            "position_y": 413
+        },
+        "ppmg_exit_3.png": {
+            "compression": 3,
+            "name": "zajezdnia2",
+            "position_x": 722,
+            "position_y": 413
+        }
+    },
+    "transparency": 255
+}

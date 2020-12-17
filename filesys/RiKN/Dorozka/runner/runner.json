@@ -1,0 +1,41 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "run": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "runner_0.png",
+                    "name": "pixel",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "runner_0.png",
+                    "name": "pixel",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 1,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "runner_0.png": {
+            "compression": 3,
+            "name": "pixel"
+        }
+    },
+    "transparency": 255
+}

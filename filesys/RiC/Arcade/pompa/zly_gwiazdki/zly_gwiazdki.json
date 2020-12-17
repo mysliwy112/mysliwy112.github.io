@@ -1,0 +1,122 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "103-460-25": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "zly_gwiazdki_0.png",
+                    "name": "KORPUS2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "zly_gwiazdki_1.png",
+                    "name": "STARS_MOONS",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "zly_gwiazdki_1.png",
+                    "name": "STARS_MOONS",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "zly_gwiazdki_2.png",
+                    "name": "LAYER_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "zly_gwiazdki_2.png",
+                    "name": "LAYER_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "zly_gwiazdki_3.png",
+                    "name": "LAYER_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "zly_gwiazdki_3.png",
+                    "name": "LAYER_3",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 5,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "zly_gwiazdki_0.png": {
+            "compression": 4,
+            "name": "KORPUS2",
+            "position_x": 85,
+            "position_y": 158
+        },
+        "zly_gwiazdki_1.png": {
+            "compression": 4,
+            "name": "STARS_MOONS",
+            "position_x": 69,
+            "position_y": 222
+        },
+        "zly_gwiazdki_2.png": {
+            "compression": 4,
+            "name": "LAYER_2",
+            "position_x": 69,
+            "position_y": 222
+        },
+        "zly_gwiazdki_3.png": {
+            "compression": 4,
+            "name": "LAYER_3",
+            "position_x": 75,
+            "position_y": 224
+        }
+    },
+    "transparency": 255
+}

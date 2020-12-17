@@ -1,0 +1,32 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        40,
+                        139,
+                        83
+                    ],
+                    "filename": "mirror1_0.png",
+                    "name": "BACKGROUND",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "mirror1_0.png": {
+            "compression": 3,
+            "name": "BACKGROUND",
+            "position_x": -50,
+            "position_y": -300
+        }
+    },
+    "transparency": 255
+}

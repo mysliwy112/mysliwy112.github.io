@@ -1,0 +1,76 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "idle": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "nak_0.png",
+                    "name": "okno_graciarnia",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "nak_1.png",
+                    "name": "okno_zwykle",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "nak_2.png",
+                    "name": "bla_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "nak_3.png",
+                    "name": "Warstwa_1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "nak_0.png": {
+            "compression": 3,
+            "name": "okno_graciarnia"
+        },
+        "nak_1.png": {
+            "compression": 3,
+            "name": "okno_zwykle"
+        },
+        "nak_2.png": {
+            "compression": 3,
+            "name": "bla_1"
+        },
+        "nak_3.png": {
+            "compression": 3,
+            "name": "Warstwa_1",
+            "position_x": -522
+        }
+    },
+    "transparency": 255
+}

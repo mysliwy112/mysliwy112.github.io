@@ -1,0 +1,115 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "636-480-467": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi2_0.png",
+                    "name": "DRZWI_2_636-480_-467",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi2_0.png",
+                    "name": "DRZWI_2_636-480_-467",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE0": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi2_0.png",
+                    "name": "DRZWI_2_636-480_-467",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\door4cl.wav",
+                    "sfx_seed": 25120572
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi2_0.png",
+                    "name": "DRZWI_2_636-480_-467",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE1": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi2_1.png",
+                    "name": "DRZWI_2_COPY",
+                    "position_x": 240,
+                    "position_y": 43,
+                    "sfx": "SFX\\door4op.wav",
+                    "sfx_seed": 25122132
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi2_1.png",
+                    "name": "DRZWI_2_COPY",
+                    "position_x": 240,
+                    "position_y": 43
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "drzwi2_0.png": {
+            "compression": 4,
+            "name": "DRZWI_2_636-480_-46",
+            "position_x": 587,
+            "position_y": 329
+        },
+        "drzwi2_1.png": {
+            "compression": 4,
+            "name": "DRZWI_2_COPY",
+            "position_x": 587,
+            "position_y": 329
+        }
+    },
+    "transparency": 255
+}

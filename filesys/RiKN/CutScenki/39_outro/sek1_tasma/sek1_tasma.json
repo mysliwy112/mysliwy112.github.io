@@ -1,0 +1,155 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "idle": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "sek1_tasma_1.png",
+                    "name": "t1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "wysuwa": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "sek1_tasma_0.png",
+                    "name": "t1_kopia_3",
+                    "position_x": 16,
+                    "position_y": 197
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "sek1_tasma_0.png",
+                    "name": "t1_kopia_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "sek1_tasma_0.png",
+                    "name": "t1_kopia_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "sek1_tasma_2.png",
+                    "name": "t1_kopia_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "sek1_tasma_2.png",
+                    "name": "t1_kopia_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "sek1_tasma_3.png",
+                    "name": "t1_kopia",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "sek1_tasma_3.png",
+                    "name": "t1_kopia",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "sek1_tasma_1.png",
+                    "name": "t1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "sek1_tasma_1.png",
+                    "name": "t1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "sek1_tasma_0.png": {
+            "compression": 3,
+            "name": "t1_kopia_3",
+            "position_x": 299,
+            "position_y": 431
+        },
+        "sek1_tasma_1.png": {
+            "compression": 3,
+            "name": "t1",
+            "position_x": 294,
+            "position_y": 401
+        },
+        "sek1_tasma_2.png": {
+            "compression": 3,
+            "name": "t1_kopia_2",
+            "position_x": 297,
+            "position_y": 421
+        },
+        "sek1_tasma_3.png": {
+            "compression": 3,
+            "name": "t1_kopia",
+            "position_x": 296,
+            "position_y": 411
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "o_amortyzator2_but_0.png",
+                    "name": "AMORTYZATOR2_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "o_amortyzator2_but_1.png",
+                    "name": "AMORTYZATOR2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "o_amortyzator2_but_0.png": {
+            "compression": 4,
+            "name": "AMORTYZATOR2_COPY",
+            "position_x": 10,
+            "position_y": 10
+        },
+        "o_amortyzator2_but_1.png": {
+            "compression": 4,
+            "name": "AMORTYZATOR2",
+            "position_x": 25,
+            "position_y": 18
+        }
+    },
+    "transparency": 255
+}

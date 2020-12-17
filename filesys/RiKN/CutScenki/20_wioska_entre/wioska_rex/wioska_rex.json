@@ -1,0 +1,167 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "gada": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "wioska_rex_2.png",
+                    "name": "1_N",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "wioska_rex_2.png",
+                    "name": "1_N",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "wioska_rex_3.png",
+                    "name": "2_N",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "wioska_rex_3.png",
+                    "name": "2_N",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "wioska_rex_4.png",
+                    "name": "3_N",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "wioska_rex_4.png",
+                    "name": "3_N",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "wioska_rex_3.png",
+                    "name": "2_N",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "wioska_rex_3.png",
+                    "name": "2_N",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 7,
+            "transparency": 255
+        },
+        "idle1": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "wioska_rex_0.png",
+                    "name": "8_N",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "idle2": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "wioska_rex_1.png",
+                    "name": "3_IDLE_NW",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "wioska_rex_0.png": {
+            "compression": 3,
+            "name": "8_N",
+            "position_x": 307,
+            "position_y": 354
+        },
+        "wioska_rex_1.png": {
+            "compression": 3,
+            "name": "3_IDLE_NW",
+            "position_x": 304,
+            "position_y": 341
+        },
+        "wioska_rex_2.png": {
+            "compression": 3,
+            "name": "1_N",
+            "position_x": 293,
+            "position_y": 354
+        },
+        "wioska_rex_3.png": {
+            "compression": 3,
+            "name": "2_N",
+            "position_x": 300,
+            "position_y": 354
+        },
+        "wioska_rex_4.png": {
+            "compression": 3,
+            "name": "3_N",
+            "position_x": 298,
+            "position_y": 355
+        }
+    },
+    "transparency": 255
+}

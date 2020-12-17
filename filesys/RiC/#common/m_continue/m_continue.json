@@ -1,0 +1,150 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "ONCLICK": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "m_continue_1.png",
+                    "name": "BACK_AC",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONFOCUSOFF": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "m_continue_0.png",
+                    "name": "BACK_IN_1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONFOCUSON": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "m_continue_1.png",
+                    "name": "BACK_AC",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONNOEVENT": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "m_continue_0.png",
+                    "name": "BACK_IN_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "m_continue_0.png",
+                    "name": "BACK_IN_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "m_continue_0.png",
+                    "name": "BACK_IN_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "m_continue_2.png",
+                    "name": "BACK_IN_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "m_continue_2.png",
+                    "name": "BACK_IN_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "m_continue_2.png",
+                    "name": "BACK_IN_2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 5,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "m_continue_0.png": {
+            "compression": 3,
+            "name": "BACK_IN_1",
+            "position_x": 612,
+            "position_y": 17
+        },
+        "m_continue_1.png": {
+            "compression": 3,
+            "name": "BACK_AC",
+            "position_x": 612,
+            "position_y": 17
+        },
+        "m_continue_2.png": {
+            "compression": 3,
+            "name": "BACK_IN_2",
+            "position_x": 612,
+            "position_y": 17
+        }
+    },
+    "transparency": 255
+}

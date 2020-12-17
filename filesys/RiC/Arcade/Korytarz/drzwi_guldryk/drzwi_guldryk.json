@@ -1,0 +1,115 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "367-343-10": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "drzwi_guldryk_0.png",
+                    "name": "DRZWI_DO_GULDRYKA_367-357-10",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "drzwi_guldryk_0.png",
+                    "name": "DRZWI_DO_GULDRYKA_367-357-10",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE0": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "drzwi_guldryk_1.png",
+                    "name": "DRZWI_DO_GULDRYKA_COPY",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\int_whitedoorcl.wav",
+                    "sfx_seed": 25597468
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "drzwi_guldryk_0.png",
+                    "name": "DRZWI_DO_GULDRYKA_367-357-10",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE1": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "drzwi_guldryk_0.png",
+                    "name": "DRZWI_DO_GULDRYKA_367-357-10",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\int_whitedoor.wav",
+                    "sfx_seed": 25541812
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "drzwi_guldryk_1.png",
+                    "name": "DRZWI_DO_GULDRYKA_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "drzwi_guldryk_0.png": {
+            "compression": 4,
+            "name": "DRZWI_DO_GULDRYKA_3",
+            "position_x": 358,
+            "position_y": 123
+        },
+        "drzwi_guldryk_1.png": {
+            "compression": 4,
+            "name": "DRZWI_DO_GULDRYKA_C",
+            "position_x": 358,
+            "position_y": 124
+        }
+    },
+    "transparency": 255
+}

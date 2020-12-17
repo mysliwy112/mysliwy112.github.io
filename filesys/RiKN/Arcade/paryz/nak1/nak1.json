@@ -1,0 +1,142 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "lampa_d": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "nak1_3.png",
+                    "name": "Warstwa_15_kopia",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "nak1_5.png",
+                    "name": "Warstwa_15",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "lampa_u": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "nak1_2.png",
+                    "name": "Warstwa_15_kopia_copy",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "nak1_1.png",
+                    "name": "pixel",
+                    "position_x": -1000,
+                    "position_y": -1000
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "most": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "nak1_1.png",
+                    "name": "pixel",
+                    "position_x": -1000,
+                    "position_y": -1000
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "nak1_4.png",
+                    "name": "Warstwa_14",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "nak1": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "nak1_0.png",
+                    "name": "Warstwa_7",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "nak1_0.png": {
+            "compression": 3,
+            "name": "Warstwa_7",
+            "position_x": 61
+        },
+        "nak1_1.png": {
+            "compression": 3,
+            "name": "pixel"
+        },
+        "nak1_2.png": {
+            "compression": 3,
+            "name": "Warstwa_15_kopia_co",
+            "position_x": 516
+        },
+        "nak1_3.png": {
+            "compression": 3,
+            "name": "Warstwa_15_kopia",
+            "position_x": 464,
+            "position_y": 194
+        },
+        "nak1_4.png": {
+            "compression": 3,
+            "name": "Warstwa_14",
+            "position_x": 75,
+            "position_y": 365
+        },
+        "nak1_5.png": {
+            "compression": 3,
+            "name": "Warstwa_15",
+            "position_x": 464,
+            "position_y": 194
+        }
+    },
+    "transparency": 255
+}

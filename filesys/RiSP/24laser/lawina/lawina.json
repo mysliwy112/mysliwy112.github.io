@@ -1,0 +1,214 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        190,
+                        164
+                    ],
+                    "filename": "lawina_0.png",
+                    "name": "SET 1 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "sfx\\00lawina.wav",
+                    "sfx_seed": 10870128
+                },
+                {
+                    "check": [
+                        64,
+                        190,
+                        164
+                    ],
+                    "filename": "lawina_1.png",
+                    "name": "SET 1 COPY 7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        189,
+                        164
+                    ],
+                    "filename": "lawina_2.png",
+                    "name": "SET 1 COPY 6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        32,
+                        189,
+                        164
+                    ],
+                    "filename": "lawina_3.png",
+                    "name": "SET 1 COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        188,
+                        164
+                    ],
+                    "filename": "lawina_4.png",
+                    "name": "SET 1 COPY 4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "lawina_5.png",
+                    "name": "SET 1 COPY 3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        187,
+                        164
+                    ],
+                    "filename": "lawina_6.png",
+                    "name": "SET 1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "lawina_6.png",
+                    "name": "SET 1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        216,
+                        165
+                    ],
+                    "filename": "lawina_6.png",
+                    "name": "SET 1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        160,
+                        215,
+                        165
+                    ],
+                    "filename": "lawina_6.png",
+                    "name": "SET 1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        214,
+                        165
+                    ],
+                    "filename": "lawina_6.png",
+                    "name": "SET 1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48,
+                        216,
+                        165
+                    ],
+                    "filename": "lawina_6.png",
+                    "name": "SET 1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        214,
+                        165
+                    ],
+                    "filename": "lawina_6.png",
+                    "name": "SET 1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "lawina_0.png": {
+            "compression": 4,
+            "name": "SET 1 COPY 8",
+            "position_x": 449,
+            "position_y": 83
+        },
+        "lawina_1.png": {
+            "compression": 4,
+            "name": "SET 1 COPY 7",
+            "position_x": 311,
+            "position_y": 83
+        },
+        "lawina_2.png": {
+            "compression": 4,
+            "name": "SET 1 COPY 6",
+            "position_x": 257,
+            "position_y": 83
+        },
+        "lawina_3.png": {
+            "compression": 4,
+            "name": "SET 1 COPY 5",
+            "position_x": 272,
+            "position_y": 83
+        },
+        "lawina_4.png": {
+            "compression": 4,
+            "name": "SET 1 COPY 4",
+            "position_x": 307,
+            "position_y": 83
+        },
+        "lawina_5.png": {
+            "compression": 4,
+            "name": "SET 1 COPY 3",
+            "position_x": 296,
+            "position_y": 83
+        },
+        "lawina_6.png": {
+            "compression": 4,
+            "name": "SET 1",
+            "position_x": 298,
+            "position_y": 84
+        }
+    },
+    "transparency": 255
+}

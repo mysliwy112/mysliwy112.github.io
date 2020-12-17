@@ -1,0 +1,66 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "woda2_0.png",
+                    "name": "WODA1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "woda2_1.png",
+                    "name": "WODA2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "woda2_2.png",
+                    "name": "WODA3",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 2,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "woda2_0.png": {
+            "compression": 4,
+            "name": "WODA1",
+            "position_x": 689,
+            "position_y": 495
+        },
+        "woda2_1.png": {
+            "compression": 4,
+            "name": "WODA2",
+            "position_x": 689,
+            "position_y": 495
+        },
+        "woda2_2.png": {
+            "compression": 4,
+            "name": "WODA3",
+            "position_x": 689,
+            "position_y": 495
+        }
+    },
+    "transparency": 255
+}

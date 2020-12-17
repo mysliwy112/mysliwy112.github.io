@@ -1,0 +1,60 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "sek8_tasma_najszybciej_0.png",
+                    "name": "NAJSZYBCIEJ",
+                    "position_x": -58,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "sek8_tasma_najszybciej_1.png",
+                    "name": "POJAWIENIE_NAJSZYBCIEJ",
+                    "position_x": -100,
+                    "position_y": 6
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "sek8_tasma_najszybciej_1.png",
+                    "name": "POJAWIENIE_NAJSZYBCIEJ",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 2,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "sek8_tasma_najszybciej_0.png": {
+            "compression": 3,
+            "name": "NAJSZYBCIEJ",
+            "position_x": 376,
+            "position_y": 251
+        },
+        "sek8_tasma_najszybciej_1.png": {
+            "compression": 3,
+            "name": "POJAWIENIE_NAJSZYBC",
+            "position_x": 408,
+            "position_y": 142
+        }
+    },
+    "transparency": 255
+}

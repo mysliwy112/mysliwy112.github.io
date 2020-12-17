@@ -1,0 +1,48 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "350-520-100": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "gora_0.png",
+                    "name": "LODOWA_GORA_350-520-100",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "gora_0.png",
+                    "name": "LODOWA_GORA_350-520-100",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "gora_0.png": {
+            "compression": 3,
+            "name": "LODOWA_GORA_350-520",
+            "position_x": 165
+        }
+    },
+    "transparency": 255
+}

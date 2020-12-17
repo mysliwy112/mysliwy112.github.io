@@ -1,0 +1,83 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "0-0-0": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "n_plomyk_0.png",
+                    "name": "PLOMYK1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "n_plomyk_0.png",
+                    "name": "PLOMYK1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "n_plomyk_1.png",
+                    "name": "PLOMYK1_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "n_plomyk_2.png",
+                    "name": "PLOMYK1_COPY_2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 2,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "n_plomyk_0.png": {
+            "compression": 4,
+            "name": "PLOMYK1",
+            "position_x": 340,
+            "position_y": 234
+        },
+        "n_plomyk_1.png": {
+            "compression": 4,
+            "name": "PLOMYK1_COPY",
+            "position_x": 339,
+            "position_y": 234
+        },
+        "n_plomyk_2.png": {
+            "compression": 4,
+            "name": "PLOMYK1_COPY_2",
+            "position_x": 339,
+            "position_y": 234
+        }
+    },
+    "transparency": 255
+}

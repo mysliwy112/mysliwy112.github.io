@@ -1,0 +1,83 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "110-184-001": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "rzeka3_0.png",
+                    "name": "RZEKA_110-184-001",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "rzeka3_0.png",
+                    "name": "RZEKA_110-184-001",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "rzeka3_1.png",
+                    "name": "RZEKA_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "rzeka3_2.png",
+                    "name": "RZEKA_COPY_2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 2,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "rzeka3_0.png": {
+            "compression": 3,
+            "name": "RZEKA_110-184-001",
+            "position_x": 2,
+            "position_y": 11
+        },
+        "rzeka3_1.png": {
+            "compression": 3,
+            "name": "RZEKA_COPY",
+            "position_x": 2,
+            "position_y": 11
+        },
+        "rzeka3_2.png": {
+            "compression": 3,
+            "name": "RZEKA_COPY_2",
+            "position_x": 2,
+            "position_y": 11
+        }
+    },
+    "transparency": 255
+}

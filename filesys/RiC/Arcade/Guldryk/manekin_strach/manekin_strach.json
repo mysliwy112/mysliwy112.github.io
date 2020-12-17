@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "370-500-467": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "manekin_strach_0.png",
+                    "name": "STRACH_370-500-467",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "manekin_strach_0.png",
+                    "name": "STRACH_370-500-467",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "manekin_strach_0.png": {
+            "compression": 4,
+            "name": "STRACH_370-500-467",
+            "position_x": 427,
+            "position_y": 300
+        }
+    },
+    "transparency": 255
+}

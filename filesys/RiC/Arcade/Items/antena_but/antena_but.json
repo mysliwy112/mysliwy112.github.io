@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "antena_but_0.png",
+                    "name": "ANTENA_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "antena_but_1.png",
+                    "name": "ANTENA",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "antena_but_0.png": {
+            "compression": 4,
+            "name": "ANTENA_COPY",
+            "position_x": 10,
+            "position_y": 10
+        },
+        "antena_but_1.png": {
+            "compression": 4,
+            "name": "ANTENA",
+            "position_x": 21,
+            "position_y": 12
+        }
+    },
+    "transparency": 255
+}

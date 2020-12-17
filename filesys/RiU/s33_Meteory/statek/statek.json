@@ -1,0 +1,1324 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "DESTROY": {
+            "frames": [
+                {
+                    "check": [
+                        224,
+                        207,
+                        150
+                    ],
+                    "filename": "statek_5.png",
+                    "name": "END",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        208,
+                        150
+                    ],
+                    "filename": "statek_15.png",
+                    "name": "END COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "statek_26.png",
+                    "name": "END COPY 2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        209,
+                        150
+                    ],
+                    "filename": "statek_36.png",
+                    "name": "END COPY 3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        32,
+                        210,
+                        150
+                    ],
+                    "filename": "statek_42.png",
+                    "name": "END COPY 4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        210,
+                        150
+                    ],
+                    "filename": "statek_48.png",
+                    "name": "END COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        64,
+                        211,
+                        150
+                    ],
+                    "filename": "statek_51.png",
+                    "name": "END COPY 6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        211,
+                        150
+                    ],
+                    "filename": "statek_53.png",
+                    "name": "END COPY 7",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 7,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FUEL_END": {
+            "frames": [
+                {
+                    "check": [
+                        72,
+                        204,
+                        150
+                    ],
+                    "filename": "statek_4.png",
+                    "name": "KONIEC PALIWA1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        232,
+                        204,
+                        150
+                    ],
+                    "filename": "statek_14.png",
+                    "name": "KONIEC PALIWA2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        136,
+                        205,
+                        150
+                    ],
+                    "filename": "statek_25.png",
+                    "name": "KONIEC PALIWA3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        40,
+                        206,
+                        150
+                    ],
+                    "filename": "statek_35.png",
+                    "name": "KONIEC PALIWA4",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 3,
+            "transparency": 255
+        },
+        "HIDE": {
+            "frames": [
+                {
+                    "check": [
+                        32,
+                        190,
+                        150
+                    ],
+                    "filename": "statek_1.png",
+                    "name": "SET 1 COPY 11",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        192,
+                        190,
+                        150
+                    ],
+                    "filename": "statek_11.png",
+                    "name": "SET 1 COPY 10",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        191,
+                        150
+                    ],
+                    "filename": "statek_22.png",
+                    "name": "SET 1 COPY 9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "statek_33.png",
+                    "name": "SET 1 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        160,
+                        192,
+                        150
+                    ],
+                    "filename": "statek_41.png",
+                    "name": "SET 1 COPY 7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        64,
+                        193,
+                        150
+                    ],
+                    "filename": "statek_47.png",
+                    "name": "SET 1 COPY 6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        193,
+                        150
+                    ],
+                    "filename": "statek_46.png",
+                    "name": "SET 1 COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        128,
+                        194,
+                        150
+                    ],
+                    "filename": "statek_40.png",
+                    "name": "SET 1 COPY 4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        32,
+                        195,
+                        150
+                    ],
+                    "filename": "statek_32.png",
+                    "name": "SET 1 COPY 3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        192,
+                        195,
+                        150
+                    ],
+                    "filename": "statek_21.png",
+                    "name": "SET 1 COPY 2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        196,
+                        150
+                    ],
+                    "filename": "statek_10.png",
+                    "name": "SET 1 COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        196,
+                        150
+                    ],
+                    "filename": "statek_0.png",
+                    "name": "SET 1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "HIDE2": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        228,
+                        150
+                    ],
+                    "filename": "statek_8.png",
+                    "name": "SET 1 COPY 12",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        216,
+                        228,
+                        150
+                    ],
+                    "filename": "statek_18.png",
+                    "name": "SET 1 COPY 11",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        120,
+                        229,
+                        150
+                    ],
+                    "filename": "statek_29.png",
+                    "name": "SET 1 COPY 10",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        24,
+                        230,
+                        150
+                    ],
+                    "filename": "statek_39.png",
+                    "name": "SET 1 COPY 9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        184,
+                        230,
+                        150
+                    ],
+                    "filename": "statek_45.png",
+                    "name": "SET 1 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        88,
+                        231,
+                        150
+                    ],
+                    "filename": "statek_50.png",
+                    "name": "SET 1 COPY 7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        248,
+                        231,
+                        150
+                    ],
+                    "filename": "statek_52.png",
+                    "name": "SET 1 COPY 6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        152,
+                        232,
+                        150
+                    ],
+                    "filename": "statek_49.png",
+                    "name": "SET 1 COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        233,
+                        150
+                    ],
+                    "filename": "statek_44.png",
+                    "name": "SET 1 COPY 4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        216,
+                        233,
+                        150
+                    ],
+                    "filename": "statek_38.png",
+                    "name": "SET 1 COPY 3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        120,
+                        234,
+                        150
+                    ],
+                    "filename": "statek_28.png",
+                    "name": "SET 1 COPY 2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        24,
+                        235,
+                        150
+                    ],
+                    "filename": "statek_17.png",
+                    "name": "SET 1 COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        168,
+                        235,
+                        150
+                    ],
+                    "filename": "statek_7.png",
+                    "name": "SET 1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "HIT": {
+            "frames": [
+                {
+                    "check": [
+                        120,
+                        213,
+                        150
+                    ],
+                    "filename": "statek_6.png",
+                    "name": "TRAFIONA1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        8,
+                        214,
+                        150
+                    ],
+                    "filename": "statek_16.png",
+                    "name": "TRAFIONA2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        152,
+                        214,
+                        150
+                    ],
+                    "filename": "statek_27.png",
+                    "name": "TRAFIONA3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        40,
+                        215,
+                        150
+                    ],
+                    "filename": "statek_37.png",
+                    "name": "TRAFIONA4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        184,
+                        215,
+                        150
+                    ],
+                    "filename": "statek_43.png",
+                    "name": "TRAFIONA5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        216,
+                        150
+                    ],
+                    "filename": "statek_37.png",
+                    "name": "TRAFIONA4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        216,
+                        216,
+                        150
+                    ],
+                    "filename": "statek_27.png",
+                    "name": "TRAFIONA3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        104,
+                        217,
+                        150
+                    ],
+                    "filename": "statek_16.png",
+                    "name": "TRAFIONA2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        248,
+                        217,
+                        150
+                    ],
+                    "filename": "statek_6.png",
+                    "name": "TRAFIONA1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "LECI": {
+            "frames": [
+                {
+                    "check": [
+                        16,
+                        201,
+                        150
+                    ],
+                    "filename": "statek_3.png",
+                    "name": "LECI",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        160,
+                        201,
+                        150
+                    ],
+                    "filename": "statek_13.png",
+                    "name": "LECI COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48,
+                        202,
+                        150
+                    ],
+                    "filename": "statek_24.png",
+                    "name": "LECI COPY 2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        192,
+                        202,
+                        150
+                    ],
+                    "filename": "statek_34.png",
+                    "name": "LECI COPY 3",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 3,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "SHIELD": {
+            "frames": [
+                {
+                    "check": [
+                        104,
+                        198,
+                        150
+                    ],
+                    "filename": "statek_2.png",
+                    "name": "OSLONA1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        248,
+                        198,
+                        150
+                    ],
+                    "filename": "statek_12.png",
+                    "name": "OSLONA2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        136,
+                        199,
+                        150
+                    ],
+                    "filename": "statek_23.png",
+                    "name": "OSLONA3",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 2,
+            "transparency": 255
+        },
+        "SHOW": {
+            "frames": [
+                {
+                    "check": [
+                        144,
+                        28,
+                        180
+                    ],
+                    "filename": "statek_0.png",
+                    "name": "SET 1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        232,
+                        161,
+                        150
+                    ],
+                    "filename": "statek_10.png",
+                    "name": "SET 1 COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        184,
+                        182,
+                        150
+                    ],
+                    "filename": "statek_21.png",
+                    "name": "SET 1 COPY 2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        88,
+                        183,
+                        150
+                    ],
+                    "filename": "statek_32.png",
+                    "name": "SET 1 COPY 3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        248,
+                        183,
+                        150
+                    ],
+                    "filename": "statek_40.png",
+                    "name": "SET 1 COPY 4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        152,
+                        184,
+                        150
+                    ],
+                    "filename": "statek_46.png",
+                    "name": "SET 1 COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        185,
+                        150
+                    ],
+                    "filename": "statek_47.png",
+                    "name": "SET 1 COPY 6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        216,
+                        185,
+                        150
+                    ],
+                    "filename": "statek_41.png",
+                    "name": "SET 1 COPY 7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        120,
+                        186,
+                        150
+                    ],
+                    "filename": "statek_33.png",
+                    "name": "SET 1 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        24,
+                        187,
+                        150
+                    ],
+                    "filename": "statek_22.png",
+                    "name": "SET 1 COPY 9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        184,
+                        187,
+                        150
+                    ],
+                    "filename": "statek_11.png",
+                    "name": "SET 1 COPY 10",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        88,
+                        188,
+                        150
+                    ],
+                    "filename": "statek_1.png",
+                    "name": "SET 1 COPY 11",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "SHOW2": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        219,
+                        150
+                    ],
+                    "filename": "statek_7.png",
+                    "name": "SET 1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        64,
+                        220,
+                        150
+                    ],
+                    "filename": "statek_17.png",
+                    "name": "SET 1 COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        220,
+                        150
+                    ],
+                    "filename": "statek_28.png",
+                    "name": "SET 1 COPY 2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        221,
+                        150
+                    ],
+                    "filename": "statek_38.png",
+                    "name": "SET 1 COPY 3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        16,
+                        222,
+                        150
+                    ],
+                    "filename": "statek_44.png",
+                    "name": "SET 1 COPY 4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        222,
+                        150
+                    ],
+                    "filename": "statek_49.png",
+                    "name": "SET 1 COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        223,
+                        150
+                    ],
+                    "filename": "statek_52.png",
+                    "name": "SET 1 COPY 6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        223,
+                        150
+                    ],
+                    "filename": "statek_50.png",
+                    "name": "SET 1 COPY 7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        224,
+                        150
+                    ],
+                    "filename": "statek_45.png",
+                    "name": "SET 1 COPY 8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48,
+                        225,
+                        150
+                    ],
+                    "filename": "statek_39.png",
+                    "name": "SET 1 COPY 9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        225,
+                        150
+                    ],
+                    "filename": "statek_29.png",
+                    "name": "SET 1 COPY 10",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        226,
+                        150
+                    ],
+                    "filename": "statek_18.png",
+                    "name": "SET 1 COPY 11",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "SHOW2_LOOP": {
+            "frames": [
+                {
+                    "check": [
+                        32,
+                        237,
+                        150
+                    ],
+                    "filename": "statek_8.png",
+                    "name": "SET 1 COPY 12",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        192,
+                        237,
+                        150
+                    ],
+                    "filename": "statek_19.png",
+                    "name": "SET 1 COPY 13",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        238,
+                        150
+                    ],
+                    "filename": "statek_30.png",
+                    "name": "SET 1 COPY 14",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 2,
+            "transparency": 255
+        },
+        "SHOW_LOOP": {
+            "frames": [
+                {
+                    "check": [
+                        232,
+                        239,
+                        150
+                    ],
+                    "filename": "statek_9.png",
+                    "name": "SET 1 COPY 12",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        136,
+                        240,
+                        150
+                    ],
+                    "filename": "statek_20.png",
+                    "name": "SET 1 COPY 13",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        40,
+                        241,
+                        150
+                    ],
+                    "filename": "statek_31.png",
+                    "name": "SET 1 COPY 14",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 2,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "statek_0.png": {
+            "compression": 3,
+            "name": "SET 1",
+            "position_x": 31,
+            "position_y": 15
+        },
+        "statek_1.png": {
+            "compression": 3,
+            "name": "SET 1 COPY 11",
+            "position_x": 31,
+            "position_y": 15
+        },
+        "statek_10.png": {
+            "compression": 3,
+            "name": "SET 1 COPY",
+            "position_x": 31,
+            "position_y": 15
+        },
+        "statek_11.png": {
+            "compression": 3,
+            "name": "SET 1 COPY 10",
+            "position_x": 31,
+            "position_y": 15
+        },
+        "statek_12.png": {
+            "compression": 3,
+            "name": "OSLONA2",
+            "position_x": 1,
+            "position_y": 9
+        },
+        "statek_13.png": {
+            "compression": 3,
+            "name": "LECI COPY",
+            "position_x": 11,
+            "position_y": 15
+        },
+        "statek_14.png": {
+            "compression": 3,
+            "name": "KONIEC PALIWA2",
+            "position_x": 15,
+            "position_y": 14
+        },
+        "statek_15.png": {
+            "compression": 3,
+            "name": "END COPY",
+            "position_x": 22,
+            "position_y": 1
+        },
+        "statek_16.png": {
+            "compression": 3,
+            "name": "TRAFIONA2",
+            "position_x": 27,
+            "position_y": 15
+        },
+        "statek_17.png": {
+            "compression": 3,
+            "name": "SET 1 COPY",
+            "position_x": -1,
+            "position_y": 8
+        },
+        "statek_18.png": {
+            "compression": 3,
+            "name": "SET 1 COPY 11",
+            "position_x": 1,
+            "position_y": 9
+        },
+        "statek_19.png": {
+            "compression": 3,
+            "name": "SET 1 COPY 13",
+            "position_x": 2,
+            "position_y": 11
+        },
+        "statek_2.png": {
+            "compression": 3,
+            "name": "OSLONA1",
+            "position_x": 4,
+            "position_y": 9
+        },
+        "statek_20.png": {
+            "compression": 3,
+            "name": "SET 1 COPY 13",
+            "position_x": 31,
+            "position_y": 15
+        },
+        "statek_21.png": {
+            "compression": 3,
+            "name": "SET 1 COPY 2",
+            "position_x": 31,
+            "position_y": 15
+        },
+        "statek_22.png": {
+            "compression": 3,
+            "name": "SET 1 COPY 9",
+            "position_x": 31,
+            "position_y": 15
+        },
+        "statek_23.png": {
+            "compression": 3,
+            "name": "OSLONA3",
+            "position_x": 3,
+            "position_y": 10
+        },
+        "statek_24.png": {
+            "compression": 3,
+            "name": "LECI COPY 2",
+            "position_x": 9,
+            "position_y": 15
+        },
+        "statek_25.png": {
+            "compression": 3,
+            "name": "KONIEC PALIWA3",
+            "position_x": 11,
+            "position_y": 15
+        },
+        "statek_26.png": {
+            "compression": 3,
+            "name": "END COPY 2",
+            "position_x": 34,
+            "position_y": 13
+        },
+        "statek_27.png": {
+            "compression": 3,
+            "name": "TRAFIONA3",
+            "position_x": 27,
+            "position_y": 15
+        },
+        "statek_28.png": {
+            "compression": 3,
+            "name": "SET 1 COPY 2",
+            "position_x": 1,
+            "position_y": 9
+        },
+        "statek_29.png": {
+            "compression": 3,
+            "name": "SET 1 COPY 10",
+            "position_x": -1,
+            "position_y": 8
+        },
+        "statek_3.png": {
+            "compression": 3,
+            "name": "LECI",
+            "position_x": 11,
+            "position_y": 15
+        },
+        "statek_30.png": {
+            "compression": 3,
+            "name": "SET 1 COPY 14",
+            "position_x": 3,
+            "position_y": 12
+        },
+        "statek_31.png": {
+            "compression": 3,
+            "name": "SET 1 COPY 14",
+            "position_x": 31,
+            "position_y": 15
+        },
+        "statek_32.png": {
+            "compression": 3,
+            "name": "SET 1 COPY 3",
+            "position_x": 31,
+            "position_y": 15
+        },
+        "statek_33.png": {
+            "compression": 3,
+            "name": "SET 1 COPY 8",
+            "position_x": 31,
+            "position_y": 4
+        },
+        "statek_34.png": {
+            "compression": 3,
+            "name": "LECI COPY 3",
+            "position_x": 13,
+            "position_y": 15
+        },
+        "statek_35.png": {
+            "compression": 3,
+            "name": "KONIEC PALIWA4",
+            "position_x": 9,
+            "position_y": 14
+        },
+        "statek_36.png": {
+            "compression": 3,
+            "name": "END COPY 3",
+            "position_x": 35,
+            "position_y": 3
+        },
+        "statek_37.png": {
+            "compression": 3,
+            "name": "TRAFIONA4",
+            "position_x": 17,
+            "position_y": 13
+        },
+        "statek_38.png": {
+            "compression": 3,
+            "name": "SET 1 COPY 3",
+            "position_x": 2,
+            "position_y": 8
+        },
+        "statek_39.png": {
+            "compression": 3,
+            "name": "SET 1 COPY 9",
+            "position_x": 2,
+            "position_y": 8
+        },
+        "statek_4.png": {
+            "compression": 3,
+            "name": "KONIEC PALIWA1",
+            "position_x": 9,
+            "position_y": 15
+        },
+        "statek_40.png": {
+            "compression": 3,
+            "name": "SET 1 COPY 4",
+            "position_x": 31,
+            "position_y": 13
+        },
+        "statek_41.png": {
+            "compression": 3,
+            "name": "SET 1 COPY 7",
+            "position_x": 31,
+            "position_y": 8
+        },
+        "statek_42.png": {
+            "compression": 3,
+            "name": "END COPY 4",
+            "position_x": 31,
+            "position_y": 16
+        },
+        "statek_43.png": {
+            "compression": 3,
+            "name": "TRAFIONA5",
+            "position_x": 13,
+            "position_y": 8
+        },
+        "statek_44.png": {
+            "compression": 3,
+            "name": "SET 1 COPY 4",
+            "position_x": -1,
+            "position_y": 8
+        },
+        "statek_45.png": {
+            "compression": 3,
+            "name": "SET 1 COPY 8",
+            "position_x": 1,
+            "position_y": 4
+        },
+        "statek_46.png": {
+            "compression": 3,
+            "name": "SET 1 COPY 5",
+            "position_x": 31,
+            "position_y": 13
+        },
+        "statek_47.png": {
+            "compression": 3,
+            "name": "SET 1 COPY 6",
+            "position_x": 31,
+            "position_y": 15
+        },
+        "statek_48.png": {
+            "compression": 3,
+            "name": "END COPY 5",
+            "position_x": 37,
+            "position_y": 17
+        },
+        "statek_49.png": {
+            "compression": 3,
+            "name": "SET 1 COPY 5",
+            "position_x": 1,
+            "position_y": 9
+        },
+        "statek_5.png": {
+            "compression": 3,
+            "name": "END",
+            "position_x": 31,
+            "position_y": 15
+        },
+        "statek_50.png": {
+            "compression": 3,
+            "name": "SET 1 COPY 7",
+            "position_x": -1,
+            "position_y": 8
+        },
+        "statek_51.png": {
+            "compression": 3,
+            "name": "END COPY 6",
+            "position_x": 33,
+            "position_y": 13
+        },
+        "statek_52.png": {
+            "compression": 3,
+            "name": "SET 1 COPY 6",
+            "position_x": 2,
+            "position_y": 8
+        },
+        "statek_53.png": {
+            "compression": 3,
+            "name": "END COPY 7",
+            "position_x": 20,
+            "position_y": 15
+        },
+        "statek_6.png": {
+            "compression": 3,
+            "name": "TRAFIONA1",
+            "position_x": 30,
+            "position_y": 15
+        },
+        "statek_7.png": {
+            "compression": 3,
+            "name": "SET 1",
+            "position_x": 2,
+            "position_y": 8
+        },
+        "statek_8.png": {
+            "compression": 3,
+            "name": "SET 1 COPY 12",
+            "position_x": 4,
+            "position_y": 11
+        },
+        "statek_9.png": {
+            "compression": 3,
+            "name": "SET 1 COPY 12",
+            "position_x": 31,
+            "position_y": 15
+        }
+    },
+    "transparency": 255
+}

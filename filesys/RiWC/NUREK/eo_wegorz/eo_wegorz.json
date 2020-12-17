@@ -1,0 +1,89 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "NL": {
+            "frames": [
+                {
+                    "check": [
+                        64,
+                        206,
+                        85
+                    ],
+                    "filename": "eo_wegorz_0.png",
+                    "name": "WEGORZ",
+                    "position_x": -464,
+                    "position_y": -747
+                },
+                {
+                    "check": [
+                        64,
+                        206,
+                        85
+                    ],
+                    "filename": "eo_wegorz_2.png",
+                    "name": "WEGORZ_COPY",
+                    "position_x": -464,
+                    "position_y": -747
+                }
+            ],
+            "loop": 1,
+            "transparency": 255
+        },
+        "NR": {
+            "frames": [
+                {
+                    "check": [
+                        64,
+                        206,
+                        85
+                    ],
+                    "filename": "eo_wegorz_1.png",
+                    "name": "WEGORZ_R",
+                    "position_x": -464,
+                    "position_y": -747
+                },
+                {
+                    "check": [
+                        64,
+                        206,
+                        85
+                    ],
+                    "filename": "eo_wegorz_3.png",
+                    "name": "WEGORZ_COPY_R",
+                    "position_x": -464,
+                    "position_y": -747
+                }
+            ],
+            "loop": 1,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "eo_wegorz_0.png": {
+            "compression": 2,
+            "name": "WEGORZ",
+            "position_x": 383,
+            "position_y": 727
+        },
+        "eo_wegorz_1.png": {
+            "compression": 2,
+            "name": "WEGORZ_R",
+            "position_x": 383,
+            "position_y": 727
+        },
+        "eo_wegorz_2.png": {
+            "compression": 2,
+            "name": "WEGORZ_COPY",
+            "position_x": 383,
+            "position_y": 727
+        },
+        "eo_wegorz_3.png": {
+            "compression": 2,
+            "name": "WEGORZ_COPY_R",
+            "position_x": 382,
+            "position_y": 727
+        }
+    },
+    "transparency": 255
+}

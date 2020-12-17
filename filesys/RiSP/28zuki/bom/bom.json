@@ -1,0 +1,68 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "bom_0.png",
+                    "name": "ZAGIEL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "bom_1.png",
+                    "name": "ZAGIEL COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "bom_0.png": {
+            "compression": 4,
+            "name": "ZAGIEL",
+            "position_x": 169,
+            "position_y": 3
+        },
+        "bom_1.png": {
+            "compression": 4,
+            "name": "ZAGIEL COPY",
+            "position_x": 177
+        }
+    },
+    "transparency": 255
+}

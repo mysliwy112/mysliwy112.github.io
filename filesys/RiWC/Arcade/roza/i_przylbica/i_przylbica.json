@@ -1,0 +1,89 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "680-530-600": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "i_przylbica_0.png",
+                    "name": "PRZYLBICA1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "i_przylbica_0.png",
+                    "name": "PRZYLBICA1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE0": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "i_przylbica_1.png",
+                    "name": "PRZYLBICA2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE1": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "i_przylbica_0.png",
+                    "name": "PRZYLBICA1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "i_przylbica_0.png": {
+            "compression": 4,
+            "name": "PRZYLBICA1",
+            "position_x": 688,
+            "position_y": 301
+        },
+        "i_przylbica_1.png": {
+            "compression": 4,
+            "name": "PRZYLBICA2",
+            "position_x": 699,
+            "position_y": 279
+        }
+    },
+    "transparency": 255
+}

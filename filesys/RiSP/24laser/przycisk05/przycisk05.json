@@ -1,0 +1,128 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "OFF": {
+            "frames": [
+                {
+                    "check": [
+                        16,
+                        98,
+                        164
+                    ],
+                    "filename": "przycisk05_0.png",
+                    "name": "PRZYCISK1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ON": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        125,
+                        164
+                    ],
+                    "filename": "przycisk05_1.png",
+                    "name": "PRZYCISK1 COPY",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "sfx\\00przycisk.wav",
+                    "sfx_seed": 10792688
+                },
+                {
+                    "check": [
+                        32,
+                        125,
+                        164
+                    ],
+                    "filename": "przycisk05_1.png",
+                    "name": "PRZYCISK1 COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        124,
+                        164
+                    ],
+                    "filename": "przycisk05_1.png",
+                    "name": "PRZYCISK1 COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "przycisk05_1.png",
+                    "name": "PRZYCISK1 COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        123,
+                        164
+                    ],
+                    "filename": "przycisk05_1.png",
+                    "name": "PRZYCISK1 COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        122,
+                        164
+                    ],
+                    "filename": "przycisk05_1.png",
+                    "name": "PRZYCISK1 COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "przycisk05_0.png": {
+            "compression": 4,
+            "name": "PRZYCISK1",
+            "position_x": 547,
+            "position_y": 520
+        },
+        "przycisk05_1.png": {
+            "compression": 4,
+            "name": "PRZYCISK1 COPY",
+            "position_x": 547,
+            "position_y": 521
+        }
+    },
+    "transparency": 255
+}

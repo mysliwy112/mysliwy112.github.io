@@ -1,0 +1,80 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "idle": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "ac_masks12_0.png",
+                    "name": "pixel",
+                    "position_x": -1000,
+                    "position_y": -1000
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "ac_masks12_1.png",
+                    "name": "Layer_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "ac_masks12_2.png",
+                    "name": "do_burdelu_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "ac_masks12_3.png",
+                    "name": "relikt",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "ac_masks12_0.png": {
+            "compression": 3,
+            "name": "pixel"
+        },
+        "ac_masks12_1.png": {
+            "compression": 3,
+            "name": "Layer_1",
+            "position_y": 500
+        },
+        "ac_masks12_2.png": {
+            "compression": 3,
+            "name": "do_burdelu_2",
+            "position_x": 240,
+            "position_y": 380
+        },
+        "ac_masks12_3.png": {
+            "compression": 3,
+            "name": "relikt",
+            "position_x": 580,
+            "position_y": 100
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,706 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "DIE": {
+            "frames": [
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_4.png",
+                    "name": "8_nonie",
+                    "position_x": -4,
+                    "position_y": -5
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_4.png",
+                    "name": "8_nonie",
+                    "position_x": -4,
+                    "position_y": -5
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_13.png",
+                    "name": "8_nonie copy",
+                    "position_x": -4,
+                    "position_y": -5
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_13.png",
+                    "name": "8_nonie copy",
+                    "position_x": -4,
+                    "position_y": -5
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_22.png",
+                    "name": "8_nonie copy 2",
+                    "position_x": -4,
+                    "position_y": -5
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_22.png",
+                    "name": "8_nonie copy 2",
+                    "position_x": -4,
+                    "position_y": -5
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_31.png",
+                    "name": "8_nonie copy 3",
+                    "position_x": -4,
+                    "position_y": -5
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_31.png",
+                    "name": "8_nonie copy 3",
+                    "position_x": -4,
+                    "position_y": -5
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "DOWN": {
+            "frames": [
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_2.png",
+                    "name": "1_Z GORYD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_7.png",
+                    "name": "2_Z GORYD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_11.png",
+                    "name": "3_Z GORYD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_16.png",
+                    "name": "4_Z GORYD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_20.png",
+                    "name": "5_Z GORYD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_25.png",
+                    "name": "6_Z GORYD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_29.png",
+                    "name": "7_Z GORYD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_34.png",
+                    "name": "8_Z GORYD",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "IDLE": {
+            "frames": [
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_2.png",
+                    "name": "1_Z GORYD",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "LEFT": {
+            "frames": [
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_3.png",
+                    "name": "1_Z GORYL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_8.png",
+                    "name": "2_Z GORYL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_12.png",
+                    "name": "3_Z GORYL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_17.png",
+                    "name": "4_Z GORYL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_21.png",
+                    "name": "5_Z GORYL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_26.png",
+                    "name": "6_Z GORYL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_30.png",
+                    "name": "7_Z GORYL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_35.png",
+                    "name": "8_Z GORYL",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "RIGHT": {
+            "frames": [
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_1.png",
+                    "name": "1_Z GORYP",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_6.png",
+                    "name": "2_Z GORYP",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_10.png",
+                    "name": "3_Z GORYP",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_15.png",
+                    "name": "4_Z GORYP",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_19.png",
+                    "name": "5_Z GORYP",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_24.png",
+                    "name": "6_Z GORYP",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_28.png",
+                    "name": "7_Z GORYP",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_33.png",
+                    "name": "8_Z GORYD",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "UP": {
+            "frames": [
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_0.png",
+                    "name": "1_Z GORYG",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_5.png",
+                    "name": "2_Z GORYG",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_9.png",
+                    "name": "3_Z GORYG",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_14.png",
+                    "name": "4_Z GORYG",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_18.png",
+                    "name": "5_Z GORYG",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_23.png",
+                    "name": "6_Z GORYG",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_27.png",
+                    "name": "7_Z GORYG",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "kret_32.png",
+                    "name": "8_Z GORYG",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "kret_0.png": {
+            "compression": 4,
+            "name": "1_Z GORYG",
+            "position_y": 5
+        },
+        "kret_1.png": {
+            "compression": 4,
+            "name": "1_Z GORYP",
+            "position_x": 5
+        },
+        "kret_10.png": {
+            "compression": 4,
+            "name": "3_Z GORYP",
+            "position_x": 5
+        },
+        "kret_11.png": {
+            "compression": 4,
+            "name": "3_Z GORYD",
+            "position_y": 4
+        },
+        "kret_12.png": {
+            "compression": 4,
+            "name": "3_Z GORYL",
+            "position_x": 8
+        },
+        "kret_13.png": {
+            "compression": 4,
+            "name": "8_NONIE COPY",
+            "position_x": 6,
+            "position_y": 9
+        },
+        "kret_14.png": {
+            "compression": 4,
+            "name": "4_Z GORYG",
+            "position_x": 1,
+            "position_y": 5
+        },
+        "kret_15.png": {
+            "compression": 4,
+            "name": "4_Z GORYP",
+            "position_x": 5,
+            "position_y": 1
+        },
+        "kret_16.png": {
+            "compression": 4,
+            "name": "4_Z GORYD",
+            "position_y": 4
+        },
+        "kret_17.png": {
+            "compression": 4,
+            "name": "4_Z GORYL",
+            "position_x": 5
+        },
+        "kret_18.png": {
+            "compression": 4,
+            "name": "5_Z GORYG",
+            "position_x": 1,
+            "position_y": 5
+        },
+        "kret_19.png": {
+            "compression": 4,
+            "name": "5_Z GORYP",
+            "position_x": 5,
+            "position_y": 1
+        },
+        "kret_2.png": {
+            "compression": 4,
+            "name": "1_Z GORYD",
+            "position_x": 1,
+            "position_y": 4
+        },
+        "kret_20.png": {
+            "compression": 4,
+            "name": "5_Z GORYD",
+            "position_y": 4
+        },
+        "kret_21.png": {
+            "compression": 4,
+            "name": "5_Z GORYL",
+            "position_x": 5
+        },
+        "kret_22.png": {
+            "compression": 4,
+            "name": "8_NONIE COPY 2",
+            "position_x": 6,
+            "position_y": 10
+        },
+        "kret_23.png": {
+            "compression": 4,
+            "name": "6_Z GORYG",
+            "position_y": 6
+        },
+        "kret_24.png": {
+            "compression": 4,
+            "name": "6_Z GORYP",
+            "position_x": 5
+        },
+        "kret_25.png": {
+            "compression": 4,
+            "name": "6_Z GORYD",
+            "position_y": 4
+        },
+        "kret_26.png": {
+            "compression": 4,
+            "name": "6_Z GORYL",
+            "position_x": 6
+        },
+        "kret_27.png": {
+            "compression": 4,
+            "name": "7_Z GORYG",
+            "position_y": 8
+        },
+        "kret_28.png": {
+            "compression": 4,
+            "name": "7_Z GORYP",
+            "position_x": 5
+        },
+        "kret_29.png": {
+            "compression": 4,
+            "name": "7_Z GORYD",
+            "position_y": 4
+        },
+        "kret_3.png": {
+            "compression": 4,
+            "name": "1_Z GORYL",
+            "position_x": 5,
+            "position_y": 1
+        },
+        "kret_30.png": {
+            "compression": 4,
+            "name": "7_Z GORYL",
+            "position_x": 8
+        },
+        "kret_31.png": {
+            "compression": 4,
+            "name": "8_NONIE COPY 3",
+            "position_x": 6,
+            "position_y": 6
+        },
+        "kret_32.png": {
+            "compression": 4,
+            "name": "8_Z GORYG",
+            "position_y": 5
+        },
+        "kret_33.png": {
+            "compression": 4,
+            "name": "8_Z GORYD",
+            "position_x": 5
+        },
+        "kret_34.png": {
+            "compression": 4,
+            "name": "8_Z GORYD",
+            "position_y": 4
+        },
+        "kret_35.png": {
+            "compression": 4,
+            "name": "8_Z GORYL",
+            "position_x": 5
+        },
+        "kret_4.png": {
+            "compression": 4,
+            "name": "8_NONIE",
+            "position_x": 6,
+            "position_y": 6
+        },
+        "kret_5.png": {
+            "compression": 4,
+            "name": "2_Z GORYG",
+            "position_y": 6
+        },
+        "kret_6.png": {
+            "compression": 4,
+            "name": "2_Z GORYP",
+            "position_x": 5
+        },
+        "kret_7.png": {
+            "compression": 4,
+            "name": "2_Z GORYD",
+            "position_y": 4
+        },
+        "kret_8.png": {
+            "compression": 4,
+            "name": "2_Z GORYL",
+            "position_x": 6
+        },
+        "kret_9.png": {
+            "compression": 4,
+            "name": "3_Z GORYG",
+            "position_y": 8
+        }
+    },
+    "transparency": 255
+}

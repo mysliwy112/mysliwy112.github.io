@@ -1,0 +1,181 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "667-468-545": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "garnek_0.png",
+                    "name": "GARNEK_667-468-545",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "garnek_0.png",
+                    "name": "GARNEK_667-468-545",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE0": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "garnek_0.png",
+                    "name": "GARNEK_667-468-545",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\piw6.wav",
+                    "sfx_seed": 50418988
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "garnek_1.png",
+                    "name": "GARNEK_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "garnek_2.png",
+                    "name": "GARNEK_COPY_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "garnek_3.png",
+                    "name": "GARNEK_COPY_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "garnek_4.png",
+                    "name": "GARNEK_COPY_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "garnek_5.png",
+                    "name": "GARNEK_COPY_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "garnek_6.png",
+                    "name": "GARNEK_COPY_6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "garnek_6.png",
+                    "name": "GARNEK_COPY_6",
+                    "position_x": 3,
+                    "position_y": 196
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "garnek_0.png": {
+            "compression": 4,
+            "name": "GARNEK_667-468-545",
+            "position_x": 653,
+            "position_y": 468
+        },
+        "garnek_1.png": {
+            "compression": 4,
+            "name": "GARNEK_COPY",
+            "position_x": 633,
+            "position_y": 414
+        },
+        "garnek_2.png": {
+            "compression": 4,
+            "name": "GARNEK_COPY_2",
+            "position_x": 607,
+            "position_y": 370
+        },
+        "garnek_3.png": {
+            "compression": 4,
+            "name": "GARNEK_COPY_3",
+            "position_x": 562,
+            "position_y": 332
+        },
+        "garnek_4.png": {
+            "compression": 4,
+            "name": "GARNEK_COPY_4",
+            "position_x": 493,
+            "position_y": 320
+        },
+        "garnek_5.png": {
+            "compression": 4,
+            "name": "GARNEK_COPY_5",
+            "position_x": 451,
+            "position_y": 379
+        },
+        "garnek_6.png": {
+            "compression": 4,
+            "name": "GARNEK_COPY_6",
+            "position_x": 449,
+            "position_y": 438
+        }
+    },
+    "transparency": 255
+}

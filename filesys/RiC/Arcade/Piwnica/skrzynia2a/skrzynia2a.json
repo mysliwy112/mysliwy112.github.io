@@ -1,0 +1,119 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "204-241-000": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "skrzynia2a_0.png",
+                    "name": "SKRZYNIA2_COPY_3_204-241-000",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "skrzynia2a_0.png",
+                    "name": "SKRZYNIA2_COPY_3_204-241-000",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE0": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "skrzynia2a_0.png",
+                    "name": "SKRZYNIA2_COPY_3_204-241-000",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\piw1.wav",
+                    "sfx_seed": 50291788
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "skrzynia2a_1.png",
+                    "name": "SKRZYNIA2_COPY_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "skrzynia2a_2.png",
+                    "name": "SKRZYNIA2_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "skrzynia2a_3.png",
+                    "name": "SKRZYNIA2__292-208-030",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "skrzynia2a_0.png": {
+            "compression": 4,
+            "name": "SKRZYNIA2_COPY_3_20",
+            "position_x": 200,
+            "position_y": 180
+        },
+        "skrzynia2a_1.png": {
+            "compression": 4,
+            "name": "SKRZYNIA2_COPY_2",
+            "position_x": 230,
+            "position_y": 171
+        },
+        "skrzynia2a_2.png": {
+            "compression": 4,
+            "name": "SKRZYNIA2_COPY",
+            "position_x": 249,
+            "position_y": 183
+        },
+        "skrzynia2a_3.png": {
+            "compression": 4,
+            "name": "SKRZYNIA2__292-208-",
+            "position_x": 263,
+            "position_y": 196
+        }
+    },
+    "transparency": 255
+}

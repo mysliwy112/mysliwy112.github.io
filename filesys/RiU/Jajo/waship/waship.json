@@ -1,0 +1,195 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "EXPLOSION": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "waship_2.png",
+                    "name": "TRAFIONA1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "waship_5.png",
+                    "name": "TRAFIONA2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "waship_7.png",
+                    "name": "TRAFIONA3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "waship_9.png",
+                    "name": "TRAFIONA4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "waship_10.png",
+                    "name": "TRAFIONA5",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FLY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "waship_0.png",
+                    "name": "LECI_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "waship_3.png",
+                    "name": "LECI_COPY_2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "OOF": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "waship_1.png",
+                    "name": "KONIEC_PALIWA1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "waship_4.png",
+                    "name": "KONIEC_PALIWA2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "waship_6.png",
+                    "name": "KONIEC_PALIWA3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "waship_8.png",
+                    "name": "KONIEC_PALIWA4",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "waship_0.png": {
+            "compression": 0,
+            "name": "LECI_COPY"
+        },
+        "waship_1.png": {
+            "compression": 0,
+            "name": "KONIEC_PALIWA1",
+            "position_x": -1
+        },
+        "waship_10.png": {
+            "compression": 0,
+            "name": "TRAFIONA5"
+        },
+        "waship_2.png": {
+            "compression": 0,
+            "name": "TRAFIONA1"
+        },
+        "waship_3.png": {
+            "compression": 0,
+            "name": "LECI_COPY_2",
+            "position_x": -1
+        },
+        "waship_4.png": {
+            "compression": 0,
+            "name": "KONIEC_PALIWA2"
+        },
+        "waship_5.png": {
+            "compression": 0,
+            "name": "TRAFIONA2"
+        },
+        "waship_6.png": {
+            "compression": 0,
+            "name": "KONIEC_PALIWA3"
+        },
+        "waship_7.png": {
+            "compression": 0,
+            "name": "TRAFIONA3"
+        },
+        "waship_8.png": {
+            "compression": 0,
+            "name": "KONIEC_PALIWA4",
+            "position_x": -1
+        },
+        "waship_9.png": {
+            "compression": 0,
+            "name": "TRAFIONA4"
+        }
+    },
+    "transparency": 255
+}

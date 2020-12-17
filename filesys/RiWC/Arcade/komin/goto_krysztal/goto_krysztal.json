@@ -1,0 +1,89 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "203-196-150": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "goto_krysztal_0.png",
+                    "name": "KRYSZTAL",
+                    "position_x": 25,
+                    "position_y": 5
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "goto_krysztal_1.png",
+                    "name": "B1",
+                    "position_x": 25,
+                    "position_y": 5
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "goto_krysztal_2.png",
+                    "name": "B2",
+                    "position_x": 25,
+                    "position_y": 5
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "goto_krysztal_3.png",
+                    "name": "B3",
+                    "position_x": 25,
+                    "position_y": 5
+                }
+            ],
+            "loop": 2,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "goto_krysztal_0.png": {
+            "compression": 3,
+            "name": "KRYSZTAL",
+            "position_x": 181,
+            "position_y": 166
+        },
+        "goto_krysztal_1.png": {
+            "compression": 3,
+            "name": "B1",
+            "position_x": 181,
+            "position_y": 166
+        },
+        "goto_krysztal_2.png": {
+            "compression": 3,
+            "name": "B2",
+            "position_x": 181,
+            "position_y": 166
+        },
+        "goto_krysztal_3.png": {
+            "compression": 3,
+            "name": "B3",
+            "position_x": 181,
+            "position_y": 166
+        }
+    },
+    "transparency": 255
+}

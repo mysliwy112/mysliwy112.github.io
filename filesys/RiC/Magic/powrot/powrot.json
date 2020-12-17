@@ -1,0 +1,95 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "ONCLICK": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "powrot_2.png",
+                    "name": "ONCLICK",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONFOCUSOFF": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "powrot_0.png",
+                    "name": "POWROT_",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONFOCUSON": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "powrot_1.png",
+                    "name": "ONMOVE",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONNOEVENT": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "powrot_0.png",
+                    "name": "POWROT_",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "powrot_0.png": {
+            "compression": 4,
+            "name": "POWROT_",
+            "position_x": 736,
+            "position_y": 534
+        },
+        "powrot_1.png": {
+            "compression": 4,
+            "name": "ONMOVE",
+            "position_x": 736,
+            "position_y": 532
+        },
+        "powrot_2.png": {
+            "compression": 4,
+            "name": "ONCLICK",
+            "position_x": 732,
+            "position_y": 528
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,103 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "pochodnia1_0.png",
+                    "name": "1_POCHODNIA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "pochodnia1_1.png",
+                    "name": "2_POCHODNIA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "pochodnia1_2.png",
+                    "name": "3_POCHODNIA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "pochodnia1_3.png",
+                    "name": "4_POCHODNIA",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "pochodnia1_0.png": {
+            "compression": 4,
+            "name": "1_POCHODNIA",
+            "position_x": 668,
+            "position_y": 415
+        },
+        "pochodnia1_1.png": {
+            "compression": 4,
+            "name": "2_POCHODNIA",
+            "position_x": 665,
+            "position_y": 417
+        },
+        "pochodnia1_2.png": {
+            "compression": 4,
+            "name": "3_POCHODNIA",
+            "position_x": 665,
+            "position_y": 418
+        },
+        "pochodnia1_3.png": {
+            "compression": 4,
+            "name": "4_POCHODNIA",
+            "position_x": 666,
+            "position_y": 415
+        }
+    },
+    "transparency": 255
+}

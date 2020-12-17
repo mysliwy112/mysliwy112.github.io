@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "0-600-12": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kpioro_0.png",
+                    "name": "KOLBA_SZARA_COPY_3",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kpioro_0.png",
+                    "name": "KOLBA_SZARA_COPY_3",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "kpioro_0.png": {
+            "compression": 4,
+            "name": "KOLBA_SZARA_COPY_3",
+            "position_x": 469,
+            "position_y": 76
+        }
+    },
+    "transparency": 255
+}

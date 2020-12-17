@@ -1,0 +1,83 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "zly_wir_0.png",
+                    "name": "WIR",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "zly_wir_1.png",
+                    "name": "WIR_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "zly_wir_2.png",
+                    "name": "WIR_COPY_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "zly_wir_3.png",
+                    "name": "WIR_COPY_3",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 3,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "zly_wir_0.png": {
+            "compression": 3,
+            "name": "WIR",
+            "position_x": 163,
+            "position_y": 121
+        },
+        "zly_wir_1.png": {
+            "compression": 3,
+            "name": "WIR_COPY",
+            "position_x": 164,
+            "position_y": 121
+        },
+        "zly_wir_2.png": {
+            "compression": 3,
+            "name": "WIR_COPY_2",
+            "position_x": 166,
+            "position_y": 123
+        },
+        "zly_wir_3.png": {
+            "compression": 3,
+            "name": "WIR_COPY_3",
+            "position_x": 164,
+            "position_y": 122
+        }
+    },
+    "transparency": 255
+}

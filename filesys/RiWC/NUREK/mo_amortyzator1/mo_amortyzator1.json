@@ -1,0 +1,32 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "DNO_STAWU_ROT_SCALED_USTAWIONE": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "mo_amortyzator1_0.png",
+                    "name": "AMORTYZATOR",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "mo_amortyzator1_0.png": {
+            "compression": 2,
+            "name": "AMORTYZATOR",
+            "position_x": 290,
+            "position_y": 341
+        }
+    },
+    "transparency": 255
+}

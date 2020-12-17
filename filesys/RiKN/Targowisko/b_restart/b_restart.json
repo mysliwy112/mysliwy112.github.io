@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "idle": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_restart_0.png",
+                    "name": "restart",
+                    "position_x": -50,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_restart_1.png",
+                    "name": "restart_kopia",
+                    "position_x": -50,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "b_restart_0.png": {
+            "compression": 3,
+            "name": "restart",
+            "position_x": 751,
+            "position_y": 9
+        },
+        "b_restart_1.png": {
+            "compression": 3,
+            "name": "restart_kopia",
+            "position_x": 748,
+            "position_y": 6
+        }
+    },
+    "transparency": 255
+}

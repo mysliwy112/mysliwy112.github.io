@@ -1,0 +1,115 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONCLICK": {
+            "frames": [
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "menu_rambedal_2.png",
+                    "name": "RAMBEDAL COPY 2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONFOCUSOFF": {
+            "frames": [
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "menu_rambedal_0.png",
+                    "name": "RAMBEDAL",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONFOCUSON": {
+            "frames": [
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "menu_rambedal_1.png",
+                    "name": "RAMBEDAL COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONNOEVENT": {
+            "frames": [
+                {
+                    "check": [
+                        156,
+                        169,
+                        84
+                    ],
+                    "filename": "menu_rambedal_0.png",
+                    "name": "RAMBEDAL",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "menu_rambedal_0.png": {
+            "compression": 0,
+            "name": "RAMBEDAL",
+            "position_x": 18,
+            "position_y": 528
+        },
+        "menu_rambedal_1.png": {
+            "compression": 0,
+            "name": "RAMBEDAL COPY",
+            "position_x": 18,
+            "position_y": 524
+        },
+        "menu_rambedal_2.png": {
+            "compression": 0,
+            "name": "RAMBEDAL COPY 2",
+            "position_x": 18,
+            "position_y": 527
+        }
+    },
+    "transparency": 255
+}

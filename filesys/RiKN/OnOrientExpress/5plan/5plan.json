@@ -1,0 +1,81 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "idle": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "5plan_0.png",
+                    "name": "6",
+                    "position_x": 900,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "5plan_1.png",
+                    "name": "d",
+                    "position_x": 900,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "5plan_2.png",
+                    "name": "Warstwa_2",
+                    "position_x": 900,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "5plan_3.png",
+                    "name": "Warstwa_3",
+                    "position_x": 900,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "5plan_0.png": {
+            "compression": 3,
+            "name": "6",
+            "position_x": -3
+        },
+        "5plan_1.png": {
+            "compression": 3,
+            "name": "d",
+            "position_x": -4
+        },
+        "5plan_2.png": {
+            "compression": 3,
+            "name": "Warstwa_2",
+            "position_x": -1,
+            "position_y": 215
+        },
+        "5plan_3.png": {
+            "compression": 3,
+            "name": "Warstwa_3",
+            "position_x": -1,
+            "position_y": 257
+        }
+    },
+    "transparency": 255
+}

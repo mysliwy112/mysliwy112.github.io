@@ -1,0 +1,32 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "DNO_STAWU_ROT_SCALED_USTAWIONE_P": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "mo_spychacz_0.png",
+                    "name": "SPYCHACZ",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "mo_spychacz_0.png": {
+            "compression": 2,
+            "name": "SPYCHACZ",
+            "position_x": 455,
+            "position_y": 172
+        }
+    },
+    "transparency": 255
+}

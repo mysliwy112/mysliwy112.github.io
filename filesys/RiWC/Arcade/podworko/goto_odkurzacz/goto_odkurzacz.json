@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "530-480-550": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "goto_odkurzacz_0.png",
+                    "name": "ODKURZACZ_GOTO530-480-550",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "goto_odkurzacz_0.png",
+                    "name": "ODKURZACZ_GOTO530-480-550",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "goto_odkurzacz_0.png": {
+            "compression": 4,
+            "name": "ODKURZACZ_GOTO530-4",
+            "position_x": 41,
+            "position_y": 317
+        }
+    },
+    "transparency": 255
+}

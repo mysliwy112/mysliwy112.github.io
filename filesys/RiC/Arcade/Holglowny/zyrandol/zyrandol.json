@@ -1,0 +1,100 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "228-594": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "zyrandol_0.png",
+                    "name": "ZYRANDOL_ANIM_228-594",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "zyrandol_0.png",
+                    "name": "ZYRANDOL_ANIM_228-594",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "zyrandol_1.png",
+                    "name": "ZYRANDOL_ANIM_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "zyrandol_2.png",
+                    "name": "ZYRANDOL_ANIM_COPY_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "zyrandol_3.png",
+                    "name": "ZYRANDOL_ANIM_COPY_3",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 3,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "zyrandol_0.png": {
+            "compression": 3,
+            "name": "ZYRANDOL_ANIM_228-5",
+            "position_x": 125,
+            "position_y": -52
+        },
+        "zyrandol_1.png": {
+            "compression": 3,
+            "name": "ZYRANDOL_ANIM_COPY",
+            "position_x": 125,
+            "position_y": -52
+        },
+        "zyrandol_2.png": {
+            "compression": 3,
+            "name": "ZYRANDOL_ANIM_COPY_",
+            "position_x": 125,
+            "position_y": -52
+        },
+        "zyrandol_3.png": {
+            "compression": 3,
+            "name": "ZYRANDOL_ANIM_COPY_",
+            "position_x": 125,
+            "position_y": -52
+        }
+    },
+    "transparency": 255
+}

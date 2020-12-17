@@ -1,0 +1,210 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "433-360": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi2_0.png",
+                    "name": "DRZWI2_433-360",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi2_0.png",
+                    "name": "DRZWI2_433-360",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE0": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi2_0.png",
+                    "name": "DRZWI2_433-360",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\door1op.wav",
+                    "sfx_seed": 25170404
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi2_2.png",
+                    "name": "DRZWI2_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi2_4.png",
+                    "name": "DRZWI2_COPY_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi2_3.png",
+                    "name": "DRZWI2_COPY_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi2_1.png",
+                    "name": "DRZWI2_COPY_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi2_1.png",
+                    "name": "DRZWI2_COPY_4",
+                    "position_x": -433,
+                    "position_y": -12
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE1": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi2_1.png",
+                    "name": "DRZWI2_COPY_4",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\door1cl.wav",
+                    "sfx_seed": 25171964
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi2_3.png",
+                    "name": "DRZWI2_COPY_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi2_4.png",
+                    "name": "DRZWI2_COPY_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi2_2.png",
+                    "name": "DRZWI2_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi2_0.png",
+                    "name": "DRZWI2_433-360",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "drzwi2_0.png": {
+            "compression": 3,
+            "name": "DRZWI2_433-360",
+            "position_x": 394,
+            "position_y": 111
+        },
+        "drzwi2_1.png": {
+            "compression": 3,
+            "name": "DRZWI2_COPY_4",
+            "position_x": 394,
+            "position_y": 121
+        },
+        "drzwi2_2.png": {
+            "compression": 3,
+            "name": "DRZWI2_COPY",
+            "position_x": 394,
+            "position_y": 111
+        },
+        "drzwi2_3.png": {
+            "compression": 3,
+            "name": "DRZWI2_COPY_3",
+            "position_x": 394,
+            "position_y": 118
+        },
+        "drzwi2_4.png": {
+            "compression": 3,
+            "name": "DRZWI2_COPY_2",
+            "position_x": 394,
+            "position_y": 115
+        }
+    },
+    "transparency": 255
+}

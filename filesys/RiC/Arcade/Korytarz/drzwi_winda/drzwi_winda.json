@@ -1,0 +1,126 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "191-311-10": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi_winda_0.png",
+                    "name": "DRZWI_WINDA_191-311-10",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi_winda_0.png",
+                    "name": "DRZWI_WINDA_191-311-10",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE0": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi_winda_1.png",
+                    "name": "DRZWI_WINDA_191-311-10_COPY",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\door2Cl.wav",
+                    "sfx_seed": 25160724
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi_winda_0.png",
+                    "name": "DRZWI_WINDA_191-311-10",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE1": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi_winda_0.png",
+                    "name": "DRZWI_WINDA_191-311-10",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\door2op.wav",
+                    "sfx_seed": 25150484
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi_winda_1.png",
+                    "name": "DRZWI_WINDA_191-311-10_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "drzwi_winda_1.png",
+                    "name": "DRZWI_WINDA_191-311-10_COPY",
+                    "position_x": -6,
+                    "position_y": 522
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "drzwi_winda_0.png": {
+            "compression": 4,
+            "name": "DRZWI_WINDA_191-311",
+            "position_x": 135,
+            "position_y": 134
+        },
+        "drzwi_winda_1.png": {
+            "compression": 4,
+            "name": "DRZWI_WINDA_191-311",
+            "position_x": 135,
+            "position_y": 135
+        }
+    },
+    "transparency": 255
+}

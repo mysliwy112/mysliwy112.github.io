@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "o_lont_but_0.png",
+                    "name": "LONT_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "o_lont_but_1.png",
+                    "name": "LONT",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "o_lont_but_0.png": {
+            "compression": 3,
+            "name": "LONT_COPY",
+            "position_x": 10,
+            "position_y": 10
+        },
+        "o_lont_but_1.png": {
+            "compression": 3,
+            "name": "LONT",
+            "position_x": 17,
+            "position_y": 16
+        }
+    },
+    "transparency": 255
+}

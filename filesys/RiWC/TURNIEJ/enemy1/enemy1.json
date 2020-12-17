@@ -1,0 +1,637 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "L": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_1.png",
+                    "name": "ZBROJA_0",
+                    "position_x": -129,
+                    "position_y": -210
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_5.png",
+                    "name": "ZBROJA_START_1",
+                    "position_x": -129,
+                    "position_y": -210
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_9.png",
+                    "name": "ZBROJA_START_2",
+                    "position_x": -129,
+                    "position_y": -210
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_9.png",
+                    "name": "ZBROJA_START_2",
+                    "position_x": -129,
+                    "position_y": -210
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_13.png",
+                    "name": "ZBROJA_START_3",
+                    "position_x": -129,
+                    "position_y": -210
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_13.png",
+                    "name": "ZBROJA_START_3",
+                    "position_x": -129,
+                    "position_y": -210
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_17.png",
+                    "name": "ZBROJA_START_4",
+                    "position_x": -129,
+                    "position_y": -210
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_1.png",
+                    "name": "ZBROJA_0",
+                    "position_x": -129,
+                    "position_y": -210
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "L_STOP": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_3.png",
+                    "name": "ZBROJA_STOP_1",
+                    "position_x": -129,
+                    "position_y": -210
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_7.png",
+                    "name": "ZBROJA_STOP_2",
+                    "position_x": -129,
+                    "position_y": -210
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_11.png",
+                    "name": "ZBROJA_STOP_3",
+                    "position_x": -129,
+                    "position_y": -210
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_15.png",
+                    "name": "ZBROJA_STOP_4",
+                    "position_x": -129,
+                    "position_y": -210
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "L_UPADEK": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_5.png",
+                    "name": "ZBROJA_START_1",
+                    "position_x": -129,
+                    "position_y": -210
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_9.png",
+                    "name": "ZBROJA_START_2",
+                    "position_x": -109,
+                    "position_y": -210
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_13.png",
+                    "name": "ZBROJA_START_3",
+                    "position_x": -89,
+                    "position_y": -210
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_13.png",
+                    "name": "ZBROJA_START_3",
+                    "position_x": -59,
+                    "position_y": -210
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_13.png",
+                    "name": "ZBROJA_START_3",
+                    "position_x": -29,
+                    "position_y": -210
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_13.png",
+                    "name": "ZBROJA_START_3",
+                    "position_x": 1,
+                    "position_y": -210
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_13.png",
+                    "name": "ZBROJA_START_3",
+                    "position_x": 31,
+                    "position_y": -210
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_13.png",
+                    "name": "ZBROJA_START_3",
+                    "position_x": 61,
+                    "position_y": -210
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_13.png",
+                    "name": "ZBROJA_START_3",
+                    "position_x": 61,
+                    "position_y": -185
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_5.png",
+                    "name": "ZBROJA_START_1",
+                    "position_x": 71,
+                    "position_y": -160
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "R": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_0.png",
+                    "name": "ZBROJA_0",
+                    "position_x": -129,
+                    "position_y": -210
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_4.png",
+                    "name": "ZBROJA_START_1",
+                    "position_x": -129,
+                    "position_y": -210
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_8.png",
+                    "name": "ZBROJA_START_2",
+                    "position_x": -129,
+                    "position_y": -210
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_8.png",
+                    "name": "ZBROJA_START_2",
+                    "position_x": -129,
+                    "position_y": -210
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_12.png",
+                    "name": "ZBROJA_START_3",
+                    "position_x": -129,
+                    "position_y": -210
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_12.png",
+                    "name": "ZBROJA_START_3",
+                    "position_x": -129,
+                    "position_y": -210
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_16.png",
+                    "name": "ZBROJA_START_4",
+                    "position_x": -129,
+                    "position_y": -210
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_0.png",
+                    "name": "ZBROJA_0",
+                    "position_x": -129,
+                    "position_y": -210
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "R_STOP": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_2.png",
+                    "name": "ZBROJA_STOP_1",
+                    "position_x": -129,
+                    "position_y": -210
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_6.png",
+                    "name": "ZBROJA_STOP_2",
+                    "position_x": -129,
+                    "position_y": -210
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_10.png",
+                    "name": "ZBROJA_STOP_3",
+                    "position_x": -129,
+                    "position_y": -210
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_14.png",
+                    "name": "ZBROJA_STOP_4",
+                    "position_x": -129,
+                    "position_y": -210
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "R_UPADEK": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_4.png",
+                    "name": "ZBROJA_START_1",
+                    "position_x": -129,
+                    "position_y": -210
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_8.png",
+                    "name": "ZBROJA_START_2",
+                    "position_x": -149,
+                    "position_y": -210
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_12.png",
+                    "name": "ZBROJA_START_3",
+                    "position_x": -169,
+                    "position_y": -210
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_12.png",
+                    "name": "ZBROJA_START_3",
+                    "position_x": -199,
+                    "position_y": -210
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_12.png",
+                    "name": "ZBROJA_START_3",
+                    "position_x": -229,
+                    "position_y": -210
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_12.png",
+                    "name": "ZBROJA_START_3",
+                    "position_x": -259,
+                    "position_y": -210
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_12.png",
+                    "name": "ZBROJA_START_3",
+                    "position_x": -289,
+                    "position_y": -210
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_12.png",
+                    "name": "ZBROJA_START_3",
+                    "position_x": -319,
+                    "position_y": -210
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_12.png",
+                    "name": "ZBROJA_START_3",
+                    "position_x": -319,
+                    "position_y": -185
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "enemy1_4.png",
+                    "name": "ZBROJA_START_1",
+                    "position_x": -329,
+                    "position_y": -160
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "enemy1_0.png": {
+            "compression": 3,
+            "name": "ZBROJA_0",
+            "position_x": 106,
+            "position_y": 25
+        },
+        "enemy1_1.png": {
+            "compression": 3,
+            "name": "ZBROJA_0",
+            "position_x": 92,
+            "position_y": 25
+        },
+        "enemy1_10.png": {
+            "compression": 3,
+            "name": "ZBROJA_STOP_3",
+            "position_x": 104,
+            "position_y": 25
+        },
+        "enemy1_11.png": {
+            "compression": 3,
+            "name": "ZBROJA_STOP_3",
+            "position_x": 94,
+            "position_y": 25
+        },
+        "enemy1_12.png": {
+            "compression": 3,
+            "name": "ZBROJA_START_3",
+            "position_x": 86,
+            "position_y": 19
+        },
+        "enemy1_13.png": {
+            "compression": 3,
+            "name": "ZBROJA_START_3",
+            "position_x": 85,
+            "position_y": 19
+        },
+        "enemy1_14.png": {
+            "compression": 3,
+            "name": "ZBROJA_STOP_4",
+            "position_x": 105,
+            "position_y": 25
+        },
+        "enemy1_15.png": {
+            "compression": 3,
+            "name": "ZBROJA_STOP_4",
+            "position_x": 92,
+            "position_y": 25
+        },
+        "enemy1_16.png": {
+            "compression": 3,
+            "name": "ZBROJA_START_4",
+            "position_x": 100,
+            "position_y": 22
+        },
+        "enemy1_17.png": {
+            "compression": 3,
+            "name": "ZBROJA_START_4",
+            "position_x": 89,
+            "position_y": 22
+        },
+        "enemy1_2.png": {
+            "compression": 3,
+            "name": "ZBROJA_STOP_1",
+            "position_x": 105,
+            "position_y": 25
+        },
+        "enemy1_3.png": {
+            "compression": 3,
+            "name": "ZBROJA_STOP_1",
+            "position_x": 92,
+            "position_y": 25
+        },
+        "enemy1_4.png": {
+            "compression": 3,
+            "name": "ZBROJA_START_1",
+            "position_x": 101,
+            "position_y": 24
+        },
+        "enemy1_5.png": {
+            "compression": 3,
+            "name": "ZBROJA_START_1",
+            "position_x": 92,
+            "position_y": 24
+        },
+        "enemy1_6.png": {
+            "compression": 3,
+            "name": "ZBROJA_STOP_2",
+            "position_x": 100,
+            "position_y": 26
+        },
+        "enemy1_7.png": {
+            "compression": 3,
+            "name": "ZBROJA_STOP_2",
+            "position_x": 94,
+            "position_y": 26
+        },
+        "enemy1_8.png": {
+            "compression": 3,
+            "name": "ZBROJA_START_2",
+            "position_x": 94,
+            "position_y": 24
+        },
+        "enemy1_9.png": {
+            "compression": 3,
+            "name": "ZBROJA_START_2",
+            "position_x": 91,
+            "position_y": 24
+        }
+    },
+    "transparency": 255
+}

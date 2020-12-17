@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "LATAWIEC": {
+            "frames": [
+                {
+                    "check": [
+                        16,
+                        51,
+                        78
+                    ],
+                    "filename": "6bsznurek_0.png",
+                    "name": "SZNUREK2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        16,
+                        51,
+                        78
+                    ],
+                    "filename": "6bsznurek_1.png",
+                    "name": "SZNUREK2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "6bsznurek_0.png": {
+            "compression": 4,
+            "name": "SZNUREK2",
+            "position_x": 700,
+            "position_y": 417
+        },
+        "6bsznurek_1.png": {
+            "compression": 4,
+            "name": "SZNUREK2",
+            "position_x": 573,
+            "position_y": 141
+        }
+    },
+    "transparency": 255
+}

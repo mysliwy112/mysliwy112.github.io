@@ -1,0 +1,117 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "IDLE": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kolorl_0.png",
+                    "name": "CZERWONY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kolorl_1.png",
+                    "name": "ZOLTY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kolorl_2.png",
+                    "name": "NIEBIESKI",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kolorl_3.png",
+                    "name": "FIOLETOWY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kolorl_4.png",
+                    "name": "POMARANCZOWY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "kolorl_5.png",
+                    "name": "ZIELONY",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 5,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "kolorl_0.png": {
+            "compression": 3,
+            "name": "C1",
+            "position_x": 244,
+            "position_y": 153
+        },
+        "kolorl_1.png": {
+            "compression": 3,
+            "name": "C2",
+            "position_x": 244,
+            "position_y": 153
+        },
+        "kolorl_2.png": {
+            "compression": 3,
+            "name": "C3",
+            "position_x": 244,
+            "position_y": 153
+        },
+        "kolorl_3.png": {
+            "compression": 3,
+            "name": "C4",
+            "position_x": 244,
+            "position_y": 153
+        },
+        "kolorl_4.png": {
+            "compression": 3,
+            "name": "C5",
+            "position_x": 244,
+            "position_y": 153
+        },
+        "kolorl_5.png": {
+            "compression": 3,
+            "name": "C6",
+            "position_x": 244,
+            "position_y": 153
+        }
+    },
+    "transparency": 255
+}

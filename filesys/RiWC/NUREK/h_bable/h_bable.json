@@ -1,0 +1,66 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        64,
+                        206,
+                        85
+                    ],
+                    "filename": "h_bable_0.png",
+                    "name": "BABLE1",
+                    "position_x": -422,
+                    "position_y": -306
+                },
+                {
+                    "check": [
+                        64,
+                        206,
+                        85
+                    ],
+                    "filename": "h_bable_1.png",
+                    "name": "BABLE2",
+                    "position_x": -422,
+                    "position_y": -306
+                },
+                {
+                    "check": [
+                        64,
+                        206,
+                        85
+                    ],
+                    "filename": "h_bable_2.png",
+                    "name": "BABLE3",
+                    "position_x": -422,
+                    "position_y": -306
+                }
+            ],
+            "loop": 2,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "h_bable_0.png": {
+            "compression": 2,
+            "name": "BABLE1",
+            "position_x": 412,
+            "position_y": 60
+        },
+        "h_bable_1.png": {
+            "compression": 2,
+            "name": "BABLE2",
+            "position_x": 412,
+            "position_y": 57
+        },
+        "h_bable_2.png": {
+            "compression": 2,
+            "name": "BABLE3",
+            "position_x": 408,
+            "position_y": 47
+        }
+    },
+    "transparency": 255
+}

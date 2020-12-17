@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "530-480-545": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "goto_waz_0.png",
+                    "name": "WAZ_OGRODOWY_GOTO530-480-545",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "goto_waz_0.png",
+                    "name": "WAZ_OGRODOWY_GOTO530-480-545",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "goto_waz_0.png": {
+            "compression": 4,
+            "name": "WAZ_OGRODOWY_GOTO53",
+            "position_x": 204,
+            "position_y": 237
+        }
+    },
+    "transparency": 255
+}

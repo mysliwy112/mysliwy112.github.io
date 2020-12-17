@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "jablko_but_0.png",
+                    "name": "JABLKO_BUT_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "jablko_but_1.png",
+                    "name": "JABLKO_BUT",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "jablko_but_0.png": {
+            "compression": 4,
+            "name": "JABLKO_BUT_COPY",
+            "position_x": 8,
+            "position_y": 8
+        },
+        "jablko_but_1.png": {
+            "compression": 4,
+            "name": "JABLKO_BUT",
+            "position_x": 14,
+            "position_y": 11
+        }
+    },
+    "transparency": 255
+}

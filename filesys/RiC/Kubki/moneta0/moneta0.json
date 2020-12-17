@@ -1,0 +1,43 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "moneta0_0.png",
+                    "name": "-1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "moneta0_0.png",
+                    "name": "-1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "moneta0_0.png": {
+            "compression": 4,
+            "name": "MONETA0",
+            "position_x": 299,
+            "position_y": 114
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,32 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "drop": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pixC_0.png",
+                    "name": "do_C",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "pixC_0.png": {
+            "compression": 3,
+            "name": "do_C",
+            "position_x": 234,
+            "position_y": 205
+        }
+    },
+    "transparency": 255
+}

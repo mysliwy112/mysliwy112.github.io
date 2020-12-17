@@ -1,0 +1,31 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "idle": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "wagon_0.png",
+                    "name": "WAGON",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "wagon_0.png": {
+            "compression": 3,
+            "name": "WAGON",
+            "position_y": 400
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "piecyk_but_0.png",
+                    "name": "PIECYK_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "piecyk_but_1.png",
+                    "name": "PIECYK",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "piecyk_but_0.png": {
+            "compression": 4,
+            "name": "PIECYK_COPY",
+            "position_x": 10,
+            "position_y": 4
+        },
+        "piecyk_but_1.png": {
+            "compression": 4,
+            "name": "PIECYK",
+            "position_x": 18,
+            "position_y": 4
+        }
+    },
+    "transparency": 255
+}

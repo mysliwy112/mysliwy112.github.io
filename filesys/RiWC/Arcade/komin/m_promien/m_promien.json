@@ -1,0 +1,124 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "190-195-1": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_promien_0.png",
+                    "name": "MIEJSCE_KRYSZTAL",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "BARTEK": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_promien_2.png",
+                    "name": "PROMIEN",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_promien_1.png",
+                    "name": "LAYER_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_promien_3.png",
+                    "name": "LAYER_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_promien_4.png",
+                    "name": "LAYER_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "m_promien_5.png",
+                    "name": "LAYER_4",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 3,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "m_promien_0.png": {
+            "compression": 3,
+            "name": "MIEJSCE_KRYSZTAL",
+            "position_x": 174,
+            "position_y": 188
+        },
+        "m_promien_1.png": {
+            "compression": 3,
+            "name": "LAYER_1",
+            "position_x": 184
+        },
+        "m_promien_2.png": {
+            "compression": 3,
+            "name": "PROMIEN",
+            "position_x": 190
+        },
+        "m_promien_3.png": {
+            "compression": 3,
+            "name": "LAYER_2",
+            "position_x": 184
+        },
+        "m_promien_4.png": {
+            "compression": 3,
+            "name": "LAYER_3",
+            "position_x": 184
+        },
+        "m_promien_5.png": {
+            "compression": 3,
+            "name": "LAYER_4",
+            "position_x": 184
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,55 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "331-298-254": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "kartka2_0.png",
+                    "name": "KARTKA1_331-298-254",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "kartka2_1.png",
+                    "name": "KARTKA2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "kartka2_0.png": {
+            "compression": 4,
+            "name": "KARTKA1_331-298-254",
+            "position_x": 346,
+            "position_y": 195
+        },
+        "kartka2_1.png": {
+            "compression": 4,
+            "name": "KARTKA2",
+            "position_x": 351,
+            "position_y": 179
+        }
+    },
+    "transparency": 255
+}

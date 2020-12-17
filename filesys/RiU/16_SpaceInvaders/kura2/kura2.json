@@ -1,0 +1,926 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "WOLNA": {
+            "frames": [
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_1.png",
+                    "name": "0",
+                    "position_x": 631,
+                    "position_y": 331
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_3.png",
+                    "name": "1",
+                    "position_x": 631,
+                    "position_y": 334
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_5.png",
+                    "name": "2",
+                    "position_x": 631,
+                    "position_y": 337
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_7.png",
+                    "name": "3",
+                    "position_x": 631,
+                    "position_y": 340
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_9.png",
+                    "name": "4",
+                    "position_x": 631,
+                    "position_y": 344
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_11.png",
+                    "name": "5",
+                    "position_x": 631,
+                    "position_y": 350
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_12.png",
+                    "name": "6",
+                    "position_x": 631,
+                    "position_y": 355
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_14.png",
+                    "name": "7",
+                    "position_x": 631,
+                    "position_y": 360
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_15.png",
+                    "name": "8",
+                    "position_x": 631,
+                    "position_y": 365
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_17.png",
+                    "name": "9",
+                    "position_x": 631,
+                    "position_y": 369
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_17.png",
+                    "name": "15",
+                    "position_x": 631,
+                    "position_y": 374
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_19.png",
+                    "name": "16",
+                    "position_x": 631,
+                    "position_y": 379
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_21.png",
+                    "name": "17",
+                    "position_x": 631,
+                    "position_y": 384
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_23.png",
+                    "name": "18",
+                    "position_x": 631,
+                    "position_y": 388
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_21.png",
+                    "name": "19",
+                    "position_x": 631,
+                    "position_y": 393
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_19.png",
+                    "name": "20",
+                    "position_x": 631,
+                    "position_y": 398
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_19.png",
+                    "name": "32",
+                    "position_x": 631,
+                    "position_y": 404
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_17.png",
+                    "name": "33",
+                    "position_x": 631,
+                    "position_y": 409
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_19.png",
+                    "name": "34",
+                    "position_x": 631,
+                    "position_y": 414
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_21.png",
+                    "name": "35",
+                    "position_x": 631,
+                    "position_y": 419
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_23.png",
+                    "name": "36",
+                    "position_x": 631,
+                    "position_y": 425
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_21.png",
+                    "name": "37",
+                    "position_x": 631,
+                    "position_y": 431
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_19.png",
+                    "name": "38",
+                    "position_x": 631,
+                    "position_y": 436
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_17.png",
+                    "name": "10_BUDZI",
+                    "position_x": 631,
+                    "position_y": 440
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_19.png",
+                    "name": "11_BUDZI",
+                    "position_x": 631,
+                    "position_y": 445
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_21.png",
+                    "name": "12_BUDZI",
+                    "position_x": 631,
+                    "position_y": 451
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_23.png",
+                    "name": "13_BUDZI",
+                    "position_x": 631,
+                    "position_y": 456
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_21.png",
+                    "name": "12_BUDZI",
+                    "position_x": 631,
+                    "position_y": 461
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_19.png",
+                    "name": "11_BUDZI",
+                    "position_x": 631,
+                    "position_y": 466
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_19.png",
+                    "name": "11_BUDZI",
+                    "position_x": 631,
+                    "position_y": 471
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_17.png",
+                    "name": "39",
+                    "position_x": 631,
+                    "position_y": 476
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "WSYSANA": {
+            "frames": [
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_0.png",
+                    "name": "LAYER 1",
+                    "position_x": 257,
+                    "position_y": 1
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_2.png",
+                    "name": "LAYER 2",
+                    "position_x": 257,
+                    "position_y": 1
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_4.png",
+                    "name": "LAYER 3",
+                    "position_x": 257,
+                    "position_y": 1
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_6.png",
+                    "name": "LAYER 4",
+                    "position_x": 257,
+                    "position_y": 1
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_8.png",
+                    "name": "LAYER 5",
+                    "position_x": 257,
+                    "position_y": 1
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_10.png",
+                    "name": "LAYER 5 COPY",
+                    "position_x": 257,
+                    "position_y": 1
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_10.png",
+                    "name": "LAYER 5 COPY",
+                    "position_x": 257,
+                    "position_y": 1
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_13.png",
+                    "name": "LAYER 5 COPY 2",
+                    "position_x": 257,
+                    "position_y": 1
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_13.png",
+                    "name": "LAYER 5 COPY 2",
+                    "position_x": 257,
+                    "position_y": 1
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_16.png",
+                    "name": "LAYER 5 COPY 3",
+                    "position_x": 257,
+                    "position_y": 1
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_16.png",
+                    "name": "LAYER 5 COPY 3",
+                    "position_x": 257,
+                    "position_y": 1
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_18.png",
+                    "name": "1_SPI",
+                    "position_x": 257,
+                    "position_y": 1
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_20.png",
+                    "name": "2_SPI",
+                    "position_x": 257,
+                    "position_y": 1
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_22.png",
+                    "name": "3_SPI",
+                    "position_x": 257,
+                    "position_y": 1
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_24.png",
+                    "name": "4_SPI",
+                    "position_x": 257,
+                    "position_y": 1
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_25.png",
+                    "name": "5_SPI",
+                    "position_x": 257,
+                    "position_y": 1
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_26.png",
+                    "name": "6_SPI",
+                    "position_x": 257,
+                    "position_y": 1
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_27.png",
+                    "name": "7_SPI",
+                    "position_x": 257,
+                    "position_y": 1
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_28.png",
+                    "name": "8_SPI",
+                    "position_x": 257,
+                    "position_y": 1
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_29.png",
+                    "name": "1_SPI COPY",
+                    "position_x": 257,
+                    "position_y": 1
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_30.png",
+                    "name": "2_SPI COPY",
+                    "position_x": 257,
+                    "position_y": 1
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_31.png",
+                    "name": "3_SPI COPY",
+                    "position_x": 257,
+                    "position_y": 1
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_32.png",
+                    "name": "4_SPI COPY",
+                    "position_x": 257,
+                    "position_y": 1
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_33.png",
+                    "name": "5_SPI COPY",
+                    "position_x": 257,
+                    "position_y": 1
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_13.png",
+                    "name": "LAYER 5 COPY 2",
+                    "position_x": 257,
+                    "position_y": 1
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_10.png",
+                    "name": "LAYER 5 COPY",
+                    "position_x": 257,
+                    "position_y": 1
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_8.png",
+                    "name": "LAYER 5",
+                    "position_x": 257,
+                    "position_y": 1
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_6.png",
+                    "name": "LAYER 4",
+                    "position_x": 257,
+                    "position_y": 1
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_4.png",
+                    "name": "LAYER 3",
+                    "position_x": 257,
+                    "position_y": 1
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_2.png",
+                    "name": "LAYER 2",
+                    "position_x": 257,
+                    "position_y": 1
+                },
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "kura2_0.png",
+                    "name": "LAYER 1",
+                    "position_x": 257,
+                    "position_y": 1
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "kura2_0.png": {
+            "compression": 3,
+            "name": "LAYER 1",
+            "position_x": 385,
+            "position_y": 339
+        },
+        "kura2_1.png": {
+            "compression": 3,
+            "name": "1_BUDZI",
+            "position_x": 18,
+            "position_y": 31
+        },
+        "kura2_10.png": {
+            "compression": 3,
+            "name": "LAYER 5 COPY",
+            "position_x": 352,
+            "position_y": 349
+        },
+        "kura2_11.png": {
+            "compression": 3,
+            "name": "6_BUDZI",
+            "position_x": 7,
+            "position_y": 27
+        },
+        "kura2_12.png": {
+            "compression": 3,
+            "name": "7_BUDZI",
+            "position_x": 1,
+            "position_y": 25
+        },
+        "kura2_13.png": {
+            "compression": 3,
+            "name": "LAYER 5 COPY 2",
+            "position_x": 299,
+            "position_y": 353
+        },
+        "kura2_14.png": {
+            "compression": 3,
+            "name": "8_BUDZI",
+            "position_x": 7,
+            "position_y": 24
+        },
+        "kura2_15.png": {
+            "compression": 3,
+            "name": "9_BUDZI",
+            "position_x": 14,
+            "position_y": 18
+        },
+        "kura2_16.png": {
+            "compression": 3,
+            "name": "LAYER 5 COPY 3",
+            "position_x": 248,
+            "position_y": 354
+        },
+        "kura2_17.png": {
+            "compression": 3,
+            "name": "10_BUDZI",
+            "position_x": 20
+        },
+        "kura2_18.png": {
+            "compression": 3,
+            "name": "1_SPI",
+            "position_x": 248,
+            "position_y": 354
+        },
+        "kura2_19.png": {
+            "compression": 3,
+            "name": "11_BUDZI",
+            "position_x": 13,
+            "position_y": 6
+        },
+        "kura2_2.png": {
+            "compression": 3,
+            "name": "LAYER 2",
+            "position_x": 385,
+            "position_y": 339
+        },
+        "kura2_20.png": {
+            "compression": 3,
+            "name": "2_SPI",
+            "position_x": 248,
+            "position_y": 354
+        },
+        "kura2_21.png": {
+            "compression": 3,
+            "name": "12_BUDZI",
+            "position_x": 10,
+            "position_y": 22
+        },
+        "kura2_22.png": {
+            "compression": 3,
+            "name": "3_SPI",
+            "position_x": 248,
+            "position_y": 354
+        },
+        "kura2_23.png": {
+            "compression": 3,
+            "name": "13_BUDZI",
+            "position_x": 12,
+            "position_y": 27
+        },
+        "kura2_24.png": {
+            "compression": 3,
+            "name": "4_SPI",
+            "position_x": 248,
+            "position_y": 354
+        },
+        "kura2_25.png": {
+            "compression": 3,
+            "name": "5_SPI",
+            "position_x": 248,
+            "position_y": 354
+        },
+        "kura2_26.png": {
+            "compression": 3,
+            "name": "6_SPI",
+            "position_x": 248,
+            "position_y": 354
+        },
+        "kura2_27.png": {
+            "compression": 3,
+            "name": "7_SPI",
+            "position_x": 248,
+            "position_y": 354
+        },
+        "kura2_28.png": {
+            "compression": 3,
+            "name": "8_SPI",
+            "position_x": 248,
+            "position_y": 354
+        },
+        "kura2_29.png": {
+            "compression": 3,
+            "name": "1_SPI COPY",
+            "position_x": 248,
+            "position_y": 354
+        },
+        "kura2_3.png": {
+            "compression": 3,
+            "name": "2_BUDZI",
+            "position_x": 20,
+            "position_y": 32
+        },
+        "kura2_30.png": {
+            "compression": 3,
+            "name": "2_SPI COPY",
+            "position_x": 248,
+            "position_y": 354
+        },
+        "kura2_31.png": {
+            "compression": 3,
+            "name": "3_SPI COPY",
+            "position_x": 248,
+            "position_y": 354
+        },
+        "kura2_32.png": {
+            "compression": 3,
+            "name": "4_SPI COPY",
+            "position_x": 248,
+            "position_y": 354
+        },
+        "kura2_33.png": {
+            "compression": 3,
+            "name": "5_SPI COPY",
+            "position_x": 248,
+            "position_y": 354
+        },
+        "kura2_4.png": {
+            "compression": 3,
+            "name": "LAYER 3",
+            "position_x": 385,
+            "position_y": 339
+        },
+        "kura2_5.png": {
+            "compression": 3,
+            "name": "3_BUDZI",
+            "position_x": 19,
+            "position_y": 32
+        },
+        "kura2_6.png": {
+            "compression": 3,
+            "name": "LAYER 4",
+            "position_x": 385,
+            "position_y": 339
+        },
+        "kura2_7.png": {
+            "compression": 3,
+            "name": "4_BUDZI",
+            "position_x": 18,
+            "position_y": 33
+        },
+        "kura2_8.png": {
+            "compression": 3,
+            "name": "LAYER 5",
+            "position_x": 385,
+            "position_y": 339
+        },
+        "kura2_9.png": {
+            "compression": 3,
+            "name": "5_BUDZI",
+            "position_x": 12,
+            "position_y": 31
+        }
+    },
+    "transparency": 255
+}

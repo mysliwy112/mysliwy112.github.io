@@ -1,0 +1,30 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "FLY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "proj0_0.png",
+                    "name": "PROJECTILE0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "proj0_0.png": {
+            "compression": 0,
+            "name": "PROJECTILE0"
+        }
+    },
+    "transparency": 255
+}

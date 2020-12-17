@@ -1,0 +1,111 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "337-1146": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "klatka_0.png",
+                    "name": "KLATKA_ZAMKNIETA",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "klatka_0.png",
+                    "name": "KLATKA_ZAMKNIETA",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE0": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "klatka_1.png",
+                    "name": "KLATKA_ZAMKNIETA_337-1146",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "klatka_0.png",
+                    "name": "KLATKA_ZAMKNIETA",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE1": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "klatka_0.png",
+                    "name": "KLATKA_ZAMKNIETA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "klatka_1.png",
+                    "name": "KLATKA_ZAMKNIETA_337-1146",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "klatka_0.png": {
+            "compression": 4,
+            "name": "KLATKA_ZAMKNIETA",
+            "position_x": 276,
+            "position_y": 1055
+        },
+        "klatka_1.png": {
+            "compression": 4,
+            "name": "KLATKA_ZAMKNIETA_33",
+            "position_x": 291,
+            "position_y": 1055
+        }
+    },
+    "transparency": 255
+}

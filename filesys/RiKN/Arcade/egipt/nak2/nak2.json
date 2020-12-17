@@ -1,0 +1,138 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "1plan": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "nak2_4.png",
+                    "name": "Layer_19",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "balon": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "nak2_2.png",
+                    "name": "balon",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "barierka": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "nak2_0.png",
+                    "name": "naut_barierka",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "kotwica": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "nak2_1.png",
+                    "name": "kotwicA2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "lina": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "nak2_3.png",
+                    "name": "lina",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "nak2_5.png",
+                    "name": "lina_copy",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "nak2_0.png": {
+            "compression": 3,
+            "name": "naut_barierka",
+            "position_x": 106,
+            "position_y": 243
+        },
+        "nak2_1.png": {
+            "compression": 3,
+            "name": "kotwicA2",
+            "position_x": 657,
+            "position_y": 104
+        },
+        "nak2_2.png": {
+            "compression": 3,
+            "name": "balon",
+            "position_x": 34
+        },
+        "nak2_3.png": {
+            "compression": 3,
+            "name": "lina",
+            "position_x": 140,
+            "position_y": 65
+        },
+        "nak2_4.png": {
+            "compression": 3,
+            "name": "Layer_19"
+        },
+        "nak2_5.png": {
+            "compression": 3,
+            "name": "lina_copy",
+            "position_x": 601,
+            "position_y": 127
+        }
+    },
+    "transparency": 255
+}

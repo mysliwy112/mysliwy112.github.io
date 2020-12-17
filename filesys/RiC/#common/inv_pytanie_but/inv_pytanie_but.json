@@ -1,0 +1,89 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "ONCLICK": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "inv_pytanie_but_1.png",
+                    "name": "PYT2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONFOCUSOFF": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "inv_pytanie_but_0.png",
+                    "name": "PYT",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONFOCUSON": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "inv_pytanie_but_1.png",
+                    "name": "PYT2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ONNOEVENT": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "inv_pytanie_but_0.png",
+                    "name": "PYT",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "inv_pytanie_but_0.png": {
+            "compression": 4,
+            "name": "PYT",
+            "position_x": 226,
+            "position_y": 203
+        },
+        "inv_pytanie_but_1.png": {
+            "compression": 4,
+            "name": "PYT2",
+            "position_x": 226,
+            "position_y": 203
+        }
+    },
+    "transparency": 255
+}

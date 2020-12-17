@@ -1,0 +1,179 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "MIOD": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "ul_1.png",
+                    "name": "UL3_417-345-010",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "ul_0.png",
+                    "name": "UL_417-345",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE0": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "ul_0.png",
+                    "name": "UL_417-345",
+                    "position_x": 1,
+                    "position_y": 1,
+                    "sfx": "SFX\\ul.wav",
+                    "sfx_seed": 50357268
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "ul_0.png",
+                    "name": "UL_417-345",
+                    "position_x": 1,
+                    "position_y": 1
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "ul_0.png",
+                    "name": "UL_417-345",
+                    "position_x": 1,
+                    "position_y": 4
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "ul_0.png",
+                    "name": "UL_417-345",
+                    "position_x": 1,
+                    "position_y": 13
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "ul_0.png",
+                    "name": "UL_417-345",
+                    "position_x": 0,
+                    "position_y": 31
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "ul_0.png",
+                    "name": "UL_417-345",
+                    "position_x": -1,
+                    "position_y": 60
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "ul_0.png",
+                    "name": "UL_417-345",
+                    "position_x": -2,
+                    "position_y": 104
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "ul_0.png",
+                    "name": "UL_417-345",
+                    "position_x": -5,
+                    "position_y": 165
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "ul_0.png",
+                    "name": "UL_417-345",
+                    "position_x": -8,
+                    "position_y": 246
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "ul_2.png",
+                    "name": "UL2",
+                    "position_x": 1,
+                    "position_y": 1
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "ul_0.png": {
+            "compression": 4,
+            "name": "UL_417-345",
+            "position_x": 412,
+            "position_y": 30
+        },
+        "ul_1.png": {
+            "compression": 4,
+            "name": "UL3_417-345-010",
+            "position_x": 353,
+            "position_y": 290
+        },
+        "ul_2.png": {
+            "compression": 4,
+            "name": "UL2",
+            "position_x": 398,
+            "position_y": 311
+        }
+    },
+    "transparency": 255
+}

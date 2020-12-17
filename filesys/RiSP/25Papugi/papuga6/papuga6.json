@@ -1,0 +1,580 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "GADA_1": {
+            "frames": [
+                {
+                    "check": [
+                        80,
+                        124,
+                        164
+                    ],
+                    "filename": "papuga6_1.png",
+                    "name": "9_PAPUGA",
+                    "position_x": 357,
+                    "position_y": -54
+                },
+                {
+                    "check": [
+                        192,
+                        123,
+                        164
+                    ],
+                    "filename": "papuga6_4.png",
+                    "name": "10_PAPUGA",
+                    "position_x": 357,
+                    "position_y": -54
+                },
+                {
+                    "check": [
+                        48,
+                        123,
+                        164
+                    ],
+                    "filename": "papuga6_7.png",
+                    "name": "11_PAPUGA",
+                    "position_x": 357,
+                    "position_y": -54
+                },
+                {
+                    "check": [
+                        160,
+                        122,
+                        164
+                    ],
+                    "filename": "papuga6_10.png",
+                    "name": "12_PAPUGA",
+                    "position_x": 357,
+                    "position_y": -54
+                },
+                {
+                    "check": [
+                        16,
+                        122,
+                        164
+                    ],
+                    "filename": "papuga6_12.png",
+                    "name": "13_PAPUGA",
+                    "position_x": 357,
+                    "position_y": -54
+                },
+                {
+                    "check": [
+                        128,
+                        121,
+                        164
+                    ],
+                    "filename": "papuga6_13.png",
+                    "name": "14_PAPUGA",
+                    "position_x": 357,
+                    "position_y": -54
+                },
+                {
+                    "check": [
+                        240,
+                        120,
+                        164
+                    ],
+                    "filename": "papuga6_14.png",
+                    "name": "15_PAPUGA",
+                    "position_x": 357,
+                    "position_y": -54
+                },
+                {
+                    "check": [
+                        96,
+                        120,
+                        164
+                    ],
+                    "filename": "papuga6_15.png",
+                    "name": "16_PAPUGA",
+                    "position_x": 357,
+                    "position_y": -54
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "GADA_START": {
+            "frames": [
+                {
+                    "check": [
+                        16,
+                        98,
+                        164
+                    ],
+                    "filename": "papuga6_0.png",
+                    "name": "0_PAPUGA",
+                    "position_x": 357,
+                    "position_y": -59
+                },
+                {
+                    "check": [
+                        128,
+                        97,
+                        164
+                    ],
+                    "filename": "papuga6_3.png",
+                    "name": "1_PAPUGA",
+                    "position_x": 357,
+                    "position_y": -59
+                },
+                {
+                    "check": [
+                        240,
+                        96,
+                        164
+                    ],
+                    "filename": "papuga6_6.png",
+                    "name": "3_PAPUGA",
+                    "position_x": 357,
+                    "position_y": -59
+                },
+                {
+                    "check": [
+                        96,
+                        96,
+                        164
+                    ],
+                    "filename": "papuga6_9.png",
+                    "name": "4_PAPUGA",
+                    "position_x": 357,
+                    "position_y": -59
+                },
+                {
+                    "check": [
+                        144,
+                        127,
+                        164
+                    ],
+                    "filename": "papuga6_11.png",
+                    "name": "5_PAPUGA",
+                    "position_x": 357,
+                    "position_y": -59
+                },
+                {
+                    "check": [],
+                    "filename": "papuga6_8.png",
+                    "name": "6_PAPUGA",
+                    "position_x": 357,
+                    "position_y": -59
+                },
+                {
+                    "check": [
+                        112,
+                        126,
+                        164
+                    ],
+                    "filename": "papuga6_5.png",
+                    "name": "7_PAPUGA",
+                    "position_x": 357,
+                    "position_y": -59
+                },
+                {
+                    "check": [
+                        224,
+                        125,
+                        164
+                    ],
+                    "filename": "papuga6_2.png",
+                    "name": "8_PAPUGA",
+                    "position_x": 357,
+                    "position_y": -59
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "GADA_STOP": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        118,
+                        164
+                    ],
+                    "filename": "papuga6_2.png",
+                    "name": "8_PAPUGA",
+                    "position_x": 357,
+                    "position_y": -59
+                },
+                {
+                    "check": [
+                        64,
+                        118,
+                        164
+                    ],
+                    "filename": "papuga6_5.png",
+                    "name": "7_PAPUGA",
+                    "position_x": 357,
+                    "position_y": -59
+                },
+                {
+                    "check": [
+                        176,
+                        117,
+                        164
+                    ],
+                    "filename": "papuga6_8.png",
+                    "name": "6_PAPUGA",
+                    "position_x": 357,
+                    "position_y": -59
+                },
+                {
+                    "check": [
+                        32,
+                        117,
+                        164
+                    ],
+                    "filename": "papuga6_11.png",
+                    "name": "5_PAPUGA",
+                    "position_x": 357,
+                    "position_y": -59
+                },
+                {
+                    "check": [
+                        144,
+                        116,
+                        164
+                    ],
+                    "filename": "papuga6_9.png",
+                    "name": "4_PAPUGA",
+                    "position_x": 357,
+                    "position_y": -59
+                },
+                {
+                    "check": [],
+                    "filename": "papuga6_6.png",
+                    "name": "3_PAPUGA",
+                    "position_x": 357,
+                    "position_y": -59
+                },
+                {
+                    "check": [
+                        112,
+                        115,
+                        164
+                    ],
+                    "filename": "papuga6_3.png",
+                    "name": "1_PAPUGA",
+                    "position_x": 357,
+                    "position_y": -59
+                },
+                {
+                    "check": [
+                        224,
+                        114,
+                        164
+                    ],
+                    "filename": "papuga6_0.png",
+                    "name": "0_PAPUGA",
+                    "position_x": 357,
+                    "position_y": -59
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "HASLO": {
+            "frames": [
+                {
+                    "check": [
+                        160,
+                        99,
+                        164
+                    ],
+                    "filename": "papuga6_0.png",
+                    "name": "0_PAPUGA",
+                    "position_x": 357,
+                    "position_y": -59
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ODLATUJE": {
+            "frames": [
+                {
+                    "check": [
+                        32,
+                        113,
+                        164
+                    ],
+                    "filename": "papuga6_0.png",
+                    "name": "0_PAPUGA",
+                    "position_x": 357,
+                    "position_y": -59
+                },
+                {
+                    "check": [
+                        144,
+                        112,
+                        164
+                    ],
+                    "filename": "papuga6_3.png",
+                    "name": "1_PAPUGA",
+                    "position_x": 357,
+                    "position_y": -59
+                },
+                {
+                    "check": [
+                        224,
+                        143,
+                        164
+                    ],
+                    "filename": "papuga6_6.png",
+                    "name": "3_PAPUGA",
+                    "position_x": 357,
+                    "position_y": -59
+                },
+                {
+                    "check": [
+                        80,
+                        143,
+                        164
+                    ],
+                    "filename": "papuga6_9.png",
+                    "name": "4_PAPUGA",
+                    "position_x": 357,
+                    "position_y": -59,
+                    "sfx": "sfx\\00papu2.wav",
+                    "sfx_seed": 10803824
+                },
+                {
+                    "check": [
+                        192,
+                        142,
+                        164
+                    ],
+                    "filename": "papuga6_11.png",
+                    "name": "5_PAPUGA",
+                    "position_x": 357,
+                    "position_y": -59
+                },
+                {
+                    "check": [
+                        48,
+                        142,
+                        164
+                    ],
+                    "filename": "papuga6_8.png",
+                    "name": "6_PAPUGA",
+                    "position_x": 357,
+                    "position_y": -59
+                },
+                {
+                    "check": [
+                        160,
+                        141,
+                        164
+                    ],
+                    "filename": "papuga6_5.png",
+                    "name": "7_PAPUGA",
+                    "position_x": 357,
+                    "position_y": -59
+                },
+                {
+                    "check": [
+                        16,
+                        141,
+                        164
+                    ],
+                    "filename": "papuga6_2.png",
+                    "name": "8_PAPUGA",
+                    "position_x": 357,
+                    "position_y": -59
+                },
+                {
+                    "check": [
+                        128,
+                        140,
+                        164
+                    ],
+                    "filename": "papuga6_1.png",
+                    "name": "9_PAPUGA",
+                    "position_x": 364,
+                    "position_y": -68
+                },
+                {
+                    "check": [
+                        240,
+                        139,
+                        164
+                    ],
+                    "filename": "papuga6_4.png",
+                    "name": "10_PAPUGA",
+                    "position_x": 370,
+                    "position_y": -72,
+                    "sfx": "sfx\\00papu3.wav",
+                    "sfx_seed": 10801440
+                },
+                {
+                    "check": [
+                        96,
+                        139,
+                        164
+                    ],
+                    "filename": "papuga6_7.png",
+                    "name": "11_PAPUGA",
+                    "position_x": 381,
+                    "position_y": -78
+                },
+                {
+                    "check": [
+                        208,
+                        138,
+                        164
+                    ],
+                    "filename": "papuga6_10.png",
+                    "name": "12_PAPUGA",
+                    "position_x": 396,
+                    "position_y": -83
+                },
+                {
+                    "check": [
+                        64,
+                        138,
+                        164
+                    ],
+                    "filename": "papuga6_12.png",
+                    "name": "13_PAPUGA",
+                    "position_x": 427,
+                    "position_y": -85
+                },
+                {
+                    "check": [
+                        176,
+                        137,
+                        164
+                    ],
+                    "filename": "papuga6_13.png",
+                    "name": "14_PAPUGA",
+                    "position_x": 423,
+                    "position_y": -96
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "papuga6_0.png": {
+            "compression": 4,
+            "name": "0_PAPUGA",
+            "position_x": 44,
+            "position_y": 47
+        },
+        "papuga6_1.png": {
+            "compression": 4,
+            "name": "9_PAPUGA",
+            "position_x": 11,
+            "position_y": 7
+        },
+        "papuga6_10.png": {
+            "compression": 4,
+            "name": "12_PAPUGA",
+            "position_x": 16,
+            "position_y": 4
+        },
+        "papuga6_11.png": {
+            "compression": 4,
+            "name": "5_PAPUGA",
+            "position_x": 5,
+            "position_y": 56
+        },
+        "papuga6_12.png": {
+            "compression": 4,
+            "name": "13_PAPUGA",
+            "position_x": 14,
+            "position_y": 6
+        },
+        "papuga6_13.png": {
+            "compression": 4,
+            "name": "14_PAPUGA",
+            "position_x": 10,
+            "position_y": 10
+        },
+        "papuga6_14.png": {
+            "compression": 4,
+            "name": "15_PAPUGA",
+            "position_x": 13,
+            "position_y": 7
+        },
+        "papuga6_15.png": {
+            "compression": 4,
+            "name": "16_PAPUGA",
+            "position_x": 12,
+            "position_y": 10
+        },
+        "papuga6_2.png": {
+            "compression": 4,
+            "name": "8_PAPUGA",
+            "position_x": 17,
+            "position_y": 10
+        },
+        "papuga6_3.png": {
+            "compression": 4,
+            "name": "1_PAPUGA",
+            "position_x": 43,
+            "position_y": 49
+        },
+        "papuga6_4.png": {
+            "compression": 4,
+            "name": "10_PAPUGA",
+            "position_x": 12,
+            "position_y": 5
+        },
+        "papuga6_5.png": {
+            "compression": 4,
+            "name": "7_PAPUGA",
+            "position_x": 14,
+            "position_y": 35
+        },
+        "papuga6_6.png": {
+            "compression": 4,
+            "name": "3_PAPUGA",
+            "position_x": 3,
+            "position_y": 50
+        },
+        "papuga6_7.png": {
+            "compression": 4,
+            "name": "11_PAPUGA",
+            "position_x": 17,
+            "position_y": 1
+        },
+        "papuga6_8.png": {
+            "compression": 4,
+            "name": "6_PAPUGA",
+            "position_x": 7,
+            "position_y": 59
+        },
+        "papuga6_9.png": {
+            "compression": 4,
+            "name": "4_PAPUGA",
+            "position_x": 2,
+            "position_y": 54
+        }
+    },
+    "transparency": 255
+}

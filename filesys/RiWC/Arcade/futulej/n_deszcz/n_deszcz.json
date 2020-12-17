@@ -1,0 +1,80 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "0-0-620": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "n_deszcz_0.png",
+                    "name": "DESZCZ",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "n_deszcz_0.png",
+                    "name": "DESZCZ",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "n_deszcz_1.png",
+                    "name": "LAYER_28",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "n_deszcz_2.png",
+                    "name": "LAYER_29",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 2,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "n_deszcz_0.png": {
+            "compression": 3,
+            "name": "DESZCZ",
+            "position_x": 29
+        },
+        "n_deszcz_1.png": {
+            "compression": 3,
+            "name": "LAYER_28",
+            "position_x": 60
+        },
+        "n_deszcz_2.png": {
+            "compression": 3,
+            "name": "LAYER_29",
+            "position_x": 10
+        }
+    },
+    "transparency": 255
+}

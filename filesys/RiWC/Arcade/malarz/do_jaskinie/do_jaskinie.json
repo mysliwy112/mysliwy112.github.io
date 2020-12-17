@@ -1,0 +1,95 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "624-378-1": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "do_jaskinie_0.png",
+                    "name": "WYJSCIE",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "OFF": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "do_jaskinie_2.png",
+                    "name": "DO_JASKINIEC",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ON": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "do_jaskinie_1.png",
+                    "name": "DO_JASKINIEJ",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "do_jaskinie_0.png",
+                    "name": "WYJSCIE",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "do_jaskinie_0.png": {
+            "compression": 3,
+            "name": "WYJSCIE",
+            "position_x": 576,
+            "position_y": 141
+        },
+        "do_jaskinie_1.png": {
+            "compression": 3,
+            "name": "DO_JASKINIEJ",
+            "position_x": 578,
+            "position_y": 146
+        },
+        "do_jaskinie_2.png": {
+            "compression": 3,
+            "name": "DO_JASKINIEC",
+            "position_x": 578,
+            "position_y": 146
+        }
+    },
+    "transparency": 255
+}

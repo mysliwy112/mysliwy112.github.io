@@ -1,0 +1,1666 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "572-154-151": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_0.png",
+                    "name": "SR_BEZRUCH_1",
+                    "position_x": 141,
+                    "position_y": -517
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "GADA_0": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_4.png",
+                    "name": "SR_GRAZNA_6",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_9.png",
+                    "name": "SR_GRAZNA_7",
+                    "position_x": 141,
+                    "position_y": -517
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "GADA_START": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_1.png",
+                    "name": "SR_GRAZNA_1",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_6.png",
+                    "name": "SR_GRAZNA_2",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_11.png",
+                    "name": "SR_GRAZNA_3",
+                    "position_x": 141,
+                    "position_y": -517,
+                    "sfx": "SFX\\sroka.wav",
+                    "sfx_seed": 50660372
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_10.png",
+                    "name": "SR_GRAZNA_4",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_5.png",
+                    "name": "SR_GRAZNA_5",
+                    "position_x": 141,
+                    "position_y": -517
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "GADA_STOP": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_5.png",
+                    "name": "SR_GRAZNA_5",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_10.png",
+                    "name": "SR_GRAZNA_4",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_11.png",
+                    "name": "SR_GRAZNA_3",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_6.png",
+                    "name": "SR_GRAZNA_2",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_1.png",
+                    "name": "SR_GRAZNA_1",
+                    "position_x": 141,
+                    "position_y": -517
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "LECI": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_2.png",
+                    "name": "SR_ODLATUJE_1",
+                    "position_x": 135,
+                    "position_y": -375,
+                    "sfx": "SFX\\sroka.wav",
+                    "sfx_seed": 50734564
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_7.png",
+                    "name": "SR_ODLATUJE_2",
+                    "position_x": 135,
+                    "position_y": -375
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_12.png",
+                    "name": "SR_ODLATUJE_3",
+                    "position_x": 135,
+                    "position_y": -375
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_14.png",
+                    "name": "SR_ODLATUJE_4",
+                    "position_x": 135,
+                    "position_y": -375
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_16.png",
+                    "name": "SR_ODLATUJE_5",
+                    "position_x": 135,
+                    "position_y": -375
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_18.png",
+                    "name": "SR_ODLATUJE_6",
+                    "position_x": 135,
+                    "position_y": -375
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_20.png",
+                    "name": "SR_ODLATUJE_7",
+                    "position_x": 135,
+                    "position_y": -375
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_23.png",
+                    "name": "SR_ODLATUJE_8",
+                    "position_x": 135,
+                    "position_y": -375
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_25.png",
+                    "name": "SR_ODLATUJE_9",
+                    "position_x": 135,
+                    "position_y": -375
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_26.png",
+                    "name": "SR_ODLATUJE_10",
+                    "position_x": 135,
+                    "position_y": -375
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_27.png",
+                    "name": "SR_ODLATUJE_11",
+                    "position_x": 135,
+                    "position_y": -375,
+                    "sfx": "SFX\\skrzydla.wav",
+                    "sfx_seed": 50736388
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_28.png",
+                    "name": "SR_ODLATUJE_12",
+                    "position_x": 135,
+                    "position_y": -375
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_29.png",
+                    "name": "SR_ODLATUJE_13",
+                    "position_x": 135,
+                    "position_y": -375
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_30.png",
+                    "name": "SR_ODLATUJE_14",
+                    "position_x": 135,
+                    "position_y": -375
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_31.png",
+                    "name": "SR_ODLATUJE_15",
+                    "position_x": 135,
+                    "position_y": -375,
+                    "sfx": "SFX\\skrzydla.wav",
+                    "sfx_seed": 50576380
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_32.png",
+                    "name": "SR_ODLATUJE_16",
+                    "position_x": 135,
+                    "position_y": -375
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_33.png",
+                    "name": "SR_ODLATUJE_17",
+                    "position_x": 135,
+                    "position_y": -375
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_32.png",
+                    "name": "SR_ODLATUJE_16",
+                    "position_x": 102,
+                    "position_y": -376
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_31.png",
+                    "name": "SR_ODLATUJE_15",
+                    "position_x": 67,
+                    "position_y": -365,
+                    "sfx": "SFX\\skrzydla.wav",
+                    "sfx_seed": 50537460
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_32.png",
+                    "name": "SR_ODLATUJE_16",
+                    "position_x": 29,
+                    "position_y": -371
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_33.png",
+                    "name": "SR_ODLATUJE_17",
+                    "position_x": -6,
+                    "position_y": -365
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_32.png",
+                    "name": "SR_ODLATUJE_16",
+                    "position_x": -41,
+                    "position_y": -352
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_31.png",
+                    "name": "SR_ODLATUJE_15",
+                    "position_x": -79,
+                    "position_y": -342,
+                    "sfx": "SFX\\skrzydla.wav",
+                    "sfx_seed": 50264532
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_32.png",
+                    "name": "SR_ODLATUJE_16",
+                    "position_x": -112,
+                    "position_y": -323
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_33.png",
+                    "name": "SR_ODLATUJE_17",
+                    "position_x": -140,
+                    "position_y": -314
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_35.png",
+                    "name": "SR_ODLATUJE_18",
+                    "position_x": -169,
+                    "position_y": -277
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_36.png",
+                    "name": "SR_ODLATUJE_19",
+                    "position_x": -169,
+                    "position_y": -277,
+                    "sfx": "SFX\\skrzydla.wav",
+                    "sfx_seed": 50266092
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_37.png",
+                    "name": "SR_ODLATUJE_20",
+                    "position_x": -169,
+                    "position_y": -277
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_38.png",
+                    "name": "SR_ODLATUJE_21",
+                    "position_x": -169,
+                    "position_y": -277
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "OGLADA": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_3.png",
+                    "name": "SR_PRZYGLADA_SIE_1",
+                    "position_x": -117,
+                    "position_y": -207
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_8.png",
+                    "name": "SR_PRZYGLADA_SIE_2",
+                    "position_x": -117,
+                    "position_y": -207
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_13.png",
+                    "name": "SR_PRZYGLADA_SIE_3",
+                    "position_x": -117,
+                    "position_y": -207
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_15.png",
+                    "name": "SR_PRZYGLADA_SIE_4",
+                    "position_x": -117,
+                    "position_y": -207
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_17.png",
+                    "name": "SR_PRZYGLADA_SIE_5",
+                    "position_x": -117,
+                    "position_y": -207
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_19.png",
+                    "name": "SR_PRZYGLADA_SIE_6",
+                    "position_x": -117,
+                    "position_y": -207
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_21.png",
+                    "name": "SR_PRZYGLADA_SIE_7",
+                    "position_x": -117,
+                    "position_y": -207
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_24.png",
+                    "name": "SR_PRZYGLADA_SIE_8",
+                    "position_x": -117,
+                    "position_y": -207
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_24.png",
+                    "name": "SR_PRZYGLADA_SIE_8",
+                    "position_x": -117,
+                    "position_y": -207
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_24.png",
+                    "name": "SR_PRZYGLADA_SIE_8",
+                    "position_x": -117,
+                    "position_y": -207
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_24.png",
+                    "name": "SR_PRZYGLADA_SIE_8",
+                    "position_x": -117,
+                    "position_y": -207
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_21.png",
+                    "name": "SR_PRZYGLADA_SIE_7",
+                    "position_x": -117,
+                    "position_y": -207
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_19.png",
+                    "name": "SR_PRZYGLADA_SIE_6",
+                    "position_x": -117,
+                    "position_y": -207
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_17.png",
+                    "name": "SR_PRZYGLADA_SIE_5",
+                    "position_x": -117,
+                    "position_y": -207
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_15.png",
+                    "name": "SR_PRZYGLADA_SIE_4",
+                    "position_x": -117,
+                    "position_y": -207
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_15.png",
+                    "name": "SR_PRZYGLADA_SIE_4",
+                    "position_x": -117,
+                    "position_y": -207
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_15.png",
+                    "name": "SR_PRZYGLADA_SIE_4",
+                    "position_x": -117,
+                    "position_y": -207
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_15.png",
+                    "name": "SR_PRZYGLADA_SIE_4",
+                    "position_x": -117,
+                    "position_y": -207
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_13.png",
+                    "name": "SR_PRZYGLADA_SIE_3",
+                    "position_x": -117,
+                    "position_y": -207
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_8.png",
+                    "name": "SR_PRZYGLADA_SIE_2",
+                    "position_x": -117,
+                    "position_y": -207
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_3.png",
+                    "name": "SR_PRZYGLADA_SIE_1",
+                    "position_x": -117,
+                    "position_y": -207
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_8.png",
+                    "name": "SR_PRZYGLADA_SIE_2",
+                    "position_x": -117,
+                    "position_y": -207
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_13.png",
+                    "name": "SR_PRZYGLADA_SIE_3",
+                    "position_x": -117,
+                    "position_y": -207
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_15.png",
+                    "name": "SR_PRZYGLADA_SIE_4",
+                    "position_x": -117,
+                    "position_y": -207
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_15.png",
+                    "name": "SR_PRZYGLADA_SIE_4",
+                    "position_x": -117,
+                    "position_y": -207
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_15.png",
+                    "name": "SR_PRZYGLADA_SIE_4",
+                    "position_x": -117,
+                    "position_y": -207
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_13.png",
+                    "name": "SR_PRZYGLADA_SIE_3",
+                    "position_x": -117,
+                    "position_y": -207
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_8.png",
+                    "name": "SR_PRZYGLADA_SIE_2",
+                    "position_x": -117,
+                    "position_y": -207
+                }
+            ],
+            "loop": 27,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_0.png",
+                    "name": "SR_BEZRUCH_1",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_0.png",
+                    "name": "SR_BEZRUCH_1",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_0.png",
+                    "name": "SR_BEZRUCH_1",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_0.png",
+                    "name": "SR_BEZRUCH_1",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_0.png",
+                    "name": "SR_BEZRUCH_1",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_0.png",
+                    "name": "SR_BEZRUCH_1",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_0.png",
+                    "name": "SR_BEZRUCH_1",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_22.png",
+                    "name": "SR_BEZRUCH_2",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_22.png",
+                    "name": "SR_BEZRUCH_2",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_22.png",
+                    "name": "SR_BEZRUCH_2",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_22.png",
+                    "name": "SR_BEZRUCH_2",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_0.png",
+                    "name": "SR_BEZRUCH_1",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_0.png",
+                    "name": "SR_BEZRUCH_1",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_0.png",
+                    "name": "SR_BEZRUCH_1",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_0.png",
+                    "name": "SR_BEZRUCH_1",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_0.png",
+                    "name": "SR_BEZRUCH_1",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_0.png",
+                    "name": "SR_BEZRUCH_1",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_0.png",
+                    "name": "SR_BEZRUCH_1",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_0.png",
+                    "name": "SR_BEZRUCH_1",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_0.png",
+                    "name": "SR_BEZRUCH_1",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_22.png",
+                    "name": "SR_BEZRUCH_2",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_34.png",
+                    "name": "SR_BEZRUCH_3",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_34.png",
+                    "name": "SR_BEZRUCH_3",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_34.png",
+                    "name": "SR_BEZRUCH_3",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_34.png",
+                    "name": "SR_BEZRUCH_3",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_34.png",
+                    "name": "SR_BEZRUCH_3",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_34.png",
+                    "name": "SR_BEZRUCH_3",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_34.png",
+                    "name": "SR_BEZRUCH_3",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_0.png",
+                    "name": "SR_BEZRUCH_1",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_0.png",
+                    "name": "SR_BEZRUCH_1",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_0.png",
+                    "name": "SR_BEZRUCH_1",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_0.png",
+                    "name": "SR_BEZRUCH_1",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_0.png",
+                    "name": "SR_BEZRUCH_1",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_39.png",
+                    "name": "SR_BEZRUCH_4",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_39.png",
+                    "name": "SR_BEZRUCH_4",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_39.png",
+                    "name": "SR_BEZRUCH_4",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_39.png",
+                    "name": "SR_BEZRUCH_4",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_0.png",
+                    "name": "SR_BEZRUCH_1",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_0.png",
+                    "name": "SR_BEZRUCH_1",
+                    "position_x": 141,
+                    "position_y": -517
+                }
+            ],
+            "loop": 38,
+            "transparency": 255
+        },
+        "STRASZY": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_1.png",
+                    "name": "SR_GRAZNA_1",
+                    "position_x": 141,
+                    "position_y": -517,
+                    "sfx": "SFX\\sroka.wav",
+                    "sfx_seed": 50440196
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_6.png",
+                    "name": "SR_GRAZNA_2",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_11.png",
+                    "name": "SR_GRAZNA_3",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_10.png",
+                    "name": "SR_GRAZNA_4",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_5.png",
+                    "name": "SR_GRAZNA_5",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_4.png",
+                    "name": "SR_GRAZNA_6",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_9.png",
+                    "name": "SR_GRAZNA_7",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_4.png",
+                    "name": "SR_GRAZNA_6",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_9.png",
+                    "name": "SR_GRAZNA_7",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_5.png",
+                    "name": "SR_GRAZNA_5",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_10.png",
+                    "name": "SR_GRAZNA_4",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_11.png",
+                    "name": "SR_GRAZNA_3",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_6.png",
+                    "name": "SR_GRAZNA_2",
+                    "position_x": 141,
+                    "position_y": -517
+                },
+                {
+                    "check": [
+                        176,
+                        157,
+                        85
+                    ],
+                    "filename": "presroka_1.png",
+                    "name": "SR_GRAZNA_1",
+                    "position_x": 141,
+                    "position_y": -517
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "presroka_0.png": {
+            "compression": 3,
+            "name": "SR_BEZRUCH_1",
+            "position_x": 371,
+            "position_y": 573
+        },
+        "presroka_1.png": {
+            "compression": 3,
+            "name": "SR_GRAZNA_1",
+            "position_x": 371,
+            "position_y": 573
+        },
+        "presroka_10.png": {
+            "compression": 3,
+            "name": "SR_GRAZNA_4",
+            "position_x": 376,
+            "position_y": 573
+        },
+        "presroka_11.png": {
+            "compression": 3,
+            "name": "SR_GRAZNA_3",
+            "position_x": 376,
+            "position_y": 573
+        },
+        "presroka_12.png": {
+            "compression": 3,
+            "name": "SR_ODLATUJE_3",
+            "position_x": 393,
+            "position_y": 417
+        },
+        "presroka_13.png": {
+            "compression": 3,
+            "name": "SR_PRZYGLADA_SIE_3",
+            "position_x": 331,
+            "position_y": 306
+        },
+        "presroka_14.png": {
+            "compression": 3,
+            "name": "SR_ODLATUJE_4",
+            "position_x": 385,
+            "position_y": 421
+        },
+        "presroka_15.png": {
+            "compression": 3,
+            "name": "SR_PRZYGLADA_SIE_4",
+            "position_x": 329,
+            "position_y": 305
+        },
+        "presroka_16.png": {
+            "compression": 3,
+            "name": "SR_ODLATUJE_5",
+            "position_x": 381,
+            "position_y": 405
+        },
+        "presroka_17.png": {
+            "compression": 3,
+            "name": "SR_PRZYGLADA_SIE_5",
+            "position_x": 324,
+            "position_y": 306
+        },
+        "presroka_18.png": {
+            "compression": 3,
+            "name": "SR_ODLATUJE_6",
+            "position_x": 379,
+            "position_y": 385
+        },
+        "presroka_19.png": {
+            "compression": 3,
+            "name": "SR_PRZYGLADA_SIE_6",
+            "position_x": 320,
+            "position_y": 307
+        },
+        "presroka_2.png": {
+            "compression": 3,
+            "name": "SR_ODLATUJE_1",
+            "position_x": 379,
+            "position_y": 422
+        },
+        "presroka_20.png": {
+            "compression": 3,
+            "name": "SR_ODLATUJE_7",
+            "position_x": 381,
+            "position_y": 373
+        },
+        "presroka_21.png": {
+            "compression": 3,
+            "name": "SR_PRZYGLADA_SIE_7",
+            "position_x": 318,
+            "position_y": 307
+        },
+        "presroka_22.png": {
+            "compression": 3,
+            "name": "SR_BEZRUCH_2",
+            "position_x": 371,
+            "position_y": 573
+        },
+        "presroka_23.png": {
+            "compression": 3,
+            "name": "SR_ODLATUJE_8",
+            "position_x": 383,
+            "position_y": 372
+        },
+        "presroka_24.png": {
+            "compression": 3,
+            "name": "SR_PRZYGLADA_SIE_8",
+            "position_x": 317,
+            "position_y": 307
+        },
+        "presroka_25.png": {
+            "compression": 3,
+            "name": "SR_ODLATUJE_9",
+            "position_x": 386,
+            "position_y": 367
+        },
+        "presroka_26.png": {
+            "compression": 3,
+            "name": "SR_ODLATUJE_10",
+            "position_x": 395,
+            "position_y": 377
+        },
+        "presroka_27.png": {
+            "compression": 3,
+            "name": "SR_ODLATUJE_11",
+            "position_x": 392,
+            "position_y": 379
+        },
+        "presroka_28.png": {
+            "compression": 3,
+            "name": "SR_ODLATUJE_12",
+            "position_x": 386,
+            "position_y": 380
+        },
+        "presroka_29.png": {
+            "compression": 3,
+            "name": "SR_ODLATUJE_13",
+            "position_x": 387,
+            "position_y": 380
+        },
+        "presroka_3.png": {
+            "compression": 3,
+            "name": "SR_PRZYGLADA_SIE_1",
+            "position_x": 333,
+            "position_y": 306
+        },
+        "presroka_30.png": {
+            "compression": 3,
+            "name": "SR_ODLATUJE_14",
+            "position_x": 375,
+            "position_y": 389
+        },
+        "presroka_31.png": {
+            "compression": 3,
+            "name": "SR_ODLATUJE_15",
+            "position_x": 379,
+            "position_y": 409
+        },
+        "presroka_32.png": {
+            "compression": 3,
+            "name": "SR_ODLATUJE_16",
+            "position_x": 378,
+            "position_y": 409
+        },
+        "presroka_33.png": {
+            "compression": 3,
+            "name": "SR_ODLATUJE_17",
+            "position_x": 376,
+            "position_y": 392
+        },
+        "presroka_34.png": {
+            "compression": 3,
+            "name": "SR_BEZRUCH_3",
+            "position_x": 371,
+            "position_y": 573
+        },
+        "presroka_35.png": {
+            "compression": 3,
+            "name": "SR_ODLATUJE_18",
+            "position_x": 375,
+            "position_y": 377
+        },
+        "presroka_36.png": {
+            "compression": 3,
+            "name": "SR_ODLATUJE_19",
+            "position_x": 373,
+            "position_y": 384
+        },
+        "presroka_37.png": {
+            "compression": 3,
+            "name": "SR_ODLATUJE_20",
+            "position_x": 383,
+            "position_y": 381
+        },
+        "presroka_38.png": {
+            "compression": 3,
+            "name": "SR_ODLATUJE_21",
+            "position_x": 387,
+            "position_y": 381
+        },
+        "presroka_39.png": {
+            "compression": 3,
+            "name": "SR_BEZRUCH_4",
+            "position_x": 371,
+            "position_y": 573
+        },
+        "presroka_4.png": {
+            "compression": 3,
+            "name": "SR_GRAZNA_6",
+            "position_x": 377,
+            "position_y": 573
+        },
+        "presroka_5.png": {
+            "compression": 3,
+            "name": "SR_GRAZNA_5",
+            "position_x": 377,
+            "position_y": 573
+        },
+        "presroka_6.png": {
+            "compression": 3,
+            "name": "SR_GRAZNA_2",
+            "position_x": 373,
+            "position_y": 573
+        },
+        "presroka_7.png": {
+            "compression": 3,
+            "name": "SR_ODLATUJE_2",
+            "position_x": 383,
+            "position_y": 421
+        },
+        "presroka_8.png": {
+            "compression": 3,
+            "name": "SR_PRZYGLADA_SIE_2",
+            "position_x": 333,
+            "position_y": 306
+        },
+        "presroka_9.png": {
+            "compression": 3,
+            "name": "SR_GRAZNA_7",
+            "position_x": 377,
+            "position_y": 573
+        }
+    },
+    "transparency": 255
+}

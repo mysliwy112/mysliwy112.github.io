@@ -1,0 +1,2110 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "WEJSCIE": {
+            "frames": [
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_0.png",
+                    "name": "12_CHOD 34 TYLEM_L",
+                    "position_x": 146,
+                    "position_y": 142
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_2.png",
+                    "name": "1_CHOD 34 TYLEM_L",
+                    "position_x": 146,
+                    "position_y": 139
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_4.png",
+                    "name": "2_CHOD 34 TYLEM_L",
+                    "position_x": 143,
+                    "position_y": 136
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_6.png",
+                    "name": "3_CHOD 34 TYLEM_L",
+                    "position_x": 137,
+                    "position_y": 132
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_8.png",
+                    "name": "4_CHOD 34 TYLEM_L",
+                    "position_x": 133,
+                    "position_y": 130
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_10.png",
+                    "name": "5_CHOD 34 TYLEM_L",
+                    "position_x": 130,
+                    "position_y": 125
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_12.png",
+                    "name": "6_CHOD 34 TYLEM_L",
+                    "position_x": 129,
+                    "position_y": 118,
+                    "sfx": "SFX\\0rexKstep4.wav",
+                    "sfx_seed": 16672008
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_14.png",
+                    "name": "7_CHOD 34 TYLEM_L",
+                    "position_x": 127,
+                    "position_y": 117
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_16.png",
+                    "name": "8_CHOD 34 TYLEM_L",
+                    "position_x": 126,
+                    "position_y": 115
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_18.png",
+                    "name": "9_CHOD 34 TYLEM_L",
+                    "position_x": 123,
+                    "position_y": 112
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_20.png",
+                    "name": "10_CHOD 34 TYLEM_L",
+                    "position_x": 117,
+                    "position_y": 110
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_22.png",
+                    "name": "11_CHOD 34 TYLEM_L",
+                    "position_x": 112,
+                    "position_y": 108,
+                    "sfx": "SFX\\0rexKstep5.wav",
+                    "sfx_seed": 16673564
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_0.png",
+                    "name": "12_CHOD 34 TYLEM_L",
+                    "position_x": 107,
+                    "position_y": 101
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_2.png",
+                    "name": "1_CHOD 34 TYLEM_L",
+                    "position_x": 107,
+                    "position_y": 98
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_4.png",
+                    "name": "2_CHOD 34 TYLEM_L",
+                    "position_x": 104,
+                    "position_y": 95
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_6.png",
+                    "name": "3_CHOD 34 TYLEM_L",
+                    "position_x": 98,
+                    "position_y": 91
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_8.png",
+                    "name": "4_CHOD 34 TYLEM_L",
+                    "position_x": 94,
+                    "position_y": 89
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_10.png",
+                    "name": "5_CHOD 34 TYLEM_L",
+                    "position_x": 91,
+                    "position_y": 84
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_12.png",
+                    "name": "6_CHOD 34 TYLEM_L",
+                    "position_x": 90,
+                    "position_y": 77,
+                    "sfx": "SFX\\0rexKstep4.wav",
+                    "sfx_seed": 16675120
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_14.png",
+                    "name": "7_CHOD 34 TYLEM_L",
+                    "position_x": 88,
+                    "position_y": 76
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_16.png",
+                    "name": "8_CHOD 34 TYLEM_L",
+                    "position_x": 87,
+                    "position_y": 74
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_18.png",
+                    "name": "9_CHOD 34 TYLEM_L",
+                    "position_x": 84,
+                    "position_y": 71
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_20.png",
+                    "name": "10_CHOD 34 TYLEM_L",
+                    "position_x": 78,
+                    "position_y": 69
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_22.png",
+                    "name": "11_CHOD 34 TYLEM_L",
+                    "position_x": 73,
+                    "position_y": 67,
+                    "sfx": "SFX\\0rexKstep3.wav",
+                    "sfx_seed": 16676676
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_0.png",
+                    "name": "12_CHOD 34 TYLEM_L",
+                    "position_x": 74,
+                    "position_y": 62
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_2.png",
+                    "name": "1_CHOD 34 TYLEM_L",
+                    "position_x": 74,
+                    "position_y": 59
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_4.png",
+                    "name": "2_CHOD 34 TYLEM_L",
+                    "position_x": 71,
+                    "position_y": 56
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_6.png",
+                    "name": "3_CHOD 34 TYLEM_L",
+                    "position_x": 65,
+                    "position_y": 52
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_8.png",
+                    "name": "4_CHOD 34 TYLEM_L",
+                    "position_x": 61,
+                    "position_y": 50
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_10.png",
+                    "name": "5_CHOD 34 TYLEM_L",
+                    "position_x": 58,
+                    "position_y": 45
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_12.png",
+                    "name": "6_CHOD 34 TYLEM_L",
+                    "position_x": 57,
+                    "position_y": 38,
+                    "sfx": "SFX\\0rexKstep2.wav",
+                    "sfx_seed": 16678232
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_14.png",
+                    "name": "7_CHOD 34 TYLEM_L",
+                    "position_x": 55,
+                    "position_y": 37
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_16.png",
+                    "name": "8_CHOD 34 TYLEM_L",
+                    "position_x": 54,
+                    "position_y": 35
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_18.png",
+                    "name": "9_CHOD 34 TYLEM_L",
+                    "position_x": 51,
+                    "position_y": 32
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_20.png",
+                    "name": "10_CHOD 34 TYLEM_L",
+                    "position_x": 45,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_22.png",
+                    "name": "11_CHOD 34 TYLEM_L",
+                    "position_x": 40,
+                    "position_y": 28
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_0.png",
+                    "name": "12_CHOD 34 TYLEM_L",
+                    "position_x": 33,
+                    "position_y": 23,
+                    "sfx": "SFX\\0rexKstep5.wav",
+                    "sfx_seed": 16679788
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_2.png",
+                    "name": "1_CHOD 34 TYLEM_L",
+                    "position_x": 33,
+                    "position_y": 17
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_4.png",
+                    "name": "2_CHOD 34 TYLEM_L",
+                    "position_x": 30,
+                    "position_y": 15
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_6.png",
+                    "name": "3_CHOD 34 TYLEM_L",
+                    "position_x": 24,
+                    "position_y": 15
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_8.png",
+                    "name": "4_CHOD 34 TYLEM_L",
+                    "position_x": 20,
+                    "position_y": 14
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_10.png",
+                    "name": "5_CHOD 34 TYLEM_L",
+                    "position_x": 17,
+                    "position_y": 14
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_12.png",
+                    "name": "6_CHOD 34 TYLEM_L",
+                    "position_x": 16,
+                    "position_y": 10,
+                    "sfx": "SFX\\0rexKstep6.wav",
+                    "sfx_seed": 16698268
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_14.png",
+                    "name": "7_CHOD 34 TYLEM_L",
+                    "position_x": 14,
+                    "position_y": 9
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_16.png",
+                    "name": "8_CHOD 34 TYLEM_L",
+                    "position_x": 13,
+                    "position_y": 8
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_18.png",
+                    "name": "9_CHOD 34 TYLEM_L",
+                    "position_x": 10,
+                    "position_y": 6
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_20.png",
+                    "name": "10_CHOD 34 TYLEM_L",
+                    "position_x": 5,
+                    "position_y": 5
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_22.png",
+                    "name": "11_CHOD 34 TYLEM_L",
+                    "position_x": -1,
+                    "position_y": 4,
+                    "sfx": "SFX\\0rexKstep2.wav",
+                    "sfx_seed": 16699824
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_36.png",
+                    "name": "12_CHOD 34 TYLEM_L",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_37.png",
+                    "name": "1_CHOD 34 TYLEM_L",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_38.png",
+                    "name": "2_CHOD 34 TYLEM_L",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_39.png",
+                    "name": "3_CHOD 34 TYLEM_L",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_40.png",
+                    "name": "4_CHOD 34 TYLEM_L",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_41.png",
+                    "name": "5_CHOD 34 TYLEM_L",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\0rexKstep3.wav",
+                    "sfx_seed": 16701380
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_42.png",
+                    "name": "6_CHOD 34 TYLEM_L",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_43.png",
+                    "name": "7_CHOD 34 TYLEM_L",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_44.png",
+                    "name": "8_CHOD 34 TYLEM_L",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_45.png",
+                    "name": "9_CHOD 34 TYLEM_L",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_46.png",
+                    "name": "10_CHOD 34 TYLEM_L",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_47.png",
+                    "name": "11_CHOD 34 TYLEM_L",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_48.png",
+                    "name": "12_CHOD 34 TYLEM_L",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "WYJSCIE": {
+            "frames": [
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_1.png",
+                    "name": "1_CHOD34PRZ_P",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_3.png",
+                    "name": "2_CHOD34PRZ_P",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_5.png",
+                    "name": "3_CHOD34PRZ_P",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_7.png",
+                    "name": "4_CHOD34PRZ_P",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_9.png",
+                    "name": "5_CHOD34PRZ_P",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_11.png",
+                    "name": "6_CHOD34PRZ_P",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_13.png",
+                    "name": "7_CHOD34PRZ_P",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_15.png",
+                    "name": "8_CHOD34PRZ_P",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\0rexKstep2.wav",
+                    "sfx_seed": 16647112
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_17.png",
+                    "name": "9_CHOD34PRZ_P",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_19.png",
+                    "name": "10_CHOD34PRZ_P",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_21.png",
+                    "name": "11_CHOD34PRZ_P",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_23.png",
+                    "name": "12_CHOD34PRZ_P",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_24.png",
+                    "name": "1_CHOD34PRZ_P",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_25.png",
+                    "name": "2_CHOD34PRZ_P",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\0rexKstep3.wav",
+                    "sfx_seed": 16648668
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_26.png",
+                    "name": "3_CHOD34PRZ_P",
+                    "position_x": 2,
+                    "position_y": 1
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_27.png",
+                    "name": "4_CHOD34PRZ_P",
+                    "position_x": 3,
+                    "position_y": 2
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_28.png",
+                    "name": "5_CHOD34PRZ_P",
+                    "position_x": 6,
+                    "position_y": 4
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_29.png",
+                    "name": "6_CHOD34PRZ_P",
+                    "position_x": 7,
+                    "position_y": 3
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_30.png",
+                    "name": "7_CHOD34PRZ_P",
+                    "position_x": 9,
+                    "position_y": 3
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_31.png",
+                    "name": "8_CHOD34PRZ_P",
+                    "position_x": 10,
+                    "position_y": 9,
+                    "sfx": "SFX\\0rexKstep4.wav",
+                    "sfx_seed": 16650224
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_32.png",
+                    "name": "9_CHOD34PRZ_P",
+                    "position_x": 12,
+                    "position_y": 15
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_33.png",
+                    "name": "10_CHOD34PRZ_P",
+                    "position_x": 13,
+                    "position_y": 15
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_34.png",
+                    "name": "11_CHOD34PRZ_P",
+                    "position_x": 17,
+                    "position_y": 15
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_35.png",
+                    "name": "12_CHOD34PRZ_P",
+                    "position_x": 19,
+                    "position_y": 17
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_24.png",
+                    "name": "1_CHOD34PRZ_P",
+                    "position_x": 25,
+                    "position_y": 21,
+                    "sfx": "SFX\\0rexKstep5.wav",
+                    "sfx_seed": 16651780
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_25.png",
+                    "name": "2_CHOD34PRZ_P",
+                    "position_x": 25,
+                    "position_y": 21
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_26.png",
+                    "name": "3_CHOD34PRZ_P",
+                    "position_x": 27,
+                    "position_y": 22
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_27.png",
+                    "name": "4_CHOD34PRZ_P",
+                    "position_x": 28,
+                    "position_y": 23
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_28.png",
+                    "name": "5_CHOD34PRZ_P",
+                    "position_x": 31,
+                    "position_y": 25
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_29.png",
+                    "name": "6_CHOD34PRZ_P",
+                    "position_x": 32,
+                    "position_y": 24
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_30.png",
+                    "name": "7_CHOD34PRZ_P",
+                    "position_x": 34,
+                    "position_y": 24
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_31.png",
+                    "name": "8_CHOD34PRZ_P",
+                    "position_x": 35,
+                    "position_y": 30,
+                    "sfx": "SFX\\0rexKstep5.wav",
+                    "sfx_seed": 16653336
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_32.png",
+                    "name": "9_CHOD34PRZ_P",
+                    "position_x": 38,
+                    "position_y": 32
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_33.png",
+                    "name": "10_CHOD34PRZ_P",
+                    "position_x": 38,
+                    "position_y": 36
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_34.png",
+                    "name": "11_CHOD34PRZ_P",
+                    "position_x": 42,
+                    "position_y": 36
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_35.png",
+                    "name": "12_CHOD34PRZ_P",
+                    "position_x": 44,
+                    "position_y": 38
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_24.png",
+                    "name": "1_CHOD34PRZ_P",
+                    "position_x": 49,
+                    "position_y": 42,
+                    "sfx": "SFX\\0rexKstep6.wav",
+                    "sfx_seed": 16654892
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_25.png",
+                    "name": "2_CHOD34PRZ_P",
+                    "position_x": 49,
+                    "position_y": 42
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_26.png",
+                    "name": "3_CHOD34PRZ_P",
+                    "position_x": 51,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_27.png",
+                    "name": "4_CHOD34PRZ_P",
+                    "position_x": 52,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_28.png",
+                    "name": "5_CHOD34PRZ_P",
+                    "position_x": 55,
+                    "position_y": 46
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_29.png",
+                    "name": "6_CHOD34PRZ_P",
+                    "position_x": 56,
+                    "position_y": 45
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_30.png",
+                    "name": "7_CHOD34PRZ_P",
+                    "position_x": 58,
+                    "position_y": 45
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_31.png",
+                    "name": "8_CHOD34PRZ_P",
+                    "position_x": 59,
+                    "position_y": 51,
+                    "sfx": "SFX\\0rexKstep5.wav",
+                    "sfx_seed": 16656448
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_32.png",
+                    "name": "9_CHOD34PRZ_P",
+                    "position_x": 63,
+                    "position_y": 55
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_33.png",
+                    "name": "10_CHOD34PRZ_P",
+                    "position_x": 62,
+                    "position_y": 57
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_34.png",
+                    "name": "11_CHOD34PRZ_P",
+                    "position_x": 66,
+                    "position_y": 57
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_35.png",
+                    "name": "12_CHOD34PRZ_P",
+                    "position_x": 68,
+                    "position_y": 59,
+                    "sfx": "SFX\\0rexKstep4.wav",
+                    "sfx_seed": 16658004
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_24.png",
+                    "name": "1_CHOD34PRZ_P",
+                    "position_x": 73,
+                    "position_y": 63
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_25.png",
+                    "name": "2_CHOD34PRZ_P",
+                    "position_x": 73,
+                    "position_y": 63
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_26.png",
+                    "name": "3_CHOD34PRZ_P",
+                    "position_x": 75,
+                    "position_y": 64
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_27.png",
+                    "name": "4_CHOD34PRZ_P",
+                    "position_x": 76,
+                    "position_y": 65
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_28.png",
+                    "name": "5_CHOD34PRZ_P",
+                    "position_x": 79,
+                    "position_y": 67
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_29.png",
+                    "name": "6_CHOD34PRZ_P",
+                    "position_x": 80,
+                    "position_y": 66
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_30.png",
+                    "name": "7_CHOD34PRZ_P",
+                    "position_x": 82,
+                    "position_y": 66
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_31.png",
+                    "name": "8_CHOD34PRZ_P",
+                    "position_x": 83,
+                    "position_y": 72,
+                    "sfx": "SFX\\0rexKstep3.wav",
+                    "sfx_seed": 16659560
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_32.png",
+                    "name": "9_CHOD34PRZ_P",
+                    "position_x": 85,
+                    "position_y": 78
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_33.png",
+                    "name": "10_CHOD34PRZ_P",
+                    "position_x": 86,
+                    "position_y": 78
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_34.png",
+                    "name": "11_CHOD34PRZ_P",
+                    "position_x": 90,
+                    "position_y": 78
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_35.png",
+                    "name": "12_CHOD34PRZ_P",
+                    "position_x": 92,
+                    "position_y": 80
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_24.png",
+                    "name": "1_CHOD34PRZ_P",
+                    "position_x": 98,
+                    "position_y": 84,
+                    "sfx": "SFX\\0rexKstep2.wav",
+                    "sfx_seed": 16661116
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_25.png",
+                    "name": "2_CHOD34PRZ_P",
+                    "position_x": 98,
+                    "position_y": 84
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_26.png",
+                    "name": "3_CHOD34PRZ_P",
+                    "position_x": 100,
+                    "position_y": 85
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_27.png",
+                    "name": "4_CHOD34PRZ_P",
+                    "position_x": 101,
+                    "position_y": 86
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_28.png",
+                    "name": "5_CHOD34PRZ_P",
+                    "position_x": 104,
+                    "position_y": 88
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_29.png",
+                    "name": "6_CHOD34PRZ_P",
+                    "position_x": 105,
+                    "position_y": 87
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_30.png",
+                    "name": "7_CHOD34PRZ_P",
+                    "position_x": 107,
+                    "position_y": 87
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_31.png",
+                    "name": "8_CHOD34PRZ_P",
+                    "position_x": 108,
+                    "position_y": 93,
+                    "sfx": "SFX\\0rexKstep3.wav",
+                    "sfx_seed": 16662672
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_32.png",
+                    "name": "9_CHOD34PRZ_P",
+                    "position_x": 110,
+                    "position_y": 99
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_33.png",
+                    "name": "10_CHOD34PRZ_P",
+                    "position_x": 111,
+                    "position_y": 99
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_34.png",
+                    "name": "11_CHOD34PRZ_P",
+                    "position_x": 115,
+                    "position_y": 99
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_35.png",
+                    "name": "12_CHOD34PRZ_P",
+                    "position_x": 117,
+                    "position_y": 101,
+                    "sfx": "SFX\\0rexKstep2.wav",
+                    "sfx_seed": 16665784
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_24.png",
+                    "name": "1_CHOD34PRZ_P",
+                    "position_x": 122,
+                    "position_y": 104
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_25.png",
+                    "name": "2_CHOD34PRZ_P",
+                    "position_x": 122,
+                    "position_y": 104
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_26.png",
+                    "name": "3_CHOD34PRZ_P",
+                    "position_x": 124,
+                    "position_y": 105
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_27.png",
+                    "name": "4_CHOD34PRZ_P",
+                    "position_x": 125,
+                    "position_y": 106
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_28.png",
+                    "name": "5_CHOD34PRZ_P",
+                    "position_x": 128,
+                    "position_y": 108
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_29.png",
+                    "name": "6_CHOD34PRZ_P",
+                    "position_x": 129,
+                    "position_y": 107
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_30.png",
+                    "name": "7_CHOD34PRZ_P",
+                    "position_x": 131,
+                    "position_y": 107
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_31.png",
+                    "name": "8_CHOD34PRZ_P",
+                    "position_x": 132,
+                    "position_y": 113,
+                    "sfx": "SFX\\0rexKstep3.wav",
+                    "sfx_seed": 16667340
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_32.png",
+                    "name": "9_CHOD34PRZ_P",
+                    "position_x": 134,
+                    "position_y": 119
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_33.png",
+                    "name": "10_CHOD34PRZ_P",
+                    "position_x": 135,
+                    "position_y": 119
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_34.png",
+                    "name": "11_CHOD34PRZ_P",
+                    "position_x": 139,
+                    "position_y": 119
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_35.png",
+                    "name": "12_CHOD34PRZ_P",
+                    "position_x": 141,
+                    "position_y": 121
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_24.png",
+                    "name": "1_CHOD34PRZ_P",
+                    "position_x": 149,
+                    "position_y": 124,
+                    "sfx": "SFX\\0rexKstep4.wav",
+                    "sfx_seed": 16668896
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_25.png",
+                    "name": "2_CHOD34PRZ_P",
+                    "position_x": 149,
+                    "position_y": 124
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_26.png",
+                    "name": "3_CHOD34PRZ_P",
+                    "position_x": 151,
+                    "position_y": 125
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_27.png",
+                    "name": "4_CHOD34PRZ_P",
+                    "position_x": 152,
+                    "position_y": 126
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_28.png",
+                    "name": "5_CHOD34PRZ_P",
+                    "position_x": 155,
+                    "position_y": 128
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_29.png",
+                    "name": "6_CHOD34PRZ_P",
+                    "position_x": 156,
+                    "position_y": 127
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_30.png",
+                    "name": "7_CHOD34PRZ_P",
+                    "position_x": 158,
+                    "position_y": 127
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_31.png",
+                    "name": "8_CHOD34PRZ_P",
+                    "position_x": 159,
+                    "position_y": 133,
+                    "sfx": "SFX\\0rexKstep3.wav",
+                    "sfx_seed": 16670452
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_32.png",
+                    "name": "9_CHOD34PRZ_P",
+                    "position_x": 161,
+                    "position_y": 139
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_33.png",
+                    "name": "10_CHOD34PRZ_P",
+                    "position_x": 162,
+                    "position_y": 139
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_34.png",
+                    "name": "11_CHOD34PRZ_P",
+                    "position_x": 166,
+                    "position_y": 139
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_35.png",
+                    "name": "12_CHOD34PRZ_P",
+                    "position_x": 168,
+                    "position_y": 141
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "reksio_0.png": {
+            "compression": 4,
+            "name": "12_CHOD 34 TYLEM_L",
+            "position_x": 379,
+            "position_y": 425
+        },
+        "reksio_1.png": {
+            "compression": 4,
+            "name": "1_CHOD34PRZ_P",
+            "position_x": 365,
+            "position_y": 440
+        },
+        "reksio_10.png": {
+            "compression": 4,
+            "name": "5_CHOD 34 TYLEM_L",
+            "position_x": 376,
+            "position_y": 424
+        },
+        "reksio_11.png": {
+            "compression": 4,
+            "name": "6_CHOD34PRZ_P",
+            "position_x": 357,
+            "position_y": 428
+        },
+        "reksio_12.png": {
+            "compression": 4,
+            "name": "6_CHOD 34 TYLEM_L",
+            "position_x": 375,
+            "position_y": 426
+        },
+        "reksio_13.png": {
+            "compression": 4,
+            "name": "7_CHOD34PRZ_P",
+            "position_x": 357,
+            "position_y": 426
+        },
+        "reksio_14.png": {
+            "compression": 4,
+            "name": "7_CHOD 34 TYLEM_L",
+            "position_x": 373,
+            "position_y": 426
+        },
+        "reksio_15.png": {
+            "compression": 4,
+            "name": "8_CHOD34PRZ_P",
+            "position_x": 357,
+            "position_y": 415
+        },
+        "reksio_16.png": {
+            "compression": 4,
+            "name": "8_CHOD 34 TYLEM_L",
+            "position_x": 373,
+            "position_y": 424
+        },
+        "reksio_17.png": {
+            "compression": 4,
+            "name": "9_CHOD34PRZ_P",
+            "position_x": 361,
+            "position_y": 417
+        },
+        "reksio_18.png": {
+            "compression": 4,
+            "name": "9_CHOD 34 TYLEM_L",
+            "position_x": 374,
+            "position_y": 424
+        },
+        "reksio_19.png": {
+            "compression": 4,
+            "name": "10_CHOD34PRZ_P",
+            "position_x": 363,
+            "position_y": 418
+        },
+        "reksio_2.png": {
+            "compression": 4,
+            "name": "1_CHOD 34 TYLEM_L",
+            "position_x": 372,
+            "position_y": 426
+        },
+        "reksio_20.png": {
+            "compression": 4,
+            "name": "10_CHOD 34 TYLEM_L",
+            "position_x": 379,
+            "position_y": 423
+        },
+        "reksio_21.png": {
+            "compression": 4,
+            "name": "11_CHOD34PRZ_P",
+            "position_x": 367,
+            "position_y": 417
+        },
+        "reksio_22.png": {
+            "compression": 4,
+            "name": "11_CHOD 34 TYLEM_L",
+            "position_x": 376,
+            "position_y": 425
+        },
+        "reksio_23.png": {
+            "compression": 4,
+            "name": "12_CHOD34PRZ_P",
+            "position_x": 368,
+            "position_y": 417
+        },
+        "reksio_24.png": {
+            "compression": 4,
+            "name": "1_CHOD34PRZ_P",
+            "position_x": 369,
+            "position_y": 417
+        },
+        "reksio_25.png": {
+            "compression": 4,
+            "name": "2_CHOD34PRZ_P",
+            "position_x": 373,
+            "position_y": 419
+        },
+        "reksio_26.png": {
+            "compression": 4,
+            "name": "3_CHOD34PRZ_P",
+            "position_x": 374,
+            "position_y": 418
+        },
+        "reksio_27.png": {
+            "compression": 4,
+            "name": "4_CHOD34PRZ_P",
+            "position_x": 377,
+            "position_y": 418
+        },
+        "reksio_28.png": {
+            "compression": 4,
+            "name": "5_CHOD34PRZ_P",
+            "position_x": 379,
+            "position_y": 418
+        },
+        "reksio_29.png": {
+            "compression": 4,
+            "name": "6_CHOD34PRZ_P",
+            "position_x": 377,
+            "position_y": 419
+        },
+        "reksio_3.png": {
+            "compression": 4,
+            "name": "2_CHOD34PRZ_P",
+            "position_x": 364,
+            "position_y": 438
+        },
+        "reksio_30.png": {
+            "compression": 4,
+            "name": "7_CHOD34PRZ_P",
+            "position_x": 375,
+            "position_y": 419
+        },
+        "reksio_31.png": {
+            "compression": 4,
+            "name": "8_CHOD34PRZ_P",
+            "position_x": 376,
+            "position_y": 418
+        },
+        "reksio_32.png": {
+            "compression": 4,
+            "name": "9_CHOD34PRZ_P",
+            "position_x": 379,
+            "position_y": 419
+        },
+        "reksio_33.png": {
+            "compression": 4,
+            "name": "10_CHOD34PRZ_P",
+            "position_x": 378,
+            "position_y": 418
+        },
+        "reksio_34.png": {
+            "compression": 4,
+            "name": "11_CHOD34PRZ_P",
+            "position_x": 378,
+            "position_y": 418
+        },
+        "reksio_35.png": {
+            "compression": 4,
+            "name": "12_CHOD34PRZ_P",
+            "position_x": 375,
+            "position_y": 419
+        },
+        "reksio_36.png": {
+            "compression": 4,
+            "name": "12_CHOD 34 TYLEM_L",
+            "position_x": 373,
+            "position_y": 422
+        },
+        "reksio_37.png": {
+            "compression": 4,
+            "name": "1_CHOD 34 TYLEM_L",
+            "position_x": 367,
+            "position_y": 421
+        },
+        "reksio_38.png": {
+            "compression": 4,
+            "name": "2_CHOD 34 TYLEM_L",
+            "position_x": 367,
+            "position_y": 418
+        },
+        "reksio_39.png": {
+            "compression": 4,
+            "name": "3_CHOD 34 TYLEM_L",
+            "position_x": 367,
+            "position_y": 417
+        },
+        "reksio_4.png": {
+            "compression": 4,
+            "name": "2_CHOD 34 TYLEM_L",
+            "position_x": 374,
+            "position_y": 424
+        },
+        "reksio_40.png": {
+            "compression": 4,
+            "name": "4_CHOD 34 TYLEM_L",
+            "position_x": 366,
+            "position_y": 416
+        },
+        "reksio_41.png": {
+            "compression": 4,
+            "name": "5_CHOD 34 TYLEM_L",
+            "position_x": 360,
+            "position_y": 422
+        },
+        "reksio_42.png": {
+            "compression": 4,
+            "name": "6_CHOD 34 TYLEM_L",
+            "position_x": 364,
+            "position_y": 432
+        },
+        "reksio_43.png": {
+            "compression": 4,
+            "name": "7_CHOD 34 TYLEM_L",
+            "position_x": 364,
+            "position_y": 432
+        },
+        "reksio_44.png": {
+            "compression": 4,
+            "name": "8_CHOD 34 TYLEM_L",
+            "position_x": 364,
+            "position_y": 434
+        },
+        "reksio_45.png": {
+            "compression": 4,
+            "name": "9_CHOD 34 TYLEM_L",
+            "position_x": 363,
+            "position_y": 435
+        },
+        "reksio_46.png": {
+            "compression": 4,
+            "name": "10_CHOD 34 TYLEM_L",
+            "position_x": 359,
+            "position_y": 447
+        },
+        "reksio_47.png": {
+            "compression": 4,
+            "name": "11_CHOD 34 TYLEM_L",
+            "position_x": 360,
+            "position_y": 455
+        },
+        "reksio_48.png": {
+            "compression": 4,
+            "name": "12_CHOD 34 TYLEM_L",
+            "position_x": 359,
+            "position_y": 463
+        },
+        "reksio_5.png": {
+            "compression": 4,
+            "name": "3_CHOD34PRZ_P",
+            "position_x": 357,
+            "position_y": 434
+        },
+        "reksio_6.png": {
+            "compression": 4,
+            "name": "3_CHOD 34 TYLEM_L",
+            "position_x": 377,
+            "position_y": 423
+        },
+        "reksio_7.png": {
+            "compression": 4,
+            "name": "4_CHOD34PRZ_P",
+            "position_x": 357,
+            "position_y": 432
+        },
+        "reksio_8.png": {
+            "compression": 4,
+            "name": "4_CHOD 34 TYLEM_L",
+            "position_x": 381,
+            "position_y": 423
+        },
+        "reksio_9.png": {
+            "compression": 4,
+            "name": "5_CHOD34PRZ_P",
+            "position_x": 357,
+            "position_y": 429
+        }
+    },
+    "transparency": 255
+}

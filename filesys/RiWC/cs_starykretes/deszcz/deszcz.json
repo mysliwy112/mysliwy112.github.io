@@ -1,0 +1,99 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "deszcz_0.png",
+                    "name": "LAYER_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "deszcz_0.png",
+                    "name": "LAYER_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "deszcz_1.png",
+                    "name": "LAYER_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "deszcz_1.png",
+                    "name": "LAYER_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "deszcz_2.png",
+                    "name": "LAYER_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "deszcz_2.png",
+                    "name": "LAYER_3",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 5,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "deszcz_0.png": {
+            "compression": 3,
+            "name": "LAYER_1",
+            "position_x": 25,
+            "position_y": 60
+        },
+        "deszcz_1.png": {
+            "compression": 3,
+            "name": "LAYER_2",
+            "position_x": 25,
+            "position_y": 64
+        },
+        "deszcz_2.png": {
+            "compression": 3,
+            "name": "LAYER_3",
+            "position_x": 25,
+            "position_y": 60
+        }
+    },
+    "transparency": 255
+}

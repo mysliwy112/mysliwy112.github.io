@@ -1,0 +1,137 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "strona_0.png",
+                    "name": "LAYER_2_COPY",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\kart4.wav;SFX\\kart1.wav;SFX\\kart2.wav",
+                    "sfx_seed": 50373876
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "strona_1.png",
+                    "name": "LAYER_2_COPY_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "strona_2.png",
+                    "name": "LAYER_2_COPY_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "strona_3.png",
+                    "name": "LAYER_2_COPY_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "strona_4.png",
+                    "name": "LAYER_2_COPY_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "strona_5.png",
+                    "name": "LAYER_2_COPY_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "strona_6.png",
+                    "name": "LAYER_2_COPY_6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "strona_6.png",
+                    "name": "LAYER_2_COPY_6",
+                    "position_x": -105,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "strona_0.png": {
+            "compression": 4,
+            "name": "LAYER_2_COPY",
+            "position_x": 684,
+            "position_y": 152
+        },
+        "strona_1.png": {
+            "compression": 4,
+            "name": "LAYER_2_COPY_2",
+            "position_x": 460
+        },
+        "strona_2.png": {
+            "compression": 4,
+            "name": "LAYER_2_COPY_3",
+            "position_x": 229
+        },
+        "strona_3.png": {
+            "compression": 4,
+            "name": "LAYER_2_COPY_4"
+        },
+        "strona_4.png": {
+            "compression": 4,
+            "name": "LAYER_2_COPY_7"
+        },
+        "strona_5.png": {
+            "compression": 4,
+            "name": "LAYER_2_COPY_5"
+        },
+        "strona_6.png": {
+            "compression": 4,
+            "name": "LAYER_2_COPY_6"
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,124 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CALE": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "lustro6_0.png",
+                    "name": "LUSTRO",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ROZBIJA": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "lustro6_0.png",
+                    "name": "LUSTRO",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\int_dziuraL.wav",
+                    "sfx_seed": 50266500
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "lustro6_1.png",
+                    "name": "SZKLO1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "lustro6_1.png",
+                    "name": "SZKLO1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "lustro6_2.png",
+                    "name": "SZKLO2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "lustro6_2.png",
+                    "name": "SZKLO2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "lustro6_3.png",
+                    "name": "SZKLO3",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "lustro6_0.png": {
+            "compression": 4,
+            "name": "LUSTRO",
+            "position_x": 79,
+            "position_y": 213
+        },
+        "lustro6_1.png": {
+            "compression": 4,
+            "name": "SZKLO1",
+            "position_x": 72,
+            "position_y": 220
+        },
+        "lustro6_2.png": {
+            "compression": 4,
+            "name": "SZKLO2",
+            "position_x": 68,
+            "position_y": 361
+        },
+        "lustro6_3.png": {
+            "compression": 4,
+            "name": "SZKLO3",
+            "position_x": 124,
+            "position_y": 477
+        }
+    },
+    "transparency": 255
+}

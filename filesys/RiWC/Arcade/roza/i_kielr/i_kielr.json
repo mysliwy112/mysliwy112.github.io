@@ -1,0 +1,129 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "120-440-600": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "i_kielr_0.png",
+                    "name": "KIEL1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "i_kielr_0.png",
+                    "name": "KIEL1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE0": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "i_kielr_0.png",
+                    "name": "KIEL1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE1": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "i_kielr_1.png",
+                    "name": "KIEL2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE2": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "i_kielr_2.png",
+                    "name": "KIEL3",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE3": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "i_kielr_1.png",
+                    "name": "KIEL2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "i_kielr_0.png": {
+            "compression": 4,
+            "name": "KIEL1",
+            "position_x": 77,
+            "position_y": 218
+        },
+        "i_kielr_1.png": {
+            "compression": 4,
+            "name": "KIEL2",
+            "position_x": 75,
+            "position_y": 218
+        },
+        "i_kielr_2.png": {
+            "compression": 4,
+            "name": "KIEL3",
+            "position_x": 77,
+            "position_y": 209
+        }
+    },
+    "transparency": 255
+}

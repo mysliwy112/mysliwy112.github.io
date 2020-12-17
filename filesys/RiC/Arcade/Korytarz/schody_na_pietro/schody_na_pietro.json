@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "0-500-444": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "schody_na_pietro_0.png",
+                    "name": "SCHODY_0-500-444",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "schody_na_pietro_0.png",
+                    "name": "SCHODY_0-500-444",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "schody_na_pietro_0.png": {
+            "compression": 4,
+            "name": "SCHODY_0-500-444",
+            "position_x": 15,
+            "position_y": 289
+        }
+    },
+    "transparency": 255
+}

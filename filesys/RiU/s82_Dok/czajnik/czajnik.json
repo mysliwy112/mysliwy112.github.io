@@ -1,0 +1,831 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_0.png",
+                    "name": "CZAJNIK COPY 43",
+                    "position_x": -293,
+                    "position_y": -120,
+                    "sfx": "SFX\\000czaj4.wav",
+                    "sfx_seed": 231067032
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_1.png",
+                    "name": "CZAJNIK COPY 42",
+                    "position_x": -292,
+                    "position_y": -120
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_2.png",
+                    "name": "CZAJNIK COPY 41",
+                    "position_x": -291,
+                    "position_y": -121
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_3.png",
+                    "name": "CZAJNIK COPY 40",
+                    "position_x": -290,
+                    "position_y": -121
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_4.png",
+                    "name": "CZAJNIK COPY 39",
+                    "position_x": -288,
+                    "position_y": -122
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_5.png",
+                    "name": "CZAJNIK COPY 38",
+                    "position_x": -287,
+                    "position_y": -122
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_6.png",
+                    "name": "CZAJNIK COPY 37",
+                    "position_x": -285,
+                    "position_y": -122
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_7.png",
+                    "name": "CZAJNIK COPY 36",
+                    "position_x": -284,
+                    "position_y": -122
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_8.png",
+                    "name": "CZAJNIK COPY 35",
+                    "position_x": -282,
+                    "position_y": -122
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_9.png",
+                    "name": "CZAJNIK COPY 34",
+                    "position_x": -280,
+                    "position_y": -122
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_10.png",
+                    "name": "CZAJNIK COPY 33",
+                    "position_x": -277,
+                    "position_y": -122
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_11.png",
+                    "name": "CZAJNIK COPY 32",
+                    "position_x": -275,
+                    "position_y": -122
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_12.png",
+                    "name": "CZAJNIK COPY 31",
+                    "position_x": -272,
+                    "position_y": -122
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_13.png",
+                    "name": "CZAJNIK COPY 30",
+                    "position_x": -269,
+                    "position_y": -121
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_14.png",
+                    "name": "CZAJNIK COPY 29",
+                    "position_x": -266,
+                    "position_y": -121
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_15.png",
+                    "name": "CZAJNIK COPY 28",
+                    "position_x": -263,
+                    "position_y": -120
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_16.png",
+                    "name": "CZAJNIK COPY 27",
+                    "position_x": -259,
+                    "position_y": -119
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_17.png",
+                    "name": "CZAJNIK COPY 26",
+                    "position_x": -255,
+                    "position_y": -118
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_18.png",
+                    "name": "CZAJNIK COPY 25",
+                    "position_x": -251,
+                    "position_y": -116
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_19.png",
+                    "name": "CZAJNIK COPY 24",
+                    "position_x": -246,
+                    "position_y": -115
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_20.png",
+                    "name": "CZAJNIK COPY 23",
+                    "position_x": -241,
+                    "position_y": -113
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_21.png",
+                    "name": "CZAJNIK COPY 22",
+                    "position_x": -236,
+                    "position_y": -111
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_22.png",
+                    "name": "CZAJNIK COPY 21",
+                    "position_x": -230,
+                    "position_y": -109
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_23.png",
+                    "name": "CZAJNIK COPY 20",
+                    "position_x": -224,
+                    "position_y": -107
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_24.png",
+                    "name": "CZAJNIK COPY 19",
+                    "position_x": -217,
+                    "position_y": -104
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_25.png",
+                    "name": "CZAJNIK COPY 18",
+                    "position_x": -210,
+                    "position_y": -101
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_26.png",
+                    "name": "CZAJNIK COPY 17",
+                    "position_x": -203,
+                    "position_y": -98
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_27.png",
+                    "name": "CZAJNIK COPY 16",
+                    "position_x": -195,
+                    "position_y": -95
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_28.png",
+                    "name": "CZAJNIK COPY 15",
+                    "position_x": -187,
+                    "position_y": -91
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_29.png",
+                    "name": "CZAJNIK COPY 14",
+                    "position_x": -178,
+                    "position_y": -88
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_30.png",
+                    "name": "CZAJNIK COPY 13",
+                    "position_x": -169,
+                    "position_y": -83
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_31.png",
+                    "name": "CZAJNIK COPY 12",
+                    "position_x": -160,
+                    "position_y": -79
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_32.png",
+                    "name": "CZAJNIK COPY 11",
+                    "position_x": -149,
+                    "position_y": -74
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_33.png",
+                    "name": "CZAJNIK COPY 10",
+                    "position_x": -139,
+                    "position_y": -69
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_34.png",
+                    "name": "CZAJNIK COPY 9",
+                    "position_x": -128,
+                    "position_y": -64
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_35.png",
+                    "name": "CZAJNIK COPY 8",
+                    "position_x": -116,
+                    "position_y": -58
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_36.png",
+                    "name": "CZAJNIK COPY 7",
+                    "position_x": -103,
+                    "position_y": -52
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_37.png",
+                    "name": "CZAJNIK COPY 6",
+                    "position_x": -90,
+                    "position_y": -46
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_37.png",
+                    "name": "CZAJNIK COPY 6",
+                    "position_x": -90,
+                    "position_y": -46
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_38.png",
+                    "name": "CZAJNIK COPY 5",
+                    "position_x": -77,
+                    "position_y": -39
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_38.png",
+                    "name": "CZAJNIK COPY 5",
+                    "position_x": -77,
+                    "position_y": -39
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_39.png",
+                    "name": "CZAJNIK COPY 4",
+                    "position_x": -63,
+                    "position_y": -32
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_39.png",
+                    "name": "CZAJNIK COPY 4",
+                    "position_x": -63,
+                    "position_y": -32
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_40.png",
+                    "name": "CZAJNIK COPY 3",
+                    "position_x": -48,
+                    "position_y": -24
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_40.png",
+                    "name": "CZAJNIK COPY 3",
+                    "position_x": -48,
+                    "position_y": -24
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_41.png",
+                    "name": "CZAJNIK COPY 2",
+                    "position_x": -32,
+                    "position_y": -16
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_41.png",
+                    "name": "CZAJNIK COPY 2",
+                    "position_x": -32,
+                    "position_y": -16
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_42.png",
+                    "name": "CZAJNIK COPY",
+                    "position_x": -16,
+                    "position_y": -8
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_42.png",
+                    "name": "CZAJNIK COPY",
+                    "position_x": -16,
+                    "position_y": -8
+                },
+                {
+                    "check": [
+                        156,
+                        153,
+                        84
+                    ],
+                    "filename": "czajnik_43.png",
+                    "name": "CZAJNIK",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "czajnik_0.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 43",
+            "position_x": 530,
+            "position_y": 421
+        },
+        "czajnik_1.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 42",
+            "position_x": 530,
+            "position_y": 421
+        },
+        "czajnik_10.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 33",
+            "position_x": 529,
+            "position_y": 421
+        },
+        "czajnik_11.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 32",
+            "position_x": 528,
+            "position_y": 420
+        },
+        "czajnik_12.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 31",
+            "position_x": 527,
+            "position_y": 419
+        },
+        "czajnik_13.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 30",
+            "position_x": 526,
+            "position_y": 418
+        },
+        "czajnik_14.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 29",
+            "position_x": 525,
+            "position_y": 417
+        },
+        "czajnik_15.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 28",
+            "position_x": 524,
+            "position_y": 416
+        },
+        "czajnik_16.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 27",
+            "position_x": 523,
+            "position_y": 415
+        },
+        "czajnik_17.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 26",
+            "position_x": 522,
+            "position_y": 414
+        },
+        "czajnik_18.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 25",
+            "position_x": 521,
+            "position_y": 413
+        },
+        "czajnik_19.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 24",
+            "position_x": 519,
+            "position_y": 412
+        },
+        "czajnik_2.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 41",
+            "position_x": 530,
+            "position_y": 421
+        },
+        "czajnik_20.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 23",
+            "position_x": 517,
+            "position_y": 411
+        },
+        "czajnik_21.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 22",
+            "position_x": 515,
+            "position_y": 409
+        },
+        "czajnik_22.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 21",
+            "position_x": 513,
+            "position_y": 407
+        },
+        "czajnik_23.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 20",
+            "position_x": 511,
+            "position_y": 405
+        },
+        "czajnik_24.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 19",
+            "position_x": 508,
+            "position_y": 403
+        },
+        "czajnik_25.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 18",
+            "position_x": 505,
+            "position_y": 401
+        },
+        "czajnik_26.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 17",
+            "position_x": 502,
+            "position_y": 398
+        },
+        "czajnik_27.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 16",
+            "position_x": 498,
+            "position_y": 395
+        },
+        "czajnik_28.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 15",
+            "position_x": 494,
+            "position_y": 392
+        },
+        "czajnik_29.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 14",
+            "position_x": 490,
+            "position_y": 388
+        },
+        "czajnik_3.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 40",
+            "position_x": 530,
+            "position_y": 421
+        },
+        "czajnik_30.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 13",
+            "position_x": 485,
+            "position_y": 384
+        },
+        "czajnik_31.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 12",
+            "position_x": 480,
+            "position_y": 379
+        },
+        "czajnik_32.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 11",
+            "position_x": 474,
+            "position_y": 374
+        },
+        "czajnik_33.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 10",
+            "position_x": 467,
+            "position_y": 368
+        },
+        "czajnik_34.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 9",
+            "position_x": 460,
+            "position_y": 362
+        },
+        "czajnik_35.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 8",
+            "position_x": 452,
+            "position_y": 355
+        },
+        "czajnik_36.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 7",
+            "position_x": 443,
+            "position_y": 347
+        },
+        "czajnik_37.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 6",
+            "position_x": 433,
+            "position_y": 338
+        },
+        "czajnik_38.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 5",
+            "position_x": 422,
+            "position_y": 328
+        },
+        "czajnik_39.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 4",
+            "position_x": 409,
+            "position_y": 317
+        },
+        "czajnik_4.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 39",
+            "position_x": 530,
+            "position_y": 421
+        },
+        "czajnik_40.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 3",
+            "position_x": 395,
+            "position_y": 305
+        },
+        "czajnik_41.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 2",
+            "position_x": 380,
+            "position_y": 291
+        },
+        "czajnik_42.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY",
+            "position_x": 363,
+            "position_y": 276
+        },
+        "czajnik_43.png": {
+            "compression": 3,
+            "name": "CZAJNIK",
+            "position_x": 344,
+            "position_y": 259
+        },
+        "czajnik_5.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 38",
+            "position_x": 530,
+            "position_y": 421
+        },
+        "czajnik_6.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 37",
+            "position_x": 530,
+            "position_y": 421
+        },
+        "czajnik_7.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 36",
+            "position_x": 530,
+            "position_y": 421
+        },
+        "czajnik_8.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 35",
+            "position_x": 530,
+            "position_y": 421
+        },
+        "czajnik_9.png": {
+            "compression": 3,
+            "name": "CZAJNIK COPY 34",
+            "position_x": 530,
+            "position_y": 421
+        }
+    },
+    "transparency": 255
+}

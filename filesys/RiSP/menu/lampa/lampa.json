@@ -1,0 +1,463 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        112,
+                        158,
+                        165
+                    ],
+                    "filename": "lampa_0.png",
+                    "name": "LAMPA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        159,
+                        165
+                    ],
+                    "filename": "lampa_0.png",
+                    "name": "LAMPA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        152,
+                        165
+                    ],
+                    "filename": "lampa_0.png",
+                    "name": "LAMPA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        32,
+                        221,
+                        165
+                    ],
+                    "filename": "lampa_1.png",
+                    "name": "LAMPA COPY",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "sfx\\00lampa1.wav;sfx\\00lampa2.wav;sfx\\00lampa4.wav",
+                    "sfx_seed": 10765728
+                },
+                {
+                    "check": [
+                        128,
+                        151,
+                        165
+                    ],
+                    "filename": "lampa_1.png",
+                    "name": "LAMPA COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        150,
+                        165
+                    ],
+                    "filename": "lampa_1.png",
+                    "name": "LAMPA COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        150,
+                        165
+                    ],
+                    "filename": "lampa_2.png",
+                    "name": "LAMPA COPY 2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        149,
+                        165
+                    ],
+                    "filename": "lampa_2.png",
+                    "name": "LAMPA COPY 2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        64,
+                        149,
+                        165
+                    ],
+                    "filename": "lampa_2.png",
+                    "name": "LAMPA COPY 2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        148,
+                        165
+                    ],
+                    "filename": "lampa_3.png",
+                    "name": "LAMPA COPY 3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        32,
+                        148,
+                        165
+                    ],
+                    "filename": "lampa_3.png",
+                    "name": "LAMPA COPY 3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        147,
+                        165
+                    ],
+                    "filename": "lampa_3.png",
+                    "name": "LAMPA COPY 3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "lampa_2.png",
+                    "name": "LAMPA COPY 2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        146,
+                        165
+                    ],
+                    "filename": "lampa_2.png",
+                    "name": "LAMPA COPY 2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        145,
+                        165
+                    ],
+                    "filename": "lampa_2.png",
+                    "name": "LAMPA COPY 2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        145,
+                        165
+                    ],
+                    "filename": "lampa_1.png",
+                    "name": "LAMPA COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        192,
+                        144,
+                        165
+                    ],
+                    "filename": "lampa_1.png",
+                    "name": "LAMPA COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48,
+                        144,
+                        165
+                    ],
+                    "filename": "lampa_1.png",
+                    "name": "LAMPA COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        175,
+                        165
+                    ],
+                    "filename": "lampa_0.png",
+                    "name": "LAMPA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "lampa_0.png",
+                    "name": "LAMPA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        174,
+                        165
+                    ],
+                    "filename": "lampa_0.png",
+                    "name": "LAMPA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        173,
+                        165
+                    ],
+                    "filename": "lampa_4.png",
+                    "name": "LAMPA COPY 4",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "sfx\\00lampa3.wav",
+                    "sfx_seed": 10857888
+                },
+                {
+                    "check": [
+                        16,
+                        173,
+                        165
+                    ],
+                    "filename": "lampa_4.png",
+                    "name": "LAMPA COPY 4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        128,
+                        172,
+                        165
+                    ],
+                    "filename": "lampa_4.png",
+                    "name": "LAMPA COPY 4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        171,
+                        165
+                    ],
+                    "filename": "lampa_5.png",
+                    "name": "LAMPA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        171,
+                        165
+                    ],
+                    "filename": "lampa_5.png",
+                    "name": "LAMPA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        170,
+                        165
+                    ],
+                    "filename": "lampa_5.png",
+                    "name": "LAMPA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        64,
+                        170,
+                        165
+                    ],
+                    "filename": "lampa_6.png",
+                    "name": "LAMPA COPY 6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        169,
+                        165
+                    ],
+                    "filename": "lampa_6.png",
+                    "name": "LAMPA COPY 6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        32,
+                        169,
+                        165
+                    ],
+                    "filename": "lampa_6.png",
+                    "name": "LAMPA COPY 6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        168,
+                        165
+                    ],
+                    "filename": "lampa_5.png",
+                    "name": "LAMPA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "lampa_5.png",
+                    "name": "LAMPA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        167,
+                        165
+                    ],
+                    "filename": "lampa_5.png",
+                    "name": "LAMPA COPY 5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        166,
+                        165
+                    ],
+                    "filename": "lampa_4.png",
+                    "name": "LAMPA COPY 4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        166,
+                        165
+                    ],
+                    "filename": "lampa_4.png",
+                    "name": "LAMPA COPY 4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        192,
+                        165,
+                        165
+                    ],
+                    "filename": "lampa_4.png",
+                    "name": "LAMPA COPY 4",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "lampa_0.png": {
+            "compression": 4,
+            "name": "LAMPA",
+            "position_x": 141
+        },
+        "lampa_1.png": {
+            "compression": 4,
+            "name": "LAMPA COPY",
+            "position_x": 139
+        },
+        "lampa_2.png": {
+            "compression": 4,
+            "name": "LAMPA COPY 2",
+            "position_x": 138,
+            "position_y": -1
+        },
+        "lampa_3.png": {
+            "compression": 4,
+            "name": "LAMPA COPY 3",
+            "position_x": 135,
+            "position_y": -1
+        },
+        "lampa_4.png": {
+            "compression": 4,
+            "name": "LAMPA COPY 4",
+            "position_x": 143,
+            "position_y": -1
+        },
+        "lampa_5.png": {
+            "compression": 4,
+            "name": "LAMPA COPY 5",
+            "position_x": 145,
+            "position_y": -1
+        },
+        "lampa_6.png": {
+            "compression": 4,
+            "name": "LAMPA COPY 6",
+            "position_x": 146,
+            "position_y": -1
+        }
+    },
+    "transparency": 255
+}

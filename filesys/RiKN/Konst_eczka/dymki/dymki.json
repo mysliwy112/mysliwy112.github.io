@@ -1,0 +1,100 @@
+{
+    "author": "",
+    "bpp": 16,
+    "events": {
+        "chmura0": {
+            "frames": [
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "dymki_0.png",
+                    "name": "chmura",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "chmura1": {
+            "frames": [
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "dymki_1.png",
+                    "name": "swinia",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "chmura2": {
+            "frames": [
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "dymki_2.png",
+                    "name": "rex",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "chmura3": {
+            "frames": [
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "dymki_3.png",
+                    "name": "kret",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "dymki_0.png": {
+            "compression": 3,
+            "name": "chmura",
+            "position_x": 6
+        },
+        "dymki_1.png": {
+            "compression": 3,
+            "name": "swinia",
+            "position_x": 21,
+            "position_y": 204
+        },
+        "dymki_2.png": {
+            "compression": 3,
+            "name": "rex",
+            "position_x": 316,
+            "position_y": 310
+        },
+        "dymki_3.png": {
+            "compression": 3,
+            "name": "kret",
+            "position_x": 683,
+            "position_y": 274
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,72 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "OFF": {
+            "frames": [
+                {
+                    "check": [
+                        64,
+                        206,
+                        85
+                    ],
+                    "filename": "h_magnes_0.png",
+                    "name": "LAYER_24",
+                    "position_x": -380,
+                    "position_y": -300
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ON": {
+            "frames": [
+                {
+                    "check": [
+                        64,
+                        206,
+                        85
+                    ],
+                    "filename": "h_magnes_1.png",
+                    "name": "MAGNES_COPY",
+                    "position_x": -418,
+                    "position_y": -300
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        64,
+                        206,
+                        85
+                    ],
+                    "filename": "h_magnes_0.png",
+                    "name": "LAYER_24",
+                    "position_x": -380,
+                    "position_y": -300
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "h_magnes_0.png": {
+            "compression": 2,
+            "name": "LAYER_24",
+            "position_x": 351,
+            "position_y": 248
+        },
+        "h_magnes_1.png": {
+            "compression": 2,
+            "name": "MAGNES_COPY",
+            "position_x": 384,
+            "position_y": 243
+        }
+    },
+    "transparency": 255
+}

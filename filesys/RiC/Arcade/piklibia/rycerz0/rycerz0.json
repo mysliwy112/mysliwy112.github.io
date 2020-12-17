@@ -1,0 +1,330 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "DEAD": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rycerz0_1.png",
+                    "name": "ROZWALKA_COPY_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rycerz0_1.png",
+                    "name": "ROZWALKA_COPY_2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 1,
+            "transparency": 255
+        },
+        "GADA": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rycerz0_0.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rycerz0_4.png",
+                    "name": "GADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rycerz0_4.png",
+                    "name": "GADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rycerz0_0.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rycerz0_9.png",
+                    "name": "GADA_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rycerz0_9.png",
+                    "name": "GADA_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 5,
+            "transparency": 255
+        },
+        "ROZWALONY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rycerz0_0.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\ryc2.wav",
+                    "sfx_seed": 50372260
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rycerz0_3.png",
+                    "name": "ROZWALKA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rycerz0_3.png",
+                    "name": "ROZWALKA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rycerz0_7.png",
+                    "name": "ROZWALKA_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rycerz0_7.png",
+                    "name": "ROZWALKA_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rycerz0_1.png",
+                    "name": "ROZWALKA_COPY_2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "SKOK": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rycerz0_0.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\cat2.wav",
+                    "sfx_seed": 50486724
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rycerz0_2.png",
+                    "name": "SET_1_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rycerz0_5.png",
+                    "name": "SET_1_COPY_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rycerz0_6.png",
+                    "name": "SET_1_COPY_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rycerz0_8.png",
+                    "name": "SET_1_COPY_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rycerz0_6.png",
+                    "name": "SET_1_COPY_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rycerz0_5.png",
+                    "name": "SET_1_COPY_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rycerz0_2.png",
+                    "name": "SET_1_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rycerz0_0.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "rycerz0_0.png": {
+            "compression": 4,
+            "name": "0"
+        },
+        "rycerz0_1.png": {
+            "compression": 4,
+            "name": "ROZWALKA_COPY_2"
+        },
+        "rycerz0_2.png": {
+            "compression": 4,
+            "name": "SET_1_COPY"
+        },
+        "rycerz0_3.png": {
+            "compression": 4,
+            "name": "ROZWALKA"
+        },
+        "rycerz0_4.png": {
+            "compression": 4,
+            "name": "GADA"
+        },
+        "rycerz0_5.png": {
+            "compression": 4,
+            "name": "SET_1_COPY_2"
+        },
+        "rycerz0_6.png": {
+            "compression": 4,
+            "name": "SET_1_COPY_3"
+        },
+        "rycerz0_7.png": {
+            "compression": 4,
+            "name": "ROZWALKA_COPY"
+        },
+        "rycerz0_8.png": {
+            "compression": 4,
+            "name": "SET_1_COPY_4"
+        },
+        "rycerz0_9.png": {
+            "compression": 4,
+            "name": "GADA_COPY"
+        }
+    },
+    "transparency": 255
+}

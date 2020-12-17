@@ -1,0 +1,786 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "171-481-393": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_0.png",
+                    "name": "KOSMITA_1",
+                    "position_x": 160,
+                    "position_y": 283
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "GADA_0": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_2.png",
+                    "name": "KOSMITA_BABA_GADA_3",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_4.png",
+                    "name": "KOSMITA_BABA_GADA_4",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_2.png",
+                    "name": "KOSMITA_BABA_GADA_3",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_1.png",
+                    "name": "KOSMITA_BABA_9",
+                    "position_x": 160,
+                    "position_y": 283
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "GADA_1": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_3.png",
+                    "name": "KOSMITA_BABA_GADA_1",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_5.png",
+                    "name": "KOSMITA_BABA_GADA_2",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_3.png",
+                    "name": "KOSMITA_BABA_GADA_1",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_1.png",
+                    "name": "KOSMITA_BABA_9",
+                    "position_x": 160,
+                    "position_y": 283
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "GADA_START": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_1.png",
+                    "name": "KOSMITA_BABA_9",
+                    "position_x": 160,
+                    "position_y": 283
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "GADA_STOP": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_1.png",
+                    "name": "KOSMITA_BABA_9",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_2.png",
+                    "name": "KOSMITA_BABA_GADA_3",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_4.png",
+                    "name": "KOSMITA_BABA_GADA_4",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_2.png",
+                    "name": "KOSMITA_BABA_GADA_3",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_1.png",
+                    "name": "KOSMITA_BABA_9",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_3.png",
+                    "name": "KOSMITA_BABA_GADA_1",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_5.png",
+                    "name": "KOSMITA_BABA_GADA_2",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_3.png",
+                    "name": "KOSMITA_BABA_GADA_1",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_1.png",
+                    "name": "KOSMITA_BABA_9",
+                    "position_x": 160,
+                    "position_y": 283
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_1.png",
+                    "name": "KOSMITA_BABA_9",
+                    "position_x": 160,
+                    "position_y": 283
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ZDEJMUJE": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_0.png",
+                    "name": "KOSMITA_1",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_0.png",
+                    "name": "KOSMITA_1",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_0.png",
+                    "name": "KOSMITA_1",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_0.png",
+                    "name": "KOSMITA_1",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_0.png",
+                    "name": "KOSMITA_1",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_0.png",
+                    "name": "KOSMITA_1",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_0.png",
+                    "name": "KOSMITA_1",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_0.png",
+                    "name": "KOSMITA_1",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_0.png",
+                    "name": "KOSMITA_1",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_0.png",
+                    "name": "KOSMITA_1",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_0.png",
+                    "name": "KOSMITA_1",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_6.png",
+                    "name": "KOSMITA_2",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_7.png",
+                    "name": "KOSMITA_3",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_8.png",
+                    "name": "KOSMITA_4",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_9.png",
+                    "name": "KOSMITA_5",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_10.png",
+                    "name": "KOSMITA_BABA_1",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_11.png",
+                    "name": "KOSMITA_BABA_2",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_11.png",
+                    "name": "KOSMITA_BABA_2",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_10.png",
+                    "name": "KOSMITA_BABA_1",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_9.png",
+                    "name": "KOSMITA_5",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_10.png",
+                    "name": "KOSMITA_BABA_1",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_11.png",
+                    "name": "KOSMITA_BABA_2",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_10.png",
+                    "name": "KOSMITA_BABA_1",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_9.png",
+                    "name": "KOSMITA_5",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_10.png",
+                    "name": "KOSMITA_BABA_1",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_11.png",
+                    "name": "KOSMITA_BABA_2",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_10.png",
+                    "name": "KOSMITA_BABA_1",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_9.png",
+                    "name": "KOSMITA_5",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_10.png",
+                    "name": "KOSMITA_BABA_1",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_11.png",
+                    "name": "KOSMITA_BABA_2",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_12.png",
+                    "name": "KOSMITA_BABA_3",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_13.png",
+                    "name": "KOSMITA_BABA_4",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_14.png",
+                    "name": "KOSMITA_BABA_5",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_15.png",
+                    "name": "KOSMITA_BABA_6",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_16.png",
+                    "name": "KOSMITA_BABA_7",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_17.png",
+                    "name": "KOSMITA_BABA_8",
+                    "position_x": 160,
+                    "position_y": 283
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "wanda_1.png",
+                    "name": "KOSMITA_BABA_9",
+                    "position_x": 160,
+                    "position_y": 283
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "wanda_0.png": {
+            "compression": 3,
+            "name": "KOSMITA_1",
+            "position_x": 25,
+            "position_y": 30
+        },
+        "wanda_1.png": {
+            "compression": 3,
+            "name": "KOSMITA_BABA_9",
+            "position_x": 23,
+            "position_y": 30
+        },
+        "wanda_10.png": {
+            "compression": 3,
+            "name": "KOSMITA_BABA_1",
+            "position_x": 25,
+            "position_y": 32
+        },
+        "wanda_11.png": {
+            "compression": 3,
+            "name": "KOSMITA_BABA_2",
+            "position_x": 24,
+            "position_y": 18
+        },
+        "wanda_12.png": {
+            "compression": 3,
+            "name": "KOSMITA_BABA_3",
+            "position_x": 25,
+            "position_y": 14
+        },
+        "wanda_13.png": {
+            "compression": 3,
+            "name": "KOSMITA_BABA_4",
+            "position_x": 18,
+            "position_y": 4
+        },
+        "wanda_14.png": {
+            "compression": 3,
+            "name": "KOSMITA_BABA_5",
+            "position_x": 3,
+            "position_y": 29
+        },
+        "wanda_15.png": {
+            "compression": 3,
+            "name": "KOSMITA_BABA_6",
+            "position_x": 11,
+            "position_y": 30
+        },
+        "wanda_16.png": {
+            "compression": 3,
+            "name": "KOSMITA_BABA_7",
+            "position_x": 19,
+            "position_y": 29
+        },
+        "wanda_17.png": {
+            "compression": 3,
+            "name": "KOSMITA_BABA_8",
+            "position_x": 24,
+            "position_y": 30
+        },
+        "wanda_2.png": {
+            "compression": 3,
+            "name": "KOSMITA_BABA_GADA_3",
+            "position_x": 23,
+            "position_y": 27
+        },
+        "wanda_3.png": {
+            "compression": 3,
+            "name": "KOSMITA_BABA_GADA_1",
+            "position_x": 23,
+            "position_y": 27
+        },
+        "wanda_4.png": {
+            "compression": 3,
+            "name": "KOSMITA_BABA_GADA_4",
+            "position_x": 22,
+            "position_y": 26
+        },
+        "wanda_5.png": {
+            "compression": 3,
+            "name": "KOSMITA_BABA_GADA_2",
+            "position_x": 22,
+            "position_y": 25
+        },
+        "wanda_6.png": {
+            "compression": 3,
+            "name": "KOSMITA_2",
+            "position_x": 19,
+            "position_y": 30
+        },
+        "wanda_7.png": {
+            "compression": 3,
+            "name": "KOSMITA_3",
+            "position_x": 8,
+            "position_y": 30
+        },
+        "wanda_8.png": {
+            "compression": 3,
+            "name": "KOSMITA_4",
+            "position_x": 13,
+            "position_y": 30
+        },
+        "wanda_9.png": {
+            "compression": 3,
+            "name": "KOSMITA_5",
+            "position_x": 24,
+            "position_y": 30
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,71 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "0-0-440": {
+            "frames": [
+                {
+                    "check": [
+                        64,
+                        206,
+                        85
+                    ],
+                    "filename": "n_totem_0.png",
+                    "name": "TOT",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        64,
+                        206,
+                        85
+                    ],
+                    "filename": "n_totem_0.png",
+                    "name": "TOT",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY2": {
+            "frames": [
+                {
+                    "check": [
+                        64,
+                        206,
+                        85
+                    ],
+                    "filename": "n_totem_1.png",
+                    "name": "TOT_COPY_10",
+                    "position_x": 100,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "n_totem_0.png": {
+            "compression": 3,
+            "name": "TOT",
+            "position_x": 664
+        },
+        "n_totem_1.png": {
+            "compression": 3,
+            "name": "TOT_COPY_10",
+            "position_x": 227,
+            "position_y": 318
+        }
+    },
+    "transparency": 255
+}

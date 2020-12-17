@@ -1,0 +1,787 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_0.png",
+                    "name": "1_WPRAWO",
+                    "position_x": -537,
+                    "position_y": -31
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_1.png",
+                    "name": "2_WPRAWO",
+                    "position_x": -524,
+                    "position_y": -31
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_2.png",
+                    "name": "3_WPRAWO",
+                    "position_x": -516,
+                    "position_y": -32
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_3.png",
+                    "name": "4_WPRAWO",
+                    "position_x": -506,
+                    "position_y": -34
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_4.png",
+                    "name": "5_WPRAWO",
+                    "position_x": -493,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_5.png",
+                    "name": "6_WPRAWO",
+                    "position_x": -487,
+                    "position_y": -32
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_6.png",
+                    "name": "7_WPRAWO",
+                    "position_x": -482,
+                    "position_y": -32
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_7.png",
+                    "name": "8_WPRAWO",
+                    "position_x": -475,
+                    "position_y": -31
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_0.png",
+                    "name": "1_WPRAWO",
+                    "position_x": -476,
+                    "position_y": -34
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_1.png",
+                    "name": "2_WPRAWO",
+                    "position_x": -466,
+                    "position_y": -34
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_2.png",
+                    "name": "3_WPRAWO",
+                    "position_x": -456,
+                    "position_y": -34
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_3.png",
+                    "name": "4_WPRAWO",
+                    "position_x": -450,
+                    "position_y": -35
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_4.png",
+                    "name": "5_WPRAWO",
+                    "position_x": -441,
+                    "position_y": -36
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_5.png",
+                    "name": "6_WPRAWO",
+                    "position_x": -438,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_6.png",
+                    "name": "7_WPRAWO",
+                    "position_x": -434,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_7.png",
+                    "name": "8_WPRAWO",
+                    "position_x": -421,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_0.png",
+                    "name": "1_WPRAWO",
+                    "position_x": -426,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_1.png",
+                    "name": "2_WPRAWO",
+                    "position_x": -413,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_2.png",
+                    "name": "3_WPRAWO",
+                    "position_x": -405,
+                    "position_y": -31
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_3.png",
+                    "name": "4_WPRAWO",
+                    "position_x": -395,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_4.png",
+                    "name": "5_WPRAWO",
+                    "position_x": -382,
+                    "position_y": -32
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_5.png",
+                    "name": "6_WPRAWO",
+                    "position_x": -376,
+                    "position_y": -31
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_6.png",
+                    "name": "7_WPRAWO",
+                    "position_x": -371,
+                    "position_y": -31
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_7.png",
+                    "name": "8_WPRAWO",
+                    "position_x": -364,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_0.png",
+                    "name": "1_WPRAWO",
+                    "position_x": -365,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_1.png",
+                    "name": "2_WPRAWO",
+                    "position_x": -355,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_2.png",
+                    "name": "3_WPRAWO",
+                    "position_x": -345,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_3.png",
+                    "name": "4_WPRAWO",
+                    "position_x": -339,
+                    "position_y": -34
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_4.png",
+                    "name": "5_WPRAWO",
+                    "position_x": -330,
+                    "position_y": -35
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_5.png",
+                    "name": "6_WPRAWO",
+                    "position_x": -327,
+                    "position_y": -32
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_6.png",
+                    "name": "7_WPRAWO",
+                    "position_x": -323,
+                    "position_y": -32
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_7.png",
+                    "name": "8_WPRAWO",
+                    "position_x": -310,
+                    "position_y": -32
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_0.png",
+                    "name": "1_WPRAWO",
+                    "position_x": -278,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_1.png",
+                    "name": "2_WPRAWO",
+                    "position_x": -265,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_2.png",
+                    "name": "3_WPRAWO",
+                    "position_x": -257,
+                    "position_y": -31
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_3.png",
+                    "name": "4_WPRAWO",
+                    "position_x": -247,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_4.png",
+                    "name": "5_WPRAWO",
+                    "position_x": -234,
+                    "position_y": -32
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_5.png",
+                    "name": "6_WPRAWO",
+                    "position_x": -228,
+                    "position_y": -31
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_6.png",
+                    "name": "7_WPRAWO",
+                    "position_x": -223,
+                    "position_y": -31
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_7.png",
+                    "name": "8_WPRAWO",
+                    "position_x": -216,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_0.png",
+                    "name": "1_WPRAWO",
+                    "position_x": -217,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_1.png",
+                    "name": "2_WPRAWO",
+                    "position_x": -207,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_2.png",
+                    "name": "3_WPRAWO",
+                    "position_x": -197,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_3.png",
+                    "name": "4_WPRAWO",
+                    "position_x": -191,
+                    "position_y": -34
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_4.png",
+                    "name": "5_WPRAWO",
+                    "position_x": -182,
+                    "position_y": -35
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_5.png",
+                    "name": "6_WPRAWO",
+                    "position_x": -179,
+                    "position_y": -32
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_6.png",
+                    "name": "7_WPRAWO",
+                    "position_x": -175,
+                    "position_y": -32
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_7.png",
+                    "name": "8_WPRAWO",
+                    "position_x": -162,
+                    "position_y": -32
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_0.png",
+                    "name": "1_WPRAWO",
+                    "position_x": -167,
+                    "position_y": -29
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_1.png",
+                    "name": "2_WPRAWO",
+                    "position_x": -154,
+                    "position_y": -29
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_2.png",
+                    "name": "3_WPRAWO",
+                    "position_x": -146,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_3.png",
+                    "name": "4_WPRAWO",
+                    "position_x": -136,
+                    "position_y": -32
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_4.png",
+                    "name": "5_WPRAWO",
+                    "position_x": -123,
+                    "position_y": -31
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_5.png",
+                    "name": "6_WPRAWO",
+                    "position_x": -117,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_6.png",
+                    "name": "7_WPRAWO",
+                    "position_x": -112,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_7.png",
+                    "name": "8_WPRAWO",
+                    "position_x": -105,
+                    "position_y": -29
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_0.png",
+                    "name": "1_WPRAWO",
+                    "position_x": -106,
+                    "position_y": -32
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_1.png",
+                    "name": "2_WPRAWO",
+                    "position_x": -96,
+                    "position_y": -32
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_2.png",
+                    "name": "3_WPRAWO",
+                    "position_x": -86,
+                    "position_y": -32
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_3.png",
+                    "name": "4_WPRAWO",
+                    "position_x": -80,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_4.png",
+                    "name": "5_WPRAWO",
+                    "position_x": -71,
+                    "position_y": -34
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_5.png",
+                    "name": "6_WPRAWO",
+                    "position_x": -68,
+                    "position_y": -31
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_6.png",
+                    "name": "7_WPRAWO",
+                    "position_x": -64,
+                    "position_y": -31
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "tytul_7.png",
+                    "name": "8_WPRAWO",
+                    "position_x": -51,
+                    "position_y": -31
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "tytul_0.png": {
+            "compression": 4,
+            "name": "1_WPRAWO",
+            "position_x": 289,
+            "position_y": 186
+        },
+        "tytul_1.png": {
+            "compression": 4,
+            "name": "2_WPRAWO",
+            "position_x": 286,
+            "position_y": 188
+        },
+        "tytul_2.png": {
+            "compression": 4,
+            "name": "3_WPRAWO",
+            "position_x": 290,
+            "position_y": 195
+        },
+        "tytul_3.png": {
+            "compression": 4,
+            "name": "4_WPRAWO",
+            "position_x": 286,
+            "position_y": 188
+        },
+        "tytul_4.png": {
+            "compression": 4,
+            "name": "5_WPRAWO",
+            "position_x": 282,
+            "position_y": 181
+        },
+        "tytul_5.png": {
+            "compression": 4,
+            "name": "6_WPRAWO",
+            "position_x": 285,
+            "position_y": 188
+        },
+        "tytul_6.png": {
+            "compression": 4,
+            "name": "7_WPRAWO",
+            "position_x": 285,
+            "position_y": 193
+        },
+        "tytul_7.png": {
+            "compression": 4,
+            "name": "8_WPRAWO",
+            "position_x": 286,
+            "position_y": 189
+        }
+    },
+    "transparency": 255
+}

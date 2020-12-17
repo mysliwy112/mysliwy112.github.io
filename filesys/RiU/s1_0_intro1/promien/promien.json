@@ -1,0 +1,83 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "promien_0.png",
+                    "name": "PROMIEN",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "promien_1.png",
+                    "name": "PROMIEN COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "promien_2.png",
+                    "name": "PROMIEN COPY 2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "promien_3.png",
+                    "name": "PROMIEN COPY 3",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "promien_0.png": {
+            "compression": 4,
+            "name": "PROMIEN",
+            "position_x": 365,
+            "position_y": 381
+        },
+        "promien_1.png": {
+            "compression": 4,
+            "name": "PROMIEN COPY",
+            "position_x": 365,
+            "position_y": 381
+        },
+        "promien_2.png": {
+            "compression": 4,
+            "name": "PROMIEN COPY 2",
+            "position_x": 365,
+            "position_y": 381
+        },
+        "promien_3.png": {
+            "compression": 4,
+            "name": "PROMIEN COPY 3",
+            "position_x": 365,
+            "position_y": 381
+        }
+    },
+    "transparency": 255
+}

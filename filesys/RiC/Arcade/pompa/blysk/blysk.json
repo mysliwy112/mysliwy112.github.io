@@ -1,0 +1,230 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "650-850": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "blysk_0.png",
+                    "name": "BLYSK2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "blysk_0.png",
+                    "name": "BLYSK2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STATE0": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "blysk_1.png",
+                    "name": "BLYSK1",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\blysk.wav",
+                    "sfx_seed": 25556804
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "blysk_0.png",
+                    "name": "BLYSK2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "blysk_1.png",
+                    "name": "BLYSK1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "blysk_2.png",
+                    "name": "GADA1",
+                    "position_x": 151,
+                    "position_y": 474
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "blysk_1.png",
+                    "name": "BLYSK1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "blysk_2.png",
+                    "name": "GADA1",
+                    "position_x": 151,
+                    "position_y": 474
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "blysk_2.png",
+                    "name": "GADA1",
+                    "position_x": 151,
+                    "position_y": 474
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "blysk_0.png",
+                    "name": "BLYSK2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "blysk_0.png",
+                    "name": "BLYSK2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "blysk_1.png",
+                    "name": "BLYSK1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "blysk_1.png",
+                    "name": "BLYSK1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "blysk_0.png",
+                    "name": "BLYSK2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "blysk_2.png",
+                    "name": "GADA1",
+                    "position_x": 151,
+                    "position_y": 474
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "blysk_1.png",
+                    "name": "BLYSK1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "blysk_1.png",
+                    "name": "BLYSK1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "blysk_0.png": {
+            "compression": 3,
+            "name": "BLYSK2"
+        },
+        "blysk_1.png": {
+            "compression": 3,
+            "name": "BLYSK1"
+        },
+        "blysk_2.png": {
+            "compression": 3,
+            "name": "GADA1",
+            "position_x": 149,
+            "position_y": 208
+        }
+    },
+    "transparency": 255
+}

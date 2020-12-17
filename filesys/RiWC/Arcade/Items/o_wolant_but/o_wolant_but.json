@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "o_wolant_but_0.png",
+                    "name": "WOLANT_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "o_wolant_but_1.png",
+                    "name": "WOLANT",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "o_wolant_but_0.png": {
+            "compression": 3,
+            "name": "WOLANT_COPY",
+            "position_x": 10,
+            "position_y": 10
+        },
+        "o_wolant_but_1.png": {
+            "compression": 3,
+            "name": "WOLANT",
+            "position_x": 13,
+            "position_y": 23
+        }
+    },
+    "transparency": 255
+}

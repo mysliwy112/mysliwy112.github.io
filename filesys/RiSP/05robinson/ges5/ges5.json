@@ -1,0 +1,626 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "GES5A": {
+            "frames": [
+                {
+                    "check": [],
+                    "filename": "ges5_0.png",
+                    "name": "1_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        177,
+                        167
+                    ],
+                    "filename": "ges5_3.png",
+                    "name": "2_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        176,
+                        167
+                    ],
+                    "filename": "ges5_6.png",
+                    "name": "3_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        176,
+                        167
+                    ],
+                    "filename": "ges5_9.png",
+                    "name": "4_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        207,
+                        167
+                    ],
+                    "filename": "ges5_12.png",
+                    "name": "5_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "ges5_15.png",
+                    "name": "6_ZAD",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "sfx\\00ges3.wav;sfx\\00ges1.wav",
+                    "sfx_seed": 11024560
+                },
+                {
+                    "check": [
+                        112,
+                        206,
+                        167
+                    ],
+                    "filename": "ges5_18.png",
+                    "name": "7_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        205,
+                        167
+                    ],
+                    "filename": "ges5_18.png",
+                    "name": "7_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        205,
+                        167
+                    ],
+                    "filename": "ges5_18.png",
+                    "name": "7_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        192,
+                        204,
+                        167
+                    ],
+                    "filename": "ges5_15.png",
+                    "name": "6_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48,
+                        204,
+                        167
+                    ],
+                    "filename": "ges5_12.png",
+                    "name": "5_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        160,
+                        203,
+                        167
+                    ],
+                    "filename": "ges5_9.png",
+                    "name": "4_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        16,
+                        203,
+                        167
+                    ],
+                    "filename": "ges5_6.png",
+                    "name": "3_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        128,
+                        202,
+                        167
+                    ],
+                    "filename": "ges5_3.png",
+                    "name": "2_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        201,
+                        167
+                    ],
+                    "filename": "ges5_0.png",
+                    "name": "1_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "GES5B": {
+            "frames": [
+                {
+                    "check": [
+                        48,
+                        200,
+                        167
+                    ],
+                    "filename": "ges5_1.png",
+                    "name": "1_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        160,
+                        199,
+                        167
+                    ],
+                    "filename": "ges5_4.png",
+                    "name": "2_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        16,
+                        199,
+                        167
+                    ],
+                    "filename": "ges5_7.png",
+                    "name": "3_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        128,
+                        198,
+                        167
+                    ],
+                    "filename": "ges5_10.png",
+                    "name": "4_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        197,
+                        167
+                    ],
+                    "filename": "ges5_13.png",
+                    "name": "5_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        197,
+                        167
+                    ],
+                    "filename": "ges5_16.png",
+                    "name": "6_ZAD",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "sfx\\00ges2.wav;sfx\\00ges1.wav",
+                    "sfx_seed": 11028992
+                },
+                {
+                    "check": [
+                        208,
+                        196,
+                        167
+                    ],
+                    "filename": "ges5_19.png",
+                    "name": "7_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        64,
+                        196,
+                        167
+                    ],
+                    "filename": "ges5_19.png",
+                    "name": "7_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        195,
+                        167
+                    ],
+                    "filename": "ges5_19.png",
+                    "name": "7_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        32,
+                        195,
+                        167
+                    ],
+                    "filename": "ges5_19.png",
+                    "name": "7_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        194,
+                        167
+                    ],
+                    "filename": "ges5_16.png",
+                    "name": "6_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "ges5_13.png",
+                    "name": "5_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        193,
+                        167
+                    ],
+                    "filename": "ges5_10.png",
+                    "name": "4_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        192,
+                        167
+                    ],
+                    "filename": "ges5_7.png",
+                    "name": "3_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        192,
+                        167
+                    ],
+                    "filename": "ges5_4.png",
+                    "name": "2_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        223,
+                        167
+                    ],
+                    "filename": "ges5_1.png",
+                    "name": "1_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "GES5C": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        221,
+                        167
+                    ],
+                    "filename": "ges5_2.png",
+                    "name": "1_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        64,
+                        221,
+                        167
+                    ],
+                    "filename": "ges5_5.png",
+                    "name": "2_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        220,
+                        167
+                    ],
+                    "filename": "ges5_8.png",
+                    "name": "3_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        32,
+                        220,
+                        167
+                    ],
+                    "filename": "ges5_11.png",
+                    "name": "4_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        219,
+                        167
+                    ],
+                    "filename": "ges5_14.png",
+                    "name": "5_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "ges5_17.png",
+                    "name": "6_ZAD",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "sfx\\00ges1.wav",
+                    "sfx_seed": 11026704
+                },
+                {
+                    "check": [
+                        112,
+                        218,
+                        167
+                    ],
+                    "filename": "ges5_20.png",
+                    "name": "7_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        217,
+                        167
+                    ],
+                    "filename": "ges5_20.png",
+                    "name": "7_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        217,
+                        167
+                    ],
+                    "filename": "ges5_17.png",
+                    "name": "6_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        192,
+                        216,
+                        167
+                    ],
+                    "filename": "ges5_14.png",
+                    "name": "5_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48,
+                        216,
+                        167
+                    ],
+                    "filename": "ges5_11.png",
+                    "name": "4_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        160,
+                        215,
+                        167
+                    ],
+                    "filename": "ges5_8.png",
+                    "name": "3_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        16,
+                        215,
+                        167
+                    ],
+                    "filename": "ges5_5.png",
+                    "name": "2_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        128,
+                        214,
+                        167
+                    ],
+                    "filename": "ges5_2.png",
+                    "name": "1_ZAD",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "ges5_0.png": {
+            "compression": 4,
+            "name": "1_ZAD",
+            "position_x": 740
+        },
+        "ges5_1.png": {
+            "compression": 4,
+            "name": "1_ZAD",
+            "position_x": 596
+        },
+        "ges5_10.png": {
+            "compression": 4,
+            "name": "4_ZAD",
+            "position_x": 583
+        },
+        "ges5_11.png": {
+            "compression": 4,
+            "name": "4_ZAD",
+            "position_x": 647,
+            "position_y": 60
+        },
+        "ges5_12.png": {
+            "compression": 4,
+            "name": "5_ZAD",
+            "position_x": 742,
+            "position_y": 43
+        },
+        "ges5_13.png": {
+            "compression": 4,
+            "name": "5_ZAD",
+            "position_x": 589
+        },
+        "ges5_14.png": {
+            "compression": 4,
+            "name": "5_ZAD",
+            "position_x": 647,
+            "position_y": 59
+        },
+        "ges5_15.png": {
+            "compression": 4,
+            "name": "6_ZAD",
+            "position_x": 741
+        },
+        "ges5_16.png": {
+            "compression": 4,
+            "name": "6_ZAD",
+            "position_x": 587
+        },
+        "ges5_17.png": {
+            "compression": 4,
+            "name": "6_ZAD",
+            "position_x": 644,
+            "position_y": 60
+        },
+        "ges5_18.png": {
+            "compression": 4,
+            "name": "7_ZAD",
+            "position_x": 741
+        },
+        "ges5_19.png": {
+            "compression": 4,
+            "name": "7_ZAD",
+            "position_x": 587
+        },
+        "ges5_2.png": {
+            "compression": 4,
+            "name": "1_ZAD",
+            "position_x": 657,
+            "position_y": 115
+        },
+        "ges5_20.png": {
+            "compression": 4,
+            "name": "7_ZAD",
+            "position_x": 641,
+            "position_y": 60
+        },
+        "ges5_3.png": {
+            "compression": 4,
+            "name": "2_ZAD",
+            "position_x": 741
+        },
+        "ges5_4.png": {
+            "compression": 4,
+            "name": "2_ZAD",
+            "position_x": 590
+        },
+        "ges5_5.png": {
+            "compression": 4,
+            "name": "2_ZAD",
+            "position_x": 662,
+            "position_y": 105
+        },
+        "ges5_6.png": {
+            "compression": 4,
+            "name": "3_ZAD",
+            "position_x": 741,
+            "position_y": 42
+        },
+        "ges5_7.png": {
+            "compression": 4,
+            "name": "3_ZAD",
+            "position_x": 585
+        },
+        "ges5_8.png": {
+            "compression": 4,
+            "name": "3_ZAD",
+            "position_x": 662,
+            "position_y": 87
+        },
+        "ges5_9.png": {
+            "compression": 4,
+            "name": "4_ZAD",
+            "position_x": 742
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,89 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "A1": {
+            "frames": [
+                {
+                    "check": [
+                        32,
+                        189,
+                        83
+                    ],
+                    "filename": "przedmioty0_0.png",
+                    "name": "DRABINA",
+                    "position_x": -267,
+                    "position_y": -152
+                },
+                {
+                    "check": [
+                        32,
+                        189,
+                        83
+                    ],
+                    "filename": "przedmioty0_2.png",
+                    "name": "menu",
+                    "position_x": -267,
+                    "position_y": -152
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "A2": {
+            "frames": [
+                {
+                    "check": [
+                        32,
+                        189,
+                        83
+                    ],
+                    "filename": "przedmioty0_1.png",
+                    "name": "KORBA",
+                    "position_x": -561,
+                    "position_y": -41
+                },
+                {
+                    "check": [
+                        32,
+                        189,
+                        83
+                    ],
+                    "filename": "przedmioty0_3.png",
+                    "name": "menu",
+                    "position_x": -561,
+                    "position_y": -41
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "przedmioty0_0.png": {
+            "compression": 4,
+            "name": "DRABINA",
+            "position_x": 224,
+            "position_y": 320
+        },
+        "przedmioty0_1.png": {
+            "compression": 4,
+            "name": "SIEKIERA",
+            "position_x": 512,
+            "position_y": 32
+        },
+        "przedmioty0_2.png": {
+            "compression": 4,
+            "name": "DRABINA",
+            "position_x": 179,
+            "position_y": 577
+        },
+        "przedmioty0_3.png": {
+            "compression": 4,
+            "name": "SIEKIERA",
+            "position_x": 179,
+            "position_y": 553
+        }
+    },
+    "transparency": 255
+}

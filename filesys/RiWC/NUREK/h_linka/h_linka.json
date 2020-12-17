@@ -1,0 +1,31 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "ROT": {
+            "frames": [
+                {
+                    "check": [
+                        64,
+                        206,
+                        85
+                    ],
+                    "filename": "h_linka_0.png",
+                    "name": "LINKA0",
+                    "position_x": -418,
+                    "position_y": -808
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "h_linka_0.png": {
+            "compression": 2,
+            "name": "LINKA",
+            "position_x": 441
+        }
+    },
+    "transparency": 255
+}

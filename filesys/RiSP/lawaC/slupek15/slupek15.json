@@ -1,0 +1,546 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "BEZRUCH": {
+            "frames": [
+                {
+                    "check": [
+                        128,
+                        136,
+                        164
+                    ],
+                    "filename": "slupek15_0.png",
+                    "name": "SLUPEK",
+                    "position_x": 64,
+                    "position_y": -166
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "WYNURZA": {
+            "frames": [
+                {
+                    "check": [
+                        240,
+                        142,
+                        164
+                    ],
+                    "filename": "slupek15_1.png",
+                    "name": "SLUPEK COPY 7",
+                    "position_x": 64,
+                    "position_y": -166,
+                    "sfx": "sfx\\00slup1b.wav",
+                    "sfx_seed": 10813216
+                },
+                {
+                    "check": [
+                        96,
+                        142,
+                        164
+                    ],
+                    "filename": "slupek15_2.png",
+                    "name": "SLUPEK COPY 12",
+                    "position_x": 64,
+                    "position_y": -166
+                },
+                {
+                    "check": [
+                        208,
+                        141,
+                        164
+                    ],
+                    "filename": "slupek15_4.png",
+                    "name": "SLUPEK COPY 6",
+                    "position_x": 64,
+                    "position_y": -166
+                },
+                {
+                    "check": [
+                        64,
+                        141,
+                        164
+                    ],
+                    "filename": "slupek15_5.png",
+                    "name": "SLUPEK COPY 11",
+                    "position_x": 64,
+                    "position_y": -166
+                },
+                {
+                    "check": [
+                        176,
+                        140,
+                        164
+                    ],
+                    "filename": "slupek15_7.png",
+                    "name": "SLUPEK COPY 5",
+                    "position_x": 64,
+                    "position_y": -166
+                },
+                {
+                    "check": [
+                        32,
+                        140,
+                        164
+                    ],
+                    "filename": "slupek15_8.png",
+                    "name": "SLUPEK COPY 4",
+                    "position_x": 64,
+                    "position_y": -166
+                },
+                {
+                    "check": [
+                        144,
+                        139,
+                        164
+                    ],
+                    "filename": "slupek15_9.png",
+                    "name": "SLUPEK COPY 3",
+                    "position_x": 64,
+                    "position_y": -166
+                },
+                {
+                    "check": [],
+                    "filename": "slupek15_6.png",
+                    "name": "SLUPEK COPY 2",
+                    "position_x": 64,
+                    "position_y": -166
+                },
+                {
+                    "check": [
+                        112,
+                        138,
+                        164
+                    ],
+                    "filename": "slupek15_3.png",
+                    "name": "SLUPEK COPY",
+                    "position_x": 64,
+                    "position_y": -166
+                },
+                {
+                    "check": [
+                        224,
+                        137,
+                        164
+                    ],
+                    "filename": "slupek15_0.png",
+                    "name": "SLUPEK",
+                    "position_x": 64,
+                    "position_y": -166
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ZAPADA": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        99,
+                        164
+                    ],
+                    "filename": "slupek15_0.png",
+                    "name": "SLUPEK",
+                    "position_x": 64,
+                    "position_y": -166,
+                    "sfx": "sfx\\00slup3x.wav",
+                    "sfx_seed": 10797440
+                },
+                {
+                    "check": [
+                        64,
+                        127,
+                        164
+                    ],
+                    "filename": "slupek15_0.png",
+                    "name": "SLUPEK",
+                    "position_x": 64,
+                    "position_y": -166
+                },
+                {
+                    "check": [
+                        176,
+                        126,
+                        164
+                    ],
+                    "filename": "slupek15_3.png",
+                    "name": "SLUPEK COPY",
+                    "position_x": 64,
+                    "position_y": -166
+                },
+                {
+                    "check": [
+                        32,
+                        126,
+                        164
+                    ],
+                    "filename": "slupek15_3.png",
+                    "name": "SLUPEK COPY",
+                    "position_x": 64,
+                    "position_y": -166
+                },
+                {
+                    "check": [
+                        144,
+                        125,
+                        164
+                    ],
+                    "filename": "slupek15_6.png",
+                    "name": "SLUPEK COPY 2",
+                    "position_x": 64,
+                    "position_y": -166
+                },
+                {
+                    "check": [],
+                    "filename": "slupek15_6.png",
+                    "name": "SLUPEK COPY 2",
+                    "position_x": 64,
+                    "position_y": -166
+                },
+                {
+                    "check": [
+                        112,
+                        124,
+                        164
+                    ],
+                    "filename": "slupek15_9.png",
+                    "name": "SLUPEK COPY 3",
+                    "position_x": 64,
+                    "position_y": -166
+                },
+                {
+                    "check": [
+                        224,
+                        123,
+                        164
+                    ],
+                    "filename": "slupek15_9.png",
+                    "name": "SLUPEK COPY 3",
+                    "position_x": 64,
+                    "position_y": -166
+                },
+                {
+                    "check": [
+                        80,
+                        123,
+                        164
+                    ],
+                    "filename": "slupek15_8.png",
+                    "name": "SLUPEK COPY 4",
+                    "position_x": 64,
+                    "position_y": -166
+                },
+                {
+                    "check": [
+                        192,
+                        122,
+                        164
+                    ],
+                    "filename": "slupek15_8.png",
+                    "name": "SLUPEK COPY 4",
+                    "position_x": 64,
+                    "position_y": -166
+                },
+                {
+                    "check": [
+                        48,
+                        122,
+                        164
+                    ],
+                    "filename": "slupek15_7.png",
+                    "name": "SLUPEK COPY 5",
+                    "position_x": 64,
+                    "position_y": -166
+                },
+                {
+                    "check": [
+                        160,
+                        121,
+                        164
+                    ],
+                    "filename": "slupek15_7.png",
+                    "name": "SLUPEK COPY 5",
+                    "position_x": 64,
+                    "position_y": -166
+                },
+                {
+                    "check": [
+                        16,
+                        121,
+                        164
+                    ],
+                    "filename": "slupek15_5.png",
+                    "name": "SLUPEK COPY 11",
+                    "position_x": 64,
+                    "position_y": -166
+                },
+                {
+                    "check": [
+                        128,
+                        120,
+                        164
+                    ],
+                    "filename": "slupek15_5.png",
+                    "name": "SLUPEK COPY 11",
+                    "position_x": 64,
+                    "position_y": -166
+                },
+                {
+                    "check": [
+                        240,
+                        119,
+                        164
+                    ],
+                    "filename": "slupek15_4.png",
+                    "name": "SLUPEK COPY 6",
+                    "position_x": 64,
+                    "position_y": -166
+                },
+                {
+                    "check": [
+                        96,
+                        119,
+                        164
+                    ],
+                    "filename": "slupek15_4.png",
+                    "name": "SLUPEK COPY 6",
+                    "position_x": 64,
+                    "position_y": -166
+                },
+                {
+                    "check": [
+                        208,
+                        118,
+                        164
+                    ],
+                    "filename": "slupek15_2.png",
+                    "name": "SLUPEK COPY 12",
+                    "position_x": 64,
+                    "position_y": -166
+                },
+                {
+                    "check": [
+                        64,
+                        118,
+                        164
+                    ],
+                    "filename": "slupek15_2.png",
+                    "name": "SLUPEK COPY 12",
+                    "position_x": 64,
+                    "position_y": -166
+                },
+                {
+                    "check": [
+                        176,
+                        117,
+                        164
+                    ],
+                    "filename": "slupek15_1.png",
+                    "name": "SLUPEK COPY 7",
+                    "position_x": 64,
+                    "position_y": -166
+                },
+                {
+                    "check": [
+                        32,
+                        117,
+                        164
+                    ],
+                    "filename": "slupek15_1.png",
+                    "name": "SLUPEK COPY 7",
+                    "position_x": 64,
+                    "position_y": -166
+                },
+                {
+                    "check": [
+                        144,
+                        116,
+                        164
+                    ],
+                    "filename": "slupek15_10.png",
+                    "name": "SLUPEK COPY 8",
+                    "position_x": 64,
+                    "position_y": -166
+                },
+                {
+                    "check": [],
+                    "filename": "slupek15_10.png",
+                    "name": "SLUPEK COPY 8",
+                    "position_x": 64,
+                    "position_y": -166
+                },
+                {
+                    "check": [
+                        112,
+                        115,
+                        164
+                    ],
+                    "filename": "slupek15_10.png",
+                    "name": "SLUPEK COPY 8",
+                    "position_x": 64,
+                    "position_y": -166
+                },
+                {
+                    "check": [
+                        224,
+                        114,
+                        164
+                    ],
+                    "filename": "slupek15_11.png",
+                    "name": "SLUPEK COPY 9",
+                    "position_x": 64,
+                    "position_y": -166
+                },
+                {
+                    "check": [
+                        80,
+                        114,
+                        164
+                    ],
+                    "filename": "slupek15_11.png",
+                    "name": "SLUPEK COPY 9",
+                    "position_x": 64,
+                    "position_y": -166
+                },
+                {
+                    "check": [
+                        192,
+                        113,
+                        164
+                    ],
+                    "filename": "slupek15_12.png",
+                    "name": "SLUPEK COPY 10",
+                    "position_x": 64,
+                    "position_y": -166
+                },
+                {
+                    "check": [
+                        48,
+                        113,
+                        164
+                    ],
+                    "filename": "slupek15_12.png",
+                    "name": "SLUPEK COPY 10",
+                    "position_x": 64,
+                    "position_y": -166
+                },
+                {
+                    "check": [
+                        160,
+                        112,
+                        164
+                    ],
+                    "filename": "slupek15_12.png",
+                    "name": "SLUPEK COPY 10",
+                    "position_x": 57,
+                    "position_y": 95
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "slupek15_0.png": {
+            "compression": 4,
+            "name": "SLUPEK",
+            "position_x": 126,
+            "position_y": 518
+        },
+        "slupek15_1.png": {
+            "compression": 4,
+            "name": "SLUPEK COPY 7",
+            "position_x": 122,
+            "position_y": 549
+        },
+        "slupek15_10.png": {
+            "compression": 4,
+            "name": "SLUPEK COPY 8",
+            "position_x": 153,
+            "position_y": 530
+        },
+        "slupek15_11.png": {
+            "compression": 4,
+            "name": "SLUPEK COPY 9",
+            "position_x": 154,
+            "position_y": 503
+        },
+        "slupek15_12.png": {
+            "compression": 4,
+            "name": "SLUPEK COPY 10",
+            "position_x": 162,
+            "position_y": 502
+        },
+        "slupek15_2.png": {
+            "compression": 4,
+            "name": "SLUPEK COPY 12",
+            "position_x": 127,
+            "position_y": 549
+        },
+        "slupek15_3.png": {
+            "compression": 4,
+            "name": "SLUPEK COPY",
+            "position_x": 127,
+            "position_y": 524
+        },
+        "slupek15_4.png": {
+            "compression": 4,
+            "name": "SLUPEK COPY 6",
+            "position_x": 110,
+            "position_y": 549
+        },
+        "slupek15_5.png": {
+            "compression": 4,
+            "name": "SLUPEK COPY 11",
+            "position_x": 120,
+            "position_y": 550
+        },
+        "slupek15_6.png": {
+            "compression": 4,
+            "name": "SLUPEK COPY 2",
+            "position_x": 126,
+            "position_y": 533
+        },
+        "slupek15_7.png": {
+            "compression": 4,
+            "name": "SLUPEK COPY 5",
+            "position_x": 116,
+            "position_y": 547
+        },
+        "slupek15_8.png": {
+            "compression": 4,
+            "name": "SLUPEK COPY 4",
+            "position_x": 122,
+            "position_y": 541
+        },
+        "slupek15_9.png": {
+            "compression": 4,
+            "name": "SLUPEK COPY 3",
+            "position_x": 123,
+            "position_y": 539
+        }
+    },
+    "transparency": 255
+}

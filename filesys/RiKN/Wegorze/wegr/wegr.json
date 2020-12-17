@@ -1,0 +1,80 @@
+{
+    "author": "",
+    "bpp": 16,
+    "events": {
+        "weg": {
+            "frames": [
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "wegr_0.png",
+                    "name": "w1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "wegr_1.png",
+                    "name": "w2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "wegr_2.png",
+                    "name": "w3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        148,
+                        159,
+                        74
+                    ],
+                    "filename": "wegr_3.png",
+                    "name": "w4",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 3,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "wegr_0.png": {
+            "compression": 3,
+            "name": "w1"
+        },
+        "wegr_1.png": {
+            "compression": 3,
+            "name": "w2",
+            "position_x": 1,
+            "position_y": 2
+        },
+        "wegr_2.png": {
+            "compression": 3,
+            "name": "w3",
+            "position_x": 1
+        },
+        "wegr_3.png": {
+            "compression": 3,
+            "name": "w4",
+            "position_x": 1,
+            "position_y": 2
+        }
+    },
+    "transparency": 255
+}

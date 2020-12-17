@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "grzebien_but_0.png",
+                    "name": "GRZEBIEN_BUT_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "grzebien_but_1.png",
+                    "name": "GRZEBIEN_BUT",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "grzebien_but_0.png": {
+            "compression": 4,
+            "name": "GRZEBIEN_BUT_COPY",
+            "position_x": 8,
+            "position_y": 8
+        },
+        "grzebien_but_1.png": {
+            "compression": 4,
+            "name": "GRZEBIEN_BUT",
+            "position_x": 14,
+            "position_y": 11
+        }
+    },
+    "transparency": 255
+}

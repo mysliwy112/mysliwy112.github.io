@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <script src="lib/ann.js"></script>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body onload="setCanvas()">
+        <div id=filesys>
+            
+        </div>
+
+        <div id="history">
+
+        </div>
+        <div id="saved">
+
+        </div>
+        <div id="player">
+            <canvas id="screen" width=800 height=600>
+            </canvas>
+            <div id="play_buttons">
+                <button type="button" onclick="playB()">Back</button> 
+                <button type="button" onclick="pause()">Pause</button> 
+                <button type="button" onclick="play()">Play</button> 
+            </div>
+            <div id="frames">
+            </div>
+        </div>
+
+        <ul id="events">
+            
+        </ul>
+        <script src="lib/index.js"></script>
+    </body>
+</html>

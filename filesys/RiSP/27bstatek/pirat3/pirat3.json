@@ -1,0 +1,165 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "GADA_1": {
+            "frames": [
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "pirat3_2.png",
+                    "name": "C-04",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "pirat3_3.png",
+                    "name": "C-03",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "pirat3_2.png",
+                    "name": "C-04",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "pirat3_4.png",
+                    "name": " C-05",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "GADA_START": {
+            "frames": [
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "pirat3_0.png",
+                    "name": " C-00 COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "pirat3_1.png",
+                    "name": " C-00 COPY 2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "GADA_STOP": {
+            "frames": [
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "pirat3_1.png",
+                    "name": " C-00 COPY 2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "pirat3_0.png",
+                    "name": " C-00 COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "pirat3_0.png": {
+            "compression": 4,
+            "name": " C-00 COPY",
+            "position_x": 267,
+            "position_y": 348
+        },
+        "pirat3_1.png": {
+            "compression": 4,
+            "name": " C-00 COPY 2",
+            "position_x": 267,
+            "position_y": 348
+        },
+        "pirat3_2.png": {
+            "compression": 4,
+            "name": "C-04",
+            "position_x": 267,
+            "position_y": 343
+        },
+        "pirat3_3.png": {
+            "compression": 4,
+            "name": "C-03",
+            "position_x": 267,
+            "position_y": 343
+        },
+        "pirat3_4.png": {
+            "compression": 4,
+            "name": " C-05",
+            "position_x": 267,
+            "position_y": 343
+        }
+    },
+    "transparency": 255
+}

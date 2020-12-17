@@ -1,0 +1,103 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "POCHODNIA": {
+            "frames": [
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "pochodnia_0.png",
+                    "name": "01",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "pochodnia_1.png",
+                    "name": "02",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "pochodnia_2.png",
+                    "name": "03",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "pochodnia_3.png",
+                    "name": "04",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "pochodnia_0.png": {
+            "compression": 4,
+            "name": "01",
+            "position_x": 126,
+            "position_y": 26
+        },
+        "pochodnia_1.png": {
+            "compression": 4,
+            "name": "02",
+            "position_x": 128,
+            "position_y": 27
+        },
+        "pochodnia_2.png": {
+            "compression": 4,
+            "name": "03",
+            "position_x": 128,
+            "position_y": 26
+        },
+        "pochodnia_3.png": {
+            "compression": 4,
+            "name": "04",
+            "position_x": 128,
+            "position_y": 25
+        }
+    },
+    "transparency": 255
+}

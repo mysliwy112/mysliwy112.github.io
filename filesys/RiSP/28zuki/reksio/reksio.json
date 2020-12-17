@@ -1,0 +1,416 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_0.png",
+                    "name": "1_KIWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_0.png",
+                    "name": "1_KIWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_1.png",
+                    "name": "2_KIWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_1.png",
+                    "name": "2_KIWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_2.png",
+                    "name": "3_KIWA",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\rex_szcz1.wav",
+                    "sfx_seed": 249885720
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_2.png",
+                    "name": "3_KIWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_3.png",
+                    "name": "4_KIWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_3.png",
+                    "name": "4_KIWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_4.png",
+                    "name": "5_KIWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_4.png",
+                    "name": "5_KIWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_5.png",
+                    "name": "6_KIWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_5.png",
+                    "name": "6_KIWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_6.png",
+                    "name": "7_KIWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_6.png",
+                    "name": "7_KIWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_7.png",
+                    "name": "8 _KIWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_7.png",
+                    "name": "8 _KIWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_8.png",
+                    "name": "9_KIWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_8.png",
+                    "name": "9_KIWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_9.png",
+                    "name": "10_KIWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_9.png",
+                    "name": "10_KIWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_8.png",
+                    "name": "9_KIWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_8.png",
+                    "name": "9_KIWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_8.png",
+                    "name": "9_KIWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_8.png",
+                    "name": "9_KIWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_8.png",
+                    "name": "9_KIWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_8.png",
+                    "name": "9_KIWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_9.png",
+                    "name": "10_KIWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_9.png",
+                    "name": "10_KIWA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        88,
+                        84
+                    ],
+                    "filename": "reksio_8.png",
+                    "name": "9_KIWA",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "reksio_0.png": {
+            "compression": 4,
+            "name": "1_KIWA",
+            "position_x": 724,
+            "position_y": 122
+        },
+        "reksio_1.png": {
+            "compression": 4,
+            "name": "2_KIWA",
+            "position_x": 717,
+            "position_y": 144
+        },
+        "reksio_2.png": {
+            "compression": 4,
+            "name": "3_KIWA",
+            "position_x": 688,
+            "position_y": 107
+        },
+        "reksio_3.png": {
+            "compression": 4,
+            "name": "4_KIWA",
+            "position_x": 685,
+            "position_y": 105
+        },
+        "reksio_4.png": {
+            "compression": 4,
+            "name": "5_KIWA",
+            "position_x": 688,
+            "position_y": 106
+        },
+        "reksio_5.png": {
+            "compression": 4,
+            "name": "6_KIWA",
+            "position_x": 713,
+            "position_y": 122
+        },
+        "reksio_6.png": {
+            "compression": 4,
+            "name": "7_KIWA",
+            "position_x": 713,
+            "position_y": 120
+        },
+        "reksio_7.png": {
+            "compression": 4,
+            "name": "8 _KIWA",
+            "position_x": 694,
+            "position_y": 107
+        },
+        "reksio_8.png": {
+            "compression": 4,
+            "name": "9_KIWA",
+            "position_x": 694,
+            "position_y": 111
+        },
+        "reksio_9.png": {
+            "compression": 4,
+            "name": "10_KIWA",
+            "position_x": 694,
+            "position_y": 111
+        }
+    },
+    "transparency": 255
+}

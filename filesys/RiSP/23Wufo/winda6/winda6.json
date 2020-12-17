@@ -1,0 +1,209 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "DOWN": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        228,
+                        164
+                    ],
+                    "filename": "winda6_1.png",
+                    "name": "WINDA COPY 5",
+                    "position_x": 676,
+                    "position_y": 2,
+                    "sfx": "sfx\\00windad2.wav;sfx\\00windad.wav",
+                    "sfx_seed": 10807120
+                },
+                {
+                    "check": [
+                        192,
+                        123,
+                        164
+                    ],
+                    "filename": "winda6_3.png",
+                    "name": "WINDA COPY 4",
+                    "position_x": 676,
+                    "position_y": 2
+                },
+                {
+                    "check": [
+                        48,
+                        123,
+                        164
+                    ],
+                    "filename": "winda6_5.png",
+                    "name": "WINDA COPY 3",
+                    "position_x": 676,
+                    "position_y": 2
+                },
+                {
+                    "check": [
+                        160,
+                        122,
+                        164
+                    ],
+                    "filename": "winda6_4.png",
+                    "name": "WINDA COPY 2",
+                    "position_x": 676,
+                    "position_y": 2
+                },
+                {
+                    "check": [
+                        16,
+                        122,
+                        164
+                    ],
+                    "filename": "winda6_2.png",
+                    "name": "WINDA COPY",
+                    "position_x": 676,
+                    "position_y": 2
+                },
+                {
+                    "check": [
+                        128,
+                        121,
+                        164
+                    ],
+                    "filename": "winda6_0.png",
+                    "name": "WINDA",
+                    "position_x": 676,
+                    "position_y": 2
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "UP": {
+            "frames": [
+                {
+                    "check": [
+                        240,
+                        96,
+                        164
+                    ],
+                    "filename": "winda6_0.png",
+                    "name": "WINDA",
+                    "position_x": 676,
+                    "position_y": 2,
+                    "sfx": "sfx\\00windau.wav;sfx\\00windau2.wav",
+                    "sfx_seed": 10794848
+                },
+                {
+                    "check": [
+                        96,
+                        96,
+                        164
+                    ],
+                    "filename": "winda6_2.png",
+                    "name": "WINDA COPY",
+                    "position_x": 676,
+                    "position_y": 2
+                },
+                {
+                    "check": [
+                        144,
+                        127,
+                        164
+                    ],
+                    "filename": "winda6_4.png",
+                    "name": "WINDA COPY 2",
+                    "position_x": 676,
+                    "position_y": 2
+                },
+                {
+                    "check": [],
+                    "filename": "winda6_5.png",
+                    "name": "WINDA COPY 3",
+                    "position_x": 676,
+                    "position_y": 2
+                },
+                {
+                    "check": [
+                        112,
+                        126,
+                        164
+                    ],
+                    "filename": "winda6_3.png",
+                    "name": "WINDA COPY 4",
+                    "position_x": 676,
+                    "position_y": 2
+                },
+                {
+                    "check": [
+                        224,
+                        125,
+                        164
+                    ],
+                    "filename": "winda6_1.png",
+                    "name": "WINDA COPY 5",
+                    "position_x": 676,
+                    "position_y": 2
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "winda6_0.png": {
+            "compression": 4,
+            "name": "WINDA",
+            "position_x": 13,
+            "position_y": 465
+        },
+        "winda6_1.png": {
+            "compression": 4,
+            "name": "WINDA COPY 5",
+            "position_x": 12,
+            "position_y": 334
+        },
+        "winda6_2.png": {
+            "compression": 4,
+            "name": "WINDA COPY",
+            "position_x": 12,
+            "position_y": 448
+        },
+        "winda6_3.png": {
+            "compression": 4,
+            "name": "WINDA COPY 4",
+            "position_x": 12,
+            "position_y": 361
+        },
+        "winda6_4.png": {
+            "compression": 4,
+            "name": "WINDA COPY 2",
+            "position_x": 12,
+            "position_y": 418
+        },
+        "winda6_5.png": {
+            "compression": 4,
+            "name": "WINDA COPY 3",
+            "position_x": 12,
+            "position_y": 390
+        }
+    },
+    "transparency": 255
+}

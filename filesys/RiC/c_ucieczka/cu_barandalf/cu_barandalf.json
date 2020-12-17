@@ -1,0 +1,657 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_barandalf_0.png",
+                    "name": "BDALF_GADA_START_5",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\c_uciecz.wav",
+                    "sfx_seed": 50300460
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_barandalf_1.png",
+                    "name": "BARAN",
+                    "position_x": -1,
+                    "position_y": 22
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_barandalf_2.png",
+                    "name": "BARAN_COPY",
+                    "position_x": -26,
+                    "position_y": 39
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_barandalf_3.png",
+                    "name": "BARAN_COPY_2",
+                    "position_x": -57,
+                    "position_y": 35
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_barandalf_4.png",
+                    "name": "BARAN_COPY_3",
+                    "position_x": -92,
+                    "position_y": 13
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_barandalf_5.png",
+                    "name": "BARAN_COPY_4",
+                    "position_x": -119,
+                    "position_y": -21
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_barandalf_6.png",
+                    "name": "BARAN_COPY_5",
+                    "position_x": -121,
+                    "position_y": -60
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_barandalf_7.png",
+                    "name": "BARAN_COPY_6",
+                    "position_x": -111,
+                    "position_y": -99
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_barandalf_8.png",
+                    "name": "BARAN_COPY_7",
+                    "position_x": -93,
+                    "position_y": -139
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_barandalf_9.png",
+                    "name": "BARAN_COPY_8",
+                    "position_x": -72,
+                    "position_y": -177
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_barandalf_10.png",
+                    "name": "BARAN_COPY_9",
+                    "position_x": -37,
+                    "position_y": -214
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_barandalf_11.png",
+                    "name": "BARAN_COPY_10",
+                    "position_x": 2,
+                    "position_y": -234
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_barandalf_12.png",
+                    "name": "BARAN_COPY_11",
+                    "position_x": 43,
+                    "position_y": -246
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_barandalf_13.png",
+                    "name": "BARAN_COPY_12",
+                    "position_x": 83,
+                    "position_y": -252
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_barandalf_14.png",
+                    "name": "BARAN_COPY_13",
+                    "position_x": 123,
+                    "position_y": -251
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_barandalf_15.png",
+                    "name": "BARAN_COPY_14",
+                    "position_x": 163,
+                    "position_y": -241
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_barandalf_16.png",
+                    "name": "BARAN_COPY_15",
+                    "position_x": 202,
+                    "position_y": -209
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_barandalf_17.png",
+                    "name": "BARAN_COPY_16",
+                    "position_x": 222,
+                    "position_y": -168
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_barandalf_18.png",
+                    "name": "BARAN_COPY_17",
+                    "position_x": 232,
+                    "position_y": -128
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_barandalf_19.png",
+                    "name": "BARAN_COPY_18",
+                    "position_x": 233,
+                    "position_y": -87
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_barandalf_20.png",
+                    "name": "BARAN_COPY_19",
+                    "position_x": 224,
+                    "position_y": -46
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_barandalf_21.png",
+                    "name": "BARAN_COPY_20",
+                    "position_x": 206,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_barandalf_22.png",
+                    "name": "BARAN_COPY_21",
+                    "position_x": 173,
+                    "position_y": 35
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_barandalf_23.png",
+                    "name": "BARAN_COPY_22",
+                    "position_x": 133,
+                    "position_y": 70
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_barandalf_24.png",
+                    "name": "BARAN_COPY_23",
+                    "position_x": 91,
+                    "position_y": 98
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_barandalf_25.png",
+                    "name": "BARAN_COPY_24",
+                    "position_x": 51,
+                    "position_y": 118
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_barandalf_26.png",
+                    "name": "BARAN_COPY_25",
+                    "position_x": 11,
+                    "position_y": 132
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_barandalf_27.png",
+                    "name": "BARAN_COPY_26",
+                    "position_x": -30,
+                    "position_y": 138
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_barandalf_28.png",
+                    "name": "BARAN_COPY_27",
+                    "position_x": -69,
+                    "position_y": 139
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_barandalf_29.png",
+                    "name": "BARAN_COPY_28",
+                    "position_x": -109,
+                    "position_y": 125
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_barandalf_30.png",
+                    "name": "BARAN_COPY_29",
+                    "position_x": -141,
+                    "position_y": 88
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_barandalf_31.png",
+                    "name": "BARAN_COPY_30",
+                    "position_x": -148,
+                    "position_y": 48
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_barandalf_32.png",
+                    "name": "BARAN_COPY_31",
+                    "position_x": -145,
+                    "position_y": 8
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_barandalf_33.png",
+                    "name": "BARAN_COPY_32",
+                    "position_x": -122,
+                    "position_y": -28
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_barandalf_34.png",
+                    "name": "BARAN_COPY_33",
+                    "position_x": -86,
+                    "position_y": -40
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_barandalf_35.png",
+                    "name": "BARAN_COPY_34",
+                    "position_x": -50,
+                    "position_y": -32
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_barandalf_36.png",
+                    "name": "BARAN_COPY_35",
+                    "position_x": -21,
+                    "position_y": -29
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "cu_barandalf_36.png",
+                    "name": "BARAN_COPY_35",
+                    "position_x": 72,
+                    "position_y": 272
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "cu_barandalf_0.png": {
+            "compression": 3,
+            "name": "BDALF_GADA_START_5",
+            "position_x": 222,
+            "position_y": 47
+        },
+        "cu_barandalf_1.png": {
+            "compression": 3,
+            "name": "BARAN",
+            "position_x": 97,
+            "position_y": 141
+        },
+        "cu_barandalf_10.png": {
+            "compression": 3,
+            "name": "BARAN_COPY_9",
+            "position_x": 268,
+            "position_y": 294
+        },
+        "cu_barandalf_11.png": {
+            "compression": 3,
+            "name": "BARAN_COPY_10",
+            "position_x": 279,
+            "position_y": 254
+        },
+        "cu_barandalf_12.png": {
+            "compression": 3,
+            "name": "BARAN_COPY_11",
+            "position_x": 337,
+            "position_y": 260
+        },
+        "cu_barandalf_13.png": {
+            "compression": 3,
+            "name": "BARAN_COPY_12",
+            "position_x": 304,
+            "position_y": 268
+        },
+        "cu_barandalf_14.png": {
+            "compression": 3,
+            "name": "BARAN_COPY_13",
+            "position_x": 310,
+            "position_y": 316
+        },
+        "cu_barandalf_15.png": {
+            "compression": 3,
+            "name": "BARAN_COPY_14",
+            "position_x": 339,
+            "position_y": 289
+        },
+        "cu_barandalf_16.png": {
+            "compression": 3,
+            "name": "BARAN_COPY_15",
+            "position_x": 355,
+            "position_y": 294
+        },
+        "cu_barandalf_17.png": {
+            "compression": 3,
+            "name": "BARAN_COPY_16",
+            "position_x": 335,
+            "position_y": 316
+        },
+        "cu_barandalf_18.png": {
+            "compression": 3,
+            "name": "BARAN_COPY_17",
+            "position_x": 337,
+            "position_y": 330
+        },
+        "cu_barandalf_19.png": {
+            "compression": 3,
+            "name": "BARAN_COPY_18",
+            "position_x": 341,
+            "position_y": 312
+        },
+        "cu_barandalf_2.png": {
+            "compression": 3,
+            "name": "BARAN_COPY",
+            "position_x": 109,
+            "position_y": 208
+        },
+        "cu_barandalf_20.png": {
+            "compression": 3,
+            "name": "BARAN_COPY_19",
+            "position_x": 367,
+            "position_y": 316
+        },
+        "cu_barandalf_21.png": {
+            "compression": 3,
+            "name": "BARAN_COPY_20",
+            "position_x": 353,
+            "position_y": 318
+        },
+        "cu_barandalf_22.png": {
+            "compression": 3,
+            "name": "BARAN_COPY_21",
+            "position_x": 355,
+            "position_y": 339
+        },
+        "cu_barandalf_23.png": {
+            "compression": 3,
+            "name": "BARAN_COPY_22",
+            "position_x": 367,
+            "position_y": 327
+        },
+        "cu_barandalf_24.png": {
+            "compression": 3,
+            "name": "BARAN_COPY_23",
+            "position_x": 375,
+            "position_y": 330
+        },
+        "cu_barandalf_25.png": {
+            "compression": 3,
+            "name": "BARAN_COPY_24",
+            "position_x": 365,
+            "position_y": 339
+        },
+        "cu_barandalf_26.png": {
+            "compression": 3,
+            "name": "BARAN_COPY_25",
+            "position_x": 367,
+            "position_y": 346
+        },
+        "cu_barandalf_27.png": {
+            "compression": 3,
+            "name": "BARAN_COPY_26",
+            "position_x": 368,
+            "position_y": 338
+        },
+        "cu_barandalf_28.png": {
+            "compression": 3,
+            "name": "BARAN_COPY_27",
+            "position_x": 379,
+            "position_y": 340
+        },
+        "cu_barandalf_29.png": {
+            "compression": 3,
+            "name": "BARAN_COPY_28",
+            "position_x": 373,
+            "position_y": 341
+        },
+        "cu_barandalf_3.png": {
+            "compression": 3,
+            "name": "BARAN_COPY_2",
+            "position_x": 134,
+            "position_y": 120
+        },
+        "cu_barandalf_30.png": {
+            "compression": 3,
+            "name": "BARAN_COPY_29",
+            "position_x": 375,
+            "position_y": 350
+        },
+        "cu_barandalf_31.png": {
+            "compression": 3,
+            "name": "BARAN_COPY_30",
+            "position_x": 379,
+            "position_y": 345
+        },
+        "cu_barandalf_32.png": {
+            "compression": 3,
+            "name": "BARAN_COPY_31",
+            "position_x": 383,
+            "position_y": 346
+        },
+        "cu_barandalf_33.png": {
+            "compression": 3,
+            "name": "BARAN_COPY_32",
+            "position_x": 378,
+            "position_y": 349
+        },
+        "cu_barandalf_34.png": {
+            "compression": 3,
+            "name": "BARAN_COPY_33",
+            "position_x": 379,
+            "position_y": 354
+        },
+        "cu_barandalf_35.png": {
+            "compression": 3,
+            "name": "BARAN_COPY_34",
+            "position_x": 380,
+            "position_y": 348
+        },
+        "cu_barandalf_36.png": {
+            "compression": 3,
+            "name": "BARAN_COPY_35",
+            "position_x": 385,
+            "position_y": 350
+        },
+        "cu_barandalf_4.png": {
+            "compression": 3,
+            "name": "BARAN_COPY_3",
+            "position_x": 268,
+            "position_y": 131
+        },
+        "cu_barandalf_5.png": {
+            "compression": 3,
+            "name": "BARAN_COPY_4",
+            "position_x": 193,
+            "position_y": 150
+        },
+        "cu_barandalf_6.png": {
+            "compression": 3,
+            "name": "BARAN_COPY_5",
+            "position_x": 205,
+            "position_y": 260
+        },
+        "cu_barandalf_7.png": {
+            "compression": 3,
+            "name": "BARAN_COPY_6",
+            "position_x": 274,
+            "position_y": 198
+        },
+        "cu_barandalf_8.png": {
+            "compression": 3,
+            "name": "BARAN_COPY_7",
+            "position_x": 310,
+            "position_y": 209
+        },
+        "cu_barandalf_9.png": {
+            "compression": 3,
+            "name": "BARAN_COPY_8",
+            "position_x": 263,
+            "position_y": 263
+        }
+    },
+    "transparency": 255
+}

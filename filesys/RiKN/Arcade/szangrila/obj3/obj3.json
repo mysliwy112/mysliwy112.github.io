@@ -1,0 +1,803 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "harmonia1": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_2.png",
+                    "name": "pixel",
+                    "position_x": -1000,
+                    "position_y": -1000
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_4.png",
+                    "name": "akordeon2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "harmonia2": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_2.png",
+                    "name": "pixel",
+                    "position_x": -1000,
+                    "position_y": -1000
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_5.png",
+                    "name": "akordeon3",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "kangur_gada": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_1.png",
+                    "name": "gada_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_3.png",
+                    "name": "gada_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_6.png",
+                    "name": "gada_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_7.png",
+                    "name": "gada_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_8.png",
+                    "name": "gada_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_9.png",
+                    "name": "gada_6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_10.png",
+                    "name": "gada_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_11.png",
+                    "name": "gada_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_12.png",
+                    "name": "gada_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_13.png",
+                    "name": "gada_10",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_14.png",
+                    "name": "gada_11",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_15.png",
+                    "name": "gada_12",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_16.png",
+                    "name": "gada_13",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 12,
+            "transparency": 255
+        },
+        "kangur_idle": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_0.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_17.png",
+                    "name": "idle_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_18.png",
+                    "name": "idle_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_19.png",
+                    "name": "idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_20.png",
+                    "name": "idle_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_21.png",
+                    "name": "idle_6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_20.png",
+                    "name": "idle_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_19.png",
+                    "name": "idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_18.png",
+                    "name": "idle_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_17.png",
+                    "name": "idle_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_22.png",
+                    "name": "idle_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_23.png",
+                    "name": "idle_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_24.png",
+                    "name": "idle_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_25.png",
+                    "name": "idle_10",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_24.png",
+                    "name": "idle_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_23.png",
+                    "name": "idle_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj3_22.png",
+                    "name": "idle_7",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 38,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "obj3_0.png": {
+            "compression": 3,
+            "name": "idle_1",
+            "position_x": 322,
+            "position_y": 256
+        },
+        "obj3_1.png": {
+            "compression": 3,
+            "name": "gada_1",
+            "position_x": 322,
+            "position_y": 256
+        },
+        "obj3_10.png": {
+            "compression": 3,
+            "name": "gada_7",
+            "position_x": 322,
+            "position_y": 261
+        },
+        "obj3_11.png": {
+            "compression": 3,
+            "name": "gada_8",
+            "position_x": 322,
+            "position_y": 262
+        },
+        "obj3_12.png": {
+            "compression": 3,
+            "name": "gada_9",
+            "position_x": 322,
+            "position_y": 264
+        },
+        "obj3_13.png": {
+            "compression": 3,
+            "name": "gada_10",
+            "position_x": 322,
+            "position_y": 262
+        },
+        "obj3_14.png": {
+            "compression": 3,
+            "name": "gada_11",
+            "position_x": 320,
+            "position_y": 260
+        },
+        "obj3_15.png": {
+            "compression": 3,
+            "name": "gada_12",
+            "position_x": 322,
+            "position_y": 258
+        },
+        "obj3_16.png": {
+            "compression": 3,
+            "name": "gada_13",
+            "position_x": 322,
+            "position_y": 257
+        },
+        "obj3_17.png": {
+            "compression": 3,
+            "name": "idle_2",
+            "position_x": 322,
+            "position_y": 256
+        },
+        "obj3_18.png": {
+            "compression": 3,
+            "name": "idle_3",
+            "position_x": 322,
+            "position_y": 255
+        },
+        "obj3_19.png": {
+            "compression": 3,
+            "name": "idle_4",
+            "position_x": 322,
+            "position_y": 255
+        },
+        "obj3_2.png": {
+            "compression": 3,
+            "name": "pixel"
+        },
+        "obj3_20.png": {
+            "compression": 3,
+            "name": "idle_5",
+            "position_x": 322,
+            "position_y": 255
+        },
+        "obj3_21.png": {
+            "compression": 3,
+            "name": "idle_6",
+            "position_x": 322,
+            "position_y": 255
+        },
+        "obj3_22.png": {
+            "compression": 3,
+            "name": "idle_7",
+            "position_x": 322,
+            "position_y": 256
+        },
+        "obj3_23.png": {
+            "compression": 3,
+            "name": "idle_8",
+            "position_x": 322,
+            "position_y": 256
+        },
+        "obj3_24.png": {
+            "compression": 3,
+            "name": "idle_9",
+            "position_x": 322,
+            "position_y": 257
+        },
+        "obj3_25.png": {
+            "compression": 3,
+            "name": "idle_10",
+            "position_x": 322,
+            "position_y": 257
+        },
+        "obj3_3.png": {
+            "compression": 3,
+            "name": "gada_2",
+            "position_x": 322,
+            "position_y": 257
+        },
+        "obj3_4.png": {
+            "compression": 3,
+            "name": "akordeon2",
+            "position_x": 198,
+            "position_y": 8
+        },
+        "obj3_5.png": {
+            "compression": 3,
+            "name": "akordeon3",
+            "position_x": 57,
+            "position_y": 257
+        },
+        "obj3_6.png": {
+            "compression": 3,
+            "name": "gada_3",
+            "position_x": 320,
+            "position_y": 258
+        },
+        "obj3_7.png": {
+            "compression": 3,
+            "name": "gada_4",
+            "position_x": 322,
+            "position_y": 259
+        },
+        "obj3_8.png": {
+            "compression": 3,
+            "name": "gada_5",
+            "position_x": 322,
+            "position_y": 260
+        },
+        "obj3_9.png": {
+            "compression": 3,
+            "name": "gada_6",
+            "position_x": 322,
+            "position_y": 260
+        }
+    },
+    "transparency": 255
+}

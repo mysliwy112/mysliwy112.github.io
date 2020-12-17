@@ -1,0 +1,48 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "A1": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "switchMask_0.png",
+                    "name": "0",
+                    "position_x": 852,
+                    "position_y": 19
+                },
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "switchMask_1.png",
+                    "name": "1",
+                    "position_x": 852,
+                    "position_y": 19
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "switchMask_0.png": {
+            "compression": 4,
+            "name": "SWITCH1_MA",
+            "position_x": 560,
+            "position_y": 400
+        },
+        "switchMask_1.png": {
+            "compression": 4,
+            "name": "SWITCH1_MB",
+            "position_y": 120
+        }
+    },
+    "transparency": 255
+}

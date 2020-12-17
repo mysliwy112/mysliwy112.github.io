@@ -1,0 +1,199 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "drzwi_e": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod3_1.png",
+                    "name": "adres4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod3_5.png",
+                    "name": "pixel",
+                    "position_x": -1000,
+                    "position_y": -1000
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "drzwi_nw": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod3_0.png",
+                    "name": "drzwi",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod3_5.png",
+                    "name": "pixel",
+                    "position_x": -1000,
+                    "position_y": -1000
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "studzienka_e": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod3_2.png",
+                    "name": "studnia3c",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod3_6.png",
+                    "name": "studnia3c_kopia",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "studzienka_se": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod3_3.png",
+                    "name": "studnia3b",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod3_7.png",
+                    "name": "studnia3b_kopia",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "studzienka_sw": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod3_4.png",
+                    "name": "studnia3a",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pod3_8.png",
+                    "name": "studnia3a_kopia",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "pod3_0.png": {
+            "compression": 3,
+            "name": "drzwi",
+            "position_x": 112,
+            "position_y": 52
+        },
+        "pod3_1.png": {
+            "compression": 3,
+            "name": "adres4",
+            "position_x": 589,
+            "position_y": 210
+        },
+        "pod3_2.png": {
+            "compression": 3,
+            "name": "studnia3c"
+        },
+        "pod3_3.png": {
+            "compression": 3,
+            "name": "studnia3b",
+            "position_x": 487,
+            "position_y": 525
+        },
+        "pod3_4.png": {
+            "compression": 3,
+            "name": "studnia3a",
+            "position_x": 150,
+            "position_y": 464
+        },
+        "pod3_5.png": {
+            "compression": 3,
+            "name": "pixel"
+        },
+        "pod3_6.png": {
+            "compression": 3,
+            "name": "studnia3c_kopia",
+            "position_x": 9,
+            "position_y": 16
+        },
+        "pod3_7.png": {
+            "compression": 3,
+            "name": "studnia3b_kopia",
+            "position_x": 504,
+            "position_y": 534
+        },
+        "pod3_8.png": {
+            "compression": 3,
+            "name": "studnia3a_kopia",
+            "position_x": 170,
+            "position_y": 476
+        }
+    },
+    "transparency": 255
+}

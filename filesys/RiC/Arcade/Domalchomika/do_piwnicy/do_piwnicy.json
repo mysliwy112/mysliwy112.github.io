@@ -1,0 +1,55 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "548-429-000": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "do_piwnicy_0.png",
+                    "name": "DO_PIWNICY_548-429-000",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "do_piwnicy_1.png",
+                    "name": "DRZWI_2_COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "do_piwnicy_0.png": {
+            "compression": 4,
+            "name": "DO_PIWNICY_548-429-",
+            "position_x": 576,
+            "position_y": 314
+        },
+        "do_piwnicy_1.png": {
+            "compression": 4,
+            "name": "DRZWI_2_COPY",
+            "position_x": 587,
+            "position_y": 329
+        }
+    },
+    "transparency": 255
+}

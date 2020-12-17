@@ -1,0 +1,32 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        109,
+                        85
+                    ],
+                    "filename": "m_wand_0.png",
+                    "name": "ROZDZKA",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "m_wand_0.png": {
+            "compression": 4,
+            "name": "ROZDZKA",
+            "position_x": 648,
+            "position_y": -1
+        }
+    },
+    "transparency": 255
+}

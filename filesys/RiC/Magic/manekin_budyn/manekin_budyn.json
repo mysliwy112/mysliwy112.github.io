@@ -1,0 +1,78 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "MALO": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "manekin_budyn_0.png",
+                    "name": "BUDYN1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "SREDNIO": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "manekin_budyn_1.png",
+                    "name": "LAYER_3",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ZAWALONY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "manekin_budyn_2.png",
+                    "name": "LAYER_4",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "manekin_budyn_0.png": {
+            "compression": 4,
+            "name": "BUDYN1",
+            "position_x": 121,
+            "position_y": 259
+        },
+        "manekin_budyn_1.png": {
+            "compression": 4,
+            "name": "LAYER_3",
+            "position_x": 126,
+            "position_y": 250
+        },
+        "manekin_budyn_2.png": {
+            "compression": 4,
+            "name": "LAYER_4",
+            "position_x": 119,
+            "position_y": 87
+        }
+    },
+    "transparency": 255
+}

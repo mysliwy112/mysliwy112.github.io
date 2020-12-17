@@ -1,0 +1,4476 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "balon": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_3.png",
+                    "name": "balon",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "frog_gada": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_6.png",
+                    "name": "gada_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_14.png",
+                    "name": "gada_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_25.png",
+                    "name": "gada_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_31.png",
+                    "name": "gada_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_39.png",
+                    "name": "gada_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_45.png",
+                    "name": "gada_6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_53.png",
+                    "name": "gada_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_59.png",
+                    "name": "gada_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_67.png",
+                    "name": "gada_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_59.png",
+                    "name": "gada_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_53.png",
+                    "name": "gada_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_45.png",
+                    "name": "gada_6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_39.png",
+                    "name": "gada_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_31.png",
+                    "name": "gada_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_25.png",
+                    "name": "gada_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_14.png",
+                    "name": "gada_2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 15,
+            "transparency": 255
+        },
+        "frog_idle": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_4.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_4.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_4.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_4.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_4.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_4.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_4.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_4.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_4.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_4.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_4.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_4.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_4.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_4.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_4.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_4.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_4.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_4.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_4.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_4.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_4.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_4.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_4.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_4.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_4.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_4.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_4.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_4.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_4.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_4.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_4.png",
+                    "name": "idle_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_95.png",
+                    "name": "idle_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_96.png",
+                    "name": "idle_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_95.png",
+                    "name": "idle_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_97.png",
+                    "name": "idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_97.png",
+                    "name": "idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_97.png",
+                    "name": "idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_97.png",
+                    "name": "idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_97.png",
+                    "name": "idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_97.png",
+                    "name": "idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_97.png",
+                    "name": "idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_97.png",
+                    "name": "idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_97.png",
+                    "name": "idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_97.png",
+                    "name": "idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_97.png",
+                    "name": "idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_97.png",
+                    "name": "idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_97.png",
+                    "name": "idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_97.png",
+                    "name": "idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_97.png",
+                    "name": "idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_97.png",
+                    "name": "idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_97.png",
+                    "name": "idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_97.png",
+                    "name": "idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_97.png",
+                    "name": "idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_97.png",
+                    "name": "idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_97.png",
+                    "name": "idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_97.png",
+                    "name": "idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_97.png",
+                    "name": "idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_97.png",
+                    "name": "idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_97.png",
+                    "name": "idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_97.png",
+                    "name": "idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_97.png",
+                    "name": "idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_97.png",
+                    "name": "idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_97.png",
+                    "name": "idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_97.png",
+                    "name": "idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_97.png",
+                    "name": "idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_97.png",
+                    "name": "idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_97.png",
+                    "name": "idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_97.png",
+                    "name": "idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_97.png",
+                    "name": "idle_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_100.png",
+                    "name": "idle_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_101.png",
+                    "name": "idle_6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_102.png",
+                    "name": "idle_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_103.png",
+                    "name": "idle_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_103.png",
+                    "name": "idle_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_103.png",
+                    "name": "idle_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_103.png",
+                    "name": "idle_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_103.png",
+                    "name": "idle_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_103.png",
+                    "name": "idle_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_103.png",
+                    "name": "idle_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_103.png",
+                    "name": "idle_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_103.png",
+                    "name": "idle_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_103.png",
+                    "name": "idle_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_103.png",
+                    "name": "idle_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_103.png",
+                    "name": "idle_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_103.png",
+                    "name": "idle_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_103.png",
+                    "name": "idle_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_103.png",
+                    "name": "idle_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_103.png",
+                    "name": "idle_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_103.png",
+                    "name": "idle_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_103.png",
+                    "name": "idle_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_103.png",
+                    "name": "idle_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_103.png",
+                    "name": "idle_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_103.png",
+                    "name": "idle_8",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 92,
+            "transparency": 255
+        },
+        "frog_przeszk": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_5.png",
+                    "name": "przeszk_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_13.png",
+                    "name": "przeszk_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_24.png",
+                    "name": "przeszk_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_30.png",
+                    "name": "przeszk_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_38.png",
+                    "name": "przeszk_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_44.png",
+                    "name": "przeszk_6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_52.png",
+                    "name": "przeszk_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_58.png",
+                    "name": "przeszk_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_66.png",
+                    "name": "przeszk_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_72.png",
+                    "name": "przeszk_10",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_77.png",
+                    "name": "przeszk_11",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_77.png",
+                    "name": "przeszk_11",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_77.png",
+                    "name": "przeszk_11",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_72.png",
+                    "name": "przeszk_10",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_66.png",
+                    "name": "przeszk_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_58.png",
+                    "name": "przeszk_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_52.png",
+                    "name": "przeszk_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_44.png",
+                    "name": "przeszk_6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_38.png",
+                    "name": "przeszk_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_30.png",
+                    "name": "przeszk_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_24.png",
+                    "name": "przeszk_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_13.png",
+                    "name": "przeszk_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_5.png",
+                    "name": "przeszk_1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "gramofon": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_10.png",
+                    "name": "pixel",
+                    "position_x": -1000,
+                    "position_y": -1000
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_18.png",
+                    "name": "0_gramofon",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_10.png",
+                    "name": "pixel",
+                    "position_x": -1000,
+                    "position_y": -1000
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_10.png",
+                    "name": "pixel",
+                    "position_x": -1000,
+                    "position_y": -1000
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "graty": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_10.png",
+                    "name": "pixel",
+                    "position_x": -1000,
+                    "position_y": -1000
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_17.png",
+                    "name": "graty",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "kmh_gada": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_9.png",
+                    "name": "gada_n_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_16.png",
+                    "name": "gada_n_2",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_27.png",
+                    "name": "gada_n_3",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_33.png",
+                    "name": "gada_n_4",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_41.png",
+                    "name": "gada_n_5",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_47.png",
+                    "name": "gada_n_6",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_55.png",
+                    "name": "gada_n_7",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_61.png",
+                    "name": "gada_n_8",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_69.png",
+                    "name": "gada_n_9",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_61.png",
+                    "name": "gada_n_8",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_55.png",
+                    "name": "gada_n_7",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_47.png",
+                    "name": "gada_n_6",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_41.png",
+                    "name": "gada_n_5",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_33.png",
+                    "name": "gada_n_4",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_27.png",
+                    "name": "gada_n_3",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_16.png",
+                    "name": "gada_n_2",
+                    "position_x": 0,
+                    "position_y": 30
+                }
+            ],
+            "loop": 15,
+            "transparency": 255
+        },
+        "kmh_idle": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_98.png",
+                    "name": "idle_a_2",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_99.png",
+                    "name": "idle_a_3",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_98.png",
+                    "name": "idle_a_2",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_99.png",
+                    "name": "idle_a_3",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_98.png",
+                    "name": "idle_a_2",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_99.png",
+                    "name": "idle_a_3",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_98.png",
+                    "name": "idle_a_2",
+                    "position_x": 0,
+                    "position_y": 30
+                }
+            ],
+            "loop": 57,
+            "transparency": 255
+        },
+        "kmh_przeszk": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_8.png",
+                    "name": "przeszk_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_15.png",
+                    "name": "przeszk_a_2",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_26.png",
+                    "name": "przeszk_a_3",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_32.png",
+                    "name": "przeszk_a_4",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_40.png",
+                    "name": "przeszk_a_5",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_46.png",
+                    "name": "przeszk_a_6",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_54.png",
+                    "name": "przeszk_a_7",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_60.png",
+                    "name": "przeszk_a_8",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_68.png",
+                    "name": "przeszk_a_9",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_73.png",
+                    "name": "przeszk_a_10",
+                    "position_x": 0,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_7.png",
+                    "name": "idle_a_1",
+                    "position_x": 0,
+                    "position_y": 30
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "nemo_gada": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_2.png",
+                    "name": "gada_pr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_2.png",
+                    "name": "gada_pr_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_23.png",
+                    "name": "gada_pr_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_23.png",
+                    "name": "gada_pr_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_37.png",
+                    "name": "gada_pr_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_37.png",
+                    "name": "gada_pr_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_51.png",
+                    "name": "gada_pr_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_51.png",
+                    "name": "gada_pr_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_65.png",
+                    "name": "gada_pr_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_65.png",
+                    "name": "gada_pr_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_76.png",
+                    "name": "gada_pr_6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_76.png",
+                    "name": "gada_pr_6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_81.png",
+                    "name": "gada_pr_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_81.png",
+                    "name": "gada_pr_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_84.png",
+                    "name": "gada_pr_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_84.png",
+                    "name": "gada_pr_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_86.png",
+                    "name": "gada_pr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_86.png",
+                    "name": "gada_pr_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_88.png",
+                    "name": "gada_pr_10",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_88.png",
+                    "name": "gada_pr_10",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_90.png",
+                    "name": "gada_pr_11",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_90.png",
+                    "name": "gada_pr_11",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_92.png",
+                    "name": "gada_pr_12",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_92.png",
+                    "name": "gada_pr_12",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_94.png",
+                    "name": "gada_pr_13",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_94.png",
+                    "name": "gada_pr_13",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_92.png",
+                    "name": "gada_pr_12",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_92.png",
+                    "name": "gada_pr_12",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_90.png",
+                    "name": "gada_pr_11",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_90.png",
+                    "name": "gada_pr_11",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_88.png",
+                    "name": "gada_pr_10",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_88.png",
+                    "name": "gada_pr_10",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 31,
+            "transparency": 255
+        },
+        "nemo_idle": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_0.png",
+                    "name": "idle1_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_0.png",
+                    "name": "idle1_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_21.png",
+                    "name": "idle1_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_21.png",
+                    "name": "idle1_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_35.png",
+                    "name": "idle1_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_35.png",
+                    "name": "idle1_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_49.png",
+                    "name": "idle1_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_49.png",
+                    "name": "idle1_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_63.png",
+                    "name": "idle1_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_63.png",
+                    "name": "idle1_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_75.png",
+                    "name": "idle1_6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_75.png",
+                    "name": "idle1_6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_80.png",
+                    "name": "idle1_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_80.png",
+                    "name": "idle1_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_83.png",
+                    "name": "idle1_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_83.png",
+                    "name": "idle1_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_85.png",
+                    "name": "idle1_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_85.png",
+                    "name": "idle1_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_87.png",
+                    "name": "idle1_10",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_87.png",
+                    "name": "idle1_10",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_89.png",
+                    "name": "idle1_11",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_89.png",
+                    "name": "idle1_11",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_91.png",
+                    "name": "idle1_12",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_91.png",
+                    "name": "idle1_12",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_93.png",
+                    "name": "idle1_13",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_93.png",
+                    "name": "idle1_13",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 25,
+            "transparency": 255
+        },
+        "nemo_przeszk": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_1.png",
+                    "name": "przeszk1_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_12.png",
+                    "name": "przeszk1_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_22.png",
+                    "name": "przeszk1_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_29.png",
+                    "name": "przeszk1_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_36.png",
+                    "name": "przeszk1_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_43.png",
+                    "name": "przeszk1_6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_50.png",
+                    "name": "przeszk1_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_57.png",
+                    "name": "przeszk1_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_64.png",
+                    "name": "przeszk1_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_71.png",
+                    "name": "przeszk1_10",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_64.png",
+                    "name": "przeszk1_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_57.png",
+                    "name": "przeszk1_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_50.png",
+                    "name": "przeszk1_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_57.png",
+                    "name": "przeszk1_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_64.png",
+                    "name": "przeszk1_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_71.png",
+                    "name": "przeszk1_10",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_64.png",
+                    "name": "przeszk1_9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_57.png",
+                    "name": "przeszk1_8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_50.png",
+                    "name": "przeszk1_7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_43.png",
+                    "name": "przeszk1_6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_36.png",
+                    "name": "przeszk1_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_29.png",
+                    "name": "przeszk1_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_22.png",
+                    "name": "przeszk1_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_12.png",
+                    "name": "przeszk1_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_1.png",
+                    "name": "przeszk1_1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "skrzynia": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_10.png",
+                    "name": "pixel",
+                    "position_x": -1000,
+                    "position_y": -1000
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_19.png",
+                    "name": "Layer_13",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_10.png",
+                    "name": "pixel",
+                    "position_x": -1000,
+                    "position_y": -1000
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "skrzynia_otw": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_11.png",
+                    "name": "1_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_20.png",
+                    "name": "2_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_28.png",
+                    "name": "3_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_34.png",
+                    "name": "4_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_42.png",
+                    "name": "5_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_48.png",
+                    "name": "6_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_56.png",
+                    "name": "7_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_62.png",
+                    "name": "8_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_70.png",
+                    "name": "9_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_74.png",
+                    "name": "10_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_78.png",
+                    "name": "11_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_79.png",
+                    "name": "12_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_82.png",
+                    "name": "13_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_28.png",
+                    "name": "3_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_34.png",
+                    "name": "4_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_42.png",
+                    "name": "5_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_48.png",
+                    "name": "6_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_56.png",
+                    "name": "7_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_62.png",
+                    "name": "8_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_70.png",
+                    "name": "9_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_74.png",
+                    "name": "10_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_78.png",
+                    "name": "11_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_79.png",
+                    "name": "12_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_82.png",
+                    "name": "13_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_34.png",
+                    "name": "4_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_42.png",
+                    "name": "5_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_48.png",
+                    "name": "6_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_56.png",
+                    "name": "7_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_28.png",
+                    "name": "3_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_20.png",
+                    "name": "2_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_11.png",
+                    "name": "1_otwierazle1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "obj1_19.png",
+                    "name": "Layer_13",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "obj1_0.png": {
+            "compression": 3,
+            "name": "IDLE1_1",
+            "position_x": 389,
+            "position_y": 331
+        },
+        "obj1_1.png": {
+            "compression": 3,
+            "name": "PRZESZK1_1",
+            "position_x": 384,
+            "position_y": 331
+        },
+        "obj1_10.png": {
+            "compression": 3,
+            "name": "PIXEL"
+        },
+        "obj1_100.png": {
+            "compression": 3,
+            "name": "idle_5",
+            "position_x": 672,
+            "position_y": 22
+        },
+        "obj1_101.png": {
+            "compression": 3,
+            "name": "idle_6",
+            "position_x": 672,
+            "position_y": 22
+        },
+        "obj1_102.png": {
+            "compression": 3,
+            "name": "idle_7",
+            "position_x": 672,
+            "position_y": 22
+        },
+        "obj1_103.png": {
+            "compression": 3,
+            "name": "idle_8",
+            "position_x": 672,
+            "position_y": 22
+        },
+        "obj1_11.png": {
+            "compression": 3,
+            "name": "1_otwierazle1",
+            "position_x": 331,
+            "position_y": 422
+        },
+        "obj1_12.png": {
+            "compression": 3,
+            "name": "PRZESZK1_2",
+            "position_x": 379,
+            "position_y": 332
+        },
+        "obj1_13.png": {
+            "compression": 3,
+            "name": "przeszk_2",
+            "position_x": 672,
+            "position_y": 22
+        },
+        "obj1_14.png": {
+            "compression": 3,
+            "name": "gada_2",
+            "position_x": 672,
+            "position_y": 22
+        },
+        "obj1_15.png": {
+            "compression": 3,
+            "name": "przeszk_a_2",
+            "position_x": 201,
+            "position_y": 224
+        },
+        "obj1_16.png": {
+            "compression": 3,
+            "name": "gada_n_2",
+            "position_x": 204,
+            "position_y": 222
+        },
+        "obj1_17.png": {
+            "compression": 3,
+            "name": "GRATY",
+            "position_x": 282,
+            "position_y": 275
+        },
+        "obj1_18.png": {
+            "compression": 3,
+            "name": "0_GRAMOFON",
+            "position_x": 519,
+            "position_y": 317
+        },
+        "obj1_19.png": {
+            "compression": 3,
+            "name": "Layer_13",
+            "position_x": 331,
+            "position_y": 442
+        },
+        "obj1_2.png": {
+            "compression": 3,
+            "name": "GADA_PR_1",
+            "position_x": 389,
+            "position_y": 331
+        },
+        "obj1_20.png": {
+            "compression": 3,
+            "name": "2_otwierazle1",
+            "position_x": 313,
+            "position_y": 404
+        },
+        "obj1_21.png": {
+            "compression": 3,
+            "name": "IDLE1_2",
+            "position_x": 389,
+            "position_y": 331
+        },
+        "obj1_22.png": {
+            "compression": 3,
+            "name": "PRZESZK1_3",
+            "position_x": 378,
+            "position_y": 332
+        },
+        "obj1_23.png": {
+            "compression": 3,
+            "name": "GADA_PR_2",
+            "position_x": 389,
+            "position_y": 331
+        },
+        "obj1_24.png": {
+            "compression": 3,
+            "name": "przeszk_3",
+            "position_x": 671,
+            "position_y": 22
+        },
+        "obj1_25.png": {
+            "compression": 3,
+            "name": "gada_3",
+            "position_x": 672,
+            "position_y": 22
+        },
+        "obj1_26.png": {
+            "compression": 3,
+            "name": "przeszk_a_3",
+            "position_x": 201,
+            "position_y": 225
+        },
+        "obj1_27.png": {
+            "compression": 3,
+            "name": "gada_n_3",
+            "position_x": 204,
+            "position_y": 222
+        },
+        "obj1_28.png": {
+            "compression": 3,
+            "name": "3_otwierazle1",
+            "position_x": 313,
+            "position_y": 404
+        },
+        "obj1_29.png": {
+            "compression": 3,
+            "name": "PRZESZK1_4",
+            "position_x": 377,
+            "position_y": 333
+        },
+        "obj1_3.png": {
+            "compression": 3,
+            "name": "balon",
+            "position_x": 418
+        },
+        "obj1_30.png": {
+            "compression": 3,
+            "name": "przeszk_4",
+            "position_x": 669,
+            "position_y": 22
+        },
+        "obj1_31.png": {
+            "compression": 3,
+            "name": "gada_4",
+            "position_x": 672,
+            "position_y": 22
+        },
+        "obj1_32.png": {
+            "compression": 3,
+            "name": "przeszk_a_4",
+            "position_x": 201,
+            "position_y": 226
+        },
+        "obj1_33.png": {
+            "compression": 3,
+            "name": "gada_n_4",
+            "position_x": 204,
+            "position_y": 222
+        },
+        "obj1_34.png": {
+            "compression": 3,
+            "name": "4_otwierazle1",
+            "position_x": 313,
+            "position_y": 388
+        },
+        "obj1_35.png": {
+            "compression": 3,
+            "name": "IDLE1_3",
+            "position_x": 389,
+            "position_y": 331
+        },
+        "obj1_36.png": {
+            "compression": 3,
+            "name": "PRZESZK1_5",
+            "position_x": 380,
+            "position_y": 334
+        },
+        "obj1_37.png": {
+            "compression": 3,
+            "name": "GADA_PR_3",
+            "position_x": 389,
+            "position_y": 330
+        },
+        "obj1_38.png": {
+            "compression": 3,
+            "name": "przeszk_5",
+            "position_x": 644,
+            "position_y": 22
+        },
+        "obj1_39.png": {
+            "compression": 3,
+            "name": "gada_5",
+            "position_x": 672,
+            "position_y": 22
+        },
+        "obj1_4.png": {
+            "compression": 3,
+            "name": "idle_1",
+            "position_x": 672,
+            "position_y": 22
+        },
+        "obj1_40.png": {
+            "compression": 3,
+            "name": "przeszk_a_5",
+            "position_x": 201,
+            "position_y": 226
+        },
+        "obj1_41.png": {
+            "compression": 3,
+            "name": "gada_n_5",
+            "position_x": 204,
+            "position_y": 222
+        },
+        "obj1_42.png": {
+            "compression": 3,
+            "name": "5_otwierazle1",
+            "position_x": 311,
+            "position_y": 384
+        },
+        "obj1_43.png": {
+            "compression": 3,
+            "name": "PRZESZK1_6",
+            "position_x": 384,
+            "position_y": 335
+        },
+        "obj1_44.png": {
+            "compression": 3,
+            "name": "przeszk_6",
+            "position_x": 635,
+            "position_y": 22
+        },
+        "obj1_45.png": {
+            "compression": 3,
+            "name": "gada_6",
+            "position_x": 672,
+            "position_y": 22
+        },
+        "obj1_46.png": {
+            "compression": 3,
+            "name": "przeszk_a_6",
+            "position_x": 203,
+            "position_y": 226
+        },
+        "obj1_47.png": {
+            "compression": 3,
+            "name": "gada_n_6",
+            "position_x": 204,
+            "position_y": 222
+        },
+        "obj1_48.png": {
+            "compression": 3,
+            "name": "6_otwierazle1",
+            "position_x": 313,
+            "position_y": 382
+        },
+        "obj1_49.png": {
+            "compression": 3,
+            "name": "IDLE1_4",
+            "position_x": 389,
+            "position_y": 331
+        },
+        "obj1_5.png": {
+            "compression": 3,
+            "name": "przeszk_1",
+            "position_x": 672,
+            "position_y": 22
+        },
+        "obj1_50.png": {
+            "compression": 3,
+            "name": "PRZESZK1_7",
+            "position_x": 389,
+            "position_y": 339
+        },
+        "obj1_51.png": {
+            "compression": 3,
+            "name": "GADA_PR_4",
+            "position_x": 389,
+            "position_y": 329
+        },
+        "obj1_52.png": {
+            "compression": 3,
+            "name": "przeszk_7",
+            "position_x": 642,
+            "position_y": 22
+        },
+        "obj1_53.png": {
+            "compression": 3,
+            "name": "gada_7",
+            "position_x": 672,
+            "position_y": 22
+        },
+        "obj1_54.png": {
+            "compression": 3,
+            "name": "przeszk_a_7",
+            "position_x": 204,
+            "position_y": 225
+        },
+        "obj1_55.png": {
+            "compression": 3,
+            "name": "gada_n_7",
+            "position_x": 204,
+            "position_y": 222
+        },
+        "obj1_56.png": {
+            "compression": 3,
+            "name": "7_otwierazle1",
+            "position_x": 313,
+            "position_y": 396
+        },
+        "obj1_57.png": {
+            "compression": 3,
+            "name": "PRZESZK1_8",
+            "position_x": 389,
+            "position_y": 339
+        },
+        "obj1_58.png": {
+            "compression": 3,
+            "name": "przeszk_8",
+            "position_x": 639,
+            "position_y": 22
+        },
+        "obj1_59.png": {
+            "compression": 3,
+            "name": "gada_8",
+            "position_x": 672,
+            "position_y": 22
+        },
+        "obj1_6.png": {
+            "compression": 3,
+            "name": "gada_1",
+            "position_x": 672,
+            "position_y": 22
+        },
+        "obj1_60.png": {
+            "compression": 3,
+            "name": "przeszk_a_8",
+            "position_x": 209,
+            "position_y": 224
+        },
+        "obj1_61.png": {
+            "compression": 3,
+            "name": "gada_n_8",
+            "position_x": 204,
+            "position_y": 222
+        },
+        "obj1_62.png": {
+            "compression": 3,
+            "name": "8_otwierazle1",
+            "position_x": 313,
+            "position_y": 404
+        },
+        "obj1_63.png": {
+            "compression": 3,
+            "name": "IDLE1_5",
+            "position_x": 389,
+            "position_y": 331
+        },
+        "obj1_64.png": {
+            "compression": 3,
+            "name": "PRZESZK1_9",
+            "position_x": 389,
+            "position_y": 339
+        },
+        "obj1_65.png": {
+            "compression": 3,
+            "name": "GADA_PR_5",
+            "position_x": 389,
+            "position_y": 329
+        },
+        "obj1_66.png": {
+            "compression": 3,
+            "name": "przeszk_9",
+            "position_x": 643,
+            "position_y": 22
+        },
+        "obj1_67.png": {
+            "compression": 3,
+            "name": "gada_9",
+            "position_x": 672,
+            "position_y": 22
+        },
+        "obj1_68.png": {
+            "compression": 3,
+            "name": "przeszk_a_9",
+            "position_x": 207,
+            "position_y": 223
+        },
+        "obj1_69.png": {
+            "compression": 3,
+            "name": "gada_n_9",
+            "position_x": 204,
+            "position_y": 223
+        },
+        "obj1_7.png": {
+            "compression": 3,
+            "name": "idle_a_1",
+            "position_x": 204,
+            "position_y": 222
+        },
+        "obj1_70.png": {
+            "compression": 3,
+            "name": "9_otwierazle1",
+            "position_x": 313,
+            "position_y": 392
+        },
+        "obj1_71.png": {
+            "compression": 3,
+            "name": "PRZESZK1_10",
+            "position_x": 389,
+            "position_y": 339
+        },
+        "obj1_72.png": {
+            "compression": 3,
+            "name": "przeszk_10",
+            "position_x": 651,
+            "position_y": 22
+        },
+        "obj1_73.png": {
+            "compression": 3,
+            "name": "przeszk_a_10",
+            "position_x": 206,
+            "position_y": 223
+        },
+        "obj1_74.png": {
+            "compression": 3,
+            "name": "10_otwierazle1",
+            "position_x": 313,
+            "position_y": 380
+        },
+        "obj1_75.png": {
+            "compression": 3,
+            "name": "IDLE1_6",
+            "position_x": 389,
+            "position_y": 331
+        },
+        "obj1_76.png": {
+            "compression": 3,
+            "name": "GADA_PR_6",
+            "position_x": 389,
+            "position_y": 332
+        },
+        "obj1_77.png": {
+            "compression": 3,
+            "name": "przeszk_11",
+            "position_x": 655,
+            "position_y": 22
+        },
+        "obj1_78.png": {
+            "compression": 3,
+            "name": "11_otwierazle1",
+            "position_x": 313,
+            "position_y": 375
+        },
+        "obj1_79.png": {
+            "compression": 3,
+            "name": "12_otwierazle1",
+            "position_x": 313,
+            "position_y": 377
+        },
+        "obj1_8.png": {
+            "compression": 3,
+            "name": "przeszk_a_1",
+            "position_x": 201,
+            "position_y": 223
+        },
+        "obj1_80.png": {
+            "compression": 3,
+            "name": "IDLE1_7",
+            "position_x": 389,
+            "position_y": 331
+        },
+        "obj1_81.png": {
+            "compression": 3,
+            "name": "GADA_PR_7",
+            "position_x": 389,
+            "position_y": 333
+        },
+        "obj1_82.png": {
+            "compression": 3,
+            "name": "13_otwierazle1",
+            "position_x": 313,
+            "position_y": 404
+        },
+        "obj1_83.png": {
+            "compression": 3,
+            "name": "IDLE1_8",
+            "position_x": 389,
+            "position_y": 331
+        },
+        "obj1_84.png": {
+            "compression": 3,
+            "name": "GADA_PR_8",
+            "position_x": 389,
+            "position_y": 334
+        },
+        "obj1_85.png": {
+            "compression": 3,
+            "name": "IDLE1_9",
+            "position_x": 389,
+            "position_y": 331
+        },
+        "obj1_86.png": {
+            "compression": 3,
+            "name": "GADA_PR_9",
+            "position_x": 389,
+            "position_y": 335
+        },
+        "obj1_87.png": {
+            "compression": 3,
+            "name": "IDLE1_10",
+            "position_x": 389,
+            "position_y": 331
+        },
+        "obj1_88.png": {
+            "compression": 3,
+            "name": "GADA_PR_10",
+            "position_x": 389,
+            "position_y": 331
+        },
+        "obj1_89.png": {
+            "compression": 3,
+            "name": "IDLE1_11",
+            "position_x": 389,
+            "position_y": 331
+        },
+        "obj1_9.png": {
+            "compression": 3,
+            "name": "gada_n_1",
+            "position_x": 204,
+            "position_y": 222
+        },
+        "obj1_90.png": {
+            "compression": 3,
+            "name": "GADA_PR_11",
+            "position_x": 390,
+            "position_y": 331
+        },
+        "obj1_91.png": {
+            "compression": 3,
+            "name": "IDLE1_12",
+            "position_x": 389,
+            "position_y": 331
+        },
+        "obj1_92.png": {
+            "compression": 3,
+            "name": "GADA_PR_12",
+            "position_x": 389,
+            "position_y": 331
+        },
+        "obj1_93.png": {
+            "compression": 3,
+            "name": "IDLE1_13",
+            "position_x": 389,
+            "position_y": 331
+        },
+        "obj1_94.png": {
+            "compression": 3,
+            "name": "GADA_PR_13",
+            "position_x": 390,
+            "position_y": 331
+        },
+        "obj1_95.png": {
+            "compression": 3,
+            "name": "idle_2",
+            "position_x": 672,
+            "position_y": 22
+        },
+        "obj1_96.png": {
+            "compression": 3,
+            "name": "idle_3",
+            "position_x": 672,
+            "position_y": 22
+        },
+        "obj1_97.png": {
+            "compression": 3,
+            "name": "idle_4",
+            "position_x": 672,
+            "position_y": 22
+        },
+        "obj1_98.png": {
+            "compression": 3,
+            "name": "idle_a_2",
+            "position_x": 204,
+            "position_y": 222
+        },
+        "obj1_99.png": {
+            "compression": 3,
+            "name": "idle_a_3",
+            "position_x": 204,
+            "position_y": 222
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,83 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "play": {
+            "frames": [
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "machina3_0.png",
+                    "name": "turbina",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "machina3_1.png",
+                    "name": "turbina_kopia",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "machina3_2.png",
+                    "name": "turbina_kopia_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        56,
+                        206,
+                        85
+                    ],
+                    "filename": "machina3_3.png",
+                    "name": "turbina_kopia_3",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 3,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "machina3_0.png": {
+            "compression": 3,
+            "name": "turbina",
+            "position_x": 30,
+            "position_y": 300
+        },
+        "machina3_1.png": {
+            "compression": 3,
+            "name": "turbina_kopia",
+            "position_x": 30,
+            "position_y": 300
+        },
+        "machina3_2.png": {
+            "compression": 3,
+            "name": "turbina_kopia_2",
+            "position_x": 30,
+            "position_y": 300
+        },
+        "machina3_3.png": {
+            "compression": 3,
+            "name": "turbina_kopia_3",
+            "position_x": 30,
+            "position_y": 300
+        }
+    },
+    "transparency": 255
+}

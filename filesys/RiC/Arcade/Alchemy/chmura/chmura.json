@@ -1,0 +1,242 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "chmura_1.png",
+                    "name": "CHMURA4",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\chmura.wav",
+                    "sfx_seed": 87376916
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "chmura_1.png",
+                    "name": "CHMURA4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "chmura_4.png",
+                    "name": "CHMURA5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "chmura_4.png",
+                    "name": "CHMURA5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "chmura_6.png",
+                    "name": "CHMURA6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "chmura_6.png",
+                    "name": "CHMURA6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "chmura_7.png",
+                    "name": "CHMURA7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "chmura_7.png",
+                    "name": "CHMURA7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "chmura_8.png",
+                    "name": "CHMURA8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "chmura_8.png",
+                    "name": "CHMURA8",
+                    "position_x": 61,
+                    "position_y": 261
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "START": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "chmura_0.png",
+                    "name": "CHMURA1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "chmura_2.png",
+                    "name": "CHMURA2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "chmura_3.png",
+                    "name": "CHMURA3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "chmura_5.png",
+                    "name": "CHMURA4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "chmura_5.png",
+                    "name": "CHMURA4",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "chmura_0.png": {
+            "compression": 4,
+            "name": "CHMURA1",
+            "position_x": 513,
+            "position_y": 458
+        },
+        "chmura_1.png": {
+            "compression": 4,
+            "name": "CHMURA4",
+            "position_x": 432,
+            "position_y": 391
+        },
+        "chmura_2.png": {
+            "compression": 4,
+            "name": "CHMURA2",
+            "position_x": 500,
+            "position_y": 445
+        },
+        "chmura_3.png": {
+            "compression": 4,
+            "name": "CHMURA3",
+            "position_x": 486,
+            "position_y": 430
+        },
+        "chmura_4.png": {
+            "compression": 4,
+            "name": "CHMURA5",
+            "position_x": 431,
+            "position_y": 386
+        },
+        "chmura_5.png": {
+            "compression": 4,
+            "name": "CHMURA4",
+            "position_x": 432,
+            "position_y": 391
+        },
+        "chmura_6.png": {
+            "compression": 4,
+            "name": "CHMURA6",
+            "position_x": 446,
+            "position_y": 399
+        },
+        "chmura_7.png": {
+            "compression": 4,
+            "name": "CHMURA7",
+            "position_x": 438,
+            "position_y": 394
+        },
+        "chmura_8.png": {
+            "compression": 4,
+            "name": "CHMURA8",
+            "position_x": 461,
+            "position_y": 405
+        }
+    },
+    "transparency": 255
+}

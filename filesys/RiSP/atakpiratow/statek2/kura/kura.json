@@ -1,0 +1,808 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        160,
+                        101,
+                        164
+                    ],
+                    "filename": "kura_0.png",
+                    "name": "11_PATRZY",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "sfx\\kurastrach1.wav",
+                    "sfx_seed": 10862880
+                },
+                {
+                    "check": [
+                        160,
+                        126,
+                        164
+                    ],
+                    "filename": "kura_0.png",
+                    "name": "11_PATRZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        16,
+                        126,
+                        164
+                    ],
+                    "filename": "kura_0.png",
+                    "name": "11_PATRZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        128,
+                        125,
+                        164
+                    ],
+                    "filename": "kura_0.png",
+                    "name": "11_PATRZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        124,
+                        164
+                    ],
+                    "filename": "kura_0.png",
+                    "name": "11_PATRZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        124,
+                        164
+                    ],
+                    "filename": "kura_0.png",
+                    "name": "11_PATRZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        123,
+                        164
+                    ],
+                    "filename": "kura_0.png",
+                    "name": "11_PATRZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        64,
+                        123,
+                        164
+                    ],
+                    "filename": "kura_0.png",
+                    "name": "11_PATRZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        122,
+                        164
+                    ],
+                    "filename": "kura_1.png",
+                    "name": "1_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        32,
+                        122,
+                        164
+                    ],
+                    "filename": "kura_1.png",
+                    "name": "1_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        121,
+                        164
+                    ],
+                    "filename": "kura_1.png",
+                    "name": "1_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "kura_1.png",
+                    "name": "1_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        120,
+                        164
+                    ],
+                    "filename": "kura_1.png",
+                    "name": "1_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        119,
+                        164
+                    ],
+                    "filename": "kura_1.png",
+                    "name": "1_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        119,
+                        164
+                    ],
+                    "filename": "kura_0.png",
+                    "name": "11_PATRZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        192,
+                        118,
+                        164
+                    ],
+                    "filename": "kura_0.png",
+                    "name": "11_PATRZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48,
+                        118,
+                        164
+                    ],
+                    "filename": "kura_0.png",
+                    "name": "11_PATRZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        160,
+                        117,
+                        164
+                    ],
+                    "filename": "kura_0.png",
+                    "name": "11_PATRZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        16,
+                        117,
+                        164
+                    ],
+                    "filename": "kura_0.png",
+                    "name": "11_PATRZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        128,
+                        116,
+                        164
+                    ],
+                    "filename": "kura_0.png",
+                    "name": "11_PATRZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        115,
+                        164
+                    ],
+                    "filename": "kura_1.png",
+                    "name": "1_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        115,
+                        164
+                    ],
+                    "filename": "kura_1.png",
+                    "name": "1_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        114,
+                        164
+                    ],
+                    "filename": "kura_1.png",
+                    "name": "1_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        64,
+                        114,
+                        164
+                    ],
+                    "filename": "kura_1.png",
+                    "name": "1_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        113,
+                        164
+                    ],
+                    "filename": "kura_1.png",
+                    "name": "1_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        32,
+                        113,
+                        164
+                    ],
+                    "filename": "kura_2.png",
+                    "name": "2_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        112,
+                        164
+                    ],
+                    "filename": "kura_2.png",
+                    "name": "2_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        143,
+                        164
+                    ],
+                    "filename": "kura_3.png",
+                    "name": "3_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        143,
+                        164
+                    ],
+                    "filename": "kura_3.png",
+                    "name": "3_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        192,
+                        142,
+                        164
+                    ],
+                    "filename": "kura_4.png",
+                    "name": "4_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48,
+                        142,
+                        164
+                    ],
+                    "filename": "kura_4.png",
+                    "name": "4_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        160,
+                        141,
+                        164
+                    ],
+                    "filename": "kura_5.png",
+                    "name": "5_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "sfx\\kurastrach3.wav",
+                    "sfx_seed": 10784096
+                },
+                {
+                    "check": [
+                        208,
+                        140,
+                        164
+                    ],
+                    "filename": "kura_5.png",
+                    "name": "5_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        64,
+                        140,
+                        164
+                    ],
+                    "filename": "kura_6.png",
+                    "name": "6_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        139,
+                        164
+                    ],
+                    "filename": "kura_6.png",
+                    "name": "6_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        32,
+                        139,
+                        164
+                    ],
+                    "filename": "kura_7.png",
+                    "name": "7_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        138,
+                        164
+                    ],
+                    "filename": "kura_7.png",
+                    "name": "7_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "kura_6.png",
+                    "name": "6_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        137,
+                        164
+                    ],
+                    "filename": "kura_6.png",
+                    "name": "6_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        136,
+                        164
+                    ],
+                    "filename": "kura_5.png",
+                    "name": "5_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        136,
+                        164
+                    ],
+                    "filename": "kura_5.png",
+                    "name": "5_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        192,
+                        135,
+                        164
+                    ],
+                    "filename": "kura_4.png",
+                    "name": "4_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48,
+                        135,
+                        164
+                    ],
+                    "filename": "kura_4.png",
+                    "name": "4_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        160,
+                        134,
+                        164
+                    ],
+                    "filename": "kura_5.png",
+                    "name": "5_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        16,
+                        134,
+                        164
+                    ],
+                    "filename": "kura_5.png",
+                    "name": "5_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        128,
+                        133,
+                        164
+                    ],
+                    "filename": "kura_6.png",
+                    "name": "6_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        132,
+                        164
+                    ],
+                    "filename": "kura_6.png",
+                    "name": "6_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        132,
+                        164
+                    ],
+                    "filename": "kura_7.png",
+                    "name": "7_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        131,
+                        164
+                    ],
+                    "filename": "kura_7.png",
+                    "name": "7_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        64,
+                        131,
+                        164
+                    ],
+                    "filename": "kura_6.png",
+                    "name": "6_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        130,
+                        164
+                    ],
+                    "filename": "kura_6.png",
+                    "name": "6_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        32,
+                        130,
+                        164
+                    ],
+                    "filename": "kura_5.png",
+                    "name": "5_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        129,
+                        164
+                    ],
+                    "filename": "kura_5.png",
+                    "name": "5_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "kura_4.png",
+                    "name": "4_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        128,
+                        164
+                    ],
+                    "filename": "kura_4.png",
+                    "name": "4_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48,
+                        128,
+                        164
+                    ],
+                    "filename": "kura_5.png",
+                    "name": "5_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        64,
+                        159,
+                        164
+                    ],
+                    "filename": "kura_5.png",
+                    "name": "5_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        158,
+                        164
+                    ],
+                    "filename": "kura_6.png",
+                    "name": "6_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        32,
+                        158,
+                        164
+                    ],
+                    "filename": "kura_6.png",
+                    "name": "6_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        157,
+                        164
+                    ],
+                    "filename": "kura_7.png",
+                    "name": "7_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "kura_7.png",
+                    "name": "7_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        156,
+                        164
+                    ],
+                    "filename": "kura_6.png",
+                    "name": "6_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        155,
+                        164
+                    ],
+                    "filename": "kura_6.png",
+                    "name": "6_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        155,
+                        164
+                    ],
+                    "filename": "kura_5.png",
+                    "name": "5_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        192,
+                        154,
+                        164
+                    ],
+                    "filename": "kura_5.png",
+                    "name": "5_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48,
+                        154,
+                        164
+                    ],
+                    "filename": "kura_4.png",
+                    "name": "4_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        160,
+                        153,
+                        164
+                    ],
+                    "filename": "kura_4.png",
+                    "name": "4_ZAUWAZA",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "kura_0.png": {
+            "compression": 4,
+            "name": "11_PATRZY",
+            "position_x": 170,
+            "position_y": 249
+        },
+        "kura_1.png": {
+            "compression": 4,
+            "name": "1_ZAUWAZA",
+            "position_x": 179,
+            "position_y": 259
+        },
+        "kura_2.png": {
+            "compression": 4,
+            "name": "2_ZAUWAZA",
+            "position_x": 186,
+            "position_y": 265
+        },
+        "kura_3.png": {
+            "compression": 4,
+            "name": "3_ZAUWAZA",
+            "position_x": 196,
+            "position_y": 281
+        },
+        "kura_4.png": {
+            "compression": 4,
+            "name": "4_ZAUWAZA",
+            "position_x": 174,
+            "position_y": 256
+        },
+        "kura_5.png": {
+            "compression": 4,
+            "name": "5_ZAUWAZA",
+            "position_x": 172,
+            "position_y": 217
+        },
+        "kura_6.png": {
+            "compression": 4,
+            "name": "6_ZAUWAZA",
+            "position_x": 148,
+            "position_y": 160
+        },
+        "kura_7.png": {
+            "compression": 4,
+            "name": "7_ZAUWAZA",
+            "position_x": 171,
+            "position_y": 172
+        }
+    },
+    "transparency": 255
+}

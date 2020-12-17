@@ -1,0 +1,48 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "0-338-001": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "do_hallu_0.png",
+                    "name": "DO_GHALLU_0-338-001",
+                    "position_x": 40,
+                    "position_y": 5
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "do_hallu_0.png",
+                    "name": "DO_GHALLU_0-338-001",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "do_hallu_0.png": {
+            "compression": 4,
+            "name": "DO_GHALLU_0-338-001",
+            "position_y": 80
+        }
+    },
+    "transparency": 255
+}
