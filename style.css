@@ -1,13 +1,67 @@
+  
+/* #filesys {
+    height: 90vh;
+} */
+
+.leftCol, .rightCol{
+    height: 100vh;
+    float: left;
+    width: 20%;
+}
+
+
+#player{
+    /* margin: 0 auto; */
+    float:left;
+    overflow:hidden;
+    width: 58%;
+}
+
+.scrollBox{
+    overflow: auto;
+    height: 90vh;
+}
+
+/* 
+#events{
+    height: 90vh;
+} */
+
+#play_buttons{
+    display: flex;
+    justify-content: center;
+    width:800px;
+}
+
+
+#screen {
+    border: dotted;
+    margin: 0 auto;
+    width:800px;
+}
+
+#frames{
+    display: flex;
+    overflow: auto;
+}
+
+#frames img{
+    width: auto;
+    height: 150px;
+    padding: 10px;
+    border: solid;
+}
+
+
+
+
+
+
+
 
 
 ul, #filesys {
     list-style-type: none;
-}
-  
-#filesys {
-    float: left;
-    margin: 0;
-    padding: 0;
 }
 
 .caret {
@@ -32,28 +86,5 @@ ul, #filesys {
 
 .active {
     display: block;
-}
-
-#frames{
-    display: flex;
-}
-
-#frames img{
-    width: auto;
-    height: 150px;
-    padding: 10px;
-    border: solid;
-}
-#player{
-    float: left;
-}
-#events{
-    float: right;
-}
-#screen {
-    border: dotted;
-}
-
-#play_buttons{
-    display: flex;
+    cursor: pointer;
 }

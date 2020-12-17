@@ -6,31 +6,37 @@
     </head>
 
     <body onload="setCanvas()">
-        <div id=filesys>
-            
+
+        <div class="leftCol">
+            <h1>Files</h1>
+            <div id=filesys class="scrollBox">
+                
+            </div>
         </div>
 
-        <div id="history">
-
-        </div>
-        <div id="saved">
-
-        </div>
         <div id="player">
             <canvas id="screen" width=800 height=600>
             </canvas>
             <div id="play_buttons">
+                <label for="center">center</label>
+                <input type="checkbox" name="center" id="centerCheck" onclick=changeFrame()>
                 <button type="button" onclick="playB()">Back</button> 
                 <button type="button" onclick="pause()">Pause</button> 
                 <button type="button" onclick="play()">Play</button> 
+                <label for="loop">loop</label>
+                <input type="checkbox" name="loop" id="loopCheck" onclick=changeFrame()>
             </div>
             <div id="frames">
             </div>
         </div>
 
-        <ul id="events">
-            
-        </ul>
+        <div class="rightCol">
+            <h1>Events</h1>
+            <ul id="events" class="scrollBox">
+                
+            </ul>
+        </div>
+
         <script src="lib/index.js"></script>
     </body>
 </html>
