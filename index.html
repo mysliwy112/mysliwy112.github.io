@@ -1,6 +1,11 @@
 <html>
     <head>
         <meta charset="UTF-8">
+        <script type="text/javascript" src="lib/jsgif/LZWEncoder.js"></script>
+        <script type="text/javascript" src="lib/jsgif/NeuQuant.js"></script>
+        <script type="text/javascript" src="lib/jsgif/GIFEncoder.js"></script>
+        <script type="text/javascript" src="lib/jszip.js"></script>
+        <script type="text/javascript" src="lib/FileSaver.js"></script>
         <script src="lib/ann.js"></script>
         <link rel="stylesheet" href="style.css">
     </head>
@@ -25,6 +30,12 @@
                 <button type="button" onclick="play()">Play</button> 
                 <label for="loop">loop</label>
                 <input type="checkbox" name="loop" id="loopCheck" onclick=changeFrame()>
+            </div>
+            <div id="download_button">
+                <button type="button" onclick="saveGif()">Save Gif</button> 
+                <button type="button" onclick="saveSequence()">Save Sequence</button> 
+                <button type="button" onclick="saveAnn()" style="display: none;">Save ANN</button> 
+                <button type="button" onclick="saveFiles()">Save Images</button> 
             </div>
             <div id="frames">
             </div>
