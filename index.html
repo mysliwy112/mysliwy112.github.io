@@ -20,7 +20,7 @@
         </div>
 
         <div id="player">
-            <canvas id="screen" width=800 height=600>
+            <canvas id="screen" width=4000 height=2000>
             </canvas>
             <div id="play_buttons">
                 <label for="center">center</label>
@@ -28,6 +28,7 @@
                 <button type="button" onclick="playB()">Back</button> 
                 <button type="button" onclick="pause()">Pause</button> 
                 <button type="button" onclick="play()">Play</button> 
+                <button type="button" onclick="{pause();drawMultipleFrames()}">All</button> 
                 <label for="loop">loop</label>
                 <input type="checkbox" name="loop" id="loopCheck" onclick=changeFrame()>
             </div>
