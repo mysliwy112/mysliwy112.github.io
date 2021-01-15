@@ -1,0 +1,41 @@
+{
+    "author": "",
+    "bpp": 16,
+    "events": {
+        "0": {
+            "frames": [
+                {
+                    "check": [],
+                    "filename": "anbtnreset_0.png",
+                    "name": "restart in",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "anbtnreset_1.png",
+                    "name": "restart ac",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "anbtnreset_0.png": {
+            "compression": 3,
+            "name": "restart in",
+            "position_x": 736,
+            "position_y": 6
+        },
+        "anbtnreset_1.png": {
+            "compression": 3,
+            "name": "restart ac",
+            "position_x": 736,
+            "position_y": 6
+        }
+    },
+    "transparency": 255
+}

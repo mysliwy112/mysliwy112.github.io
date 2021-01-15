@@ -1,0 +1,957 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "base": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_29.png",
+                    "name": "04",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_37.png",
+                    "name": "05",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_40.png",
+                    "name": "06",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "bug": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_30.png",
+                    "name": "Bug",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "empty": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_2.png",
+                    "name": "tiling",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "enemy1": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_2.png",
+                    "name": "tiling",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "exit": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_32.png",
+                    "name": "1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "info70": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_27.png",
+                    "name": "Info",
+                    "position_x": -720,
+                    "position_y": -480
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "player": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_2.png",
+                    "name": "tiling",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "player_gravity": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_2.png",
+                    "name": "tiling",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "port": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_34.png",
+                    "name": "Port",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "stone20": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_4.png",
+                    "name": "13",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "stone21": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_5.png",
+                    "name": "Warstwa_4",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "stone22": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_6.png",
+                    "name": "1a",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "stone23": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_7.png",
+                    "name": "1b",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "stone24": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_8.png",
+                    "name": "1c",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "stone25": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_9.png",
+                    "name": "a1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "stone26": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_10.png",
+                    "name": "a2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "stone27": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_11.png",
+                    "name": "a3",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "stone28": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_12.png",
+                    "name": "b1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "stone29": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_13.png",
+                    "name": "b2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "stone30": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_14.png",
+                    "name": "b3",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "stone31": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_15.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "stone32": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_16.png",
+                    "name": "1",
+                    "position_x": -60,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "stone33": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_17.png",
+                    "name": "2",
+                    "position_x": -120,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "stone34": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_18.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "stone35": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_19.png",
+                    "name": "1",
+                    "position_x": -60,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "stone36": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_20.png",
+                    "name": "2",
+                    "position_x": -120,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "stone37": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_21.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "stone38": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_22.png",
+                    "name": "1",
+                    "position_x": -60,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "stone39": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_23.png",
+                    "name": "2",
+                    "position_x": -120,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "stone40": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_24.png",
+                    "name": "0",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "stone41": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_25.png",
+                    "name": "1",
+                    "position_x": -60,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "stone42": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_26.png",
+                    "name": "2",
+                    "position_x": -120,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "terminal": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_33.png",
+                    "name": "Terminal",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "tnto": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_3.png",
+                    "name": "a",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "tntr": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_31.png",
+                    "name": "b",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "tnty": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_1.png",
+                    "name": "TNTy",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "wall": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_0.png",
+                    "name": "01",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_35.png",
+                    "name": "02",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_38.png",
+                    "name": "03",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "wall_znisz": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_28.png",
+                    "name": "07",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_36.png",
+                    "name": "08",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_39.png",
+                    "name": "09",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_41.png",
+                    "name": "10",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_42.png",
+                    "name": "11",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pola0_copy_43.png",
+                    "name": "12",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "pola0_copy_0.png": {
+            "compression": 3,
+            "name": "01"
+        },
+        "pola0_copy_1.png": {
+            "compression": 3,
+            "name": "TNT",
+            "position_x": 4,
+            "position_y": 4
+        },
+        "pola0_copy_10.png": {
+            "compression": 3,
+            "name": "a2"
+        },
+        "pola0_copy_11.png": {
+            "compression": 3,
+            "name": "a3",
+            "position_y": 3
+        },
+        "pola0_copy_12.png": {
+            "compression": 3,
+            "name": "b1",
+            "position_x": 28,
+            "position_y": 6
+        },
+        "pola0_copy_13.png": {
+            "compression": 3,
+            "name": "b2"
+        },
+        "pola0_copy_14.png": {
+            "compression": 3,
+            "name": "b3",
+            "position_y": 1
+        },
+        "pola0_copy_15.png": {
+            "compression": 3,
+            "name": "0"
+        },
+        "pola0_copy_16.png": {
+            "compression": 3,
+            "name": "1",
+            "position_x": 60
+        },
+        "pola0_copy_17.png": {
+            "compression": 3,
+            "name": "2",
+            "position_x": 120
+        },
+        "pola0_copy_18.png": {
+            "compression": 3,
+            "name": "0"
+        },
+        "pola0_copy_19.png": {
+            "compression": 3,
+            "name": "1",
+            "position_x": 60
+        },
+        "pola0_copy_2.png": {
+            "compression": 3,
+            "name": "tiling"
+        },
+        "pola0_copy_20.png": {
+            "compression": 3,
+            "name": "2",
+            "position_x": 120
+        },
+        "pola0_copy_21.png": {
+            "compression": 3,
+            "name": "0"
+        },
+        "pola0_copy_22.png": {
+            "compression": 3,
+            "name": "1",
+            "position_x": 60
+        },
+        "pola0_copy_23.png": {
+            "compression": 3,
+            "name": "2",
+            "position_x": 120
+        },
+        "pola0_copy_24.png": {
+            "compression": 3,
+            "name": "0"
+        },
+        "pola0_copy_25.png": {
+            "compression": 3,
+            "name": "1",
+            "position_x": 60
+        },
+        "pola0_copy_26.png": {
+            "compression": 3,
+            "name": "2",
+            "position_x": 120
+        },
+        "pola0_copy_27.png": {
+            "compression": 3,
+            "name": "LAYER_2",
+            "position_x": 726,
+            "position_y": 487
+        },
+        "pola0_copy_28.png": {
+            "compression": 3,
+            "name": "07"
+        },
+        "pola0_copy_29.png": {
+            "compression": 3,
+            "name": "04"
+        },
+        "pola0_copy_3.png": {
+            "compression": 3,
+            "name": "a"
+        },
+        "pola0_copy_30.png": {
+            "compression": 3,
+            "name": "BUG"
+        },
+        "pola0_copy_31.png": {
+            "compression": 3,
+            "name": "b",
+            "position_y": 27
+        },
+        "pola0_copy_32.png": {
+            "compression": 3,
+            "name": "1"
+        },
+        "pola0_copy_33.png": {
+            "compression": 3,
+            "name": "TERMINAL",
+            "position_x": 4,
+            "position_y": 4
+        },
+        "pola0_copy_34.png": {
+            "compression": 3,
+            "name": "PORT"
+        },
+        "pola0_copy_35.png": {
+            "compression": 3,
+            "name": "02"
+        },
+        "pola0_copy_36.png": {
+            "compression": 3,
+            "name": "08"
+        },
+        "pola0_copy_37.png": {
+            "compression": 3,
+            "name": "05"
+        },
+        "pola0_copy_38.png": {
+            "compression": 3,
+            "name": "03"
+        },
+        "pola0_copy_39.png": {
+            "compression": 3,
+            "name": "09"
+        },
+        "pola0_copy_4.png": {
+            "compression": 3,
+            "name": "13",
+            "position_x": 1
+        },
+        "pola0_copy_40.png": {
+            "compression": 3,
+            "name": "06"
+        },
+        "pola0_copy_41.png": {
+            "compression": 3,
+            "name": "10"
+        },
+        "pola0_copy_42.png": {
+            "compression": 3,
+            "name": "11"
+        },
+        "pola0_copy_43.png": {
+            "compression": 3,
+            "name": "12"
+        },
+        "pola0_copy_5.png": {
+            "compression": 3,
+            "name": "Warstwa_4",
+            "position_x": 1,
+            "position_y": 1
+        },
+        "pola0_copy_6.png": {
+            "compression": 3,
+            "name": "1a",
+            "position_x": 10,
+            "position_y": 1
+        },
+        "pola0_copy_7.png": {
+            "compression": 3,
+            "name": "1b",
+            "position_y": 1
+        },
+        "pola0_copy_8.png": {
+            "compression": 3,
+            "name": "1c"
+        },
+        "pola0_copy_9.png": {
+            "compression": 3,
+            "name": "a1",
+            "position_x": 34,
+            "position_y": 3
+        }
+    },
+    "transparency": 255
+}

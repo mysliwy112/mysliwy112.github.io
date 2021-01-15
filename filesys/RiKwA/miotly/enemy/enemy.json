@@ -1,0 +1,2974 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "V0D": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_8.png",
+                    "name": "m1",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_8.png",
+                    "name": "m1",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_14.png",
+                    "name": "m2",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_14.png",
+                    "name": "m2",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_26.png",
+                    "name": "m3",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_26.png",
+                    "name": "m3",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_34.png",
+                    "name": "m4",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_34.png",
+                    "name": "m4",
+                    "position_x": 33,
+                    "position_y": 34
+                }
+            ],
+            "loop": 7,
+            "transparency": 255
+        },
+        "V0U": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_7.png",
+                    "name": "m1_kopia",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_7.png",
+                    "name": "m1_kopia",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_13.png",
+                    "name": "m2_kopia",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_13.png",
+                    "name": "m2_kopia",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_25.png",
+                    "name": "m3_kopia",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_25.png",
+                    "name": "m3_kopia",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_33.png",
+                    "name": "m4_kopia",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_33.png",
+                    "name": "m4_kopia",
+                    "position_x": 33,
+                    "position_y": 34
+                }
+            ],
+            "loop": 7,
+            "transparency": 255
+        },
+        "V1D": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_10.png",
+                    "name": "ch1",
+                    "position_x": 33,
+                    "position_y": 35
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_10.png",
+                    "name": "ch1",
+                    "position_x": 33,
+                    "position_y": 35
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_10.png",
+                    "name": "ch1",
+                    "position_x": 33,
+                    "position_y": 35
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_22.png",
+                    "name": "ch2",
+                    "position_x": 33,
+                    "position_y": 35
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_22.png",
+                    "name": "ch2",
+                    "position_x": 33,
+                    "position_y": 35
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_22.png",
+                    "name": "ch2",
+                    "position_x": 33,
+                    "position_y": 35
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_36.png",
+                    "name": "ch3",
+                    "position_x": 33,
+                    "position_y": 35
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_36.png",
+                    "name": "ch3",
+                    "position_x": 33,
+                    "position_y": 35
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_36.png",
+                    "name": "ch3",
+                    "position_x": 33,
+                    "position_y": 35
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_40.png",
+                    "name": "ch4",
+                    "position_x": 33,
+                    "position_y": 35
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_40.png",
+                    "name": "ch4",
+                    "position_x": 33,
+                    "position_y": 35
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_40.png",
+                    "name": "ch4",
+                    "position_x": 33,
+                    "position_y": 35
+                }
+            ],
+            "loop": 11,
+            "transparency": 255
+        },
+        "V1U": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_9.png",
+                    "name": "ch1_kopia",
+                    "position_x": 33,
+                    "position_y": 35
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_9.png",
+                    "name": "ch1_kopia",
+                    "position_x": 33,
+                    "position_y": 35
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_9.png",
+                    "name": "ch1_kopia",
+                    "position_x": 33,
+                    "position_y": 35
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_21.png",
+                    "name": "ch2_kopia",
+                    "position_x": 33,
+                    "position_y": 35
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_21.png",
+                    "name": "ch2_kopia",
+                    "position_x": 33,
+                    "position_y": 35
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_21.png",
+                    "name": "ch2_kopia",
+                    "position_x": 33,
+                    "position_y": 35
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_35.png",
+                    "name": "ch3_kopia",
+                    "position_x": 33,
+                    "position_y": 35
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_35.png",
+                    "name": "ch3_kopia",
+                    "position_x": 33,
+                    "position_y": 35
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_35.png",
+                    "name": "ch3_kopia",
+                    "position_x": 33,
+                    "position_y": 35
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_39.png",
+                    "name": "ch4_kopia",
+                    "position_x": 33,
+                    "position_y": 35
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_39.png",
+                    "name": "ch4_kopia",
+                    "position_x": 33,
+                    "position_y": 35
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_39.png",
+                    "name": "ch4_kopia",
+                    "position_x": 33,
+                    "position_y": 35
+                }
+            ],
+            "loop": 11,
+            "transparency": 255
+        },
+        "V2D": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_12.png",
+                    "name": "s1",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_12.png",
+                    "name": "s1",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_12.png",
+                    "name": "s1",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_24.png",
+                    "name": "s2",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_24.png",
+                    "name": "s2",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_24.png",
+                    "name": "s2",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_38.png",
+                    "name": "s3",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_38.png",
+                    "name": "s3",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_38.png",
+                    "name": "s3",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_42.png",
+                    "name": "s4",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_42.png",
+                    "name": "s4",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_42.png",
+                    "name": "s4",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_38.png",
+                    "name": "s3",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_38.png",
+                    "name": "s3",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_38.png",
+                    "name": "s3",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_24.png",
+                    "name": "s2",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_24.png",
+                    "name": "s2",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_24.png",
+                    "name": "s2",
+                    "position_x": 33,
+                    "position_y": 34
+                }
+            ],
+            "loop": 17,
+            "transparency": 255
+        },
+        "V2U": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_11.png",
+                    "name": "s1_kopia",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_11.png",
+                    "name": "s1_kopia",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_11.png",
+                    "name": "s1_kopia",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_23.png",
+                    "name": "s2_kopia",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_23.png",
+                    "name": "s2_kopia",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_23.png",
+                    "name": "s2_kopia",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_37.png",
+                    "name": "s3_kopia",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_37.png",
+                    "name": "s3_kopia",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_37.png",
+                    "name": "s3_kopia",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_41.png",
+                    "name": "s4_kopia",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_41.png",
+                    "name": "s4_kopia",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_41.png",
+                    "name": "s4_kopia",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_37.png",
+                    "name": "s3_kopia",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_37.png",
+                    "name": "s3_kopia",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_37.png",
+                    "name": "s3_kopia",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_23.png",
+                    "name": "s2_kopia",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_23.png",
+                    "name": "s2_kopia",
+                    "position_x": 33,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_23.png",
+                    "name": "s2_kopia",
+                    "position_x": 33,
+                    "position_y": 34
+                }
+            ],
+            "loop": 17,
+            "transparency": 255
+        },
+        "X0": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_1.png",
+                    "name": "c1",
+                    "position_x": 25,
+                    "position_y": 24
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_1.png",
+                    "name": "c1",
+                    "position_x": 26,
+                    "position_y": 21
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_1.png",
+                    "name": "c1",
+                    "position_x": 26,
+                    "position_y": 19
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_15.png",
+                    "name": "c2",
+                    "position_x": 29,
+                    "position_y": 17
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_15.png",
+                    "name": "c2",
+                    "position_x": 31,
+                    "position_y": 15
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_15.png",
+                    "name": "c2",
+                    "position_x": 34,
+                    "position_y": 15
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_27.png",
+                    "name": "c3",
+                    "position_x": 36,
+                    "position_y": 15
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_27.png",
+                    "name": "c3",
+                    "position_x": 39,
+                    "position_y": 14
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_27.png",
+                    "name": "c3",
+                    "position_x": 41,
+                    "position_y": 14
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_1.png",
+                    "name": "c1",
+                    "position_x": 43,
+                    "position_y": 15
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_1.png",
+                    "name": "c1",
+                    "position_x": 45,
+                    "position_y": 18
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_1.png",
+                    "name": "c1",
+                    "position_x": 46,
+                    "position_y": 20
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_15.png",
+                    "name": "c2",
+                    "position_x": 49,
+                    "position_y": 21
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_15.png",
+                    "name": "c2",
+                    "position_x": 49,
+                    "position_y": 24
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_15.png",
+                    "name": "c2",
+                    "position_x": 51,
+                    "position_y": 26
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_27.png",
+                    "name": "c3",
+                    "position_x": 51,
+                    "position_y": 29
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_27.png",
+                    "name": "c3",
+                    "position_x": 51,
+                    "position_y": 32
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_27.png",
+                    "name": "c3",
+                    "position_x": 51,
+                    "position_y": 35
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_1.png",
+                    "name": "c1",
+                    "position_x": 51,
+                    "position_y": 37
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_1.png",
+                    "name": "c1",
+                    "position_x": 50,
+                    "position_y": 40
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_1.png",
+                    "name": "c1",
+                    "position_x": 49,
+                    "position_y": 41
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_15.png",
+                    "name": "c2",
+                    "position_x": 47,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_15.png",
+                    "name": "c2",
+                    "position_x": 45,
+                    "position_y": 46
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_15.png",
+                    "name": "c2",
+                    "position_x": 44,
+                    "position_y": 47
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_27.png",
+                    "name": "c3",
+                    "position_x": 41,
+                    "position_y": 47
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_27.png",
+                    "name": "c3",
+                    "position_x": 39,
+                    "position_y": 47
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_27.png",
+                    "name": "c3",
+                    "position_x": 36,
+                    "position_y": 47
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_1.png",
+                    "name": "c1",
+                    "position_x": 35,
+                    "position_y": 46
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_1.png",
+                    "name": "c1",
+                    "position_x": 32,
+                    "position_y": 44
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_1.png",
+                    "name": "c1",
+                    "position_x": 31,
+                    "position_y": 42
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_15.png",
+                    "name": "c2",
+                    "position_x": 29,
+                    "position_y": 39
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_15.png",
+                    "name": "c2",
+                    "position_x": 28,
+                    "position_y": 38
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_15.png",
+                    "name": "c2",
+                    "position_x": 28,
+                    "position_y": 35
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_27.png",
+                    "name": "c3",
+                    "position_x": 28,
+                    "position_y": 33
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_27.png",
+                    "name": "c3",
+                    "position_x": 28,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_27.png",
+                    "name": "c3",
+                    "position_x": 28,
+                    "position_y": 28
+                }
+            ],
+            "loop": 35,
+            "transparency": 255
+        },
+        "X1": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_2.png",
+                    "name": "c4",
+                    "position_x": 25,
+                    "position_y": 18
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_2.png",
+                    "name": "c4",
+                    "position_x": 27,
+                    "position_y": 17
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_2.png",
+                    "name": "c4",
+                    "position_x": 30,
+                    "position_y": 16
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_16.png",
+                    "name": "c5",
+                    "position_x": 32,
+                    "position_y": 16
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_16.png",
+                    "name": "c5",
+                    "position_x": 35,
+                    "position_y": 16
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_16.png",
+                    "name": "c5",
+                    "position_x": 38,
+                    "position_y": 16
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_28.png",
+                    "name": "c6",
+                    "position_x": 41,
+                    "position_y": 16
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_28.png",
+                    "name": "c6",
+                    "position_x": 44,
+                    "position_y": 16
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_28.png",
+                    "name": "c6",
+                    "position_x": 46,
+                    "position_y": 18
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_2.png",
+                    "name": "c4",
+                    "position_x": 47,
+                    "position_y": 20
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_2.png",
+                    "name": "c4",
+                    "position_x": 48,
+                    "position_y": 22
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_2.png",
+                    "name": "c4",
+                    "position_x": 48,
+                    "position_y": 25
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_16.png",
+                    "name": "c5",
+                    "position_x": 49,
+                    "position_y": 27
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_16.png",
+                    "name": "c5",
+                    "position_x": 49,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_16.png",
+                    "name": "c5",
+                    "position_x": 49,
+                    "position_y": 32
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_28.png",
+                    "name": "c6",
+                    "position_x": 49,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_28.png",
+                    "name": "c6",
+                    "position_x": 49,
+                    "position_y": 37
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_28.png",
+                    "name": "c6",
+                    "position_x": 48,
+                    "position_y": 38
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_2.png",
+                    "name": "c4",
+                    "position_x": 47,
+                    "position_y": 40
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_2.png",
+                    "name": "c4",
+                    "position_x": 44,
+                    "position_y": 41
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_2.png",
+                    "name": "c4",
+                    "position_x": 42,
+                    "position_y": 41
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_16.png",
+                    "name": "c5",
+                    "position_x": 40,
+                    "position_y": 41
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_16.png",
+                    "name": "c5",
+                    "position_x": 37,
+                    "position_y": 41
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_16.png",
+                    "name": "c5",
+                    "position_x": 37,
+                    "position_y": 39
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_28.png",
+                    "name": "c6",
+                    "position_x": 37,
+                    "position_y": 37
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_28.png",
+                    "name": "c6",
+                    "position_x": 37,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_28.png",
+                    "name": "c6",
+                    "position_x": 37,
+                    "position_y": 32
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_2.png",
+                    "name": "c4",
+                    "position_x": 37,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_2.png",
+                    "name": "c4",
+                    "position_x": 35,
+                    "position_y": 28
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_2.png",
+                    "name": "c4",
+                    "position_x": 34,
+                    "position_y": 27
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_16.png",
+                    "name": "c5",
+                    "position_x": 32,
+                    "position_y": 27
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_16.png",
+                    "name": "c5",
+                    "position_x": 31,
+                    "position_y": 25
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_16.png",
+                    "name": "c5",
+                    "position_x": 29,
+                    "position_y": 24
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_28.png",
+                    "name": "c6",
+                    "position_x": 28,
+                    "position_y": 23
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_28.png",
+                    "name": "c6",
+                    "position_x": 26,
+                    "position_y": 21
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_28.png",
+                    "name": "c6",
+                    "position_x": 26,
+                    "position_y": 19
+                }
+            ],
+            "loop": 35,
+            "transparency": 255
+        },
+        "Y0D": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_4.png",
+                    "name": "a1",
+                    "position_x": 25,
+                    "position_y": 23
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_4.png",
+                    "name": "a1",
+                    "position_x": 25,
+                    "position_y": 21
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_4.png",
+                    "name": "a1",
+                    "position_x": 25,
+                    "position_y": 19
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_18.png",
+                    "name": "a2",
+                    "position_x": 25,
+                    "position_y": 17
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_18.png",
+                    "name": "a2",
+                    "position_x": 25,
+                    "position_y": 16
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_18.png",
+                    "name": "a2",
+                    "position_x": 27,
+                    "position_y": 14
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_30.png",
+                    "name": "a3",
+                    "position_x": 29,
+                    "position_y": 13
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_30.png",
+                    "name": "a3",
+                    "position_x": 30,
+                    "position_y": 13
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_30.png",
+                    "name": "a3",
+                    "position_x": 32,
+                    "position_y": 13
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_4.png",
+                    "name": "a1",
+                    "position_x": 34,
+                    "position_y": 13
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_4.png",
+                    "name": "a1",
+                    "position_x": 36,
+                    "position_y": 14
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_4.png",
+                    "name": "a1",
+                    "position_x": 38,
+                    "position_y": 15
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_18.png",
+                    "name": "a2",
+                    "position_x": 40,
+                    "position_y": 16
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_18.png",
+                    "name": "a2",
+                    "position_x": 41,
+                    "position_y": 18
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_18.png",
+                    "name": "a2",
+                    "position_x": 42,
+                    "position_y": 18
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_30.png",
+                    "name": "a3",
+                    "position_x": 42,
+                    "position_y": 20
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_30.png",
+                    "name": "a3",
+                    "position_x": 42,
+                    "position_y": 22
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_30.png",
+                    "name": "a3",
+                    "position_x": 42,
+                    "position_y": 23
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_4.png",
+                    "name": "a1",
+                    "position_x": 42,
+                    "position_y": 25
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_4.png",
+                    "name": "a1",
+                    "position_x": 41,
+                    "position_y": 27
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_4.png",
+                    "name": "a1",
+                    "position_x": 41,
+                    "position_y": 29
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_18.png",
+                    "name": "a2",
+                    "position_x": 39,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_18.png",
+                    "name": "a2",
+                    "position_x": 38,
+                    "position_y": 31
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_18.png",
+                    "name": "a2",
+                    "position_x": 37,
+                    "position_y": 32
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_30.png",
+                    "name": "a3",
+                    "position_x": 37,
+                    "position_y": 33
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_30.png",
+                    "name": "a3",
+                    "position_x": 35,
+                    "position_y": 33
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_30.png",
+                    "name": "a3",
+                    "position_x": 33,
+                    "position_y": 33
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_4.png",
+                    "name": "a1",
+                    "position_x": 31,
+                    "position_y": 33
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_4.png",
+                    "name": "a1",
+                    "position_x": 30,
+                    "position_y": 33
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_4.png",
+                    "name": "a1",
+                    "position_x": 28,
+                    "position_y": 33
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_18.png",
+                    "name": "a2",
+                    "position_x": 27,
+                    "position_y": 32
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_18.png",
+                    "name": "a2",
+                    "position_x": 25,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_18.png",
+                    "name": "a2",
+                    "position_x": 25,
+                    "position_y": 29
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_30.png",
+                    "name": "a3",
+                    "position_x": 25,
+                    "position_y": 27
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_30.png",
+                    "name": "a3",
+                    "position_x": 25,
+                    "position_y": 26
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_30.png",
+                    "name": "a3",
+                    "position_x": 25,
+                    "position_y": 24
+                }
+            ],
+            "loop": 35,
+            "transparency": 255
+        },
+        "Y0U": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_3.png",
+                    "name": "a4",
+                    "position_x": 25,
+                    "position_y": 27
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_3.png",
+                    "name": "a4",
+                    "position_x": 25,
+                    "position_y": 25
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_3.png",
+                    "name": "a4",
+                    "position_x": 25,
+                    "position_y": 22
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_17.png",
+                    "name": "a5",
+                    "position_x": 26,
+                    "position_y": 20
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_17.png",
+                    "name": "a5",
+                    "position_x": 28,
+                    "position_y": 17
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_17.png",
+                    "name": "a5",
+                    "position_x": 29,
+                    "position_y": 15
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_29.png",
+                    "name": "a6",
+                    "position_x": 30,
+                    "position_y": 15
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_29.png",
+                    "name": "a6",
+                    "position_x": 31,
+                    "position_y": 14
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_29.png",
+                    "name": "a6",
+                    "position_x": 34,
+                    "position_y": 14
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_3.png",
+                    "name": "a4",
+                    "position_x": 36,
+                    "position_y": 14
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_3.png",
+                    "name": "a4",
+                    "position_x": 38,
+                    "position_y": 14
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_3.png",
+                    "name": "a4",
+                    "position_x": 40,
+                    "position_y": 14
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_17.png",
+                    "name": "a5",
+                    "position_x": 42,
+                    "position_y": 16
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_17.png",
+                    "name": "a5",
+                    "position_x": 42,
+                    "position_y": 18
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_17.png",
+                    "name": "a5",
+                    "position_x": 43,
+                    "position_y": 19
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_29.png",
+                    "name": "a6",
+                    "position_x": 43,
+                    "position_y": 21
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_29.png",
+                    "name": "a6",
+                    "position_x": 43,
+                    "position_y": 23
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_29.png",
+                    "name": "a6",
+                    "position_x": 43,
+                    "position_y": 25
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_3.png",
+                    "name": "a4",
+                    "position_x": 43,
+                    "position_y": 27
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_3.png",
+                    "name": "a4",
+                    "position_x": 43,
+                    "position_y": 29
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_3.png",
+                    "name": "a4",
+                    "position_x": 43,
+                    "position_y": 32
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_17.png",
+                    "name": "a5",
+                    "position_x": 43,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_17.png",
+                    "name": "a5",
+                    "position_x": 41,
+                    "position_y": 36
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_17.png",
+                    "name": "a5",
+                    "position_x": 40,
+                    "position_y": 37
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_29.png",
+                    "name": "a6",
+                    "position_x": 38,
+                    "position_y": 38
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_29.png",
+                    "name": "a6",
+                    "position_x": 36,
+                    "position_y": 38
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_29.png",
+                    "name": "a6",
+                    "position_x": 35,
+                    "position_y": 38
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_3.png",
+                    "name": "a4",
+                    "position_x": 33,
+                    "position_y": 38
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_3.png",
+                    "name": "a4",
+                    "position_x": 31,
+                    "position_y": 38
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_3.png",
+                    "name": "a4",
+                    "position_x": 28,
+                    "position_y": 37
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_17.png",
+                    "name": "a5",
+                    "position_x": 27,
+                    "position_y": 36
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_17.png",
+                    "name": "a5",
+                    "position_x": 26,
+                    "position_y": 36
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_17.png",
+                    "name": "a5",
+                    "position_x": 25,
+                    "position_y": 34
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_29.png",
+                    "name": "a6",
+                    "position_x": 24,
+                    "position_y": 32
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_29.png",
+                    "name": "a6",
+                    "position_x": 24,
+                    "position_y": 30
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_29.png",
+                    "name": "a6",
+                    "position_x": 24,
+                    "position_y": 28
+                }
+            ],
+            "loop": 35,
+            "transparency": 255
+        },
+        "Z0D": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_6.png",
+                    "name": "b1",
+                    "position_x": 25,
+                    "position_y": 24
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_6.png",
+                    "name": "b1",
+                    "position_x": 25,
+                    "position_y": 24
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_6.png",
+                    "name": "b1",
+                    "position_x": 25,
+                    "position_y": 24
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_20.png",
+                    "name": "b2",
+                    "position_x": 25,
+                    "position_y": 24
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_20.png",
+                    "name": "b2",
+                    "position_x": 25,
+                    "position_y": 24
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_20.png",
+                    "name": "b2",
+                    "position_x": 25,
+                    "position_y": 24
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_32.png",
+                    "name": "b3",
+                    "position_x": 25,
+                    "position_y": 24
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_32.png",
+                    "name": "b3",
+                    "position_x": 25,
+                    "position_y": 24
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_32.png",
+                    "name": "b3",
+                    "position_x": 25,
+                    "position_y": 24
+                }
+            ],
+            "loop": 8,
+            "transparency": 255
+        },
+        "Z0U": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_5.png",
+                    "name": "b4",
+                    "position_x": 25,
+                    "position_y": 23
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_5.png",
+                    "name": "b4",
+                    "position_x": 25,
+                    "position_y": 23
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_5.png",
+                    "name": "b4",
+                    "position_x": 25,
+                    "position_y": 23
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_19.png",
+                    "name": "b5",
+                    "position_x": 25,
+                    "position_y": 23
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_19.png",
+                    "name": "b5",
+                    "position_x": 25,
+                    "position_y": 23
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_19.png",
+                    "name": "b5",
+                    "position_x": 25,
+                    "position_y": 23
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_31.png",
+                    "name": "b6",
+                    "position_x": 25,
+                    "position_y": 23
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_31.png",
+                    "name": "b6",
+                    "position_x": 25,
+                    "position_y": 23
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_31.png",
+                    "name": "b6",
+                    "position_x": 25,
+                    "position_y": 23
+                }
+            ],
+            "loop": 8,
+            "transparency": 255
+        },
+        "null": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy_0.png",
+                    "name": "pixel",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "enemy_0.png": {
+            "compression": 3,
+            "name": "pixel",
+            "position_x": -1000,
+            "position_y": -1000
+        },
+        "enemy_1.png": {
+            "compression": 3,
+            "name": "c1",
+            "position_x": -25,
+            "position_y": -24
+        },
+        "enemy_10.png": {
+            "compression": 3,
+            "name": "ch1",
+            "position_x": -33,
+            "position_y": -35
+        },
+        "enemy_11.png": {
+            "compression": 3,
+            "name": "s1_kopia",
+            "position_x": -33,
+            "position_y": -34
+        },
+        "enemy_12.png": {
+            "compression": 3,
+            "name": "s1",
+            "position_x": -33,
+            "position_y": -34
+        },
+        "enemy_13.png": {
+            "compression": 3,
+            "name": "m2_kopia",
+            "position_x": -33,
+            "position_y": -34
+        },
+        "enemy_14.png": {
+            "compression": 3,
+            "name": "m2",
+            "position_x": -33,
+            "position_y": -34
+        },
+        "enemy_15.png": {
+            "compression": 3,
+            "name": "c2",
+            "position_x": -25,
+            "position_y": -24
+        },
+        "enemy_16.png": {
+            "compression": 3,
+            "name": "c5",
+            "position_x": -25,
+            "position_y": -18
+        },
+        "enemy_17.png": {
+            "compression": 3,
+            "name": "a5",
+            "position_x": -25,
+            "position_y": -26
+        },
+        "enemy_18.png": {
+            "compression": 3,
+            "name": "a2",
+            "position_x": -25,
+            "position_y": -23
+        },
+        "enemy_19.png": {
+            "compression": 3,
+            "name": "b5",
+            "position_x": -25,
+            "position_y": -23
+        },
+        "enemy_2.png": {
+            "compression": 3,
+            "name": "c4",
+            "position_x": -25,
+            "position_y": -18
+        },
+        "enemy_20.png": {
+            "compression": 3,
+            "name": "b2",
+            "position_x": -25,
+            "position_y": -24
+        },
+        "enemy_21.png": {
+            "compression": 3,
+            "name": "ch2_kopia",
+            "position_x": -33,
+            "position_y": -33
+        },
+        "enemy_22.png": {
+            "compression": 3,
+            "name": "ch2",
+            "position_x": -33,
+            "position_y": -35
+        },
+        "enemy_23.png": {
+            "compression": 3,
+            "name": "s2_kopia",
+            "position_x": -33,
+            "position_y": -34
+        },
+        "enemy_24.png": {
+            "compression": 3,
+            "name": "s2",
+            "position_x": -33,
+            "position_y": -40
+        },
+        "enemy_25.png": {
+            "compression": 3,
+            "name": "m3_kopia",
+            "position_x": -35,
+            "position_y": -35
+        },
+        "enemy_26.png": {
+            "compression": 3,
+            "name": "m3",
+            "position_x": -35,
+            "position_y": -34
+        },
+        "enemy_27.png": {
+            "compression": 3,
+            "name": "c3",
+            "position_x": -25,
+            "position_y": -24
+        },
+        "enemy_28.png": {
+            "compression": 3,
+            "name": "c6",
+            "position_x": -25,
+            "position_y": -18
+        },
+        "enemy_29.png": {
+            "compression": 3,
+            "name": "a6",
+            "position_x": -25,
+            "position_y": -26
+        },
+        "enemy_3.png": {
+            "compression": 3,
+            "name": "a4",
+            "position_x": -25,
+            "position_y": -27
+        },
+        "enemy_30.png": {
+            "compression": 3,
+            "name": "a3",
+            "position_x": -25,
+            "position_y": -23
+        },
+        "enemy_31.png": {
+            "compression": 3,
+            "name": "b6",
+            "position_x": -25,
+            "position_y": -22
+        },
+        "enemy_32.png": {
+            "compression": 3,
+            "name": "b3",
+            "position_x": -25,
+            "position_y": -24
+        },
+        "enemy_33.png": {
+            "compression": 3,
+            "name": "m4_kopia",
+            "position_x": -33,
+            "position_y": -34
+        },
+        "enemy_34.png": {
+            "compression": 3,
+            "name": "m4",
+            "position_x": -33,
+            "position_y": -34
+        },
+        "enemy_35.png": {
+            "compression": 3,
+            "name": "ch3_kopia",
+            "position_x": -35,
+            "position_y": -34
+        },
+        "enemy_36.png": {
+            "compression": 3,
+            "name": "ch3",
+            "position_x": -35,
+            "position_y": -35
+        },
+        "enemy_37.png": {
+            "compression": 3,
+            "name": "s3_kopia",
+            "position_x": -35,
+            "position_y": -35
+        },
+        "enemy_38.png": {
+            "compression": 3,
+            "name": "s3",
+            "position_x": -35,
+            "position_y": -41
+        },
+        "enemy_39.png": {
+            "compression": 3,
+            "name": "ch4_kopia",
+            "position_x": -33,
+            "position_y": -33
+        },
+        "enemy_4.png": {
+            "compression": 3,
+            "name": "a1",
+            "position_x": -25,
+            "position_y": -23
+        },
+        "enemy_40.png": {
+            "compression": 3,
+            "name": "ch4",
+            "position_x": -33,
+            "position_y": -35
+        },
+        "enemy_41.png": {
+            "compression": 3,
+            "name": "s4_kopia",
+            "position_x": -33,
+            "position_y": -34
+        },
+        "enemy_42.png": {
+            "compression": 3,
+            "name": "s4",
+            "position_x": -33,
+            "position_y": -45
+        },
+        "enemy_5.png": {
+            "compression": 3,
+            "name": "b4",
+            "position_x": -25,
+            "position_y": -23
+        },
+        "enemy_6.png": {
+            "compression": 3,
+            "name": "b1",
+            "position_x": -25,
+            "position_y": -24
+        },
+        "enemy_7.png": {
+            "compression": 3,
+            "name": "m1_kopia",
+            "position_x": -33,
+            "position_y": -34
+        },
+        "enemy_8.png": {
+            "compression": 3,
+            "name": "m1",
+            "position_x": -33,
+            "position_y": -34
+        },
+        "enemy_9.png": {
+            "compression": 3,
+            "name": "ch1_kopia",
+            "position_x": -33,
+            "position_y": -33
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,66 @@
+{
+    "author": "",
+    "bpp": 16,
+    "events": {
+        "E1": {
+            "frames": [
+                {
+                    "check": [],
+                    "filename": "mask_move_e4_0.png",
+                    "name": "Layer 2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "E2": {
+            "frames": [
+                {
+                    "check": [],
+                    "filename": "mask_move_e4_1.png",
+                    "name": "Layer 2 copy",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "E3": {
+            "frames": [
+                {
+                    "check": [],
+                    "filename": "mask_move_e4_2.png",
+                    "name": "Layer 2 copy 2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "mask_move_e4_0.png": {
+            "compression": 3,
+            "name": "Layer 1",
+            "position_x": 570,
+            "position_y": 370
+        },
+        "mask_move_e4_1.png": {
+            "compression": 3,
+            "name": "Layer 1 copy",
+            "position_x": 490,
+            "position_y": 450
+        },
+        "mask_move_e4_2.png": {
+            "compression": 3,
+            "name": "Layer 1 copy 2",
+            "position_x": 610,
+            "position_y": 370
+        }
+    },
+    "transparency": 255
+}

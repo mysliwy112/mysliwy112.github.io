@@ -1,0 +1,438 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "idle": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "buttons_0.png",
+                    "name": "wall",
+                    "position_x": 60,
+                    "position_y": 60
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "buttons_1.png",
+                    "name": "wall2",
+                    "position_x": 60,
+                    "position_y": 120
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "buttons_2.png",
+                    "name": "empty",
+                    "position_x": 60,
+                    "position_y": 180
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "buttons_3.png",
+                    "name": "base",
+                    "position_x": 60,
+                    "position_y": 240
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "buttons_4.png",
+                    "name": "Exit",
+                    "position_x": 60,
+                    "position_y": 480
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "buttons_5.png",
+                    "name": "player",
+                    "position_x": 120,
+                    "position_y": 60
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "buttons_6.png",
+                    "name": "enemy0",
+                    "position_x": 120,
+                    "position_y": 120
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "buttons_7.png",
+                    "name": "TNTo",
+                    "position_x": 180,
+                    "position_y": 60
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "buttons_8.png",
+                    "name": "TNTr",
+                    "position_x": 180,
+                    "position_y": 120
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "buttons_9.png",
+                    "name": "info",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "buttons_10.png",
+                    "name": "stone20",
+                    "position_x": 240,
+                    "position_y": 60
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "buttons_9.png",
+                    "name": "stone21",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "buttons_11.png",
+                    "name": "0",
+                    "position_x": 240,
+                    "position_y": 120
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "buttons_12.png",
+                    "name": "1",
+                    "position_x": 240,
+                    "position_y": 120
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "buttons_13.png",
+                    "name": "2",
+                    "position_x": 240,
+                    "position_y": 120
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "buttons_9.png",
+                    "name": "stone",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "buttons_9.png",
+                    "name": "stone",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "buttons_9.png",
+                    "name": "stone",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "buttons_9.png",
+                    "name": "stone",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "buttons_9.png",
+                    "name": "stone",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "buttons_9.png",
+                    "name": "stone",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "buttons_9.png",
+                    "name": "stone",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "buttons_9.png",
+                    "name": "stone",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "buttons_9.png",
+                    "name": "stone",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "buttons_9.png",
+                    "name": "stone",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "buttons_9.png",
+                    "name": "stone",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "buttons_9.png",
+                    "name": "stone",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "buttons_9.png",
+                    "name": "stone",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "buttons_9.png",
+                    "name": "stone",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "buttons_9.png",
+                    "name": "stone",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "buttons_9.png",
+                    "name": "stone",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "buttons_9.png",
+                    "name": "stone",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "buttons_9.png",
+                    "name": "stone",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "buttons_0.png": {
+            "compression": 3,
+            "name": "3"
+        },
+        "buttons_1.png": {
+            "compression": 3,
+            "name": "3"
+        },
+        "buttons_10.png": {
+            "compression": 3,
+            "name": "4"
+        },
+        "buttons_11.png": {
+            "compression": 3,
+            "name": "0"
+        },
+        "buttons_12.png": {
+            "compression": 3,
+            "name": "1",
+            "position_x": 60
+        },
+        "buttons_13.png": {
+            "compression": 3,
+            "name": "2",
+            "position_x": 120
+        },
+        "buttons_2.png": {
+            "compression": 3,
+            "name": "0"
+        },
+        "buttons_3.png": {
+            "compression": 3,
+            "name": "1"
+        },
+        "buttons_4.png": {
+            "compression": 3,
+            "name": "Exit"
+        },
+        "buttons_5.png": {
+            "compression": 3,
+            "name": "Layer_1"
+        },
+        "buttons_6.png": {
+            "compression": 3,
+            "name": "7"
+        },
+        "buttons_7.png": {
+            "compression": 3,
+            "name": "6"
+        },
+        "buttons_8.png": {
+            "compression": 3,
+            "name": "5"
+        },
+        "buttons_9.png": {
+            "compression": 3,
+            "name": "pixel",
+            "position_x": -1000,
+            "position_y": -1000
+        }
+    },
+    "transparency": 255
+}

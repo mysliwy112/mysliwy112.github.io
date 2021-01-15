@@ -1,0 +1,87 @@
+{
+    "author": "",
+    "bpp": 16,
+    "events": {
+        "1": {
+            "frames": [
+                {
+                    "check": [],
+                    "filename": "button_hide_0.png",
+                    "name": "6x",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "button_hide_0.png",
+                    "name": "6x",
+                    "position_x": 100,
+                    "position_y": -511
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "2": {
+            "frames": [
+                {
+                    "check": [],
+                    "filename": "button_hide_1.png",
+                    "name": "7x",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "button_hide_1.png",
+                    "name": "7x",
+                    "position_x": -4,
+                    "position_y": -471
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "3": {
+            "frames": [
+                {
+                    "check": [],
+                    "filename": "button_hide_2.png",
+                    "name": "8x",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "button_hide_2.png",
+                    "name": "8x",
+                    "position_x": -22,
+                    "position_y": -508
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "button_hide_0.png": {
+            "compression": 3,
+            "name": "6x",
+            "position_x": 40,
+            "position_y": 520
+        },
+        "button_hide_1.png": {
+            "compression": 3,
+            "name": "7x",
+            "position_x": 560,
+            "position_y": 480
+        },
+        "button_hide_2.png": {
+            "compression": 3,
+            "name": "8x",
+            "position_x": 720,
+            "position_y": 520
+        }
+    },
+    "transparency": 255
+}

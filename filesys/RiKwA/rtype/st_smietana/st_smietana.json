@@ -1,0 +1,30 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "ELAPSE": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "st_smietana_0.png",
+                    "name": "LAYER_1",
+                    "position_x": -3,
+                    "position_y": -3
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "st_smietana_0.png": {
+            "compression": 0,
+            "name": "LAYER_1"
+        }
+    },
+    "transparency": 255
+}

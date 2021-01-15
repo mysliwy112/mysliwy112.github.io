@@ -1,0 +1,46 @@
+{
+    "author": "",
+    "bpp": 16,
+    "events": {
+        "laser": {
+            "frames": [
+                {
+                    "check": [],
+                    "filename": "boss2laser_1.png",
+                    "name": "D3 promien",
+                    "position_x": -435,
+                    "position_y": 1
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "laser_okr": {
+            "frames": [
+                {
+                    "check": [],
+                    "filename": "boss2laser_0.png",
+                    "name": "D3b",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "boss2laser_0.png": {
+            "compression": 3,
+            "name": "D3b",
+            "position_x": 312,
+            "position_y": 206
+        },
+        "boss2laser_1.png": {
+            "compression": 3,
+            "name": "D3 promien",
+            "position_y": 230
+        }
+    },
+    "transparency": 255
+}

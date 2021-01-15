@@ -1,0 +1,87 @@
+{
+    "author": "",
+    "bpp": 16,
+    "events": {
+        "F1": {
+            "frames": [
+                {
+                    "check": [],
+                    "filename": "fog_mask_1.png",
+                    "name": "Warstwa 28",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "fog_mask_1.png",
+                    "name": "Warstwa 28",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "F2": {
+            "frames": [
+                {
+                    "check": [],
+                    "filename": "fog_mask_0.png",
+                    "name": "Warstwa 29",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "fog_mask_0.png",
+                    "name": "Warstwa 29",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "F3": {
+            "frames": [
+                {
+                    "check": [],
+                    "filename": "fog_mask_2.png",
+                    "name": "Warstwa 24",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "fog_mask_2.png",
+                    "name": "Warstwa 24",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "fog_mask_0.png": {
+            "compression": 3,
+            "name": "Warstwa 29",
+            "position_x": 40,
+            "position_y": 280
+        },
+        "fog_mask_1.png": {
+            "compression": 3,
+            "name": "Warstwa 28",
+            "position_x": 230,
+            "position_y": 440
+        },
+        "fog_mask_2.png": {
+            "compression": 3,
+            "name": "Warstwa 24",
+            "position_x": 121,
+            "position_y": 80
+        }
+    },
+    "transparency": 255
+}

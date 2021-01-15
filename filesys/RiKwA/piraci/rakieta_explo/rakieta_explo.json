@@ -1,0 +1,121 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "BA": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "rakieta_explo_1.png",
+                    "name": "Warstwa_40_kopia",
+                    "position_x": -18,
+                    "position_y": -48
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "rakieta_explo_1.png",
+                    "name": "Warstwa_40_kopia",
+                    "position_x": -18,
+                    "position_y": -48
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "rakieta_explo_0.png",
+                    "name": "pixel",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "BB": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "rakieta_explo_2.png",
+                    "name": "Warstwa_1_kopia",
+                    "position_x": -4,
+                    "position_y": -49
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "rakieta_explo_2.png",
+                    "name": "Warstwa_1_kopia",
+                    "position_x": -4,
+                    "position_y": -49
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "rakieta_explo_0.png",
+                    "name": "pixel",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "null": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "rakieta_explo_0.png",
+                    "name": "pixel",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "rakieta_explo_0.png": {
+            "compression": 3,
+            "name": "pixel",
+            "position_x": -1000,
+            "position_y": -1000
+        },
+        "rakieta_explo_1.png": {
+            "compression": 3,
+            "name": "WARSTWA_40_KOPIA",
+            "position_y": 23
+        },
+        "rakieta_explo_2.png": {
+            "compression": 3,
+            "name": "WARSTWA_1_KOPIA",
+            "position_x": -8,
+            "position_y": 37
+        }
+    },
+    "transparency": 255
+}

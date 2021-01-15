@@ -1,0 +1,41 @@
+{
+    "author": "",
+    "bpp": 16,
+    "events": {
+        "0": {
+            "frames": [
+                {
+                    "check": [],
+                    "filename": "inventory_0.png",
+                    "name": "Warstwa 4",
+                    "position_x": 0,
+                    "position_y": -70
+                },
+                {
+                    "check": [],
+                    "filename": "inventory_1.png",
+                    "name": "Warstwa 4 kopia",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "inventory_0.png": {
+            "compression": 3,
+            "name": "Warstwa 4",
+            "position_x": 410,
+            "position_y": 16
+        },
+        "inventory_1.png": {
+            "compression": 3,
+            "name": "ankh",
+            "position_x": 15,
+            "position_y": 5
+        }
+    },
+    "transparency": 255
+}

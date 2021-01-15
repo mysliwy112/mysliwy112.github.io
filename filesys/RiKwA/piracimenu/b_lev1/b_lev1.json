@@ -1,0 +1,622 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "idle": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_0.png",
+                    "name": "2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_2.png",
+                    "name": "2b",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "wlot": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -1154,
+                    "position_y": 17
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -1100,
+                    "position_y": 22
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -1048,
+                    "position_y": 27
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -998,
+                    "position_y": 32
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -949,
+                    "position_y": 36
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -903,
+                    "position_y": 41
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -858,
+                    "position_y": 45
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -814,
+                    "position_y": 48
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -772,
+                    "position_y": 51
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -732,
+                    "position_y": 54
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -693,
+                    "position_y": 57
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -656,
+                    "position_y": 60
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -621,
+                    "position_y": 62
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -586,
+                    "position_y": 64
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -553,
+                    "position_y": 65
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -522,
+                    "position_y": 67
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -492,
+                    "position_y": 68
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -463,
+                    "position_y": 69
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -435,
+                    "position_y": 69
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -408,
+                    "position_y": 70
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -383,
+                    "position_y": 70
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -359,
+                    "position_y": 70
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -336,
+                    "position_y": 70
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -314,
+                    "position_y": 69
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -293,
+                    "position_y": 69
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -273,
+                    "position_y": 68
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -254,
+                    "position_y": 67
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -236,
+                    "position_y": 66
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -219,
+                    "position_y": 64
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -203,
+                    "position_y": 63
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -187,
+                    "position_y": 61
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -173,
+                    "position_y": 59
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -159,
+                    "position_y": 57
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -146,
+                    "position_y": 55
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -133,
+                    "position_y": 53
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -122,
+                    "position_y": 50
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -110,
+                    "position_y": 47
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -100,
+                    "position_y": 45
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -90,
+                    "position_y": 42
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -80,
+                    "position_y": 39
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -71,
+                    "position_y": 36
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -63,
+                    "position_y": 32
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -54,
+                    "position_y": 29
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -47,
+                    "position_y": 26
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -39,
+                    "position_y": 22
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -32,
+                    "position_y": 19
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -25,
+                    "position_y": 15
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -18,
+                    "position_y": 11
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -12,
+                    "position_y": 7
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": -6,
+                    "position_y": 3
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_lev1_1.png",
+                    "name": "2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "b_lev1_0.png": {
+            "compression": 3,
+            "name": "2",
+            "position_x": 559,
+            "position_y": 230
+        },
+        "b_lev1_1.png": {
+            "compression": 3,
+            "name": "2",
+            "position_x": 559,
+            "position_y": 230
+        },
+        "b_lev1_2.png": {
+            "compression": 3,
+            "name": "2b",
+            "position_x": 559,
+            "position_y": 230
+        }
+    },
+    "transparency": 255
+}
