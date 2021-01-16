@@ -1,0 +1,99 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "idle": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "link_0.png",
+                    "name": "G1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "link_0.png",
+                    "name": "G1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "link_1.png",
+                    "name": "G2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "link_1.png",
+                    "name": "G2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "link_2.png",
+                    "name": "G3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "link_2.png",
+                    "name": "G3",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 5,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "link_0.png": {
+            "compression": 3,
+            "name": "G1",
+            "position_x": -3,
+            "position_y": -3
+        },
+        "link_1.png": {
+            "compression": 3,
+            "name": "G2",
+            "position_x": -3,
+            "position_y": -3
+        },
+        "link_2.png": {
+            "compression": 3,
+            "name": "G3",
+            "position_x": -2,
+            "position_y": -2
+        }
+    },
+    "transparency": 255
+}

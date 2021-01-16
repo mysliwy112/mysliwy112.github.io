@@ -1,0 +1,49 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "idle": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_music100_0.png",
+                    "name": "3_in",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "b_music100_1.png",
+                    "name": "3_ac",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "b_music100_0.png": {
+            "compression": 3,
+            "name": "3_in",
+            "position_x": 70,
+            "position_y": 564
+        },
+        "b_music100_1.png": {
+            "compression": 3,
+            "name": "3_ac",
+            "position_x": 70,
+            "position_y": 564
+        }
+    },
+    "transparency": 255
+}

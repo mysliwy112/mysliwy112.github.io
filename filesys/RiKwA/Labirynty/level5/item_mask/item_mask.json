@@ -1,0 +1,71 @@
+{
+    "author": "",
+    "bpp": 16,
+    "events": {
+        "P1": {
+            "frames": [
+                {
+                    "check": [],
+                    "filename": "item_mask_0.png",
+                    "name": "warstwa 2.png",
+                    "position_x": -51,
+                    "position_y": -41
+                },
+                {
+                    "check": [],
+                    "filename": "item_mask_0.png",
+                    "name": "Warstwa 4 kopia",
+                    "position_x": 720,
+                    "position_y": 200
+                },
+                {
+                    "check": [],
+                    "filename": "item_mask_1.png",
+                    "name": "Warstwa 2 kopia 3",
+                    "position_x": 720,
+                    "position_y": 200
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "P2": {
+            "frames": [
+                {
+                    "check": [],
+                    "filename": "item_mask_1.png",
+                    "name": "warstwa 2.png",
+                    "position_x": -48,
+                    "position_y": -42
+                },
+                {
+                    "check": [],
+                    "filename": "item_mask_0.png",
+                    "name": "Warstwa 4 kopia 5",
+                    "position_x": 240,
+                    "position_y": 160
+                },
+                {
+                    "check": [],
+                    "filename": "item_mask_1.png",
+                    "name": "Warstwa 2 kopia 3",
+                    "position_x": 240,
+                    "position_y": 160
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "item_mask_0.png": {
+            "compression": 3,
+            "name": "Warstwa 4 kopia"
+        },
+        "item_mask_1.png": {
+            "compression": 3,
+            "name": "Warstwa 4 kopia 5"
+        }
+    },
+    "transparency": 255
+}

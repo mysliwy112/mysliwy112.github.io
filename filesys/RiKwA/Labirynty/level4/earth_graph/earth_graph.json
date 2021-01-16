@@ -1,0 +1,66 @@
+{
+    "author": "",
+    "bpp": 16,
+    "events": {
+        "Z1": {
+            "frames": [
+                {
+                    "check": [],
+                    "filename": "earth_graph_1.png",
+                    "name": "Warstwa 5 kopia 3",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "Z2": {
+            "frames": [
+                {
+                    "check": [],
+                    "filename": "earth_graph_2.png",
+                    "name": "Warstwa 5 kopia 4",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "Z3": {
+            "frames": [
+                {
+                    "check": [],
+                    "filename": "earth_graph_0.png",
+                    "name": "Warstwa 5 kopia 5",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "earth_graph_0.png": {
+            "compression": 3,
+            "name": "ziemia",
+            "position_x": 360,
+            "position_y": 361
+        },
+        "earth_graph_1.png": {
+            "compression": 3,
+            "name": "ziemia kopia",
+            "position_x": 360,
+            "position_y": 441
+        },
+        "earth_graph_2.png": {
+            "compression": 3,
+            "name": "ziemia kopia 2",
+            "position_x": 360,
+            "position_y": 521
+        }
+    },
+    "transparency": 255
+}

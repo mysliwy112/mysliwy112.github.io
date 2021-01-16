@@ -1,0 +1,32 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "idle": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "menu_0.png",
+                    "name": "Warstwa_2",
+                    "position_x": 0,
+                    "position_y": 10
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "menu_0.png": {
+            "compression": 3,
+            "name": "Warstwa_2",
+            "position_x": 95,
+            "position_y": 10
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,140 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "idle": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "miniaturki_1.png",
+                    "name": "1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "miniaturki_2.png",
+                    "name": "2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "miniaturki_3.png",
+                    "name": "3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "miniaturki_4.png",
+                    "name": "4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "miniaturki_5.png",
+                    "name": "5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "miniaturki_6.png",
+                    "name": "6",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "null": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "miniaturki_0.png",
+                    "name": "pixel",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "miniaturki_0.png": {
+            "compression": 3,
+            "name": "pixel",
+            "position_x": -1000,
+            "position_y": -1000
+        },
+        "miniaturki_1.png": {
+            "compression": 3,
+            "name": "1",
+            "position_x": 11,
+            "position_y": 346
+        },
+        "miniaturki_2.png": {
+            "compression": 3,
+            "name": "2",
+            "position_x": 10,
+            "position_y": 346
+        },
+        "miniaturki_3.png": {
+            "compression": 3,
+            "name": "3",
+            "position_x": 11,
+            "position_y": 365
+        },
+        "miniaturki_4.png": {
+            "compression": 3,
+            "name": "4",
+            "position_x": 10,
+            "position_y": 346
+        },
+        "miniaturki_5.png": {
+            "compression": 3,
+            "name": "5",
+            "position_x": 45,
+            "position_y": 188
+        },
+        "miniaturki_6.png": {
+            "compression": 3,
+            "name": "6",
+            "position_x": 10,
+            "position_y": 325
+        }
+    },
+    "transparency": 255
+}

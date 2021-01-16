@@ -1,0 +1,809 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "D": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_2.png",
+                    "name": "d1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_6.png",
+                    "name": "d2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_10.png",
+                    "name": "d3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_14.png",
+                    "name": "d4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_18.png",
+                    "name": "d5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_22.png",
+                    "name": "d6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_26.png",
+                    "name": "d7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_30.png",
+                    "name": "d8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_34.png",
+                    "name": "d9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_38.png",
+                    "name": "d10",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "F": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_0.png",
+                    "name": "a1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_4.png",
+                    "name": "a2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_8.png",
+                    "name": "a3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_12.png",
+                    "name": "a4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_16.png",
+                    "name": "a5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_20.png",
+                    "name": "a6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_24.png",
+                    "name": "a7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_28.png",
+                    "name": "a8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_32.png",
+                    "name": "a9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_36.png",
+                    "name": "a10",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "L": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_3.png",
+                    "name": "b1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_7.png",
+                    "name": "b2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_11.png",
+                    "name": "b3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_15.png",
+                    "name": "b4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_19.png",
+                    "name": "b5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_23.png",
+                    "name": "b6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_27.png",
+                    "name": "b7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_31.png",
+                    "name": "b8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_35.png",
+                    "name": "b9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_39.png",
+                    "name": "b10",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "R": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_0.png",
+                    "name": "a1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_4.png",
+                    "name": "a2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_8.png",
+                    "name": "a3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_12.png",
+                    "name": "a4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_16.png",
+                    "name": "a5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_20.png",
+                    "name": "a6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_24.png",
+                    "name": "a7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_28.png",
+                    "name": "a8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_32.png",
+                    "name": "a9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_36.png",
+                    "name": "a10",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "U": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_1.png",
+                    "name": "c1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_5.png",
+                    "name": "c2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_9.png",
+                    "name": "c3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_13.png",
+                    "name": "c4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_17.png",
+                    "name": "c5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_21.png",
+                    "name": "c6",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_25.png",
+                    "name": "c7",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_29.png",
+                    "name": "c8",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_33.png",
+                    "name": "c9",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "enemy0_0_37.png",
+                    "name": "c10",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "enemy0_0_0.png": {
+            "compression": 3,
+            "name": "A1",
+            "position_x": 7
+        },
+        "enemy0_0_1.png": {
+            "compression": 3,
+            "name": "C1",
+            "position_x": -3,
+            "position_y": -10
+        },
+        "enemy0_0_10.png": {
+            "compression": 3,
+            "name": "D3",
+            "position_x": -3,
+            "position_y": 2
+        },
+        "enemy0_0_11.png": {
+            "compression": 3,
+            "name": "B3",
+            "position_x": 5
+        },
+        "enemy0_0_12.png": {
+            "compression": 3,
+            "name": "A4",
+            "position_x": 5
+        },
+        "enemy0_0_13.png": {
+            "compression": 3,
+            "name": "C4",
+            "position_x": -3,
+            "position_y": -10
+        },
+        "enemy0_0_14.png": {
+            "compression": 3,
+            "name": "D4",
+            "position_x": -3,
+            "position_y": 2
+        },
+        "enemy0_0_15.png": {
+            "compression": 3,
+            "name": "B4",
+            "position_x": 5
+        },
+        "enemy0_0_16.png": {
+            "compression": 3,
+            "name": "A5",
+            "position_x": 5
+        },
+        "enemy0_0_17.png": {
+            "compression": 3,
+            "name": "C5",
+            "position_x": -4,
+            "position_y": -10
+        },
+        "enemy0_0_18.png": {
+            "compression": 3,
+            "name": "D5",
+            "position_x": -4
+        },
+        "enemy0_0_19.png": {
+            "compression": 3,
+            "name": "B5",
+            "position_x": 5
+        },
+        "enemy0_0_2.png": {
+            "compression": 3,
+            "name": "D1",
+            "position_x": -4,
+            "position_y": 2
+        },
+        "enemy0_0_20.png": {
+            "compression": 3,
+            "name": "A6",
+            "position_x": 4
+        },
+        "enemy0_0_21.png": {
+            "compression": 3,
+            "name": "C6",
+            "position_x": -4,
+            "position_y": -10
+        },
+        "enemy0_0_22.png": {
+            "compression": 3,
+            "name": "D6",
+            "position_x": -4
+        },
+        "enemy0_0_23.png": {
+            "compression": 3,
+            "name": "B6",
+            "position_x": 5
+        },
+        "enemy0_0_24.png": {
+            "compression": 3,
+            "name": "A7",
+            "position_x": 4,
+            "position_y": 1
+        },
+        "enemy0_0_25.png": {
+            "compression": 3,
+            "name": "C7",
+            "position_x": -3,
+            "position_y": -9
+        },
+        "enemy0_0_26.png": {
+            "compression": 3,
+            "name": "D7",
+            "position_x": -4,
+            "position_y": -2
+        },
+        "enemy0_0_27.png": {
+            "compression": 3,
+            "name": "B7",
+            "position_x": 5,
+            "position_y": 1
+        },
+        "enemy0_0_28.png": {
+            "compression": 3,
+            "name": "A8",
+            "position_x": 4
+        },
+        "enemy0_0_29.png": {
+            "compression": 3,
+            "name": "C8",
+            "position_x": -3,
+            "position_y": -10
+        },
+        "enemy0_0_3.png": {
+            "compression": 3,
+            "name": "B1",
+            "position_x": 5
+        },
+        "enemy0_0_30.png": {
+            "compression": 3,
+            "name": "D8",
+            "position_x": -4,
+            "position_y": -2
+        },
+        "enemy0_0_31.png": {
+            "compression": 3,
+            "name": "B8",
+            "position_x": 5
+        },
+        "enemy0_0_32.png": {
+            "compression": 3,
+            "name": "A9",
+            "position_x": 4
+        },
+        "enemy0_0_33.png": {
+            "compression": 3,
+            "name": "C9",
+            "position_x": -4,
+            "position_y": -10
+        },
+        "enemy0_0_34.png": {
+            "compression": 3,
+            "name": "D9",
+            "position_x": -4,
+            "position_y": -1
+        },
+        "enemy0_0_35.png": {
+            "compression": 3,
+            "name": "B9",
+            "position_x": 5
+        },
+        "enemy0_0_36.png": {
+            "compression": 3,
+            "name": "A10",
+            "position_x": 7
+        },
+        "enemy0_0_37.png": {
+            "compression": 3,
+            "name": "C10",
+            "position_x": -4,
+            "position_y": -10
+        },
+        "enemy0_0_38.png": {
+            "compression": 3,
+            "name": "D10",
+            "position_x": -4,
+            "position_y": -1
+        },
+        "enemy0_0_39.png": {
+            "compression": 3,
+            "name": "B10",
+            "position_x": 5
+        },
+        "enemy0_0_4.png": {
+            "compression": 3,
+            "name": "A2",
+            "position_x": 5
+        },
+        "enemy0_0_5.png": {
+            "compression": 3,
+            "name": "C2",
+            "position_x": -3,
+            "position_y": -10
+        },
+        "enemy0_0_6.png": {
+            "compression": 3,
+            "name": "D2",
+            "position_x": -4,
+            "position_y": 2
+        },
+        "enemy0_0_7.png": {
+            "compression": 3,
+            "name": "B2",
+            "position_x": 5
+        },
+        "enemy0_0_8.png": {
+            "compression": 3,
+            "name": "A3",
+            "position_x": 5
+        },
+        "enemy0_0_9.png": {
+            "compression": 3,
+            "name": "C3",
+            "position_x": -3,
+            "position_y": -9
+        }
+    },
+    "transparency": 255
+}

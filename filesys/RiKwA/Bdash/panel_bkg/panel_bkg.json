@@ -1,0 +1,100 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "idle": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "panel_bkg_0.png",
+                    "name": "1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "panel_bkg_1.png",
+                    "name": "2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "panel_bkg_2.png",
+                    "name": "3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "panel_bkg_3.png",
+                    "name": "4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "panel_bkg_4.png",
+                    "name": "5",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "panel_bkg_0.png": {
+            "compression": 3,
+            "name": "1",
+            "position_x": 9,
+            "position_y": 9
+        },
+        "panel_bkg_1.png": {
+            "compression": 3,
+            "name": "2",
+            "position_x": 9,
+            "position_y": 9
+        },
+        "panel_bkg_2.png": {
+            "compression": 3,
+            "name": "3",
+            "position_x": 9,
+            "position_y": 9
+        },
+        "panel_bkg_3.png": {
+            "compression": 3,
+            "name": "4",
+            "position_x": 9,
+            "position_y": 9
+        },
+        "panel_bkg_4.png": {
+            "compression": 3,
+            "name": "5",
+            "position_x": 9,
+            "position_y": 9
+        }
+    },
+    "transparency": 255
+}

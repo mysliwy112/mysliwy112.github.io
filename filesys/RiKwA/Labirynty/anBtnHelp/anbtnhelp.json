@@ -1,0 +1,41 @@
+{
+    "author": "",
+    "bpp": 16,
+    "events": {
+        "0": {
+            "frames": [
+                {
+                    "check": [],
+                    "filename": "anBtnHelp_0.png",
+                    "name": "exit in",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "anBtnHelp_1.png",
+                    "name": "restart ac",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "anBtnHelp_0.png": {
+            "compression": 3,
+            "name": "help in",
+            "position_x": 780,
+            "position_y": 28
+        },
+        "anBtnHelp_1.png": {
+            "compression": 3,
+            "name": "help ac",
+            "position_x": 780,
+            "position_y": 28
+        }
+    },
+    "transparency": 255
+}

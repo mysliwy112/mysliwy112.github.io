@@ -1,0 +1,66 @@
+{
+    "author": "",
+    "bpp": 16,
+    "events": {
+        "BUM": {
+            "frames": [
+                {
+                    "check": [],
+                    "filename": "wybuch_0.png",
+                    "name": "jajo wybuch1",
+                    "position_x": -34,
+                    "position_y": -33
+                },
+                {
+                    "check": [],
+                    "filename": "wybuch_1.png",
+                    "name": "jajo wybuch3",
+                    "position_x": -34,
+                    "position_y": -33
+                },
+                {
+                    "check": [],
+                    "filename": "wybuch_2.png",
+                    "name": "jajo wybuch4",
+                    "position_x": -34,
+                    "position_y": -33
+                },
+                {
+                    "check": [],
+                    "filename": "wybuch_3.png",
+                    "name": "jajo wybuch5",
+                    "position_x": -34,
+                    "position_y": -33
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "wybuch_0.png": {
+            "compression": 3,
+            "name": "jajo wybuch1",
+            "position_x": 28,
+            "position_y": 27
+        },
+        "wybuch_1.png": {
+            "compression": 3,
+            "name": "jajo wybuch3",
+            "position_x": 11,
+            "position_y": 9
+        },
+        "wybuch_2.png": {
+            "compression": 3,
+            "name": "jajo wybuch4",
+            "position_x": 5,
+            "position_y": 5
+        },
+        "wybuch_3.png": {
+            "compression": 3,
+            "name": "jajo wybuch5",
+            "position_x": 3
+        }
+    },
+    "transparency": 255
+}
