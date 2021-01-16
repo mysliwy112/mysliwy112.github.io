@@ -1,0 +1,32 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "idle": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pauza_kanapa_0.png",
+                    "name": "pauza_kanapa",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "pauza_kanapa_0.png": {
+            "compression": 3,
+            "name": "pauza_kanapa",
+            "position_x": 127,
+            "position_y": 184
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,32 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "idle": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pauza_komp_0.png",
+                    "name": "pauza_komp",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "pauza_komp_0.png": {
+            "compression": 3,
+            "name": "pauza_komp",
+            "position_x": 73,
+            "position_y": 336
+        }
+    },
+    "transparency": 255
+}

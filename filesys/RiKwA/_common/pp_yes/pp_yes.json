@@ -1,0 +1,89 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "yes0": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pp_yes_0.png",
+                    "name": "tak_in",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pp_yes_2.png",
+                    "name": "tak_ac",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "yes1": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pp_yes_1.png",
+                    "name": "tak_in",
+                    "position_x": -100,
+                    "position_y": -200
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pp_yes_3.png",
+                    "name": "tak_ac",
+                    "position_x": -100,
+                    "position_y": -200
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "pp_yes_0.png": {
+            "compression": 3,
+            "name": "tak_in",
+            "position_x": 270,
+            "position_y": 373
+        },
+        "pp_yes_1.png": {
+            "compression": 3,
+            "name": "tak_in",
+            "position_x": 525,
+            "position_y": 522
+        },
+        "pp_yes_2.png": {
+            "compression": 3,
+            "name": "tak_ac",
+            "position_x": 270,
+            "position_y": 373
+        },
+        "pp_yes_3.png": {
+            "compression": 3,
+            "name": "tak_ac",
+            "position_x": 525,
+            "position_y": 522
+        }
+    },
+    "transparency": 255
+}

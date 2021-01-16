@@ -1,0 +1,89 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "no0": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pp_no_0.png",
+                    "name": "nie_in",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pp_no_2.png",
+                    "name": "nie_ac",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "no1": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pp_no_1.png",
+                    "name": "nie_in",
+                    "position_x": -100,
+                    "position_y": -200
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "pp_no_3.png",
+                    "name": "nie_ac",
+                    "position_x": -100,
+                    "position_y": -200
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "pp_no_0.png": {
+            "compression": 3,
+            "name": "nie_in",
+            "position_x": 409,
+            "position_y": 373
+        },
+        "pp_no_1.png": {
+            "compression": 3,
+            "name": "nie_in",
+            "position_x": 470,
+            "position_y": 522
+        },
+        "pp_no_2.png": {
+            "compression": 3,
+            "name": "nie_ac",
+            "position_x": 409,
+            "position_y": 373
+        },
+        "pp_no_3.png": {
+            "compression": 3,
+            "name": "nie_ac",
+            "position_x": 470,
+            "position_y": 522
+        }
+    },
+    "transparency": 255
+}

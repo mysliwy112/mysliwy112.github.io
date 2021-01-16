@@ -11,7 +11,7 @@ inputPaths=[
 	# [r"E:\AidemMedia\ORIG\Reksio i Czarodzieje O","RiC",{"common":"_common","dane":"","game":"","Przygoda":"","intro":"_intro"}],
 	# [r"E:\AidemMedia\ORIG\Reksio i Wehikuł Czasu ORIG","RiWC",{"common":"_common","Dane":"","Game":"","Przygoda":""}],
 	# ["D:\\","RiKN",{"common":"_common","dane":"","game":"","przygoda":""}]
-	[r"E:\AidemMedia\ORIG\Reksio i Kretes w Akcji O","RiKwA",{"common":"_common","dane":"","game":"","przygoda":""}]
+	["D:\\","RiKwA",{"common":"_common","dane":"","game":"","przygoda":""}]
 ]
 outputPath=r"E:\AidemMedia\ANNbrowser\filesys"
 

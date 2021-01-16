@@ -1,0 +1,32 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "idle": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "h_hand_kret_0.png",
+                    "name": "kret",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "h_hand_kret_0.png": {
+            "compression": 3,
+            "name": "kret",
+            "position_x": -18,
+            "position_y": 9
+        }
+    },
+    "transparency": 255
+}

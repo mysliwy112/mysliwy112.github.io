@@ -1,0 +1,43 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "run": {
+            "frames": [
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "h_runner_help_0.png",
+                    "name": "pixel",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ],
+                    "filename": "h_runner_help_0.png",
+                    "name": "pixel",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 1,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "h_runner_help_0.png": {
+            "compression": 3,
+            "name": "pixel",
+            "position_x": -1000,
+            "position_y": -1000
+        }
+    },
+    "transparency": 255
+}
