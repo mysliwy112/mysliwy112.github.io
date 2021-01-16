@@ -9,12 +9,23 @@
     width: 20%;
 }
 
+.screenContainer{
+    max-width: 800px;
+}
+
+.allBtns{
+    display: flex;
+    flex-direction:row; 
+}
+
+
 
 #player{
     /* margin: 0 auto; */
     float:left;
     overflow:hidden;
     width: 58%;
+    
 }
 
 .scrollBox{
@@ -27,7 +38,7 @@
     height: 90vh;
 } */
 
-#play_buttons{
+#playButtons{
     display: flex;
     justify-content: center;
     width:800px;

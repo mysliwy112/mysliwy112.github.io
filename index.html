@@ -20,15 +20,26 @@
         </div>
 
         <div id="player">
+            <div>
+                <label for="width">width</label>
+                <input type="number" name="width" id="canvasWidth" value="800" onchange={resizeCanvas(this.value,null)}>
+                <label for="height">height</label>
+                <input type="number" name="height" id="canvasHeight" value="600" onchange={resizeCanvas(null,this.value)}>
+            </div>
+            <div class="screenContainer">
             <canvas id="screen" width=800 height=600>
+            </div>
             </canvas>
-            <div id="play_buttons">
+            <div id="playButtons">
                 <label for="center">center</label>
                 <input type="checkbox" name="center" id="centerCheck" onclick=changeFrame()>
                 <button type="button" onclick="playB()">Back</button> 
                 <button type="button" onclick="pause()">Pause</button> 
                 <button type="button" onclick="play()">Play</button> 
-                <button type="button" onclick="{pause();drawMultipleFrames()}">All</button> 
+                <div class="allBtns">
+                    <button type="button" onclick="{pause();drawMultipleFrames()}">All</button> 
+                    <button type="button" onclick="{pause();drawMultipleEvents()}">All S.</button> 
+                </div>
                 <label for="loop">loop</label>
                 <input type="checkbox" name="loop" id="loopCheck" onclick=changeFrame()>
             </div>
