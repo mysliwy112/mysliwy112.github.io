@@ -10,7 +10,7 @@
         <link rel="stylesheet" href="style.css">
     </head>
 
-    <body onload="init()">
+    <body onload="initCanvas()">
 
         <div class="leftCol">
             <h1>Files</h1>
@@ -37,17 +37,17 @@
                 <button type="button" onclick="pause()">Pause</button> 
                 <button type="button" onclick="play()">Play</button> 
                 <div class="allBtns">
-                    <button type="button" onclick="{pause();drawMultipleFrames()}">All</button> 
-                    <button type="button" onclick="{pause();drawMultipleEvents()}">All S.</button> 
+                    <button type="button" onclick="{pause();drawMultipleFrames(pAnn)}">All</button> 
+                    <button type="button" onclick="{pause();drawMultipleEvents(pAnn)}">All S.</button> 
                 </div>
                 <label for="loop">loop</label>
                 <input type="checkbox" name="loop" id="loopCheck" onclick=changeFrame()>
             </div>
             <div id="download_button">
-                <button type="button" onclick="saveGif()">Save Gif</button> 
-                <button type="button" onclick="saveSequence()">Save Sequence</button> 
-                <button type="button" onclick="saveAnn()" style="display: none;">Save ANN</button> 
-                <button type="button" onclick="saveFiles()">Save Images</button> 
+                <button type="button" onclick="saveGif(pAnn)">Save Gif</button> 
+                <button type="button" onclick="saveSequence(pAnn)">Save Sequence</button> 
+                <button type="button" onclick="saveAnn(pAnn)" style="display: none;">Save ANN</button> 
+                <button type="button" onclick="saveFiles(pAnn)">Save Images</button> 
             </div>
             <div id="frames">
             </div>
