@@ -76,8 +76,11 @@ ul, #filesys {
 }
 
 .caret {
-    cursor: pointer;
     user-select: none;
+}
+
+.clickable {
+    cursor: pointer;
 }
 
 .caret::before {
@@ -97,5 +100,9 @@ ul, #filesys {
 
 .active {
     display: block;
-    cursor: pointer;
+}
+
+.selected {
+    color:blue;
+    border-color: blue;
 }
