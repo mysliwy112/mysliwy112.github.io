@@ -79,7 +79,7 @@ def main(
         except FileNotFoundError:
             if logger:
                 logger.warning(f"Index file '{index_path}' does not exist. Starting from square one. No, from zero.")
-    index_set = set(map(lambda entry: f"{entry['path']}{os.sep}{entry['name']}", index))
+    index_set = set(map(lambda entry: f"{entry['path']}{os.sep}{entry['name']}".lower(), index))
     for search_root in search_roots:
         for dirpath, _, filenames in os.walk(search_root.src):
             output_subdir = Path(os.path.relpath(dirpath, search_root.src))
@@ -109,7 +109,7 @@ def main(
                     "path": str(output_subdir).replace(os.sep, "/"),
                     "name": str(file.with_suffix("")),
                 }
-                if f"{entry['path']}{os.sep}{entry['name']}" in index_set:
+                if f"{entry['path']}{os.sep}{entry['name']}".lower() in index_set:
                     continue
                 try:
                     if not dry_run:

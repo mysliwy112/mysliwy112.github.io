@@ -1,0 +1,69 @@
+{
+    "events": {
+        "w_kurze": {
+            "frames": [
+                {
+                    "filename": "nak3_0.png",
+                    "name": "T\u0142o_kopia",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ]
+                },
+                {
+                    "filename": "nak3_2.png",
+                    "name": "pixel",
+                    "position_x": -1000,
+                    "position_y": -1000,
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ]
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "kamien": {
+            "frames": [
+                {
+                    "filename": "nak3_1.png",
+                    "name": "Warstwa_55_kopia",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "check": [
+                        164,
+                        206,
+                        87
+                    ]
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "nak3_0.png": {
+            "name": "T\u0142o_kopia",
+            "position_x": 396,
+            "position_y": 56,
+            "compression": 3
+        },
+        "nak3_1.png": {
+            "name": "Warstwa_55_kopia",
+            "position_y": 212,
+            "compression": 3
+        },
+        "nak3_2.png": {
+            "name": "pixel",
+            "compression": 3
+        }
+    },
+    "author": "Piotr Maciejewski",
+    "transparency": 255,
+    "bpp": 16
+}
