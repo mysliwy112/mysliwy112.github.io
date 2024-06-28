@@ -1,0 +1,626 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "GADA_1": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_1.png",
+                    "name": "REKS_GADA_34TP_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_3.png",
+                    "name": "REKS_GADA_34TP_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_5.png",
+                    "name": "REKS_GADA_34TP_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_7.png",
+                    "name": "REKS_GADA_34TP_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_9.png",
+                    "name": "REKS_GADA_34TP_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_11.png",
+                    "name": "REKS_GADA_34TP_6",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "GADA_START": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_1.png",
+                    "name": "REKS_GADA_34TP_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_3.png",
+                    "name": "REKS_GADA_34TP_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_5.png",
+                    "name": "REKS_GADA_34TP_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_7.png",
+                    "name": "REKS_GADA_34TP_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_9.png",
+                    "name": "REKS_GADA_34TP_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_11.png",
+                    "name": "REKS_GADA_34TP_6",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "GADA_STOP": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_1.png",
+                    "name": "REKS_GADA_34TP_1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_3.png",
+                    "name": "REKS_GADA_34TP_2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_5.png",
+                    "name": "REKS_GADA_34TP_3",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_7.png",
+                    "name": "REKS_GADA_34TP_4",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_9.png",
+                    "name": "REKS_GADA_34TP_5",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_11.png",
+                    "name": "REKS_GADA_34TP_6",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "WSKAKUJE": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_0.png",
+                    "name": "12_TRAMPOLINA",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\int_rexIn.wav",
+                    "sfx_seed": 50283756
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_2.png",
+                    "name": "13_TRAMPOLINA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_4.png",
+                    "name": "14_TRAMPOLINA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_6.png",
+                    "name": "15_TRAMPOLINA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_8.png",
+                    "name": "16_TRAMPOLINA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_10.png",
+                    "name": "17_TRAMPOLINA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_12.png",
+                    "name": "18_TRAMPOLINA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_13.png",
+                    "name": "19_TRAMPOLINA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_14.png",
+                    "name": "5_SPADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_15.png",
+                    "name": "6_SPADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_16.png",
+                    "name": "7_SPADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_17.png",
+                    "name": "8_SPADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_18.png",
+                    "name": "9_SPADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_19.png",
+                    "name": "10_SPADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_20.png",
+                    "name": "11_SPADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_21.png",
+                    "name": "12_SPADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_22.png",
+                    "name": "13_SPADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_23.png",
+                    "name": "3_START_PRZ_L_OD_00TYLP",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_24.png",
+                    "name": "2_START_PRZ_L_OD_00TYLP",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_25.png",
+                    "name": "1_START_PRZ_L_OD_00TYLP",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        125,
+                        85
+                    ],
+                    "filename": "rex_26.png",
+                    "name": "REKS_GADA_34TP_1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "rex_0.png": {
+            "compression": 3,
+            "name": "12_TRAMPOLINA",
+            "position_x": 20,
+            "position_y": 299
+        },
+        "rex_1.png": {
+            "compression": 3,
+            "name": "REKS_GADA_34TP_1",
+            "position_x": 324,
+            "position_y": 386
+        },
+        "rex_10.png": {
+            "compression": 3,
+            "name": "17_TRAMPOLINA",
+            "position_x": 140,
+            "position_y": 256
+        },
+        "rex_11.png": {
+            "compression": 3,
+            "name": "REKS_GADA_34TP_6",
+            "position_x": 324,
+            "position_y": 389
+        },
+        "rex_12.png": {
+            "compression": 3,
+            "name": "18_TRAMPOLINA",
+            "position_x": 211,
+            "position_y": 258
+        },
+        "rex_13.png": {
+            "compression": 3,
+            "name": "19_TRAMPOLINA",
+            "position_x": 216,
+            "position_y": 269
+        },
+        "rex_14.png": {
+            "compression": 3,
+            "name": "5_SPADA",
+            "position_x": 296,
+            "position_y": 154
+        },
+        "rex_15.png": {
+            "compression": 3,
+            "name": "6_SPADA",
+            "position_x": 313,
+            "position_y": 216
+        },
+        "rex_16.png": {
+            "compression": 3,
+            "name": "7_SPADA",
+            "position_x": 310,
+            "position_y": 242
+        },
+        "rex_17.png": {
+            "compression": 3,
+            "name": "8_SPADA",
+            "position_x": 312,
+            "position_y": 270
+        },
+        "rex_18.png": {
+            "compression": 3,
+            "name": "9_SPADA",
+            "position_x": 310,
+            "position_y": 401
+        },
+        "rex_19.png": {
+            "compression": 3,
+            "name": "10_SPADA",
+            "position_x": 297,
+            "position_y": 417
+        },
+        "rex_2.png": {
+            "compression": 3,
+            "name": "13_TRAMPOLINA",
+            "position_x": 27,
+            "position_y": 263
+        },
+        "rex_20.png": {
+            "compression": 3,
+            "name": "11_SPADA",
+            "position_x": 315,
+            "position_y": 412
+        },
+        "rex_21.png": {
+            "compression": 3,
+            "name": "12_SPADA",
+            "position_x": 303,
+            "position_y": 396
+        },
+        "rex_22.png": {
+            "compression": 3,
+            "name": "13_SPADA",
+            "position_x": 297,
+            "position_y": 393
+        },
+        "rex_23.png": {
+            "compression": 3,
+            "name": "3_START_PRZ_L_OD_00",
+            "position_x": 334,
+            "position_y": 383
+        },
+        "rex_24.png": {
+            "compression": 3,
+            "name": "2_START_PRZ_L_OD_00",
+            "position_x": 343,
+            "position_y": 384
+        },
+        "rex_25.png": {
+            "compression": 3,
+            "name": "1_START_PRZ_L_OD_00",
+            "position_x": 339,
+            "position_y": 386
+        },
+        "rex_26.png": {
+            "compression": 3,
+            "name": "REKS_GADA_34TP_1",
+            "position_x": 324,
+            "position_y": 386
+        },
+        "rex_3.png": {
+            "compression": 3,
+            "name": "REKS_GADA_34TP_2",
+            "position_x": 324,
+            "position_y": 386
+        },
+        "rex_4.png": {
+            "compression": 3,
+            "name": "14_TRAMPOLINA",
+            "position_x": 28,
+            "position_y": 267
+        },
+        "rex_5.png": {
+            "compression": 3,
+            "name": "REKS_GADA_34TP_3",
+            "position_x": 324,
+            "position_y": 384
+        },
+        "rex_6.png": {
+            "compression": 3,
+            "name": "15_TRAMPOLINA",
+            "position_x": 75,
+            "position_y": 228
+        },
+        "rex_7.png": {
+            "compression": 3,
+            "name": "REKS_GADA_34TP_4",
+            "position_x": 324,
+            "position_y": 386
+        },
+        "rex_8.png": {
+            "compression": 3,
+            "name": "16_TRAMPOLINA",
+            "position_x": 127,
+            "position_y": 274
+        },
+        "rex_9.png": {
+            "compression": 3,
+            "name": "REKS_GADA_34TP_5",
+            "position_x": 324,
+            "position_y": 387
+        }
+    },
+    "transparency": 255
+}

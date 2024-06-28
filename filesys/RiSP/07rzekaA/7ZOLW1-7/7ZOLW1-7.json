@@ -1,0 +1,550 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "BEZRUCH": {
+            "frames": [
+                {
+                    "check": [
+                        192,
+                        59,
+                        168
+                    ],
+                    "filename": "7ZOLW1-7_0.png",
+                    "name": "1_00ZOLW",
+                    "position_x": 623,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48,
+                        59,
+                        168
+                    ],
+                    "filename": "7ZOLW1-7_3.png",
+                    "name": "2_00ZOLW",
+                    "position_x": 623,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        160,
+                        58,
+                        168
+                    ],
+                    "filename": "7ZOLW1-7_6.png",
+                    "name": "3_00ZOLW",
+                    "position_x": 623,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        16,
+                        58,
+                        168
+                    ],
+                    "filename": "7ZOLW1-7_9.png",
+                    "name": "4_00ZOLW",
+                    "position_x": 623,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "WYNURZA": {
+            "frames": [
+                {
+                    "check": [
+                        224,
+                        76,
+                        168
+                    ],
+                    "filename": "7ZOLW1-7_2.png",
+                    "name": "1_WYNURZENIE",
+                    "position_x": 623,
+                    "position_y": 0,
+                    "sfx": "sfx\\00zolw3.wav",
+                    "sfx_seed": 11008624
+                },
+                {
+                    "check": [
+                        80,
+                        76,
+                        168
+                    ],
+                    "filename": "7ZOLW1-7_5.png",
+                    "name": "2_WYNURZENIE",
+                    "position_x": 623,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        192,
+                        75,
+                        168
+                    ],
+                    "filename": "7ZOLW1-7_8.png",
+                    "name": "3_WYNURZENIE",
+                    "position_x": 623,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48,
+                        75,
+                        168
+                    ],
+                    "filename": "7ZOLW1-7_11.png",
+                    "name": "4_WYNURZENIE",
+                    "position_x": 623,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        160,
+                        74,
+                        168
+                    ],
+                    "filename": "7ZOLW1-7_13.png",
+                    "name": "5_WYNURZENIE",
+                    "position_x": 623,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        16,
+                        74,
+                        168
+                    ],
+                    "filename": "7ZOLW1-7_15.png",
+                    "name": "6_WYNURZENIE",
+                    "position_x": 623,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        128,
+                        73,
+                        168
+                    ],
+                    "filename": "7ZOLW1-7_17.png",
+                    "name": "7_WYNURZENIE",
+                    "position_x": 623,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        72,
+                        168
+                    ],
+                    "filename": "7ZOLW1-7_19.png",
+                    "name": "8_WYNURZENIE",
+                    "position_x": 623,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        72,
+                        168
+                    ],
+                    "filename": "7ZOLW1-7_21.png",
+                    "name": "9_WYNURZENIE",
+                    "position_x": 623,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ZATAPIA": {
+            "frames": [
+                {
+                    "check": [
+                        64,
+                        56,
+                        168
+                    ],
+                    "filename": "7ZOLW1-7_1.png",
+                    "name": "1_ZOLW",
+                    "position_x": 623,
+                    "position_y": 0,
+                    "sfx": "sfx\\00zolw2.wav",
+                    "sfx_seed": 11007216
+                },
+                {
+                    "check": [
+                        176,
+                        55,
+                        168
+                    ],
+                    "filename": "7ZOLW1-7_4.png",
+                    "name": "2_ZOLW",
+                    "position_x": 623,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        32,
+                        55,
+                        168
+                    ],
+                    "filename": "7ZOLW1-7_7.png",
+                    "name": "3_ZOLW",
+                    "position_x": 623,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        54,
+                        168
+                    ],
+                    "filename": "7ZOLW1-7_10.png",
+                    "name": "4_ZOLW",
+                    "position_x": 623,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "7ZOLW1-7_12.png",
+                    "name": "5_ZOLW",
+                    "position_x": 623,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        53,
+                        168
+                    ],
+                    "filename": "7ZOLW1-7_14.png",
+                    "name": "6_ZOLW",
+                    "position_x": 623,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        52,
+                        168
+                    ],
+                    "filename": "7ZOLW1-7_16.png",
+                    "name": "7_ZOLW",
+                    "position_x": 623,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        52,
+                        168
+                    ],
+                    "filename": "7ZOLW1-7_18.png",
+                    "name": "8_ZOLW",
+                    "position_x": 623,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        192,
+                        51,
+                        168
+                    ],
+                    "filename": "7ZOLW1-7_20.png",
+                    "name": "9_ZOLW",
+                    "position_x": 623,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48,
+                        51,
+                        168
+                    ],
+                    "filename": "7ZOLW1-7_22.png",
+                    "name": "10_ZOLW",
+                    "position_x": 623,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        160,
+                        50,
+                        168
+                    ],
+                    "filename": "7ZOLW1-7_23.png",
+                    "name": "11_ZOLW",
+                    "position_x": 623,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        16,
+                        50,
+                        168
+                    ],
+                    "filename": "7ZOLW1-7_24.png",
+                    "name": "12_ZOLW",
+                    "position_x": 623,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        128,
+                        49,
+                        168
+                    ],
+                    "filename": "7ZOLW1-7_25.png",
+                    "name": "13_ZOLW",
+                    "position_x": 623,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        48,
+                        168
+                    ],
+                    "filename": "7ZOLW1-7_26.png",
+                    "name": "14_ZOLW",
+                    "position_x": 623,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        48,
+                        168
+                    ],
+                    "filename": "7ZOLW1-7_27.png",
+                    "name": "15_ZOLW",
+                    "position_x": 623,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        79,
+                        168
+                    ],
+                    "filename": "7ZOLW1-7_28.png",
+                    "name": "16_ZOLW",
+                    "position_x": 623,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "7ZOLW1-7_29.png",
+                    "name": "17_ZOLW",
+                    "position_x": 623,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        78,
+                        168
+                    ],
+                    "filename": "7ZOLW1-7_30.png",
+                    "name": "18_ZOLW",
+                    "position_x": 623,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "7ZOLW1-7_0.png": {
+            "compression": 4,
+            "name": "1_00ZOLW",
+            "position_x": 34,
+            "position_y": 410
+        },
+        "7ZOLW1-7_1.png": {
+            "compression": 4,
+            "name": "1_ZOLW",
+            "position_x": 34,
+            "position_y": 407
+        },
+        "7ZOLW1-7_10.png": {
+            "compression": 4,
+            "name": "4_ZOLW",
+            "position_x": 27,
+            "position_y": 391
+        },
+        "7ZOLW1-7_11.png": {
+            "compression": 4,
+            "name": "4_WYNURZENIE",
+            "position_x": 49,
+            "position_y": 430
+        },
+        "7ZOLW1-7_12.png": {
+            "compression": 4,
+            "name": "5_ZOLW",
+            "position_x": 23,
+            "position_y": 387
+        },
+        "7ZOLW1-7_13.png": {
+            "compression": 4,
+            "name": "5_WYNURZENIE",
+            "position_x": 40,
+            "position_y": 421
+        },
+        "7ZOLW1-7_14.png": {
+            "compression": 4,
+            "name": "6_ZOLW",
+            "position_x": 38,
+            "position_y": 383
+        },
+        "7ZOLW1-7_15.png": {
+            "compression": 4,
+            "name": "6_WYNURZENIE",
+            "position_x": 21,
+            "position_y": 405
+        },
+        "7ZOLW1-7_16.png": {
+            "compression": 4,
+            "name": "7_ZOLW",
+            "position_x": 33,
+            "position_y": 394
+        },
+        "7ZOLW1-7_17.png": {
+            "compression": 4,
+            "name": "7_WYNURZENIE",
+            "position_x": 8,
+            "position_y": 407
+        },
+        "7ZOLW1-7_18.png": {
+            "compression": 4,
+            "name": "8_ZOLW",
+            "position_x": 27,
+            "position_y": 404
+        },
+        "7ZOLW1-7_19.png": {
+            "compression": 4,
+            "name": "8_WYNURZENIE",
+            "position_x": 1,
+            "position_y": 414
+        },
+        "7ZOLW1-7_2.png": {
+            "compression": 4,
+            "name": "1_WYNURZENIE",
+            "position_x": 69,
+            "position_y": 438
+        },
+        "7ZOLW1-7_20.png": {
+            "compression": 4,
+            "name": "9_ZOLW",
+            "position_x": 26,
+            "position_y": 405
+        },
+        "7ZOLW1-7_21.png": {
+            "compression": 4,
+            "name": "9_WYNURZENIE",
+            "position_x": 36,
+            "position_y": 412
+        },
+        "7ZOLW1-7_22.png": {
+            "compression": 4,
+            "name": "10_ZOLW",
+            "position_x": 19,
+            "position_y": 388
+        },
+        "7ZOLW1-7_23.png": {
+            "compression": 4,
+            "name": "11_ZOLW",
+            "position_x": 15,
+            "position_y": 394
+        },
+        "7ZOLW1-7_24.png": {
+            "compression": 4,
+            "name": "12_ZOLW",
+            "position_x": 32,
+            "position_y": 402
+        },
+        "7ZOLW1-7_25.png": {
+            "compression": 4,
+            "name": "13_ZOLW",
+            "position_x": 33,
+            "position_y": 411
+        },
+        "7ZOLW1-7_26.png": {
+            "compression": 4,
+            "name": "14_ZOLW",
+            "position_x": 21,
+            "position_y": 416
+        },
+        "7ZOLW1-7_27.png": {
+            "compression": 4,
+            "name": "15_ZOLW",
+            "position_x": 9,
+            "position_y": 426
+        },
+        "7ZOLW1-7_28.png": {
+            "compression": 4,
+            "name": "16_ZOLW",
+            "position_x": 29,
+            "position_y": 422
+        },
+        "7ZOLW1-7_29.png": {
+            "compression": 4,
+            "name": "17_ZOLW",
+            "position_x": 28,
+            "position_y": 420
+        },
+        "7ZOLW1-7_3.png": {
+            "compression": 4,
+            "name": "2_00ZOLW",
+            "position_x": 38,
+            "position_y": 410
+        },
+        "7ZOLW1-7_30.png": {
+            "compression": 4,
+            "name": "18_ZOLW",
+            "position_x": 63,
+            "position_y": 428
+        },
+        "7ZOLW1-7_4.png": {
+            "compression": 4,
+            "name": "2_ZOLW",
+            "position_x": 38,
+            "position_y": 407
+        },
+        "7ZOLW1-7_5.png": {
+            "compression": 4,
+            "name": "2_WYNURZENIE",
+            "position_x": 62,
+            "position_y": 435
+        },
+        "7ZOLW1-7_6.png": {
+            "compression": 4,
+            "name": "3_00ZOLW",
+            "position_x": 38,
+            "position_y": 410
+        },
+        "7ZOLW1-7_7.png": {
+            "compression": 4,
+            "name": "3_ZOLW",
+            "position_x": 34,
+            "position_y": 402
+        },
+        "7ZOLW1-7_8.png": {
+            "compression": 4,
+            "name": "3_WYNURZENIE",
+            "position_x": 58,
+            "position_y": 433
+        },
+        "7ZOLW1-7_9.png": {
+            "compression": 4,
+            "name": "4_00ZOLW",
+            "position_x": 36,
+            "position_y": 410
+        }
+    },
+    "transparency": 255
+}

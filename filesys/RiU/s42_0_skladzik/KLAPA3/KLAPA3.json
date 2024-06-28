@@ -1,0 +1,55 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "A": {
+            "frames": [
+                {
+                    "check": [
+                        32,
+                        189,
+                        83
+                    ],
+                    "filename": "KLAPA3_0.png",
+                    "name": "klapka1b",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "B": {
+            "frames": [
+                {
+                    "check": [
+                        32,
+                        189,
+                        83
+                    ],
+                    "filename": "KLAPA3_1.png",
+                    "name": "klapka1a",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "KLAPA3_0.png": {
+            "compression": 4,
+            "name": "KLAPKA1B",
+            "position_x": 418,
+            "position_y": 252
+        },
+        "KLAPA3_1.png": {
+            "compression": 4,
+            "name": "KLAPKA_1A",
+            "position_x": 386,
+            "position_y": 253
+        }
+    },
+    "transparency": 255
+}

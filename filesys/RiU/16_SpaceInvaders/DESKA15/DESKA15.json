@@ -1,0 +1,98 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "1": {
+            "frames": [
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "DESKA15_0.png",
+                    "name": "1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "2": {
+            "frames": [
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "DESKA15_1.png",
+                    "name": "1 COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "3": {
+            "frames": [
+                {
+                    "check": [
+                        216,
+                        120,
+                        84
+                    ],
+                    "filename": "DESKA15_2.png",
+                    "name": "1 COPY 2",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "DESKA15_0.png": {
+            "compression": 4,
+            "name": "1",
+            "position_x": 605,
+            "position_y": 432
+        },
+        "DESKA15_1.png": {
+            "compression": 4,
+            "name": "1 COPY",
+            "position_x": 589,
+            "position_y": 445
+        },
+        "DESKA15_2.png": {
+            "compression": 4,
+            "name": "1 COPY 2",
+            "position_x": 614,
+            "position_y": 454
+        }
+    },
+    "transparency": 255
+}

@@ -1,0 +1,690 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "1": {
+            "frames": [
+                {
+                    "check": [
+                        224,
+                        175,
+                        164
+                    ],
+                    "filename": "reksio_0.png",
+                    "name": "4_SPADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        175,
+                        164
+                    ],
+                    "filename": "reksio_2.png",
+                    "name": "5_SPADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        192,
+                        174,
+                        164
+                    ],
+                    "filename": "reksio_4.png",
+                    "name": "6_SPADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48,
+                        174,
+                        164
+                    ],
+                    "filename": "reksio_6.png",
+                    "name": "7_SPADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        160,
+                        173,
+                        164
+                    ],
+                    "filename": "reksio_8.png",
+                    "name": "8_SPADA",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "sfx\\00intro7.wav",
+                    "sfx_seed": 10792288
+                },
+                {
+                    "check": [
+                        208,
+                        172,
+                        164
+                    ],
+                    "filename": "reksio_10.png",
+                    "name": "9_SPADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        64,
+                        172,
+                        164
+                    ],
+                    "filename": "reksio_12.png",
+                    "name": "10_SPADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        171,
+                        164
+                    ],
+                    "filename": "reksio_14.png",
+                    "name": "11_SPADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        32,
+                        171,
+                        164
+                    ],
+                    "filename": "reksio_16.png",
+                    "name": "12_SPADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        170,
+                        164
+                    ],
+                    "filename": "reksio_18.png",
+                    "name": "13_SPADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        66,
+                        165
+                    ],
+                    "filename": "reksio_18.png",
+                    "name": "13_SPADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        94,
+                        165
+                    ],
+                    "filename": "reksio_18.png",
+                    "name": "13_SPADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        92,
+                        165
+                    ],
+                    "filename": "reksio_18.png",
+                    "name": "13_SPADA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        89,
+                        165
+                    ],
+                    "filename": "reksio_18.png",
+                    "name": "13_SPADA",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "2": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        168,
+                        164
+                    ],
+                    "filename": "reksio_1.png",
+                    "name": "1_REX_KROKODYL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        64,
+                        168,
+                        164
+                    ],
+                    "filename": "reksio_3.png",
+                    "name": "2_REX_KROKODYL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        167,
+                        164
+                    ],
+                    "filename": "reksio_5.png",
+                    "name": "3_REX_KROKODYL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        32,
+                        167,
+                        164
+                    ],
+                    "filename": "reksio_7.png",
+                    "name": "4_REX_KROKODYL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        166,
+                        164
+                    ],
+                    "filename": "reksio_9.png",
+                    "name": "5_REX_KROKODYL",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "sfx\\00piratposlizg.wav",
+                    "sfx_seed": 10790464
+                },
+                {
+                    "check": [
+                        176,
+                        165,
+                        164
+                    ],
+                    "filename": "reksio_11.png",
+                    "name": "6_REX_KROKODYL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        32,
+                        165,
+                        164
+                    ],
+                    "filename": "reksio_13.png",
+                    "name": "7_REX_KROKODYL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        164,
+                        164
+                    ],
+                    "filename": "reksio_15.png",
+                    "name": "8_REX_KROKODYL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "reksio_17.png",
+                    "name": "9_REX_KROKODYL",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "sfx\\00intro6.wav",
+                    "sfx_seed": 10789824
+                },
+                {
+                    "check": [
+                        48,
+                        163,
+                        164
+                    ],
+                    "filename": "reksio_19.png",
+                    "name": "10_REX_KROKODYL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        160,
+                        162,
+                        164
+                    ],
+                    "filename": "reksio_20.png",
+                    "name": "11_REX_KROKODYL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        16,
+                        162,
+                        164
+                    ],
+                    "filename": "reksio_21.png",
+                    "name": "12_REX_KROKODYL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        128,
+                        161,
+                        164
+                    ],
+                    "filename": "reksio_22.png",
+                    "name": "13_REX_KROKODYL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        160,
+                        164
+                    ],
+                    "filename": "reksio_23.png",
+                    "name": "14_REX_KROKODYL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        160,
+                        164
+                    ],
+                    "filename": "reksio_24.png",
+                    "name": "15_REX_KROKODYL",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        160,
+                        58,
+                        167
+                    ],
+                    "filename": "reksio_25.png",
+                    "name": "LAYER 1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        56,
+                        167
+                    ],
+                    "filename": "reksio_25.png",
+                    "name": "LAYER 1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        16,
+                        55,
+                        167
+                    ],
+                    "filename": "reksio_25.png",
+                    "name": "LAYER 1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        128,
+                        53,
+                        167
+                    ],
+                    "filename": "reksio_25.png",
+                    "name": "LAYER 1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        55,
+                        167
+                    ],
+                    "filename": "reksio_25.png",
+                    "name": "LAYER 1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        160,
+                        51,
+                        167
+                    ],
+                    "filename": "reksio_25.png",
+                    "name": "LAYER 1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        64,
+                        50,
+                        167
+                    ],
+                    "filename": "reksio_25.png",
+                    "name": "LAYER 1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48,
+                        52,
+                        167
+                    ],
+                    "filename": "reksio_25.png",
+                    "name": "LAYER 1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        79,
+                        167
+                    ],
+                    "filename": "reksio_25.png",
+                    "name": "LAYER 1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        16,
+                        79,
+                        167
+                    ],
+                    "filename": "reksio_25.png",
+                    "name": "LAYER 1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        77,
+                        167
+                    ],
+                    "filename": "reksio_25.png",
+                    "name": "LAYER 1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        58,
+                        167
+                    ],
+                    "filename": "reksio_25.png",
+                    "name": "LAYER 1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        32,
+                        75,
+                        167
+                    ],
+                    "filename": "reksio_25.png",
+                    "name": "LAYER 1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        73,
+                        167
+                    ],
+                    "filename": "reksio_25.png",
+                    "name": "LAYER 1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        75,
+                        167
+                    ],
+                    "filename": "reksio_25.png",
+                    "name": "LAYER 1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        160,
+                        74,
+                        167
+                    ],
+                    "filename": "reksio_25.png",
+                    "name": "LAYER 1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "reksio_0.png": {
+            "compression": 4,
+            "name": "4_SPADA",
+            "position_x": 231
+        },
+        "reksio_1.png": {
+            "compression": 4,
+            "name": "1_REX_KROKODYL",
+            "position_x": 187,
+            "position_y": 122
+        },
+        "reksio_10.png": {
+            "compression": 4,
+            "name": "9_SPADA",
+            "position_x": 220,
+            "position_y": 138
+        },
+        "reksio_11.png": {
+            "compression": 4,
+            "name": "6_REX_KROKODYL",
+            "position_x": 141,
+            "position_y": 48
+        },
+        "reksio_12.png": {
+            "compression": 4,
+            "name": "10_SPADA",
+            "position_x": 204,
+            "position_y": 159
+        },
+        "reksio_13.png": {
+            "compression": 4,
+            "name": "7_REX_KROKODYL",
+            "position_x": 98,
+            "position_y": 90
+        },
+        "reksio_14.png": {
+            "compression": 4,
+            "name": "11_SPADA",
+            "position_x": 227,
+            "position_y": 152
+        },
+        "reksio_15.png": {
+            "compression": 4,
+            "name": "8_REX_KROKODYL",
+            "position_x": 73,
+            "position_y": 151
+        },
+        "reksio_16.png": {
+            "compression": 4,
+            "name": "12_SPADA",
+            "position_x": 212,
+            "position_y": 132
+        },
+        "reksio_17.png": {
+            "compression": 4,
+            "name": "9_REX_KROKODYL",
+            "position_x": 65,
+            "position_y": 228
+        },
+        "reksio_18.png": {
+            "compression": 4,
+            "name": "13_SPADA",
+            "position_x": 204,
+            "position_y": 128
+        },
+        "reksio_19.png": {
+            "compression": 4,
+            "name": "10_REX_KROKODYL",
+            "position_x": 44,
+            "position_y": 287
+        },
+        "reksio_2.png": {
+            "compression": 4,
+            "name": "5_SPADA",
+            "position_x": 235
+        },
+        "reksio_20.png": {
+            "compression": 4,
+            "name": "11_REX_KROKODYL",
+            "position_x": 2,
+            "position_y": 285
+        },
+        "reksio_21.png": {
+            "compression": 4,
+            "name": "12_REX_KROKODYL",
+            "position_x": 13,
+            "position_y": 310
+        },
+        "reksio_22.png": {
+            "compression": 4,
+            "name": "13_REX_KROKODYL",
+            "position_x": 31,
+            "position_y": 337
+        },
+        "reksio_23.png": {
+            "compression": 4,
+            "name": "14_REX_KROKODYL",
+            "position_x": 27,
+            "position_y": 332
+        },
+        "reksio_24.png": {
+            "compression": 4,
+            "name": "15_REX_KROKODYL",
+            "position_x": 23,
+            "position_y": 327
+        },
+        "reksio_25.png": {
+            "compression": 4,
+            "name": "LAYER 1",
+            "position_x": 399,
+            "position_y": 299
+        },
+        "reksio_3.png": {
+            "compression": 4,
+            "name": "2_REX_KROKODYL",
+            "position_x": 176,
+            "position_y": 107
+        },
+        "reksio_4.png": {
+            "compression": 4,
+            "name": "6_SPADA",
+            "position_x": 237
+        },
+        "reksio_5.png": {
+            "compression": 4,
+            "name": "3_REX_KROKODYL",
+            "position_x": 166,
+            "position_y": 102
+        },
+        "reksio_6.png": {
+            "compression": 4,
+            "name": "7_SPADA",
+            "position_x": 232,
+            "position_y": 44
+        },
+        "reksio_7.png": {
+            "compression": 4,
+            "name": "4_REX_KROKODYL",
+            "position_x": 184,
+            "position_y": 89
+        },
+        "reksio_8.png": {
+            "compression": 4,
+            "name": "8_SPADA",
+            "position_x": 222
+        },
+        "reksio_9.png": {
+            "compression": 4,
+            "name": "5_REX_KROKODYL",
+            "position_x": 174,
+            "position_y": 62
+        }
+    },
+    "transparency": 255
+}

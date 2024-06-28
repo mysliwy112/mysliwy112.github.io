@@ -1,0 +1,75 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "A": {
+            "frames": [
+                {
+                    "check": [
+                        72,
+                        137,
+                        84
+                    ],
+                    "filename": "RYNNA_0.png",
+                    "name": "rynna",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "B": {
+            "frames": [
+                {
+                    "check": [
+                        72,
+                        137,
+                        84
+                    ],
+                    "filename": "RYNNA_1.png",
+                    "name": "rynna copy",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "Click": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FocusOff": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FocusOn": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NoEvent": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "RYNNA_0.png": {
+            "compression": 4,
+            "name": "RYNNA",
+            "position_x": 101,
+            "position_y": 450
+        },
+        "RYNNA_1.png": {
+            "compression": 4,
+            "name": "RYNNA COPY",
+            "position_x": 116,
+            "position_y": 385
+        }
+    },
+    "transparency": 255
+}

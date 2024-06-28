@@ -1,0 +1,69 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "01": {
+            "frames": [
+                {
+                    "check": [
+                        16,
+                        51,
+                        78
+                    ],
+                    "filename": "DESKA5_0.png",
+                    "name": "DESKA 5 POZYCJA 0",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        16,
+                        51,
+                        78
+                    ],
+                    "filename": "DESKA5_1.png",
+                    "name": "DESKA 5 POZYCJA 1",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "DESKA5_0.png": {
+            "compression": 4,
+            "name": "DESKA 5 POZYCJA 0",
+            "position_x": 125,
+            "position_y": 244
+        },
+        "DESKA5_1.png": {
+            "compression": 4,
+            "name": "DESKA 5 POZYCJA 1",
+            "position_x": 131,
+            "position_y": 289
+        }
+    },
+    "transparency": 255
+}

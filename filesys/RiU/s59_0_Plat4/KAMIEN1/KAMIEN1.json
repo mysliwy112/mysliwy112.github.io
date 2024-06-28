@@ -1,0 +1,1464 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "Click": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FocusOff": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FocusOn": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NoEvent": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PAUSE": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        185,
+                        164
+                    ],
+                    "filename": "KAMIEN1_0.png",
+                    "name": "KAMIEN",
+                    "position_x": 3,
+                    "position_y": -61
+                },
+                {
+                    "check": [
+                        64,
+                        185,
+                        164
+                    ],
+                    "filename": "KAMIEN1_2.png",
+                    "name": "brak",
+                    "position_x": 1,
+                    "position_y": -22
+                },
+                {
+                    "check": [
+                        176,
+                        184,
+                        164
+                    ],
+                    "filename": "KAMIEN1_2.png",
+                    "name": "brak",
+                    "position_x": 0,
+                    "position_y": -20
+                },
+                {
+                    "check": [
+                        32,
+                        184,
+                        164
+                    ],
+                    "filename": "KAMIEN1_2.png",
+                    "name": "brak",
+                    "position_x": 0,
+                    "position_y": -19
+                },
+                {
+                    "check": [
+                        144,
+                        183,
+                        164
+                    ],
+                    "filename": "KAMIEN1_2.png",
+                    "name": "brak",
+                    "position_x": 0,
+                    "position_y": -18
+                },
+                {
+                    "check": [],
+                    "filename": "KAMIEN1_2.png",
+                    "name": "brak",
+                    "position_x": 0,
+                    "position_y": -17
+                },
+                {
+                    "check": [
+                        112,
+                        182,
+                        164
+                    ],
+                    "filename": "KAMIEN1_2.png",
+                    "name": "brak",
+                    "position_x": 0,
+                    "position_y": -16
+                },
+                {
+                    "check": [
+                        224,
+                        181,
+                        164
+                    ],
+                    "filename": "KAMIEN1_2.png",
+                    "name": "brak",
+                    "position_x": 0,
+                    "position_y": -15
+                },
+                {
+                    "check": [
+                        80,
+                        181,
+                        164
+                    ],
+                    "filename": "KAMIEN1_2.png",
+                    "name": "brak",
+                    "position_x": 0,
+                    "position_y": -15
+                },
+                {
+                    "check": [
+                        192,
+                        180,
+                        164
+                    ],
+                    "filename": "KAMIEN1_2.png",
+                    "name": "brak",
+                    "position_x": 0,
+                    "position_y": -15
+                },
+                {
+                    "check": [
+                        48,
+                        180,
+                        164
+                    ],
+                    "filename": "KAMIEN1_2.png",
+                    "name": "brak",
+                    "position_x": 0,
+                    "position_y": -15
+                },
+                {
+                    "check": [
+                        160,
+                        179,
+                        164
+                    ],
+                    "filename": "KAMIEN1_2.png",
+                    "name": "brak",
+                    "position_x": 0,
+                    "position_y": -15
+                },
+                {
+                    "check": [
+                        16,
+                        179,
+                        164
+                    ],
+                    "filename": "KAMIEN1_2.png",
+                    "name": "brak",
+                    "position_x": 0,
+                    "position_y": -16
+                },
+                {
+                    "check": [
+                        128,
+                        178,
+                        164
+                    ],
+                    "filename": "KAMIEN1_2.png",
+                    "name": "brak",
+                    "position_x": 0,
+                    "position_y": -17
+                },
+                {
+                    "check": [
+                        240,
+                        177,
+                        164
+                    ],
+                    "filename": "KAMIEN1_2.png",
+                    "name": "brak",
+                    "position_x": 0,
+                    "position_y": -18
+                },
+                {
+                    "check": [
+                        96,
+                        177,
+                        164
+                    ],
+                    "filename": "KAMIEN1_2.png",
+                    "name": "brak",
+                    "position_x": 0,
+                    "position_y": -19
+                },
+                {
+                    "check": [
+                        208,
+                        176,
+                        164
+                    ],
+                    "filename": "KAMIEN1_2.png",
+                    "name": "brak",
+                    "position_x": 0,
+                    "position_y": -20
+                },
+                {
+                    "check": [
+                        64,
+                        176,
+                        164
+                    ],
+                    "filename": "KAMIEN1_2.png",
+                    "name": "brak",
+                    "position_x": 0,
+                    "position_y": -22
+                },
+                {
+                    "check": [
+                        144,
+                        207,
+                        164
+                    ],
+                    "filename": "KAMIEN1_2.png",
+                    "name": "brak",
+                    "position_x": 0,
+                    "position_y": -24
+                },
+                {
+                    "check": [],
+                    "filename": "KAMIEN1_2.png",
+                    "name": "brak",
+                    "position_x": 0,
+                    "position_y": -26
+                },
+                {
+                    "check": [
+                        112,
+                        206,
+                        164
+                    ],
+                    "filename": "KAMIEN1_2.png",
+                    "name": "brak",
+                    "position_x": 0,
+                    "position_y": -29
+                },
+                {
+                    "check": [
+                        224,
+                        205,
+                        164
+                    ],
+                    "filename": "KAMIEN1_2.png",
+                    "name": "brak",
+                    "position_x": 0,
+                    "position_y": -31
+                },
+                {
+                    "check": [
+                        80,
+                        205,
+                        164
+                    ],
+                    "filename": "KAMIEN1_2.png",
+                    "name": "brak",
+                    "position_x": 0,
+                    "position_y": -34
+                },
+                {
+                    "check": [
+                        192,
+                        204,
+                        164
+                    ],
+                    "filename": "KAMIEN1_2.png",
+                    "name": "brak",
+                    "position_x": 0,
+                    "position_y": -37
+                },
+                {
+                    "check": [
+                        48,
+                        204,
+                        164
+                    ],
+                    "filename": "KAMIEN1_2.png",
+                    "name": "brak",
+                    "position_x": 0,
+                    "position_y": -40
+                },
+                {
+                    "check": [
+                        160,
+                        203,
+                        164
+                    ],
+                    "filename": "KAMIEN1_2.png",
+                    "name": "brak",
+                    "position_x": 0,
+                    "position_y": -44
+                },
+                {
+                    "check": [
+                        16,
+                        203,
+                        164
+                    ],
+                    "filename": "KAMIEN1_2.png",
+                    "name": "brak",
+                    "position_x": 0,
+                    "position_y": -48
+                },
+                {
+                    "check": [
+                        128,
+                        202,
+                        164
+                    ],
+                    "filename": "KAMIEN1_2.png",
+                    "name": "brak",
+                    "position_x": 0,
+                    "position_y": -52
+                },
+                {
+                    "check": [
+                        240,
+                        201,
+                        164
+                    ],
+                    "filename": "KAMIEN1_2.png",
+                    "name": "brak",
+                    "position_x": 0,
+                    "position_y": -56
+                },
+                {
+                    "check": [
+                        96,
+                        201,
+                        164
+                    ],
+                    "filename": "KAMIEN1_0.png",
+                    "name": "KAMIEN",
+                    "position_x": 0,
+                    "position_y": -61
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        176,
+                        114,
+                        164
+                    ],
+                    "filename": "KAMIEN1_0.png",
+                    "name": "KAMIEN",
+                    "position_x": 3,
+                    "position_y": -58,
+                    "sfx": "SFX\\000kamien.wav",
+                    "sfx_seed": 10777200
+                },
+                {
+                    "check": [
+                        224,
+                        113,
+                        164
+                    ],
+                    "filename": "KAMIEN1_1.png",
+                    "name": "KAMIEN COPY",
+                    "position_x": 3,
+                    "position_y": -50
+                },
+                {
+                    "check": [
+                        80,
+                        113,
+                        164
+                    ],
+                    "filename": "KAMIEN1_3.png",
+                    "name": "KAMIEN COPY 2",
+                    "position_x": 3,
+                    "position_y": -43
+                },
+                {
+                    "check": [
+                        192,
+                        112,
+                        164
+                    ],
+                    "filename": "KAMIEN1_4.png",
+                    "name": "KAMIEN COPY 3",
+                    "position_x": 3,
+                    "position_y": -35
+                },
+                {
+                    "check": [
+                        48,
+                        112,
+                        164
+                    ],
+                    "filename": "KAMIEN1_5.png",
+                    "name": "KAMIEN COPY 5",
+                    "position_x": 3,
+                    "position_y": -28
+                },
+                {
+                    "check": [
+                        144,
+                        143,
+                        164
+                    ],
+                    "filename": "KAMIEN1_6.png",
+                    "name": "KAMIEN COPY 4",
+                    "position_x": 3,
+                    "position_y": -21
+                },
+                {
+                    "check": [],
+                    "filename": "KAMIEN1_0.png",
+                    "name": "KAMIEN",
+                    "position_x": 3,
+                    "position_y": -13
+                },
+                {
+                    "check": [
+                        112,
+                        142,
+                        164
+                    ],
+                    "filename": "KAMIEN1_1.png",
+                    "name": "KAMIEN COPY",
+                    "position_x": 3,
+                    "position_y": -6
+                },
+                {
+                    "check": [
+                        224,
+                        141,
+                        164
+                    ],
+                    "filename": "KAMIEN1_3.png",
+                    "name": "KAMIEN COPY 2",
+                    "position_x": 2,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        141,
+                        164
+                    ],
+                    "filename": "KAMIEN1_4.png",
+                    "name": "KAMIEN COPY 3",
+                    "position_x": 2,
+                    "position_y": 7
+                },
+                {
+                    "check": [
+                        192,
+                        140,
+                        164
+                    ],
+                    "filename": "KAMIEN1_5.png",
+                    "name": "KAMIEN COPY 5",
+                    "position_x": 2,
+                    "position_y": 14
+                },
+                {
+                    "check": [
+                        48,
+                        140,
+                        164
+                    ],
+                    "filename": "KAMIEN1_6.png",
+                    "name": "KAMIEN COPY 4",
+                    "position_x": 2,
+                    "position_y": 22
+                },
+                {
+                    "check": [
+                        160,
+                        139,
+                        164
+                    ],
+                    "filename": "KAMIEN1_0.png",
+                    "name": "KAMIEN",
+                    "position_x": 2,
+                    "position_y": 29
+                },
+                {
+                    "check": [
+                        16,
+                        139,
+                        164
+                    ],
+                    "filename": "KAMIEN1_1.png",
+                    "name": "KAMIEN COPY",
+                    "position_x": 2,
+                    "position_y": 36
+                },
+                {
+                    "check": [
+                        128,
+                        138,
+                        164
+                    ],
+                    "filename": "KAMIEN1_3.png",
+                    "name": "KAMIEN COPY 2",
+                    "position_x": 2,
+                    "position_y": 43
+                },
+                {
+                    "check": [
+                        240,
+                        137,
+                        164
+                    ],
+                    "filename": "KAMIEN1_4.png",
+                    "name": "KAMIEN COPY 3",
+                    "position_x": 2,
+                    "position_y": 50
+                },
+                {
+                    "check": [
+                        96,
+                        137,
+                        164
+                    ],
+                    "filename": "KAMIEN1_5.png",
+                    "name": "KAMIEN COPY 5",
+                    "position_x": 2,
+                    "position_y": 57
+                },
+                {
+                    "check": [
+                        208,
+                        136,
+                        164
+                    ],
+                    "filename": "KAMIEN1_6.png",
+                    "name": "KAMIEN COPY 4",
+                    "position_x": 2,
+                    "position_y": 64
+                },
+                {
+                    "check": [
+                        64,
+                        136,
+                        164
+                    ],
+                    "filename": "KAMIEN1_0.png",
+                    "name": "KAMIEN",
+                    "position_x": 2,
+                    "position_y": 71
+                },
+                {
+                    "check": [
+                        176,
+                        135,
+                        164
+                    ],
+                    "filename": "KAMIEN1_1.png",
+                    "name": "KAMIEN COPY",
+                    "position_x": 2,
+                    "position_y": 78
+                },
+                {
+                    "check": [
+                        32,
+                        135,
+                        164
+                    ],
+                    "filename": "KAMIEN1_3.png",
+                    "name": "KAMIEN COPY 2",
+                    "position_x": 2,
+                    "position_y": 85
+                },
+                {
+                    "check": [
+                        144,
+                        134,
+                        164
+                    ],
+                    "filename": "KAMIEN1_4.png",
+                    "name": "KAMIEN COPY 3",
+                    "position_x": 2,
+                    "position_y": 92
+                },
+                {
+                    "check": [],
+                    "filename": "KAMIEN1_5.png",
+                    "name": "KAMIEN COPY 5",
+                    "position_x": 1,
+                    "position_y": 99
+                },
+                {
+                    "check": [
+                        112,
+                        133,
+                        164
+                    ],
+                    "filename": "KAMIEN1_6.png",
+                    "name": "KAMIEN COPY 4",
+                    "position_x": 1,
+                    "position_y": 106
+                },
+                {
+                    "check": [
+                        224,
+                        132,
+                        164
+                    ],
+                    "filename": "KAMIEN1_0.png",
+                    "name": "KAMIEN",
+                    "position_x": 1,
+                    "position_y": 113
+                },
+                {
+                    "check": [
+                        80,
+                        132,
+                        164
+                    ],
+                    "filename": "KAMIEN1_1.png",
+                    "name": "KAMIEN COPY",
+                    "position_x": 1,
+                    "position_y": 120
+                },
+                {
+                    "check": [
+                        192,
+                        131,
+                        164
+                    ],
+                    "filename": "KAMIEN1_3.png",
+                    "name": "KAMIEN COPY 2",
+                    "position_x": 1,
+                    "position_y": 127
+                },
+                {
+                    "check": [
+                        48,
+                        131,
+                        164
+                    ],
+                    "filename": "KAMIEN1_4.png",
+                    "name": "KAMIEN COPY 3",
+                    "position_x": 1,
+                    "position_y": 134
+                },
+                {
+                    "check": [
+                        160,
+                        130,
+                        164
+                    ],
+                    "filename": "KAMIEN1_5.png",
+                    "name": "KAMIEN COPY 5",
+                    "position_x": 1,
+                    "position_y": 141
+                },
+                {
+                    "check": [
+                        16,
+                        130,
+                        164
+                    ],
+                    "filename": "KAMIEN1_6.png",
+                    "name": "KAMIEN COPY 4",
+                    "position_x": 1,
+                    "position_y": 148
+                },
+                {
+                    "check": [
+                        128,
+                        129,
+                        164
+                    ],
+                    "filename": "KAMIEN1_0.png",
+                    "name": "KAMIEN",
+                    "position_x": 1,
+                    "position_y": 155
+                },
+                {
+                    "check": [
+                        240,
+                        128,
+                        164
+                    ],
+                    "filename": "KAMIEN1_1.png",
+                    "name": "KAMIEN COPY",
+                    "position_x": 0,
+                    "position_y": 162
+                },
+                {
+                    "check": [
+                        96,
+                        128,
+                        164
+                    ],
+                    "filename": "KAMIEN1_3.png",
+                    "name": "KAMIEN COPY 2",
+                    "position_x": 0,
+                    "position_y": 168
+                },
+                {
+                    "check": [
+                        144,
+                        159,
+                        164
+                    ],
+                    "filename": "KAMIEN1_4.png",
+                    "name": "KAMIEN COPY 3",
+                    "position_x": 0,
+                    "position_y": 175
+                },
+                {
+                    "check": [],
+                    "filename": "KAMIEN1_5.png",
+                    "name": "KAMIEN COPY 5",
+                    "position_x": 0,
+                    "position_y": 182
+                },
+                {
+                    "check": [
+                        112,
+                        158,
+                        164
+                    ],
+                    "filename": "KAMIEN1_6.png",
+                    "name": "KAMIEN COPY 4",
+                    "position_x": 0,
+                    "position_y": 189
+                },
+                {
+                    "check": [
+                        224,
+                        157,
+                        164
+                    ],
+                    "filename": "KAMIEN1_0.png",
+                    "name": "KAMIEN",
+                    "position_x": 0,
+                    "position_y": 196
+                },
+                {
+                    "check": [
+                        80,
+                        157,
+                        164
+                    ],
+                    "filename": "KAMIEN1_1.png",
+                    "name": "KAMIEN COPY",
+                    "position_x": 0,
+                    "position_y": 203
+                },
+                {
+                    "check": [
+                        192,
+                        156,
+                        164
+                    ],
+                    "filename": "KAMIEN1_3.png",
+                    "name": "KAMIEN COPY 2",
+                    "position_x": 0,
+                    "position_y": 210
+                },
+                {
+                    "check": [
+                        48,
+                        156,
+                        164
+                    ],
+                    "filename": "KAMIEN1_4.png",
+                    "name": "KAMIEN COPY 3",
+                    "position_x": 0,
+                    "position_y": 217
+                },
+                {
+                    "check": [
+                        160,
+                        155,
+                        164
+                    ],
+                    "filename": "KAMIEN1_5.png",
+                    "name": "KAMIEN COPY 5",
+                    "position_x": 0,
+                    "position_y": 223
+                },
+                {
+                    "check": [
+                        16,
+                        155,
+                        164
+                    ],
+                    "filename": "KAMIEN1_6.png",
+                    "name": "KAMIEN COPY 4",
+                    "position_x": 0,
+                    "position_y": 230
+                },
+                {
+                    "check": [
+                        128,
+                        154,
+                        164
+                    ],
+                    "filename": "KAMIEN1_0.png",
+                    "name": "KAMIEN",
+                    "position_x": 0,
+                    "position_y": 237
+                },
+                {
+                    "check": [
+                        240,
+                        153,
+                        164
+                    ],
+                    "filename": "KAMIEN1_1.png",
+                    "name": "KAMIEN COPY",
+                    "position_x": 0,
+                    "position_y": 244
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        164
+                    ],
+                    "filename": "KAMIEN1_3.png",
+                    "name": "KAMIEN COPY 2",
+                    "position_x": 0,
+                    "position_y": 251
+                },
+                {
+                    "check": [
+                        208,
+                        152,
+                        164
+                    ],
+                    "filename": "KAMIEN1_4.png",
+                    "name": "KAMIEN COPY 3",
+                    "position_x": 0,
+                    "position_y": 258
+                },
+                {
+                    "check": [
+                        64,
+                        152,
+                        164
+                    ],
+                    "filename": "KAMIEN1_5.png",
+                    "name": "KAMIEN COPY 5",
+                    "position_x": 0,
+                    "position_y": 265
+                },
+                {
+                    "check": [
+                        176,
+                        151,
+                        164
+                    ],
+                    "filename": "KAMIEN1_6.png",
+                    "name": "KAMIEN COPY 4",
+                    "position_x": 0,
+                    "position_y": 271
+                },
+                {
+                    "check": [
+                        32,
+                        151,
+                        164
+                    ],
+                    "filename": "KAMIEN1_0.png",
+                    "name": "KAMIEN",
+                    "position_x": 0,
+                    "position_y": 278
+                },
+                {
+                    "check": [
+                        144,
+                        150,
+                        164
+                    ],
+                    "filename": "KAMIEN1_1.png",
+                    "name": "KAMIEN COPY",
+                    "position_x": 0,
+                    "position_y": 285
+                },
+                {
+                    "check": [],
+                    "filename": "KAMIEN1_3.png",
+                    "name": "KAMIEN COPY 2",
+                    "position_x": 0,
+                    "position_y": 292
+                },
+                {
+                    "check": [
+                        112,
+                        149,
+                        164
+                    ],
+                    "filename": "KAMIEN1_4.png",
+                    "name": "KAMIEN COPY 3",
+                    "position_x": 0,
+                    "position_y": 299
+                },
+                {
+                    "check": [
+                        224,
+                        148,
+                        164
+                    ],
+                    "filename": "KAMIEN1_5.png",
+                    "name": "KAMIEN COPY 5",
+                    "position_x": -1,
+                    "position_y": 306
+                },
+                {
+                    "check": [
+                        80,
+                        148,
+                        164
+                    ],
+                    "filename": "KAMIEN1_6.png",
+                    "name": "KAMIEN COPY 4",
+                    "position_x": -1,
+                    "position_y": 313
+                },
+                {
+                    "check": [
+                        192,
+                        147,
+                        164
+                    ],
+                    "filename": "KAMIEN1_0.png",
+                    "name": "KAMIEN",
+                    "position_x": -1,
+                    "position_y": 320
+                },
+                {
+                    "check": [
+                        48,
+                        147,
+                        164
+                    ],
+                    "filename": "KAMIEN1_1.png",
+                    "name": "KAMIEN COPY",
+                    "position_x": -1,
+                    "position_y": 327
+                },
+                {
+                    "check": [
+                        160,
+                        146,
+                        164
+                    ],
+                    "filename": "KAMIEN1_3.png",
+                    "name": "KAMIEN COPY 2",
+                    "position_x": -1,
+                    "position_y": 333
+                },
+                {
+                    "check": [
+                        16,
+                        146,
+                        164
+                    ],
+                    "filename": "KAMIEN1_4.png",
+                    "name": "KAMIEN COPY 3",
+                    "position_x": -1,
+                    "position_y": 340
+                },
+                {
+                    "check": [
+                        128,
+                        145,
+                        164
+                    ],
+                    "filename": "KAMIEN1_5.png",
+                    "name": "KAMIEN COPY 5",
+                    "position_x": -1,
+                    "position_y": 347
+                },
+                {
+                    "check": [
+                        240,
+                        144,
+                        164
+                    ],
+                    "filename": "KAMIEN1_6.png",
+                    "name": "KAMIEN COPY 4",
+                    "position_x": -1,
+                    "position_y": 354
+                },
+                {
+                    "check": [
+                        96,
+                        144,
+                        164
+                    ],
+                    "filename": "KAMIEN1_0.png",
+                    "name": "KAMIEN",
+                    "position_x": -1,
+                    "position_y": 361
+                },
+                {
+                    "check": [
+                        144,
+                        175,
+                        164
+                    ],
+                    "filename": "KAMIEN1_1.png",
+                    "name": "KAMIEN COPY",
+                    "position_x": -1,
+                    "position_y": 368
+                },
+                {
+                    "check": [],
+                    "filename": "KAMIEN1_3.png",
+                    "name": "KAMIEN COPY 2",
+                    "position_x": 0,
+                    "position_y": 375
+                },
+                {
+                    "check": [
+                        112,
+                        174,
+                        164
+                    ],
+                    "filename": "KAMIEN1_4.png",
+                    "name": "KAMIEN COPY 3",
+                    "position_x": 0,
+                    "position_y": 382
+                },
+                {
+                    "check": [
+                        224,
+                        173,
+                        164
+                    ],
+                    "filename": "KAMIEN1_5.png",
+                    "name": "KAMIEN COPY 5",
+                    "position_x": 0,
+                    "position_y": 389
+                },
+                {
+                    "check": [
+                        80,
+                        173,
+                        164
+                    ],
+                    "filename": "KAMIEN1_6.png",
+                    "name": "KAMIEN COPY 4",
+                    "position_x": 0,
+                    "position_y": 396
+                },
+                {
+                    "check": [
+                        192,
+                        172,
+                        164
+                    ],
+                    "filename": "KAMIEN1_0.png",
+                    "name": "KAMIEN",
+                    "position_x": 0,
+                    "position_y": 403
+                },
+                {
+                    "check": [
+                        48,
+                        172,
+                        164
+                    ],
+                    "filename": "KAMIEN1_1.png",
+                    "name": "KAMIEN COPY",
+                    "position_x": 0,
+                    "position_y": 411
+                },
+                {
+                    "check": [
+                        160,
+                        171,
+                        164
+                    ],
+                    "filename": "KAMIEN1_3.png",
+                    "name": "KAMIEN COPY 2",
+                    "position_x": 0,
+                    "position_y": 418
+                },
+                {
+                    "check": [
+                        16,
+                        171,
+                        164
+                    ],
+                    "filename": "KAMIEN1_4.png",
+                    "name": "KAMIEN COPY 3",
+                    "position_x": 0,
+                    "position_y": 425
+                },
+                {
+                    "check": [
+                        128,
+                        170,
+                        164
+                    ],
+                    "filename": "KAMIEN1_5.png",
+                    "name": "KAMIEN COPY 5",
+                    "position_x": 0,
+                    "position_y": 432
+                },
+                {
+                    "check": [
+                        240,
+                        169,
+                        164
+                    ],
+                    "filename": "KAMIEN1_6.png",
+                    "name": "KAMIEN COPY 4",
+                    "position_x": 0,
+                    "position_y": 439
+                },
+                {
+                    "check": [
+                        96,
+                        169,
+                        164
+                    ],
+                    "filename": "KAMIEN1_0.png",
+                    "name": "KAMIEN",
+                    "position_x": 0,
+                    "position_y": 446
+                },
+                {
+                    "check": [
+                        208,
+                        168,
+                        164
+                    ],
+                    "filename": "KAMIEN1_1.png",
+                    "name": "KAMIEN COPY",
+                    "position_x": 0,
+                    "position_y": 453
+                },
+                {
+                    "check": [
+                        64,
+                        168,
+                        164
+                    ],
+                    "filename": "KAMIEN1_3.png",
+                    "name": "KAMIEN COPY 2",
+                    "position_x": 0,
+                    "position_y": 461
+                },
+                {
+                    "check": [
+                        176,
+                        167,
+                        164
+                    ],
+                    "filename": "KAMIEN1_4.png",
+                    "name": "KAMIEN COPY 3",
+                    "position_x": 0,
+                    "position_y": 468
+                },
+                {
+                    "check": [
+                        32,
+                        167,
+                        164
+                    ],
+                    "filename": "KAMIEN1_5.png",
+                    "name": "KAMIEN COPY 5",
+                    "position_x": 0,
+                    "position_y": 475
+                },
+                {
+                    "check": [
+                        144,
+                        166,
+                        164
+                    ],
+                    "filename": "KAMIEN1_6.png",
+                    "name": "KAMIEN COPY 4",
+                    "position_x": 1,
+                    "position_y": 482
+                },
+                {
+                    "check": [],
+                    "filename": "KAMIEN1_0.png",
+                    "name": "KAMIEN",
+                    "position_x": 1,
+                    "position_y": 490
+                },
+                {
+                    "check": [
+                        112,
+                        165,
+                        164
+                    ],
+                    "filename": "KAMIEN1_1.png",
+                    "name": "KAMIEN COPY",
+                    "position_x": 1,
+                    "position_y": 497
+                },
+                {
+                    "check": [
+                        112,
+                        74,
+                        165
+                    ],
+                    "filename": "KAMIEN1_0.png",
+                    "name": "h",
+                    "position_x": 2,
+                    "position_y": 505,
+                    "sfx": "sfx\\sfx_rozwala.wav",
+                    "sfx_seed": 10832432
+                },
+                {
+                    "check": [
+                        144,
+                        164,
+                        164
+                    ],
+                    "filename": "KAMIEN1_7.png",
+                    "name": "KAMIEN COPY 9",
+                    "position_x": 2,
+                    "position_y": 505
+                },
+                {
+                    "check": [],
+                    "filename": "KAMIEN1_7.png",
+                    "name": "KAMIEN COPY 9",
+                    "position_x": 2,
+                    "position_y": 505
+                },
+                {
+                    "check": [
+                        112,
+                        163,
+                        164
+                    ],
+                    "filename": "KAMIEN1_8.png",
+                    "name": "KAMIEN COPY 10",
+                    "position_x": 2,
+                    "position_y": 505
+                },
+                {
+                    "check": [
+                        224,
+                        162,
+                        164
+                    ],
+                    "filename": "KAMIEN1_8.png",
+                    "name": "KAMIEN COPY 10",
+                    "position_x": 2,
+                    "position_y": 505
+                },
+                {
+                    "check": [
+                        80,
+                        162,
+                        164
+                    ],
+                    "filename": "KAMIEN1_9.png",
+                    "name": "KAMIEN COPY 6",
+                    "position_x": 2,
+                    "position_y": 505
+                },
+                {
+                    "check": [
+                        192,
+                        161,
+                        164
+                    ],
+                    "filename": "KAMIEN1_9.png",
+                    "name": "KAMIEN COPY 6",
+                    "position_x": 2,
+                    "position_y": 505
+                },
+                {
+                    "check": [
+                        48,
+                        161,
+                        164
+                    ],
+                    "filename": "KAMIEN1_9.png",
+                    "name": "KAMIEN COPY 6",
+                    "position_x": 7,
+                    "position_y": 576
+                },
+                {
+                    "check": [
+                        160,
+                        160,
+                        164
+                    ],
+                    "filename": "KAMIEN1_9.png",
+                    "name": "KAMIEN COPY 6",
+                    "position_x": 7,
+                    "position_y": 576
+                },
+                {
+                    "check": [
+                        224,
+                        191,
+                        164
+                    ],
+                    "filename": "KAMIEN1_9.png",
+                    "name": "KAMIEN COPY 6",
+                    "position_x": 7,
+                    "position_y": 576
+                },
+                {
+                    "check": [
+                        80,
+                        191,
+                        164
+                    ],
+                    "filename": "KAMIEN1_9.png",
+                    "name": "KAMIEN COPY 6",
+                    "position_x": 7,
+                    "position_y": 576
+                },
+                {
+                    "check": [
+                        192,
+                        190,
+                        164
+                    ],
+                    "filename": "KAMIEN1_9.png",
+                    "name": "KAMIEN COPY 6",
+                    "position_x": 7,
+                    "position_y": 576
+                },
+                {
+                    "check": [
+                        48,
+                        190,
+                        164
+                    ],
+                    "filename": "KAMIEN1_9.png",
+                    "name": "KAMIEN COPY 6",
+                    "position_x": 7,
+                    "position_y": 576
+                },
+                {
+                    "check": [
+                        160,
+                        189,
+                        164
+                    ],
+                    "filename": "KAMIEN1_9.png",
+                    "name": "KAMIEN COPY 6",
+                    "position_x": 7,
+                    "position_y": 576
+                },
+                {
+                    "check": [
+                        16,
+                        189,
+                        164
+                    ],
+                    "filename": "KAMIEN1_9.png",
+                    "name": "KAMIEN COPY 6",
+                    "position_x": 7,
+                    "position_y": 576
+                },
+                {
+                    "check": [
+                        128,
+                        188,
+                        164
+                    ],
+                    "filename": "KAMIEN1_9.png",
+                    "name": "KAMIEN COPY 6",
+                    "position_x": 7,
+                    "position_y": 576
+                },
+                {
+                    "check": [
+                        240,
+                        187,
+                        164
+                    ],
+                    "filename": "KAMIEN1_9.png",
+                    "name": "KAMIEN COPY 6",
+                    "position_x": 7,
+                    "position_y": 576
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "KAMIEN1_0.png": {
+            "compression": 4,
+            "name": "KAMIEN",
+            "position_x": 168,
+            "position_y": 28
+        },
+        "KAMIEN1_1.png": {
+            "compression": 4,
+            "name": "KAMIEN COPY",
+            "position_x": 167,
+            "position_y": 32
+        },
+        "KAMIEN1_2.png": {
+            "compression": 4,
+            "name": "BRAK"
+        },
+        "KAMIEN1_3.png": {
+            "compression": 4,
+            "name": "KAMIEN COPY 2",
+            "position_x": 171,
+            "position_y": 28
+        },
+        "KAMIEN1_4.png": {
+            "compression": 4,
+            "name": "KAMIEN COPY 3",
+            "position_x": 169,
+            "position_y": 29
+        },
+        "KAMIEN1_5.png": {
+            "compression": 4,
+            "name": "KAMIEN COPY 5",
+            "position_x": 172,
+            "position_y": 29
+        },
+        "KAMIEN1_6.png": {
+            "compression": 4,
+            "name": "KAMIEN COPY 4",
+            "position_x": 167,
+            "position_y": 30
+        },
+        "KAMIEN1_7.png": {
+            "compression": 4,
+            "name": "KAMIEN COPY 9",
+            "position_x": 168,
+            "position_y": 28
+        },
+        "KAMIEN1_8.png": {
+            "compression": 4,
+            "name": "KAMIEN COPY 10",
+            "position_x": 170,
+            "position_y": 34
+        },
+        "KAMIEN1_9.png": {
+            "compression": 4,
+            "name": "KAMIEN COPY 6",
+            "position_x": 172,
+            "position_y": 39
+        }
+    },
+    "transparency": 255
+}

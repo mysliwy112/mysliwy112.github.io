@@ -1,0 +1,196 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        240,
+                        175,
+                        164
+                    ],
+                    "filename": "blysk1_0.png",
+                    "name": "NIC",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "sfx\\00intro3.wav",
+                    "sfx_seed": 10832304
+                },
+                {
+                    "check": [
+                        208,
+                        169,
+                        164
+                    ],
+                    "filename": "blysk1_1.png",
+                    "name": "BLYSKAWICA1 COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        64,
+                        169,
+                        164
+                    ],
+                    "filename": "blysk1_2.png",
+                    "name": "BLYSKAWICA1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        168,
+                        164
+                    ],
+                    "filename": "blysk1_2.png",
+                    "name": "BLYSKAWICA1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48,
+                        168,
+                        164
+                    ],
+                    "filename": "blysk1_0.png",
+                    "name": "NIC",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        160,
+                        167,
+                        164
+                    ],
+                    "filename": "blysk1_2.png",
+                    "name": "BLYSKAWICA1",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        16,
+                        167,
+                        164
+                    ],
+                    "filename": "blysk1_1.png",
+                    "name": "BLYSKAWICA1 COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        166,
+                        164
+                    ],
+                    "filename": "blysk1_0.png",
+                    "name": "NIC",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        26,
+                        165
+                    ],
+                    "filename": "blysk1_0.png",
+                    "name": "NIC",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48
+                    ],
+                    "filename": "blysk1_0.png",
+                    "name": "NIC",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        128,
+                        19,
+                        165
+                    ],
+                    "filename": "blysk1_0.png",
+                    "name": "NIC",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        128,
+                        17,
+                        165
+                    ],
+                    "filename": "blysk1_0.png",
+                    "name": "NIC",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        160,
+                        20,
+                        165
+                    ],
+                    "filename": "blysk1_0.png",
+                    "name": "NIC",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "blysk1_0.png": {
+            "compression": 4,
+            "name": "NIC",
+            "position_x": 96,
+            "position_y": 81
+        },
+        "blysk1_1.png": {
+            "compression": 4,
+            "name": "BLYSKAWICA1 COPY",
+            "position_x": 160,
+            "position_y": 60
+        },
+        "blysk1_2.png": {
+            "compression": 4,
+            "name": "BLYSKAWICA1",
+            "position_x": 160,
+            "position_y": 60
+        }
+    },
+    "transparency": 255
+}
