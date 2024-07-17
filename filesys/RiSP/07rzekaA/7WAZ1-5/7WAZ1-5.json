@@ -1,0 +1,412 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "SPADA": {
+            "frames": [
+                {
+                    "check": [
+                        112,
+                        99,
+                        164
+                    ],
+                    "filename": "7WAZ1-5_0.png",
+                    "name": "1_WAZ_OPUSZCZA SIE",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "sfx\\00waz1.wav",
+                    "sfx_seed": 10804976
+                },
+                {
+                    "check": [
+                        224,
+                        98,
+                        164
+                    ],
+                    "filename": "7WAZ1-5_3.png",
+                    "name": "2_WAZ_OPUSZCZA SIE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        98,
+                        164
+                    ],
+                    "filename": "7WAZ1-5_6.png",
+                    "name": "3_WAZ_OPUSZCZA SIE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        192,
+                        97,
+                        164
+                    ],
+                    "filename": "7WAZ1-5_9.png",
+                    "name": "4_WAZ_OPUSZCZA SIE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48,
+                        97,
+                        164
+                    ],
+                    "filename": "7WAZ1-5_11.png",
+                    "name": "5_WAZ_OPUSZCZA SIE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        160,
+                        96,
+                        164
+                    ],
+                    "filename": "7WAZ1-5_8.png",
+                    "name": "6_WAZ_OPUSZCZA SIE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        127,
+                        164
+                    ],
+                    "filename": "7WAZ1-5_5.png",
+                    "name": "7_WAZ_OPUSZCZA SIE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        127,
+                        164
+                    ],
+                    "filename": "7WAZ1-5_2.png",
+                    "name": "8_WAZ_OPUSZCZA SIE",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "STRASZY": {
+            "frames": [
+                {
+                    "check": [
+                        160,
+                        125,
+                        164
+                    ],
+                    "filename": "7WAZ1-5_1.png",
+                    "name": "1_STRASZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "7WAZ1-5_4.png",
+                    "name": "2_STRASZY",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "sfx\\00waz3.wav;sfx\\00waz4.wav",
+                    "sfx_seed": 10816992
+                },
+                {
+                    "check": [
+                        128,
+                        124,
+                        164
+                    ],
+                    "filename": "7WAZ1-5_7.png",
+                    "name": "3_STRASZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        123,
+                        164
+                    ],
+                    "filename": "7WAZ1-5_10.png",
+                    "name": "4_STRASZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        123,
+                        164
+                    ],
+                    "filename": "7WAZ1-5_12.png",
+                    "name": "5_STRASZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        122,
+                        164
+                    ],
+                    "filename": "7WAZ1-5_13.png",
+                    "name": "6_STRASZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        64,
+                        122,
+                        164
+                    ],
+                    "filename": "7WAZ1-5_12.png",
+                    "name": "5_STRASZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        121,
+                        164
+                    ],
+                    "filename": "7WAZ1-5_10.png",
+                    "name": "4_STRASZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        32,
+                        121,
+                        164
+                    ],
+                    "filename": "7WAZ1-5_7.png",
+                    "name": "3_STRASZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        120,
+                        164
+                    ],
+                    "filename": "7WAZ1-5_4.png",
+                    "name": "2_STRASZY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [],
+                    "filename": "7WAZ1-5_1.png",
+                    "name": "1_STRASZY",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "WCIAGA": {
+            "frames": [
+                {
+                    "check": [
+                        112,
+                        118,
+                        164
+                    ],
+                    "filename": "7WAZ1-5_2.png",
+                    "name": "8_WAZ_OPUSZCZA SIE",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "sfx\\00waz2.wav",
+                    "sfx_seed": 10825472
+                },
+                {
+                    "check": [
+                        224,
+                        117,
+                        164
+                    ],
+                    "filename": "7WAZ1-5_5.png",
+                    "name": "7_WAZ_OPUSZCZA SIE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        117,
+                        164
+                    ],
+                    "filename": "7WAZ1-5_8.png",
+                    "name": "6_WAZ_OPUSZCZA SIE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        192,
+                        116,
+                        164
+                    ],
+                    "filename": "7WAZ1-5_11.png",
+                    "name": "5_WAZ_OPUSZCZA SIE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48,
+                        116,
+                        164
+                    ],
+                    "filename": "7WAZ1-5_9.png",
+                    "name": "4_WAZ_OPUSZCZA SIE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        160,
+                        115,
+                        164
+                    ],
+                    "filename": "7WAZ1-5_6.png",
+                    "name": "3_WAZ_OPUSZCZA SIE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        16,
+                        115,
+                        164
+                    ],
+                    "filename": "7WAZ1-5_3.png",
+                    "name": "2_WAZ_OPUSZCZA SIE",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        128,
+                        114,
+                        164
+                    ],
+                    "filename": "7WAZ1-5_0.png",
+                    "name": "1_WAZ_OPUSZCZA SIE",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "7WAZ1-5_0.png": {
+            "compression": 4,
+            "name": "1_WAZ_OPUSZCZA SIE",
+            "position_x": 518
+        },
+        "7WAZ1-5_1.png": {
+            "compression": 4,
+            "name": "1_STRASZY",
+            "position_x": 509
+        },
+        "7WAZ1-5_10.png": {
+            "compression": 4,
+            "name": "4_STRASZY",
+            "position_x": 506
+        },
+        "7WAZ1-5_11.png": {
+            "compression": 4,
+            "name": "5_WAZ_OPUSZCZA SIE",
+            "position_x": 495
+        },
+        "7WAZ1-5_12.png": {
+            "compression": 4,
+            "name": "5_STRASZY",
+            "position_x": 506
+        },
+        "7WAZ1-5_13.png": {
+            "compression": 4,
+            "name": "6_STRASZY",
+            "position_x": 506
+        },
+        "7WAZ1-5_2.png": {
+            "compression": 4,
+            "name": "8_WAZ_OPUSZCZA SIE",
+            "position_x": 510
+        },
+        "7WAZ1-5_3.png": {
+            "compression": 4,
+            "name": "2_WAZ_OPUSZCZA SIE",
+            "position_x": 517
+        },
+        "7WAZ1-5_4.png": {
+            "compression": 4,
+            "name": "2_STRASZY",
+            "position_x": 508
+        },
+        "7WAZ1-5_5.png": {
+            "compression": 4,
+            "name": "7_WAZ_OPUSZCZA SIE",
+            "position_x": 508
+        },
+        "7WAZ1-5_6.png": {
+            "compression": 4,
+            "name": "3_WAZ_OPUSZCZA SIE",
+            "position_x": 512
+        },
+        "7WAZ1-5_7.png": {
+            "compression": 4,
+            "name": "3_STRASZY",
+            "position_x": 507
+        },
+        "7WAZ1-5_8.png": {
+            "compression": 4,
+            "name": "6_WAZ_OPUSZCZA SIE",
+            "position_x": 503
+        },
+        "7WAZ1-5_9.png": {
+            "compression": 4,
+            "name": "4_WAZ_OPUSZCZA SIE",
+            "position_x": 508
+        }
+    },
+    "transparency": 255
+}

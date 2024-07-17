@@ -1,0 +1,881 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "BEZRUCH_1": {
+            "frames": [
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_5.png",
+                    "name": "7_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "BEZRUCH_START": {
+            "frames": [
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_0.png",
+                    "name": "0_PAKER",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_13.png",
+                    "name": "1_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_21.png",
+                    "name": "2_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_26.png",
+                    "name": "3_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_22.png",
+                    "name": "4_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_14.png",
+                    "name": "5_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_6.png",
+                    "name": "6_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "BEZRUCH_STOP": {
+            "frames": [
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_6.png",
+                    "name": "6_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_14.png",
+                    "name": "5_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_22.png",
+                    "name": "4_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_26.png",
+                    "name": "3_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_21.png",
+                    "name": "2_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_13.png",
+                    "name": "1_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_0.png",
+                    "name": "0_PAKER",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ODMAWIA_1": {
+            "frames": [
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_1.png",
+                    "name": "10_ODMAWIA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_8.png",
+                    "name": "11_ODMAWIA",
+                    "position_x": -1,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_16.png",
+                    "name": "12_ODMAWIA",
+                    "position_x": -1,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_8.png",
+                    "name": "11_ODMAWIA",
+                    "position_x": -1,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ODMAWIA_START": {
+            "frames": [
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_0.png",
+                    "name": "0_PAKER",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_7.png",
+                    "name": "1_ODMAWIA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_15.png",
+                    "name": "2_ODMAWIA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_23.png",
+                    "name": "3_ODMAWIA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_27.png",
+                    "name": "4_ODMAWIA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_30.png",
+                    "name": "5_ODMAWIA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_32.png",
+                    "name": "6_ODMAWIA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_17.png",
+                    "name": "7_ODMAWIA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_9.png",
+                    "name": "8_ODMAWIA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_2.png",
+                    "name": "9_ODMAWIA",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ODMAWIA_STOP": {
+            "frames": [
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_2.png",
+                    "name": "9_ODMAWIA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_9.png",
+                    "name": "8_ODMAWIA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_17.png",
+                    "name": "7_ODMAWIA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_24.png",
+                    "name": "13_ODMAWIA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_28.png",
+                    "name": "14_ODMAWIA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_7.png",
+                    "name": "1_ODMAWIA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_0.png",
+                    "name": "0_PAKER",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ZAPRASZA_1": {
+            "frames": [
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_3.png",
+                    "name": "8_ZAPRASZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_11.png",
+                    "name": "9_ZAPRASZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_19.png",
+                    "name": "10_ZAPRASZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_11.png",
+                    "name": "9_ZAPRASZA",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ZAPRASZA_START": {
+            "frames": [
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_0.png",
+                    "name": "0_PAKER",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_10.png",
+                    "name": "1_ZAPRASZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_18.png",
+                    "name": "2_ZAPRASZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_25.png",
+                    "name": "3_ZAPRASZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_29.png",
+                    "name": "4_ZAPRASZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_31.png",
+                    "name": "5_ZAPRASZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_33.png",
+                    "name": "6_ZAPRASZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_4.png",
+                    "name": "7_ZAPRASZA",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "ZAPRASZA_STOP": {
+            "frames": [
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_4.png",
+                    "name": "7_ZAPRASZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_12.png",
+                    "name": "11_ZAPRASZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_20.png",
+                    "name": "12_ZAPRASZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_18.png",
+                    "name": "2_ZAPRASZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_10.png",
+                    "name": "1_ZAPRASZA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "PAKER2_0.png",
+                    "name": "0_PAKER",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "PAKER2_0.png": {
+            "compression": 4,
+            "name": "0_PAKER",
+            "position_x": 350,
+            "position_y": 194
+        },
+        "PAKER2_1.png": {
+            "compression": 4,
+            "name": "10_ODMAWIA",
+            "position_x": 311,
+            "position_y": 153
+        },
+        "PAKER2_10.png": {
+            "compression": 4,
+            "name": "1_ZAPRASZA",
+            "position_x": 355,
+            "position_y": 195
+        },
+        "PAKER2_11.png": {
+            "compression": 4,
+            "name": "9_ZAPRASZA",
+            "position_x": 332,
+            "position_y": 203
+        },
+        "PAKER2_12.png": {
+            "compression": 4,
+            "name": "11_ZAPRASZA",
+            "position_x": 349,
+            "position_y": 200
+        },
+        "PAKER2_13.png": {
+            "compression": 4,
+            "name": "1_BEZRUCH",
+            "position_x": 351,
+            "position_y": 194
+        },
+        "PAKER2_14.png": {
+            "compression": 4,
+            "name": "5_BEZRUCH",
+            "position_x": 350,
+            "position_y": 193
+        },
+        "PAKER2_15.png": {
+            "compression": 4,
+            "name": "2_ODMAWIA",
+            "position_x": 347,
+            "position_y": 191
+        },
+        "PAKER2_16.png": {
+            "compression": 4,
+            "name": "12_ODMAWIA",
+            "position_x": 311,
+            "position_y": 153
+        },
+        "PAKER2_17.png": {
+            "compression": 4,
+            "name": "7_ODMAWIA",
+            "position_x": 360,
+            "position_y": 159
+        },
+        "PAKER2_18.png": {
+            "compression": 4,
+            "name": "2_ZAPRASZA",
+            "position_x": 364,
+            "position_y": 193
+        },
+        "PAKER2_19.png": {
+            "compression": 4,
+            "name": "10_ZAPRASZA",
+            "position_x": 332,
+            "position_y": 203
+        },
+        "PAKER2_2.png": {
+            "compression": 4,
+            "name": "9_ODMAWIA",
+            "position_x": 318,
+            "position_y": 147
+        },
+        "PAKER2_20.png": {
+            "compression": 4,
+            "name": "12_ZAPRASZA",
+            "position_x": 379,
+            "position_y": 197
+        },
+        "PAKER2_21.png": {
+            "compression": 4,
+            "name": "2_BEZRUCH",
+            "position_x": 350,
+            "position_y": 193
+        },
+        "PAKER2_22.png": {
+            "compression": 4,
+            "name": "4_BEZRUCH",
+            "position_x": 349,
+            "position_y": 193
+        },
+        "PAKER2_23.png": {
+            "compression": 4,
+            "name": "3_ODMAWIA",
+            "position_x": 347,
+            "position_y": 193
+        },
+        "PAKER2_24.png": {
+            "compression": 4,
+            "name": "13_ODMAWIA",
+            "position_x": 348,
+            "position_y": 189
+        },
+        "PAKER2_25.png": {
+            "compression": 4,
+            "name": "3_ZAPRASZA",
+            "position_x": 380,
+            "position_y": 195
+        },
+        "PAKER2_26.png": {
+            "compression": 4,
+            "name": "3_BEZRUCH",
+            "position_x": 350,
+            "position_y": 194
+        },
+        "PAKER2_27.png": {
+            "compression": 4,
+            "name": "4_ODMAWIA",
+            "position_x": 347,
+            "position_y": 196
+        },
+        "PAKER2_28.png": {
+            "compression": 4,
+            "name": "14_ODMAWIA",
+            "position_x": 354,
+            "position_y": 191
+        },
+        "PAKER2_29.png": {
+            "compression": 4,
+            "name": "4_ZAPRASZA",
+            "position_x": 385,
+            "position_y": 197
+        },
+        "PAKER2_3.png": {
+            "compression": 4,
+            "name": "8_ZAPRASZA",
+            "position_x": 332,
+            "position_y": 203
+        },
+        "PAKER2_30.png": {
+            "compression": 4,
+            "name": "5_ODMAWIA",
+            "position_x": 351,
+            "position_y": 199
+        },
+        "PAKER2_31.png": {
+            "compression": 4,
+            "name": "5_ZAPRASZA",
+            "position_x": 369,
+            "position_y": 201
+        },
+        "PAKER2_32.png": {
+            "compression": 4,
+            "name": "6_ODMAWIA",
+            "position_x": 343,
+            "position_y": 190
+        },
+        "PAKER2_33.png": {
+            "compression": 4,
+            "name": "6_ZAPRASZA",
+            "position_x": 343,
+            "position_y": 202
+        },
+        "PAKER2_4.png": {
+            "compression": 4,
+            "name": "7_ZAPRASZA",
+            "position_x": 331,
+            "position_y": 204
+        },
+        "PAKER2_5.png": {
+            "compression": 4,
+            "name": "7_BEZRUCH",
+            "position_x": 349,
+            "position_y": 195
+        },
+        "PAKER2_6.png": {
+            "compression": 4,
+            "name": "6_BEZRUCH",
+            "position_x": 350,
+            "position_y": 194
+        },
+        "PAKER2_7.png": {
+            "compression": 4,
+            "name": "1_ODMAWIA",
+            "position_x": 346,
+            "position_y": 191
+        },
+        "PAKER2_8.png": {
+            "compression": 4,
+            "name": "11_ODMAWIA",
+            "position_x": 311,
+            "position_y": 153
+        },
+        "PAKER2_9.png": {
+            "compression": 4,
+            "name": "8_ODMAWIA",
+            "position_x": 357,
+            "position_y": 143
+        }
+    },
+    "transparency": 255
+}

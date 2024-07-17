@@ -1,0 +1,762 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "GLOW": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_3.png",
+                    "name": "KOKOS_GLOW",
+                    "position_x": 20,
+                    "position_y": 20
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NASTARCIE": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_0.png",
+                    "name": "KOKOS",
+                    "position_x": 20,
+                    "position_y": 20
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PEKA": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_2.png",
+                    "name": "KOKOS_END",
+                    "position_x": 21,
+                    "position_y": 521
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_4.png",
+                    "name": "KOKOS_END_COPY",
+                    "position_x": 21,
+                    "position_y": 521,
+                    "sfx": "SFX\\00koko1.wav",
+                    "sfx_seed": 14182188
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_4.png",
+                    "name": "KOKOS_END_COPY",
+                    "position_x": 21,
+                    "position_y": 521
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_7.png",
+                    "name": "KOKOS_END_COPY_2",
+                    "position_x": 21,
+                    "position_y": 521
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_7.png",
+                    "name": "KOKOS_END_COPY_2",
+                    "position_x": 21,
+                    "position_y": 521
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_10.png",
+                    "name": "KOKOS_END_COPY_3",
+                    "position_x": 21,
+                    "position_y": 521
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_10.png",
+                    "name": "KOKOS_END_COPY_3",
+                    "position_x": 21,
+                    "position_y": 521
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_13.png",
+                    "name": "KOKOS_END_COPY_4",
+                    "position_x": 21,
+                    "position_y": 521
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_13.png",
+                    "name": "KOKOS_END_COPY_4",
+                    "position_x": 21,
+                    "position_y": 521
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "RODZISIE": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_1.png",
+                    "name": "KOKOS_COPY_5",
+                    "position_x": 20,
+                    "position_y": 20,
+                    "sfx": "SFX\\00koko2.wav",
+                    "sfx_seed": 14179076
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_1.png",
+                    "name": "KOKOS_COPY_5",
+                    "position_x": 20,
+                    "position_y": 20
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_6.png",
+                    "name": "KOKOS_COPY_4",
+                    "position_x": 20,
+                    "position_y": 20
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_6.png",
+                    "name": "KOKOS_COPY_4",
+                    "position_x": 20,
+                    "position_y": 20
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_9.png",
+                    "name": "KOKOS_COPY_3",
+                    "position_x": 20,
+                    "position_y": 20
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_9.png",
+                    "name": "KOKOS_COPY_3",
+                    "position_x": 20,
+                    "position_y": 20
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_12.png",
+                    "name": "KOKOS_COPY_2",
+                    "position_x": 20,
+                    "position_y": 20
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_12.png",
+                    "name": "KOKOS_COPY_2",
+                    "position_x": 20,
+                    "position_y": 20
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_9.png",
+                    "name": "KOKOS_COPY_3",
+                    "position_x": 20,
+                    "position_y": 20
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_9.png",
+                    "name": "KOKOS_COPY_3",
+                    "position_x": 20,
+                    "position_y": 20
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_6.png",
+                    "name": "KOKOS_COPY_4",
+                    "position_x": 20,
+                    "position_y": 20
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_6.png",
+                    "name": "KOKOS_COPY_4",
+                    "position_x": 20,
+                    "position_y": 20
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_9.png",
+                    "name": "KOKOS_COPY_3",
+                    "position_x": 20,
+                    "position_y": 20
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_9.png",
+                    "name": "KOKOS_COPY_3",
+                    "position_x": 20,
+                    "position_y": 20
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_12.png",
+                    "name": "KOKOS_COPY_2",
+                    "position_x": 20,
+                    "position_y": 20,
+                    "sfx": "SFX\\00koko3.wav",
+                    "sfx_seed": 14180632
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_12.png",
+                    "name": "KOKOS_COPY_2",
+                    "position_x": 20,
+                    "position_y": 20
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_12.png",
+                    "name": "KOKOS_COPY_2",
+                    "position_x": 20,
+                    "position_y": 20
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_14.png",
+                    "name": "KOKOS_COPY",
+                    "position_x": 20,
+                    "position_y": 20
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_14.png",
+                    "name": "KOKOS_COPY",
+                    "position_x": 20,
+                    "position_y": 20
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_0.png",
+                    "name": "KOKOS",
+                    "position_x": 20,
+                    "position_y": 20
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "SPADA": {
+            "frames": [
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_0.png",
+                    "name": "KOKOS",
+                    "position_x": 20,
+                    "position_y": 20
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_0.png",
+                    "name": "KOKOS",
+                    "position_x": 20,
+                    "position_y": 36
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_5.png",
+                    "name": "KOKOS_SPADA_COPY_2",
+                    "position_x": 20,
+                    "position_y": 52
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_5.png",
+                    "name": "KOKOS_SPADA_COPY_2",
+                    "position_x": 20,
+                    "position_y": 70
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_8.png",
+                    "name": "KOKOS_SPADA_COPY_3",
+                    "position_x": 20,
+                    "position_y": 88
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_8.png",
+                    "name": "KOKOS_SPADA_COPY_3",
+                    "position_x": 20,
+                    "position_y": 107
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_11.png",
+                    "name": "KOKOS_SPADA_COPY_4",
+                    "position_x": 20,
+                    "position_y": 126
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_11.png",
+                    "name": "KOKOS_SPADA_COPY_4",
+                    "position_x": 20,
+                    "position_y": 146
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_0.png",
+                    "name": "KOKOS",
+                    "position_x": 20,
+                    "position_y": 167
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_0.png",
+                    "name": "KOKOS",
+                    "position_x": 20,
+                    "position_y": 187
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_5.png",
+                    "name": "KOKOS_SPADA_COPY_2",
+                    "position_x": 20,
+                    "position_y": 208
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_5.png",
+                    "name": "KOKOS_SPADA_COPY_2",
+                    "position_x": 20,
+                    "position_y": 230
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_8.png",
+                    "name": "KOKOS_SPADA_COPY_3",
+                    "position_x": 20,
+                    "position_y": 251
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_8.png",
+                    "name": "KOKOS_SPADA_COPY_3",
+                    "position_x": 20,
+                    "position_y": 273
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_11.png",
+                    "name": "KOKOS_SPADA_COPY_4",
+                    "position_x": 20,
+                    "position_y": 294
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_11.png",
+                    "name": "KOKOS_SPADA_COPY_4",
+                    "position_x": 20,
+                    "position_y": 316
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_0.png",
+                    "name": "KOKOS",
+                    "position_x": 20,
+                    "position_y": 338
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_0.png",
+                    "name": "KOKOS",
+                    "position_x": 20,
+                    "position_y": 359
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_5.png",
+                    "name": "KOKOS_SPADA_COPY_2",
+                    "position_x": 20,
+                    "position_y": 381
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_5.png",
+                    "name": "KOKOS_SPADA_COPY_2",
+                    "position_x": 20,
+                    "position_y": 402
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_8.png",
+                    "name": "KOKOS_SPADA_COPY_3",
+                    "position_x": 20,
+                    "position_y": 422
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_8.png",
+                    "name": "KOKOS_SPADA_COPY_3",
+                    "position_x": 20,
+                    "position_y": 443
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_11.png",
+                    "name": "KOKOS_SPADA_COPY_4",
+                    "position_x": 20,
+                    "position_y": 463
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_11.png",
+                    "name": "KOKOS_SPADA_COPY_4",
+                    "position_x": 20,
+                    "position_y": 482
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_0.png",
+                    "name": "KOKOS",
+                    "position_x": 20,
+                    "position_y": 501
+                },
+                {
+                    "check": [
+                        208,
+                        189,
+                        85
+                    ],
+                    "filename": "KOKOS1_0.png",
+                    "name": "KOKOS",
+                    "position_x": 21,
+                    "position_y": 520
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "KOKOS1_0.png": {
+            "compression": 0,
+            "name": "KOKOS",
+            "position_x": 167,
+            "position_y": 18
+        },
+        "KOKOS1_1.png": {
+            "compression": 0,
+            "name": "KOKOS_COPY_5",
+            "position_x": 184,
+            "position_y": 35
+        },
+        "KOKOS1_10.png": {
+            "compression": 0,
+            "name": "KOKOS_END_COPY_3",
+            "position_x": 158,
+            "position_y": 32
+        },
+        "KOKOS1_11.png": {
+            "compression": 0,
+            "name": "KOKOS_SPADA_COPY_4",
+            "position_x": 168,
+            "position_y": 16
+        },
+        "KOKOS1_12.png": {
+            "compression": 0,
+            "name": "KOKOS_COPY_2",
+            "position_x": 174,
+            "position_y": 25
+        },
+        "KOKOS1_13.png": {
+            "compression": 0,
+            "name": "KOKOS_END_COPY_4",
+            "position_x": 162,
+            "position_y": 36
+        },
+        "KOKOS1_14.png": {
+            "compression": 0,
+            "name": "KOKOS_COPY",
+            "position_x": 171,
+            "position_y": 22
+        },
+        "KOKOS1_2.png": {
+            "compression": 0,
+            "name": "KOKOS_END",
+            "position_x": 167,
+            "position_y": 20
+        },
+        "KOKOS1_3.png": {
+            "compression": 0,
+            "name": "KOKOS_GLOW",
+            "position_x": 161,
+            "position_y": 12
+        },
+        "KOKOS1_4.png": {
+            "compression": 0,
+            "name": "KOKOS_END_COPY",
+            "position_x": 158,
+            "position_y": 17
+        },
+        "KOKOS1_5.png": {
+            "compression": 0,
+            "name": "KOKOS_SPADA_COPY_2",
+            "position_x": 167,
+            "position_y": 18
+        },
+        "KOKOS1_6.png": {
+            "compression": 0,
+            "name": "KOKOS_COPY_4",
+            "position_x": 182,
+            "position_y": 33
+        },
+        "KOKOS1_7.png": {
+            "compression": 0,
+            "name": "KOKOS_END_COPY_2",
+            "position_x": 159,
+            "position_y": 19
+        },
+        "KOKOS1_8.png": {
+            "compression": 0,
+            "name": "KOKOS_SPADA_COPY_3",
+            "position_x": 166,
+            "position_y": 17
+        },
+        "KOKOS1_9.png": {
+            "compression": 0,
+            "name": "KOKOS_COPY_3",
+            "position_x": 177,
+            "position_y": 28
+        }
+    },
+    "transparency": 255
+}

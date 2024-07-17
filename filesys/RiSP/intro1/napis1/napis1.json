@@ -1,0 +1,1358 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        112,
+                        12,
+                        165
+                    ],
+                    "filename": "napis1_0.png",
+                    "name": "1_WPRAWO",
+                    "position_x": -475,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        224,
+                        11,
+                        165
+                    ],
+                    "filename": "napis1_1.png",
+                    "name": "2_WPRAWO",
+                    "position_x": -462,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        80,
+                        11,
+                        165
+                    ],
+                    "filename": "napis1_2.png",
+                    "name": "3_WPRAWO",
+                    "position_x": -454,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        192,
+                        10,
+                        165
+                    ],
+                    "filename": "napis1_3.png",
+                    "name": "4_WPRAWO",
+                    "position_x": -448,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        48,
+                        10,
+                        165
+                    ],
+                    "filename": "napis1_4.png",
+                    "name": "5_WPRAWO",
+                    "position_x": -432,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        160,
+                        9,
+                        165
+                    ],
+                    "filename": "napis1_5.png",
+                    "name": "6_WPRAWO",
+                    "position_x": -424,
+                    "position_y": -34,
+                    "sfx": "sfx\\zuk10.wav",
+                    "sfx_seed": 10815840
+                },
+                {
+                    "check": [
+                        208,
+                        8,
+                        165
+                    ],
+                    "filename": "napis1_6.png",
+                    "name": "7_WPRAWO",
+                    "position_x": -417,
+                    "position_y": -34
+                },
+                {
+                    "check": [
+                        64,
+                        8,
+                        165
+                    ],
+                    "filename": "napis1_7.png",
+                    "name": "8_WPRAWO",
+                    "position_x": -410,
+                    "position_y": -34
+                },
+                {
+                    "check": [
+                        176,
+                        7,
+                        165
+                    ],
+                    "filename": "napis1_0.png",
+                    "name": "1_WPRAWO",
+                    "position_x": -406,
+                    "position_y": -31
+                },
+                {
+                    "check": [
+                        32,
+                        7,
+                        165
+                    ],
+                    "filename": "napis1_1.png",
+                    "name": "2_WPRAWO",
+                    "position_x": -398,
+                    "position_y": -31
+                },
+                {
+                    "check": [
+                        144,
+                        6,
+                        165
+                    ],
+                    "filename": "napis1_2.png",
+                    "name": "3_WPRAWO",
+                    "position_x": -390,
+                    "position_y": -32
+                },
+                {
+                    "check": [],
+                    "filename": "napis1_3.png",
+                    "name": "4_WPRAWO",
+                    "position_x": -384,
+                    "position_y": -34
+                },
+                {
+                    "check": [
+                        112,
+                        5,
+                        165
+                    ],
+                    "filename": "napis1_4.png",
+                    "name": "5_WPRAWO",
+                    "position_x": -376,
+                    "position_y": -36
+                },
+                {
+                    "check": [
+                        224,
+                        4,
+                        165
+                    ],
+                    "filename": "napis1_5.png",
+                    "name": "6_WPRAWO",
+                    "position_x": -371,
+                    "position_y": -36
+                },
+                {
+                    "check": [
+                        80,
+                        4,
+                        165
+                    ],
+                    "filename": "napis1_6.png",
+                    "name": "7_WPRAWO",
+                    "position_x": -366,
+                    "position_y": -37
+                },
+                {
+                    "check": [
+                        192,
+                        3,
+                        165
+                    ],
+                    "filename": "napis1_7.png",
+                    "name": "8_WPRAWO",
+                    "position_x": -345,
+                    "position_y": -37
+                },
+                {
+                    "check": [
+                        48,
+                        3,
+                        165
+                    ],
+                    "filename": "napis1_0.png",
+                    "name": "1_WPRAWO",
+                    "position_x": -340,
+                    "position_y": -34
+                },
+                {
+                    "check": [
+                        160,
+                        2,
+                        165
+                    ],
+                    "filename": "napis1_1.png",
+                    "name": "2_WPRAWO",
+                    "position_x": -331,
+                    "position_y": -34
+                },
+                {
+                    "check": [
+                        16,
+                        2,
+                        165
+                    ],
+                    "filename": "napis1_2.png",
+                    "name": "3_WPRAWO",
+                    "position_x": -321,
+                    "position_y": -34,
+                    "sfx": "sfx\\chrabaszcz4.wav",
+                    "sfx_seed": 10813904
+                },
+                {
+                    "check": [
+                        64,
+                        1,
+                        165
+                    ],
+                    "filename": "napis1_3.png",
+                    "name": "4_WPRAWO",
+                    "position_x": -314,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        176
+                    ],
+                    "filename": "napis1_4.png",
+                    "name": "5_WPRAWO",
+                    "position_x": -304,
+                    "position_y": -35
+                },
+                {
+                    "check": [
+                        224,
+                        31,
+                        165
+                    ],
+                    "filename": "napis1_5.png",
+                    "name": "6_WPRAWO",
+                    "position_x": -299,
+                    "position_y": -35
+                },
+                {
+                    "check": [
+                        80,
+                        31,
+                        165
+                    ],
+                    "filename": "napis1_6.png",
+                    "name": "7_WPRAWO",
+                    "position_x": -294,
+                    "position_y": -35
+                },
+                {
+                    "check": [
+                        192,
+                        30,
+                        165
+                    ],
+                    "filename": "napis1_7.png",
+                    "name": "8_WPRAWO",
+                    "position_x": -286,
+                    "position_y": -37
+                },
+                {
+                    "check": [
+                        48,
+                        30,
+                        165
+                    ],
+                    "filename": "napis1_0.png",
+                    "name": "1_WPRAWO",
+                    "position_x": -275,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        160,
+                        29,
+                        165
+                    ],
+                    "filename": "napis1_1.png",
+                    "name": "2_WPRAWO",
+                    "position_x": -263,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        16,
+                        29,
+                        165
+                    ],
+                    "filename": "napis1_2.png",
+                    "name": "3_WPRAWO",
+                    "position_x": -258,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        128,
+                        28,
+                        165
+                    ],
+                    "filename": "napis1_3.png",
+                    "name": "4_WPRAWO",
+                    "position_x": -250,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        240,
+                        27,
+                        165
+                    ],
+                    "filename": "napis1_4.png",
+                    "name": "5_WPRAWO",
+                    "position_x": -233,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        96,
+                        27,
+                        165
+                    ],
+                    "filename": "napis1_5.png",
+                    "name": "6_WPRAWO",
+                    "position_x": -226,
+                    "position_y": -35
+                },
+                {
+                    "check": [
+                        208,
+                        26,
+                        165
+                    ],
+                    "filename": "napis1_6.png",
+                    "name": "7_WPRAWO",
+                    "position_x": -220,
+                    "position_y": -36
+                },
+                {
+                    "check": [
+                        64,
+                        26,
+                        165
+                    ],
+                    "filename": "napis1_7.png",
+                    "name": "8_WPRAWO",
+                    "position_x": -213,
+                    "position_y": -36
+                },
+                {
+                    "check": [
+                        176,
+                        25,
+                        165
+                    ],
+                    "filename": "napis1_0.png",
+                    "name": "1_WPRAWO",
+                    "position_x": -202,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        32,
+                        25,
+                        165
+                    ],
+                    "filename": "napis1_1.png",
+                    "name": "2_WPRAWO",
+                    "position_x": -189,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        144,
+                        24,
+                        165
+                    ],
+                    "filename": "napis1_2.png",
+                    "name": "3_WPRAWO",
+                    "position_x": -181,
+                    "position_y": -33
+                },
+                {
+                    "check": [],
+                    "filename": "napis1_3.png",
+                    "name": "4_WPRAWO",
+                    "position_x": -175,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        112,
+                        23,
+                        165
+                    ],
+                    "filename": "napis1_4.png",
+                    "name": "5_WPRAWO",
+                    "position_x": -159,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        224,
+                        22,
+                        165
+                    ],
+                    "filename": "napis1_5.png",
+                    "name": "6_WPRAWO",
+                    "position_x": -151,
+                    "position_y": -34
+                },
+                {
+                    "check": [
+                        80,
+                        22,
+                        165
+                    ],
+                    "filename": "napis1_6.png",
+                    "name": "7_WPRAWO",
+                    "position_x": -144,
+                    "position_y": -34
+                },
+                {
+                    "check": [
+                        192,
+                        21,
+                        165
+                    ],
+                    "filename": "napis1_7.png",
+                    "name": "8_WPRAWO",
+                    "position_x": -137,
+                    "position_y": -34
+                },
+                {
+                    "check": [
+                        48,
+                        21,
+                        165
+                    ],
+                    "filename": "napis1_0.png",
+                    "name": "1_WPRAWO",
+                    "position_x": -133,
+                    "position_y": -31
+                },
+                {
+                    "check": [
+                        160,
+                        20,
+                        165
+                    ],
+                    "filename": "napis1_1.png",
+                    "name": "2_WPRAWO",
+                    "position_x": -125,
+                    "position_y": -31
+                },
+                {
+                    "check": [
+                        16,
+                        20,
+                        165
+                    ],
+                    "filename": "napis1_2.png",
+                    "name": "3_WPRAWO",
+                    "position_x": -117,
+                    "position_y": -32
+                },
+                {
+                    "check": [
+                        128,
+                        19,
+                        165
+                    ],
+                    "filename": "napis1_3.png",
+                    "name": "4_WPRAWO",
+                    "position_x": -111,
+                    "position_y": -34
+                },
+                {
+                    "check": [
+                        240,
+                        18,
+                        165
+                    ],
+                    "filename": "napis1_4.png",
+                    "name": "5_WPRAWO",
+                    "position_x": -103,
+                    "position_y": -36
+                },
+                {
+                    "check": [
+                        96,
+                        18,
+                        165
+                    ],
+                    "filename": "napis1_5.png",
+                    "name": "6_WPRAWO",
+                    "position_x": -98,
+                    "position_y": -36
+                },
+                {
+                    "check": [
+                        208,
+                        17,
+                        165
+                    ],
+                    "filename": "napis1_6.png",
+                    "name": "7_WPRAWO",
+                    "position_x": -93,
+                    "position_y": -37
+                },
+                {
+                    "check": [
+                        64,
+                        17,
+                        165
+                    ],
+                    "filename": "napis1_7.png",
+                    "name": "8_WPRAWO",
+                    "position_x": -72,
+                    "position_y": -37
+                },
+                {
+                    "check": [
+                        176,
+                        16,
+                        165
+                    ],
+                    "filename": "napis1_0.png",
+                    "name": "1_WPRAWO",
+                    "position_x": -65,
+                    "position_y": -32
+                },
+                {
+                    "check": [
+                        224,
+                        47,
+                        165
+                    ],
+                    "filename": "napis1_1.png",
+                    "name": "2_WPRAWO",
+                    "position_x": -52,
+                    "position_y": -32
+                },
+                {
+                    "check": [
+                        80,
+                        47,
+                        165
+                    ],
+                    "filename": "napis1_2.png",
+                    "name": "3_WPRAWO",
+                    "position_x": -44,
+                    "position_y": -32
+                },
+                {
+                    "check": [
+                        192,
+                        46,
+                        165
+                    ],
+                    "filename": "napis1_3.png",
+                    "name": "4_WPRAWO",
+                    "position_x": -38,
+                    "position_y": -32
+                },
+                {
+                    "check": [
+                        48,
+                        46,
+                        165
+                    ],
+                    "filename": "napis1_4.png",
+                    "name": "5_WPRAWO",
+                    "position_x": -22,
+                    "position_y": -32
+                },
+                {
+                    "check": [
+                        160,
+                        45,
+                        165
+                    ],
+                    "filename": "napis1_5.png",
+                    "name": "6_WPRAWO",
+                    "position_x": -14,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        16,
+                        45,
+                        165
+                    ],
+                    "filename": "napis1_6.png",
+                    "name": "7_WPRAWO",
+                    "position_x": -7,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        128,
+                        44,
+                        165
+                    ],
+                    "filename": "napis1_7.png",
+                    "name": "8_WPRAWO",
+                    "position_x": 0,
+                    "position_y": -33,
+                    "sfx": "sfx\\zuk6.wav",
+                    "sfx_seed": 10824768
+                },
+                {
+                    "check": [
+                        176,
+                        43,
+                        165
+                    ],
+                    "filename": "napis1_0.png",
+                    "name": "1_WPRAWO",
+                    "position_x": 4,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        32,
+                        43,
+                        165
+                    ],
+                    "filename": "napis1_1.png",
+                    "name": "2_WPRAWO",
+                    "position_x": 12,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        144,
+                        42,
+                        165
+                    ],
+                    "filename": "napis1_2.png",
+                    "name": "3_WPRAWO",
+                    "position_x": 20,
+                    "position_y": -31
+                },
+                {
+                    "check": [],
+                    "filename": "napis1_3.png",
+                    "name": "4_WPRAWO",
+                    "position_x": 26,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        112,
+                        41,
+                        165
+                    ],
+                    "filename": "napis1_4.png",
+                    "name": "5_WPRAWO",
+                    "position_x": 34,
+                    "position_y": -35
+                },
+                {
+                    "check": [
+                        224,
+                        40,
+                        165
+                    ],
+                    "filename": "napis1_5.png",
+                    "name": "6_WPRAWO",
+                    "position_x": 39,
+                    "position_y": -35
+                },
+                {
+                    "check": [
+                        80,
+                        40,
+                        165
+                    ],
+                    "filename": "napis1_6.png",
+                    "name": "7_WPRAWO",
+                    "position_x": 44,
+                    "position_y": -36
+                },
+                {
+                    "check": [
+                        192,
+                        39,
+                        165
+                    ],
+                    "filename": "napis1_7.png",
+                    "name": "8_WPRAWO",
+                    "position_x": 65,
+                    "position_y": -36
+                },
+                {
+                    "check": [
+                        48,
+                        39,
+                        165
+                    ],
+                    "filename": "napis1_0.png",
+                    "name": "1_WPRAWO",
+                    "position_x": 70,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        160,
+                        38,
+                        165
+                    ],
+                    "filename": "napis1_1.png",
+                    "name": "2_WPRAWO",
+                    "position_x": 79,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        16,
+                        38,
+                        165
+                    ],
+                    "filename": "napis1_2.png",
+                    "name": "3_WPRAWO",
+                    "position_x": 89,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        128,
+                        37,
+                        165
+                    ],
+                    "filename": "napis1_3.png",
+                    "name": "4_WPRAWO",
+                    "position_x": 96,
+                    "position_y": -32
+                },
+                {
+                    "check": [
+                        240,
+                        36,
+                        165
+                    ],
+                    "filename": "napis1_4.png",
+                    "name": "5_WPRAWO",
+                    "position_x": 106,
+                    "position_y": -34
+                },
+                {
+                    "check": [
+                        96,
+                        36,
+                        165
+                    ],
+                    "filename": "napis1_5.png",
+                    "name": "6_WPRAWO",
+                    "position_x": 111,
+                    "position_y": -34
+                },
+                {
+                    "check": [
+                        208,
+                        35,
+                        165
+                    ],
+                    "filename": "napis1_6.png",
+                    "name": "7_WPRAWO",
+                    "position_x": 116,
+                    "position_y": -34
+                },
+                {
+                    "check": [
+                        64,
+                        35,
+                        165
+                    ],
+                    "filename": "napis1_7.png",
+                    "name": "8_WPRAWO",
+                    "position_x": 124,
+                    "position_y": -36
+                },
+                {
+                    "check": [
+                        176,
+                        34,
+                        165
+                    ],
+                    "filename": "napis1_0.png",
+                    "name": "1_WPRAWO",
+                    "position_x": 135,
+                    "position_y": -32
+                },
+                {
+                    "check": [
+                        32,
+                        34,
+                        165
+                    ],
+                    "filename": "napis1_1.png",
+                    "name": "2_WPRAWO",
+                    "position_x": 147,
+                    "position_y": -32
+                },
+                {
+                    "check": [
+                        144,
+                        33,
+                        165
+                    ],
+                    "filename": "napis1_2.png",
+                    "name": "3_WPRAWO",
+                    "position_x": 152,
+                    "position_y": -32
+                },
+                {
+                    "check": [],
+                    "filename": "napis1_3.png",
+                    "name": "4_WPRAWO",
+                    "position_x": 160,
+                    "position_y": -32
+                },
+                {
+                    "check": [
+                        112,
+                        32,
+                        165
+                    ],
+                    "filename": "napis1_4.png",
+                    "name": "5_WPRAWO",
+                    "position_x": 177,
+                    "position_y": -32
+                },
+                {
+                    "check": [
+                        48,
+                        32,
+                        165
+                    ],
+                    "filename": "napis1_5.png",
+                    "name": "6_WPRAWO",
+                    "position_x": 184,
+                    "position_y": -34
+                },
+                {
+                    "check": [
+                        64,
+                        63,
+                        165
+                    ],
+                    "filename": "napis1_6.png",
+                    "name": "7_WPRAWO",
+                    "position_x": 190,
+                    "position_y": -35
+                },
+                {
+                    "check": [
+                        176,
+                        62,
+                        165
+                    ],
+                    "filename": "napis1_7.png",
+                    "name": "8_WPRAWO",
+                    "position_x": 197,
+                    "position_y": -35
+                },
+                {
+                    "check": [
+                        32,
+                        62,
+                        165
+                    ],
+                    "filename": "napis1_0.png",
+                    "name": "1_WPRAWO",
+                    "position_x": 208,
+                    "position_y": -32
+                },
+                {
+                    "check": [
+                        144,
+                        61,
+                        165
+                    ],
+                    "filename": "napis1_1.png",
+                    "name": "2_WPRAWO",
+                    "position_x": 221,
+                    "position_y": -32
+                },
+                {
+                    "check": [],
+                    "filename": "napis1_2.png",
+                    "name": "3_WPRAWO",
+                    "position_x": 229,
+                    "position_y": -32
+                },
+                {
+                    "check": [
+                        112,
+                        60,
+                        165
+                    ],
+                    "filename": "napis1_3.png",
+                    "name": "4_WPRAWO",
+                    "position_x": 235,
+                    "position_y": -32,
+                    "sfx": "sfx\\chrabaszcz1.wav",
+                    "sfx_seed": 10828848
+                },
+                {
+                    "check": [
+                        160,
+                        59,
+                        165
+                    ],
+                    "filename": "napis1_4.png",
+                    "name": "5_WPRAWO",
+                    "position_x": 251,
+                    "position_y": -32
+                },
+                {
+                    "check": [
+                        16,
+                        59,
+                        165
+                    ],
+                    "filename": "napis1_5.png",
+                    "name": "6_WPRAWO",
+                    "position_x": 259,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        128,
+                        58,
+                        165
+                    ],
+                    "filename": "napis1_6.png",
+                    "name": "7_WPRAWO",
+                    "position_x": 266,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        240,
+                        57,
+                        165
+                    ],
+                    "filename": "napis1_7.png",
+                    "name": "8_WPRAWO",
+                    "position_x": 273,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        96,
+                        57,
+                        165
+                    ],
+                    "filename": "napis1_0.png",
+                    "name": "1_WPRAWO",
+                    "position_x": 277,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        208,
+                        56,
+                        165
+                    ],
+                    "filename": "napis1_1.png",
+                    "name": "2_WPRAWO",
+                    "position_x": 285,
+                    "position_y": -30
+                },
+                {
+                    "check": [
+                        64,
+                        56,
+                        165
+                    ],
+                    "filename": "napis1_2.png",
+                    "name": "3_WPRAWO",
+                    "position_x": 293,
+                    "position_y": -31
+                },
+                {
+                    "check": [
+                        176,
+                        55,
+                        165
+                    ],
+                    "filename": "napis1_3.png",
+                    "name": "4_WPRAWO",
+                    "position_x": 299,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        32,
+                        55,
+                        165
+                    ],
+                    "filename": "napis1_4.png",
+                    "name": "5_WPRAWO",
+                    "position_x": 307,
+                    "position_y": -35
+                },
+                {
+                    "check": [
+                        144,
+                        168,
+                        165
+                    ],
+                    "filename": "napis1_5.png",
+                    "name": "6_WPRAWO",
+                    "position_x": 312,
+                    "position_y": -35,
+                    "sfx": "sfx\\zuk13.wav",
+                    "sfx_seed": 10859168
+                },
+                {
+                    "check": [
+                        192,
+                        53,
+                        165
+                    ],
+                    "filename": "napis1_6.png",
+                    "name": "7_WPRAWO",
+                    "position_x": 317,
+                    "position_y": -36
+                },
+                {
+                    "check": [
+                        48,
+                        53,
+                        165
+                    ],
+                    "filename": "napis1_7.png",
+                    "name": "8_WPRAWO",
+                    "position_x": 338,
+                    "position_y": -36
+                },
+                {
+                    "check": [
+                        160,
+                        52,
+                        165
+                    ],
+                    "filename": "napis1_0.png",
+                    "name": "1_WPRAWO",
+                    "position_x": 346,
+                    "position_y": -34
+                },
+                {
+                    "check": [
+                        16,
+                        52,
+                        165
+                    ],
+                    "filename": "napis1_1.png",
+                    "name": "2_WPRAWO",
+                    "position_x": 359,
+                    "position_y": -34
+                },
+                {
+                    "check": [
+                        128,
+                        51,
+                        165
+                    ],
+                    "filename": "napis1_2.png",
+                    "name": "3_WPRAWO",
+                    "position_x": 367,
+                    "position_y": -34
+                },
+                {
+                    "check": [
+                        240,
+                        50,
+                        165
+                    ],
+                    "filename": "napis1_3.png",
+                    "name": "4_WPRAWO",
+                    "position_x": 373,
+                    "position_y": -34
+                },
+                {
+                    "check": [
+                        96,
+                        50,
+                        165
+                    ],
+                    "filename": "napis1_4.png",
+                    "name": "5_WPRAWO",
+                    "position_x": 389,
+                    "position_y": -34
+                },
+                {
+                    "check": [
+                        208,
+                        49,
+                        165
+                    ],
+                    "filename": "napis1_5.png",
+                    "name": "6_WPRAWO",
+                    "position_x": 397,
+                    "position_y": -35
+                },
+                {
+                    "check": [
+                        64,
+                        49,
+                        165
+                    ],
+                    "filename": "napis1_6.png",
+                    "name": "7_WPRAWO",
+                    "position_x": 404,
+                    "position_y": -35
+                },
+                {
+                    "check": [
+                        176,
+                        48,
+                        165
+                    ],
+                    "filename": "napis1_7.png",
+                    "name": "8_WPRAWO",
+                    "position_x": 411,
+                    "position_y": -35
+                },
+                {
+                    "check": [
+                        224,
+                        79,
+                        165
+                    ],
+                    "filename": "napis1_0.png",
+                    "name": "1_WPRAWO",
+                    "position_x": 415,
+                    "position_y": -32
+                },
+                {
+                    "check": [
+                        80,
+                        79,
+                        165
+                    ],
+                    "filename": "napis1_1.png",
+                    "name": "2_WPRAWO",
+                    "position_x": 423,
+                    "position_y": -32
+                },
+                {
+                    "check": [
+                        192,
+                        78,
+                        165
+                    ],
+                    "filename": "napis1_2.png",
+                    "name": "3_WPRAWO",
+                    "position_x": 431,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        48,
+                        78,
+                        165
+                    ],
+                    "filename": "napis1_3.png",
+                    "name": "4_WPRAWO",
+                    "position_x": 437,
+                    "position_y": -35
+                },
+                {
+                    "check": [
+                        160,
+                        77,
+                        165
+                    ],
+                    "filename": "napis1_4.png",
+                    "name": "5_WPRAWO",
+                    "position_x": 445,
+                    "position_y": -37
+                },
+                {
+                    "check": [
+                        16,
+                        77,
+                        165
+                    ],
+                    "filename": "napis1_5.png",
+                    "name": "6_WPRAWO",
+                    "position_x": 450,
+                    "position_y": -37
+                },
+                {
+                    "check": [
+                        128,
+                        76,
+                        165
+                    ],
+                    "filename": "napis1_6.png",
+                    "name": "7_WPRAWO",
+                    "position_x": 455,
+                    "position_y": -38
+                },
+                {
+                    "check": [
+                        240,
+                        75,
+                        165
+                    ],
+                    "filename": "napis1_7.png",
+                    "name": "8_WPRAWO",
+                    "position_x": 476,
+                    "position_y": -38
+                },
+                {
+                    "check": [
+                        96,
+                        75,
+                        165
+                    ],
+                    "filename": "napis1_0.png",
+                    "name": "1_WPRAWO",
+                    "position_x": 484,
+                    "position_y": -34
+                },
+                {
+                    "check": [
+                        208,
+                        74,
+                        165
+                    ],
+                    "filename": "napis1_1.png",
+                    "name": "2_WPRAWO",
+                    "position_x": 501,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        64,
+                        74,
+                        165
+                    ],
+                    "filename": "napis1_2.png",
+                    "name": "3_WPRAWO",
+                    "position_x": 509,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        176,
+                        73,
+                        165
+                    ],
+                    "filename": "napis1_3.png",
+                    "name": "4_WPRAWO",
+                    "position_x": 510,
+                    "position_y": -33
+                },
+                {
+                    "check": [
+                        32,
+                        73,
+                        165
+                    ],
+                    "filename": "napis1_4.png",
+                    "name": "5_WPRAWO",
+                    "position_x": 525,
+                    "position_y": -30
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "napis1_0.png": {
+            "compression": 4,
+            "name": "1_WPRAWO",
+            "position_x": 267,
+            "position_y": 152
+        },
+        "napis1_1.png": {
+            "compression": 4,
+            "name": "2_WPRAWO",
+            "position_x": 265,
+            "position_y": 152
+        },
+        "napis1_2.png": {
+            "compression": 4,
+            "name": "3_WPRAWO",
+            "position_x": 266,
+            "position_y": 156
+        },
+        "napis1_3.png": {
+            "compression": 4,
+            "name": "4_WPRAWO",
+            "position_x": 269,
+            "position_y": 152
+        },
+        "napis1_4.png": {
+            "compression": 4,
+            "name": "5_WPRAWO",
+            "position_x": 268,
+            "position_y": 152
+        },
+        "napis1_5.png": {
+            "compression": 4,
+            "name": "6_WPRAWO",
+            "position_x": 266,
+            "position_y": 152
+        },
+        "napis1_6.png": {
+            "compression": 4,
+            "name": "7_WPRAWO",
+            "position_x": 265,
+            "position_y": 156
+        },
+        "napis1_7.png": {
+            "compression": 4,
+            "name": "8_WPRAWO",
+            "position_x": 265,
+            "position_y": 154
+        }
+    },
+    "transparency": 255
+}

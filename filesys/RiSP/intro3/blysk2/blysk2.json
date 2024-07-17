@@ -1,0 +1,220 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        224,
+                        92,
+                        164
+                    ],
+                    "filename": "blysk2_0.png",
+                    "name": "NIC",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "sfx\\00intro5.wav",
+                    "sfx_seed": 10830256
+                },
+                {
+                    "check": [
+                        240,
+                        121,
+                        164
+                    ],
+                    "filename": "blysk2_1.png",
+                    "name": "BLYSKAWICA2 COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        121,
+                        164
+                    ],
+                    "filename": "blysk2_2.png",
+                    "name": "BLYSKAWICA2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        208,
+                        120,
+                        164
+                    ],
+                    "filename": "blysk2_2.png",
+                    "name": "BLYSKAWICA2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        112,
+                        92,
+                        164
+                    ],
+                    "filename": "blysk2_0.png",
+                    "name": "NIC",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        240,
+                        119,
+                        164
+                    ],
+                    "filename": "blysk2_2.png",
+                    "name": "BLYSKAWICA2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        119,
+                        164
+                    ],
+                    "filename": "blysk2_1.png",
+                    "name": "BLYSKAWICA2 COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        224,
+                        118,
+                        164
+                    ],
+                    "filename": "blysk2_0.png",
+                    "name": "NIC",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        80,
+                        118,
+                        164
+                    ],
+                    "filename": "blysk2_1.png",
+                    "name": "BLYSKAWICA2 COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        192,
+                        117,
+                        164
+                    ],
+                    "filename": "blysk2_2.png",
+                    "name": "BLYSKAWICA2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        48,
+                        117,
+                        164
+                    ],
+                    "filename": "blysk2_2.png",
+                    "name": "BLYSKAWICA2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        176,
+                        116,
+                        164
+                    ],
+                    "filename": "blysk2_0.png",
+                    "name": "NIC",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        32,
+                        116,
+                        164
+                    ],
+                    "filename": "blysk2_2.png",
+                    "name": "BLYSKAWICA2",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        144,
+                        115,
+                        164
+                    ],
+                    "filename": "blysk2_1.png",
+                    "name": "BLYSKAWICA2 COPY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        16,
+                        115,
+                        164
+                    ],
+                    "filename": "blysk2_0.png",
+                    "name": "NIC",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "blysk2_0.png": {
+            "compression": 4,
+            "name": "NIC",
+            "position_x": 96,
+            "position_y": 81
+        },
+        "blysk2_1.png": {
+            "compression": 4,
+            "name": "BLYSKAWICA2 COPY",
+            "position_x": 124,
+            "position_y": 60
+        },
+        "blysk2_2.png": {
+            "compression": 4,
+            "name": "BLYSKAWICA2",
+            "position_x": 124,
+            "position_y": 60
+        }
+    },
+    "transparency": 255
+}

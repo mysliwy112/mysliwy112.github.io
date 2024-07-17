@@ -1,0 +1,50 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "Click": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FocusOff": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FocusOn": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "MASKA": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "MASKA_0.png",
+                    "name": "LAYER 1",
+                    "position_x": 64,
+                    "position_y": 493
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NoEvent": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "MASKA_0.png": {
+            "compression": 4,
+            "name": "LAYER 1"
+        }
+    },
+    "transparency": 255
+}

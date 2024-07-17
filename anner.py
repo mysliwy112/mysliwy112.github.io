@@ -1,55 +1,213 @@
-import subprocess as sub
-import os
+import argparse
+from dataclasses import astuple, dataclass
 import json
-import shutil
+import logging
+import os
+from pathlib import Path
+import subprocess
 import sys
 
-anndrzemPath=r"E:\AidemMedia\ANN-decoder\bin\Release\Anndrzem.exe"
-inputPaths=[
-	# [r"E:\AidemMedia\ORIG\Reksio i Skarb Piratów ORIG","RiSP",{"Dane":"","Intro":"","MainMenu":""}],
-	# [r"E:\AidemMedia\ORIG\Reksio i Ufo","RiU",{"DANE":"","ReksioUfo":"","PRZYGODA":""}],
-	# [r"E:\AidemMedia\ORIG\Reksio i Czarodzieje O","RiC",{"common":"_common","dane":"","game":"","Przygoda":"","intro":"_intro"}],
-	# [r"E:\AidemMedia\ORIG\Reksio i Wehikuł Czasu ORIG","RiWC",{"common":"_common","Dane":"","Game":"","Przygoda":""}],
-	# ["D:\\","RiKN",{"common":"_common","dane":"","game":"","przygoda":""}]
-	["D:\\","RiKwA",{"common":"_common","dane":"","game":"","przygoda":""}]
-]
-outputPath=r"E:\AidemMedia\ANNbrowser\filesys"
-
-characters={"reksio":"reksio","kret":"kretes"}
-
-dataPath=r"E:\AidemMedia\ANNbrowser\index.json"
-meta=[]
-
-addAnns=1;
+ANNDRZEM_ENV_KEY = "ANNDRZEM"
+DEFAULT_INDEX_PATH = "./index.json"
 
 
-with open(dataPath,"r") as database:
-	try:
-		if addAnns==1:
-			meta=json.load(database)
-	except json.decoder.JSONDecodeError:
-		meta=[]
-try:		
-	for inP in inputPaths:
+class Anndrzem:
+    def __init__(self, exec_path: Path):
+        self.exec_path = exec_path
 
-		for (dirpath, dirnames, filenames) in os.walk(inP[0]):
-			out=dirpath.replace(inP[0]+"\\"*(not inP[0][-1]=="\\"),'')
-			for i in inP[2]:
-				out=out.replace(i,inP[2][i])
-				out=out.replace('\\\\','\\')
-			if len(out)>1 and out[0]=='\\':
-				out=out[1:]
-			for file in filenames:
-				if ".ann" in file:
-					if addAnns==1:
-						sub.run([anndrzemPath,os.path.join(dirpath,file),"-d="+os.path.join(outputPath,inP[1],out,''),"-j","--full"])
-						shutil.copyfile(os.path.join(dirpath,file),os.path.join(outputPath,inP[1],out,file.replace(".ann",''),file))
-					info={}
-					info["path"]=os.path.join(inP[1],out).replace('\\','/')
-					info["characters"]=[characters[char]  for char in characters if char in file]
-					info["name"]=file.replace(".ann",'')
-					meta.append(info)
-except:
-	print(sys.exc_info())
-with open(dataPath,"w") as database:
-	json.dump(meta,database,indent=2)
+    def run(self, ann_path: Path, output_dir: Path):
+        subprocess.run(
+            [
+                self.exec_path,
+                ann_path,
+                f"-d={output_dir}{os.sep}",
+                "-j",
+                "--full",
+            ],
+            input=b"n\n",
+            timeout=10,
+            check=True,
+            capture_output=True,
+        )
+
+
+@dataclass
+class DirMapping:
+    """A pair of directory paths (absolute or relative) where one points to the source and the other to the destination.
+
+    Attributes:
+        src (Path): Source dir.
+        dst (Path): Destination dir.
+
+    """
+
+    src: Path
+    dst: Path
+
+    def __iter__(self):
+        return iter(astuple(self))
+
+    def __str__(self) -> str:
+        return f"{self.src}{os.pathsep}{self.dst}"
+
+    @staticmethod
+    def from_string(value: str) -> "DirMapping":
+        if os.pathsep in value:
+            src, dst = map(Path, value.split(os.pathsep))
+        else:
+            src = Path(value)
+            dst = Path(src.name)
+        return DirMapping(src, dst)
+
+
+def main(
+    anndrzem_path: str,
+    index_path: str,
+    output_path: str,
+    search_roots: list[DirMapping],
+    subdir_mappings: list[DirMapping],
+    clear_index: bool = False,
+    dry_run: bool = False,
+    logger: logging.Logger | None = None,
+):
+    anndrzem = Anndrzem(anndrzem_path)
+    index = []
+    if not clear_index:
+        try:
+            with open(index_path, "r") as index_file:
+                index = json.load(index_file)
+        except FileNotFoundError:
+            if logger:
+                logger.warning(f"Index file '{index_path}' does not exist. Starting from square one. No, from zero.")
+    index_set = set(map(lambda entry: f"{entry['path']}{os.sep}{entry['name']}".lower(), index))
+    for search_root in search_roots:
+        for dirpath, _, filenames in os.walk(search_root.src):
+            output_subdir = Path(os.path.relpath(dirpath, search_root.src))
+            output_subdir = Path(
+                *map(
+                    lambda part: next(
+                        map(
+                            lambda mapping: mapping.dst,
+                            filter(
+                                lambda mapping: part.lower() == str(mapping.src).lower(),
+                                subdir_mappings,
+                            ),
+                        ),
+                        part,
+                    ),
+                    output_subdir.parts,
+                ),
+            )
+            output_subdir = search_root.dst / output_subdir
+            if logger:
+                logger.debug(f"Output subdir for source '{dirpath}' is '{output_subdir}'")
+            for file in filenames:
+                file = Path(file)
+                if file.suffix.lower() != ".ann":
+                    continue
+                entry = {
+                    "path": str(output_subdir).replace(os.sep, "/"),
+                    "name": str(file.with_suffix("")),
+                }
+                if f"{entry['path']}{os.sep}{entry['name']}".lower() in index_set:
+                    continue
+                try:
+                    if not dry_run:
+                        anndrzem.run(
+                            dirpath / file,
+                            output_path / output_subdir,
+                        )
+                    index.append(entry)
+                    if logger:
+                        logger.info(f"Succesfully processed file '{file}' at '{dirpath}'")
+                except Exception:
+                    if logger:
+                        logger.exception(f"Error processing file '{file}' at '{dirpath}'")
+    if not dry_run:
+        with open(index_path, "w") as index_file:
+            json.dump(index, index_file, indent=2)
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(
+        description="Create/update the database of extracted .ann files"
+    )
+    parser.add_argument(
+        "--anndrzem",
+        required=os.environ.get(ANNDRZEM_ENV_KEY) is None,
+        default=os.environ.get(ANNDRZEM_ENV_KEY),
+        type=Path,
+        help=f"path to the Anndrzem executable (can be also set using '{ANNDRZEM_ENV_KEY}' env)",
+    )
+    parser.add_argument(
+        "--index",
+        "-i",
+        type=Path,
+        default=DEFAULT_INDEX_PATH,
+        help=f"path to the index of extracted files (default: '{DEFAULT_INDEX_PATH}')",
+    )
+    parser.add_argument(
+        "--clear-index",
+        action="store_true",
+        help="clear the index of extracted files",
+    )
+    parser.add_argument(
+        "--subdir-mapping",
+        type=DirMapping.from_string,
+        nargs="*",
+        default=[
+            DirMapping("dane", ""),
+            DirMapping("game", ""),
+            DirMapping("przygoda", ""),
+            DirMapping("intro", ""),
+            DirMapping("mainmenu", ""),
+            DirMapping("reksioufo", ""),
+            DirMapping("common", "_common"),
+        ],
+        help="mappings of path parts from source (the location of .ann) to destination (extracted images);\n"
+        + f"pair elements are to be separated using OS path separator (which is '{os.pathsep}')",
+    )
+    parser.add_argument(
+        "--dry-run",
+        "-n",
+        action="store_true",
+        help="simulate the process without extracting .anns nor modifying the index of extracted files",
+    )
+    parser.add_argument(
+        "--verbose",
+        "-v",
+        action="store_true",
+        help="enable debug logs",
+    )
+    parser.add_argument(
+        "output_path", type=Path, help="output path for extracting .anns"
+    )
+    parser.add_argument(
+        "search_root",
+        type=DirMapping.from_string,
+        nargs="+",
+        help="mapping of search roots to subdirs inside the output path for extracting .anns;\n"
+        + f"pair elements are to be separated using OS path separator (which is '{os.pathsep}')",
+    )
+    args = parser.parse_args()
+
+    logger = logging.getLogger(__name__)
+    logger.setLevel(logging.DEBUG if args.verbose else logging.INFO)
+    stdour_handler = logging.StreamHandler(sys.stdout)
+    stdour_handler.setLevel(logging.DEBUG)
+    stdour_handler.addFilter(lambda log: log.levelno <= logging.INFO)
+    stderr_handler = logging.StreamHandler()
+    stderr_handler.setLevel(logging.WARNING)
+    logger.addHandler(stdour_handler)
+    logger.addHandler(stderr_handler)
+
+    main(
+        args.anndrzem or os.environ.get("ANNDRZEM"),
+        args.index,
+        args.output_path,
+        args.search_root,
+        args.subdir_mapping,
+        args.clear_index,
+        args.dry_run,
+        logger,
+    )

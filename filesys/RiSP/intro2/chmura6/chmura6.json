@@ -1,0 +1,52 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "CLICK": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSOFF": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FOCUSON": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NOEVENT": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "PLAY": {
+            "frames": [
+                {
+                    "check": [
+                        72,
+                        88,
+                        84
+                    ],
+                    "filename": "chmura6_0.png",
+                    "name": "LAYER 17",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "chmura6_0.png": {
+            "compression": 4,
+            "name": "LAYER 17",
+            "position_x": 330,
+            "position_y": 208
+        }
+    },
+    "transparency": 255
+}

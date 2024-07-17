@@ -1,0 +1,1760 @@
+{
+    "author": "Piotr Maciejewski",
+    "bpp": 16,
+    "events": {
+        "Click": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FAILED": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_3.png",
+                    "name": "1_KOLIZJA",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\00rex2.wav",
+                    "sfx_seed": 14044760
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_7.png",
+                    "name": "2_KOLIZJA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_12.png",
+                    "name": "3_KOLIZJA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_16.png",
+                    "name": "4_KOLIZJA",
+                    "position_x": -10,
+                    "position_y": 3
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_21.png",
+                    "name": "5_KOLIZJA",
+                    "position_x": -25,
+                    "position_y": 10
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_24.png",
+                    "name": "6_KOLIZJA",
+                    "position_x": -32,
+                    "position_y": 18
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_27.png",
+                    "name": "7_KOLIZJA",
+                    "position_x": -33,
+                    "position_y": 14
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_30.png",
+                    "name": "8_KOLIZJA",
+                    "position_x": -31,
+                    "position_y": 16
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_32.png",
+                    "name": "4_POLPRZYTOMNY",
+                    "position_x": -22,
+                    "position_y": 33
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_33.png",
+                    "name": "5_POLPRZYTOMNY",
+                    "position_x": -26,
+                    "position_y": 40
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_34.png",
+                    "name": "6_POLPRZYTOMNY",
+                    "position_x": -14,
+                    "position_y": 42
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_35.png",
+                    "name": "7_POLPRZYTOMNY",
+                    "position_x": -12,
+                    "position_y": 42
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_36.png",
+                    "name": "8_POLPRZYTOMNY",
+                    "position_x": 3,
+                    "position_y": 47
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_37.png",
+                    "name": "9_POLPRZYTOMNY",
+                    "position_x": 12,
+                    "position_y": 52
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_39.png",
+                    "name": "10_POLPRZYTOMNY",
+                    "position_x": 10,
+                    "position_y": 57
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_41.png",
+                    "name": "11_POLPRZYTOMNY",
+                    "position_x": 19,
+                    "position_y": 60
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_43.png",
+                    "name": "12_POLPRZYTOMNY",
+                    "position_x": 1,
+                    "position_y": 62
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_45.png",
+                    "name": "1_POLPRZYTOMNY",
+                    "position_x": -10,
+                    "position_y": 66
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_47.png",
+                    "name": "2_POLPRZYTOMNY",
+                    "position_x": -20,
+                    "position_y": 67
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_49.png",
+                    "name": "3_POLPRZYTOMNY",
+                    "position_x": -22,
+                    "position_y": 71
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FAILED1": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_3.png",
+                    "name": "1_KOLIZJA",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\00rex2.wav",
+                    "sfx_seed": 14046316
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_7.png",
+                    "name": "2_KOLIZJA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_12.png",
+                    "name": "3_KOLIZJA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_16.png",
+                    "name": "4_KOLIZJA",
+                    "position_x": -10,
+                    "position_y": 3
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_21.png",
+                    "name": "5_KOLIZJA",
+                    "position_x": -25,
+                    "position_y": 10
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_24.png",
+                    "name": "6_KOLIZJA",
+                    "position_x": -32,
+                    "position_y": 18
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_27.png",
+                    "name": "7_KOLIZJA",
+                    "position_x": -33,
+                    "position_y": 14
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_30.png",
+                    "name": "8_KOLIZJA",
+                    "position_x": -31,
+                    "position_y": 16
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_32.png",
+                    "name": "4_POLPRZYTOMNY",
+                    "position_x": -22,
+                    "position_y": 33
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_33.png",
+                    "name": "5_POLPRZYTOMNY",
+                    "position_x": -26,
+                    "position_y": 40
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_34.png",
+                    "name": "6_POLPRZYTOMNY",
+                    "position_x": -14,
+                    "position_y": 42
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_35.png",
+                    "name": "7_POLPRZYTOMNY",
+                    "position_x": -12,
+                    "position_y": 42
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_36.png",
+                    "name": "8_POLPRZYTOMNY",
+                    "position_x": 3,
+                    "position_y": 47
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_37.png",
+                    "name": "9_POLPRZYTOMNY",
+                    "position_x": 12,
+                    "position_y": 52
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_39.png",
+                    "name": "10_POLPRZYTOMNY",
+                    "position_x": 10,
+                    "position_y": 57
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_41.png",
+                    "name": "11_POLPRZYTOMNY",
+                    "position_x": 19,
+                    "position_y": 60
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_43.png",
+                    "name": "12_POLPRZYTOMNY",
+                    "position_x": 1,
+                    "position_y": 62
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_45.png",
+                    "name": "1_POLPRZYTOMNY",
+                    "position_x": -10,
+                    "position_y": 66
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_47.png",
+                    "name": "2_POLPRZYTOMNY",
+                    "position_x": -20,
+                    "position_y": 67
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_49.png",
+                    "name": "3_POLPRZYTOMNY",
+                    "position_x": -22,
+                    "position_y": 71
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FocusOff": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "FocusOn": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "IDLE": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_0.png",
+                    "name": "1_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_5.png",
+                    "name": "2_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_9.png",
+                    "name": "3_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_14.png",
+                    "name": "4_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_18.png",
+                    "name": "5_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_14.png",
+                    "name": "4_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_9.png",
+                    "name": "3_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_5.png",
+                    "name": "2_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_0.png",
+                    "name": "1_BEZRUCH",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "NoEvent": {
+            "frames": [],
+            "loop": 0,
+            "transparency": 255
+        },
+        "SUCCESS": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_4.png",
+                    "name": "1_ZADOWOLONY",
+                    "position_x": 0,
+                    "position_y": 0,
+                    "sfx": "SFX\\00rex1.wav",
+                    "sfx_seed": 14047872
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_8.png",
+                    "name": "2_ZADOWOLONY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_13.png",
+                    "name": "3_ZADOWOLONY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_17.png",
+                    "name": "4_ZADOWOLONY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_22.png",
+                    "name": "5_ZADOWOLONY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_25.png",
+                    "name": "6_ZADOWOLONY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_28.png",
+                    "name": "7_ZADOWOLONY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_25.png",
+                    "name": "6_ZADOWOLONY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_22.png",
+                    "name": "5_ZADOWOLONY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_17.png",
+                    "name": "4_ZADOWOLONY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_22.png",
+                    "name": "5_ZADOWOLONY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_25.png",
+                    "name": "6_ZADOWOLONY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_28.png",
+                    "name": "7_ZADOWOLONY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_25.png",
+                    "name": "6_ZADOWOLONY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_22.png",
+                    "name": "5_ZADOWOLONY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_17.png",
+                    "name": "4_ZADOWOLONY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_22.png",
+                    "name": "5_ZADOWOLONY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_25.png",
+                    "name": "6_ZADOWOLONY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_28.png",
+                    "name": "7_ZADOWOLONY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_25.png",
+                    "name": "6_ZADOWOLONY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_22.png",
+                    "name": "5_ZADOWOLONY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_17.png",
+                    "name": "4_ZADOWOLONY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_22.png",
+                    "name": "5_ZADOWOLONY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_25.png",
+                    "name": "6_ZADOWOLONY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_28.png",
+                    "name": "7_ZADOWOLONY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_25.png",
+                    "name": "6_ZADOWOLONY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_22.png",
+                    "name": "5_ZADOWOLONY",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_17.png",
+                    "name": "4_ZADOWOLONY",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "THROW0": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_1.png",
+                    "name": "1_RZUCA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_6.png",
+                    "name": "2_RZUCA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_10.png",
+                    "name": "3_RZUCA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_15.png",
+                    "name": "4_RZUCA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_19.png",
+                    "name": "5_RZUCA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_23.png",
+                    "name": "6_RZUCA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_26.png",
+                    "name": "7_RZUCA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_29.png",
+                    "name": "8_RZUCA",
+                    "position_x": 0,
+                    "position_y": 0
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_31.png",
+                    "name": "9_RZUCA",
+                    "position_x": 0,
+                    "position_y": 0
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        },
+        "THROW1": {
+            "frames": [
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_2.png",
+                    "name": "1_POMYJE",
+                    "position_x": -33,
+                    "position_y": -96
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_2.png",
+                    "name": "1_POMYJE",
+                    "position_x": -33,
+                    "position_y": -96
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_11.png",
+                    "name": "2_POMYJE",
+                    "position_x": -33,
+                    "position_y": -96
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_11.png",
+                    "name": "2_POMYJE",
+                    "position_x": -33,
+                    "position_y": -96
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_20.png",
+                    "name": "3_POMYJE",
+                    "position_x": -33,
+                    "position_y": -96
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_20.png",
+                    "name": "3_POMYJE",
+                    "position_x": -33,
+                    "position_y": -96
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_11.png",
+                    "name": "2_POMYJE",
+                    "position_x": -33,
+                    "position_y": -96
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_11.png",
+                    "name": "2_POMYJE",
+                    "position_x": -33,
+                    "position_y": -96
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_2.png",
+                    "name": "1_POMYJE",
+                    "position_x": -33,
+                    "position_y": -96
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_2.png",
+                    "name": "1_POMYJE",
+                    "position_x": -33,
+                    "position_y": -96
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_11.png",
+                    "name": "2_POMYJE",
+                    "position_x": -33,
+                    "position_y": -96
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_11.png",
+                    "name": "2_POMYJE",
+                    "position_x": -33,
+                    "position_y": -96
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_20.png",
+                    "name": "3_POMYJE",
+                    "position_x": -33,
+                    "position_y": -96
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_20.png",
+                    "name": "3_POMYJE",
+                    "position_x": -33,
+                    "position_y": -96
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_38.png",
+                    "name": "4_POMYJE",
+                    "position_x": -33,
+                    "position_y": -96,
+                    "sfx": "SFX\\00rex3.wav",
+                    "sfx_seed": 14049428
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_40.png",
+                    "name": "5_POMYJE",
+                    "position_x": -33,
+                    "position_y": -96
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_42.png",
+                    "name": "6_POMYJE",
+                    "position_x": -33,
+                    "position_y": -96
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_44.png",
+                    "name": "7_POMYJE",
+                    "position_x": -33,
+                    "position_y": -96
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_46.png",
+                    "name": "8_POMYJE",
+                    "position_x": -33,
+                    "position_y": -96
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_48.png",
+                    "name": "9_POMYJE",
+                    "position_x": -33,
+                    "position_y": -96
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_50.png",
+                    "name": "10_POMYJE",
+                    "position_x": -33,
+                    "position_y": -96
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_51.png",
+                    "name": "11_POMYJE",
+                    "position_x": -33,
+                    "position_y": -96
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_52.png",
+                    "name": "12_POMYJE",
+                    "position_x": -33,
+                    "position_y": -96
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_53.png",
+                    "name": "13_POMYJE",
+                    "position_x": -33,
+                    "position_y": -96
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_54.png",
+                    "name": "14_POMYJE",
+                    "position_x": -33,
+                    "position_y": -96
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_55.png",
+                    "name": "15_POMYJE",
+                    "position_x": -33,
+                    "position_y": -96
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_56.png",
+                    "name": "16_POMYJE",
+                    "position_x": -33,
+                    "position_y": -96
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_57.png",
+                    "name": "17_POMYJE",
+                    "position_x": -33,
+                    "position_y": -96
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_58.png",
+                    "name": "18_POMYJE",
+                    "position_x": -33,
+                    "position_y": -96
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_59.png",
+                    "name": "19_POMYJE",
+                    "position_x": -33,
+                    "position_y": -96
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_59.png",
+                    "name": "19_POMYJE",
+                    "position_x": -33,
+                    "position_y": -96
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_59.png",
+                    "name": "19_POMYJE",
+                    "position_x": -33,
+                    "position_y": -96
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_59.png",
+                    "name": "19_POMYJE",
+                    "position_x": -33,
+                    "position_y": -96
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_59.png",
+                    "name": "19_POMYJE",
+                    "position_x": -33,
+                    "position_y": -96
+                },
+                {
+                    "check": [
+                        96,
+                        153,
+                        84
+                    ],
+                    "filename": "REKSIO_59.png",
+                    "name": "19_POMYJE",
+                    "position_x": -33,
+                    "position_y": -96
+                }
+            ],
+            "loop": 0,
+            "transparency": 255
+        }
+    },
+    "images": {
+        "REKSIO_0.png": {
+            "compression": 3,
+            "name": "1_BEZRUCH",
+            "position_x": 24,
+            "position_y": 36
+        },
+        "REKSIO_1.png": {
+            "compression": 3,
+            "name": "1_RZUCA",
+            "position_x": 19,
+            "position_y": 29
+        },
+        "REKSIO_10.png": {
+            "compression": 3,
+            "name": "3_RZUCA",
+            "position_x": 10,
+            "position_y": 28
+        },
+        "REKSIO_11.png": {
+            "compression": 3,
+            "name": "2_POMYJE",
+            "position_x": 50,
+            "position_y": 129
+        },
+        "REKSIO_12.png": {
+            "compression": 3,
+            "name": "3_KOLIZJA",
+            "position_x": -11,
+            "position_y": 9
+        },
+        "REKSIO_13.png": {
+            "compression": 3,
+            "name": "3_ZADOWOLONY",
+            "position_x": 15,
+            "position_y": 27
+        },
+        "REKSIO_14.png": {
+            "compression": 3,
+            "name": "4_BEZRUCH",
+            "position_x": 21,
+            "position_y": 30
+        },
+        "REKSIO_15.png": {
+            "compression": 3,
+            "name": "4_RZUCA",
+            "position_x": 13,
+            "position_y": 2
+        },
+        "REKSIO_16.png": {
+            "compression": 3,
+            "name": "4_KOLIZJA",
+            "position_x": -19,
+            "position_y": 14
+        },
+        "REKSIO_17.png": {
+            "compression": 3,
+            "name": "4_ZADOWOLONY",
+            "position_x": 18,
+            "position_y": 25
+        },
+        "REKSIO_18.png": {
+            "compression": 3,
+            "name": "5_BEZRUCH",
+            "position_x": 18,
+            "position_y": 23
+        },
+        "REKSIO_19.png": {
+            "compression": 3,
+            "name": "5_RZUCA",
+            "position_x": 15,
+            "position_y": 9
+        },
+        "REKSIO_2.png": {
+            "compression": 3,
+            "name": "1_POMYJE",
+            "position_x": 51,
+            "position_y": 129
+        },
+        "REKSIO_20.png": {
+            "compression": 3,
+            "name": "3_POMYJE",
+            "position_x": 49,
+            "position_y": 128
+        },
+        "REKSIO_21.png": {
+            "compression": 3,
+            "name": "5_KOLIZJA",
+            "position_x": 24,
+            "position_y": 9
+        },
+        "REKSIO_22.png": {
+            "compression": 3,
+            "name": "5_ZADOWOLONY",
+            "position_x": 15,
+            "position_y": 25
+        },
+        "REKSIO_23.png": {
+            "compression": 3,
+            "name": "6_RZUCA",
+            "position_x": 15,
+            "position_y": 5
+        },
+        "REKSIO_24.png": {
+            "compression": 3,
+            "name": "6_KOLIZJA",
+            "position_x": 33,
+            "position_y": 1
+        },
+        "REKSIO_25.png": {
+            "compression": 3,
+            "name": "6_ZADOWOLONY",
+            "position_x": 12,
+            "position_y": 26
+        },
+        "REKSIO_26.png": {
+            "compression": 3,
+            "name": "7_RZUCA",
+            "position_x": 13,
+            "position_y": 13
+        },
+        "REKSIO_27.png": {
+            "compression": 3,
+            "name": "7_KOLIZJA",
+            "position_x": 34
+        },
+        "REKSIO_28.png": {
+            "compression": 3,
+            "name": "7_ZADOWOLONY",
+            "position_x": 21,
+            "position_y": 26
+        },
+        "REKSIO_29.png": {
+            "compression": 3,
+            "name": "8_RZUCA",
+            "position_x": 12,
+            "position_y": 10
+        },
+        "REKSIO_3.png": {
+            "compression": 3,
+            "name": "1_KOLIZJA",
+            "position_y": 28
+        },
+        "REKSIO_30.png": {
+            "compression": 3,
+            "name": "8_KOLIZJA",
+            "position_x": 32
+        },
+        "REKSIO_31.png": {
+            "compression": 3,
+            "name": "9_RZUCA",
+            "position_x": 10,
+            "position_y": 34
+        },
+        "REKSIO_32.png": {
+            "compression": 3,
+            "name": "4_POLPRZYTOMNY",
+            "position_x": 16,
+            "position_y": -1
+        },
+        "REKSIO_33.png": {
+            "compression": 3,
+            "name": "5_POLPRZYTOMNY",
+            "position_x": 8,
+            "position_y": 3
+        },
+        "REKSIO_34.png": {
+            "compression": 3,
+            "name": "6_POLPRZYTOMNY",
+            "position_x": 3,
+            "position_y": 1
+        },
+        "REKSIO_35.png": {
+            "compression": 3,
+            "name": "7_POLPRZYTOMNY",
+            "position_x": 5,
+            "position_y": 2
+        },
+        "REKSIO_36.png": {
+            "compression": 3,
+            "name": "8_POLPRZYTOMNY",
+            "position_x": 3,
+            "position_y": -1
+        },
+        "REKSIO_37.png": {
+            "compression": 3,
+            "name": "9_POLPRZYTOMNY",
+            "position_x": 9,
+            "position_y": -6
+        },
+        "REKSIO_38.png": {
+            "compression": 3,
+            "name": "4_POMYJE",
+            "position_x": 35,
+            "position_y": 125
+        },
+        "REKSIO_39.png": {
+            "compression": 3,
+            "name": "10_POLPRZYTOMNY",
+            "position_x": 4,
+            "position_y": -1
+        },
+        "REKSIO_4.png": {
+            "compression": 3,
+            "name": "1_ZADOWOLONY",
+            "position_x": 15,
+            "position_y": 21
+        },
+        "REKSIO_40.png": {
+            "compression": 3,
+            "name": "5_POMYJE",
+            "position_x": 30,
+            "position_y": 92
+        },
+        "REKSIO_41.png": {
+            "compression": 3,
+            "name": "11_POLPRZYTOMNY",
+            "position_x": 11,
+            "position_y": 3
+        },
+        "REKSIO_42.png": {
+            "compression": 3,
+            "name": "6_POMYJE",
+            "position_x": 48,
+            "position_y": 55
+        },
+        "REKSIO_43.png": {
+            "compression": 3,
+            "name": "12_POLPRZYTOMNY",
+            "position_x": 20,
+            "position_y": 1
+        },
+        "REKSIO_44.png": {
+            "compression": 3,
+            "name": "7_POMYJE",
+            "position_x": 41,
+            "position_y": 26
+        },
+        "REKSIO_45.png": {
+            "compression": 3,
+            "name": "1_POLPRZYTOMNY",
+            "position_x": 24
+        },
+        "REKSIO_46.png": {
+            "compression": 3,
+            "name": "8_POMYJE",
+            "position_x": 27,
+            "position_y": 10
+        },
+        "REKSIO_47.png": {
+            "compression": 3,
+            "name": "2_POLPRZYTOMNY",
+            "position_x": 24,
+            "position_y": -1
+        },
+        "REKSIO_48.png": {
+            "compression": 3,
+            "name": "9_POMYJE",
+            "position_x": 16,
+            "position_y": 15
+        },
+        "REKSIO_49.png": {
+            "compression": 3,
+            "name": "3_POLPRZYTOMNY",
+            "position_x": 23,
+            "position_y": -6
+        },
+        "REKSIO_5.png": {
+            "compression": 3,
+            "name": "2_BEZRUCH",
+            "position_x": 23,
+            "position_y": 34
+        },
+        "REKSIO_50.png": {
+            "compression": 3,
+            "name": "10_POMYJE",
+            "position_x": 8,
+            "position_y": 22
+        },
+        "REKSIO_51.png": {
+            "compression": 3,
+            "name": "11_POMYJE",
+            "position_x": 35,
+            "position_y": 56
+        },
+        "REKSIO_52.png": {
+            "compression": 3,
+            "name": "12_POMYJE",
+            "position_x": 35,
+            "position_y": 83
+        },
+        "REKSIO_53.png": {
+            "compression": 3,
+            "name": "13_POMYJE",
+            "position_x": 34,
+            "position_y": 122
+        },
+        "REKSIO_54.png": {
+            "compression": 3,
+            "name": "14_POMYJE",
+            "position_x": 35,
+            "position_y": 137
+        },
+        "REKSIO_55.png": {
+            "compression": 3,
+            "name": "15_POMYJE",
+            "position_x": 33,
+            "position_y": 134
+        },
+        "REKSIO_56.png": {
+            "compression": 3,
+            "name": "16_POMYJE",
+            "position_x": 34,
+            "position_y": 128
+        },
+        "REKSIO_57.png": {
+            "compression": 3,
+            "name": "17_POMYJE",
+            "position_x": 24,
+            "position_y": 122
+        },
+        "REKSIO_58.png": {
+            "compression": 3,
+            "name": "18_POMYJE",
+            "position_x": 30,
+            "position_y": 120
+        },
+        "REKSIO_59.png": {
+            "compression": 3,
+            "name": "19_POMYJE",
+            "position_x": 56,
+            "position_y": 118
+        },
+        "REKSIO_6.png": {
+            "compression": 3,
+            "name": "2_RZUCA",
+            "position_x": 12,
+            "position_y": 30
+        },
+        "REKSIO_7.png": {
+            "compression": 3,
+            "name": "2_KOLIZJA",
+            "position_x": -6,
+            "position_y": 16
+        },
+        "REKSIO_8.png": {
+            "compression": 3,
+            "name": "2_ZADOWOLONY",
+            "position_x": 15,
+            "position_y": 21
+        },
+        "REKSIO_9.png": {
+            "compression": 3,
+            "name": "3_BEZRUCH",
+            "position_x": 22,
+            "position_y": 32
+        }
+    },
+    "transparency": 255
+}
